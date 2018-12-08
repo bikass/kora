@@ -1,4 +1,4 @@
-## korla
+# korla
 
 Korla icon theme is a mix of following icon sets: La Capitaine, MacOS11, Papirus.
 Mac specific icons has been replaced. Dozen other was redone.
@@ -8,7 +8,7 @@ This theme considered to be as beta. Many things needs to be cleaned up. Use at 
 If someone knows how to make it better or fix what is not working, help is appreciated.
 
 
-# Installation
+## Installation
 
 copy folder to:
 
@@ -16,6 +16,7 @@ copy folder to:
 
 or:
 	$HOME/.local/share/icons/
+
 
 <p align="center">
   <img src="https://github.com/bikass/korla/blob/master/im1.png" alt="preview"/>
