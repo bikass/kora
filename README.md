@@ -12,11 +12,14 @@ If someone knows how to make it better or fix what is not working, help is appre
 
 copy folder to:
 
-	/usr/share/icons/korla 
+	/usr/share/icons/
 
 or:
+
 	$HOME/.local/share/icons/
 
+
+## Preview
 
 <p align="center">
   <img src="https://github.com/bikass/korla/blob/master/im1.png" alt="preview"/>
