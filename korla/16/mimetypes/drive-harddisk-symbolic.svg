@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg7384"
+   sodipodi:docname="drive-harddisk-symbolic.svg"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   height="36"
+   width="36">
+  <metadata
+     id="metadata90">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Gnome Symbolic Icon Theme</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     inkscape:cy="-8.0231436"
+     pagecolor="#ffffff"
+     borderopacity="1"
+     showborder="true"
+     inkscape:bbox-paths="false"
+     guidetolerance="10"
+     inkscape:window-width="1419"
+     showguides="true"
+     inkscape:object-nodes="true"
+     inkscape:snap-bbox="true"
+     inkscape:pageshadow="2"
+     inkscape:guide-bbox="true"
+     inkscape:snap-nodes="true"
+     bordercolor="#666666"
+     objecttolerance="10"
+     id="namedview88"
+     showgrid="false"
+     inkscape:window-maximized="0"
+     inkscape:window-x="333"
+     inkscape:snap-global="true"
+     inkscape:window-y="42"
+     gridtolerance="10"
+     inkscape:window-height="848"
+     inkscape:snap-to-guides="true"
+     inkscape:current-layer="layer13"
+     inkscape:zoom="5.6568542"
+     inkscape:cx="13.849776"
+     inkscape:snap-grids="true"
+     inkscape:pageopacity="1">
+    <inkscape:grid
+       spacingx="1px"
+       spacingy="1px"
+       id="grid4866"
+       empspacing="2"
+       enabled="true"
+       type="xygrid"
+       snapvisiblegridlinesonly="true"
+       visible="true" />
+  </sodipodi:namedview>
+  <title
+     id="title9167">Gnome Symbolic Icon Theme</title>
+  <defs
+     id="defs7386" />
+  <g
+     inkscape:label="status"
+     transform="translate(-442,-156)"
+     inkscape:groupmode="layer"
+     id="layer9"
+     style="display:inline" />
+  <g
+     inkscape:label="devices"
+     transform="translate(-442,-156)"
+     inkscape:groupmode="layer"
+     id="layer10" />
+  <g
+     inkscape:label="apps"
+     transform="translate(-442,-156)"
+     inkscape:groupmode="layer"
+     id="layer11" />
+  <g
+     inkscape:label="actions"
+     transform="translate(-442,-156)"
+     inkscape:groupmode="layer"
+     id="layer12" />
+  <g
+     inkscape:label="places"
+     transform="translate(-442,-156)"
+     inkscape:groupmode="layer"
+     id="layer13">
+    <path
+       inkscape:connector-curvature="0"
+       style="opacity:0.3;fill:#000000;fill-opacity:0.90196078"
+       d="m 445.98242,183.42187 0,4.5918 c 0,1.10029 0.88604,1.98633 1.98633,1.98633 l 24.02734,0 c 1.10029,0 1.98633,-0.88604 1.98633,-1.98633 l 0,-4.57226 C 473.35592,183.78775 472.64243,184 471.89648,184 l -23.79296,0 c -0.75993,0 -1.48656,-0.21966 -2.1211,-0.57813 z"
+       id="rect4169" />
+    <path
+       inkscape:connector-curvature="0"
+       style="opacity:0.15;fill:#000000;fill-opacity:1"
+       d="m 449.98633,158 c -1.10029,0 -1.877,0.89148 -1.98633,1.98633 l -2,20.02734 C 445.89067,181.10852 446.88604,182 447.98633,182 l 5.27148,0 16.74219,0 2,0 0.0137,0 c 1.10029,0 2.09566,-0.89148 1.98633,-1.98633 l -2,-20.02734 C 471.89067,158.89148 471.11397,158 470.01367,158 l -0.0137,0 -2,0 -12.74219,0 -5.27148,0 z m 19.0039,1.98047 L 470,172 c 0,4.41828 -4.47715,8 -10,8 -5.52285,0 -10,-3.58172 -10,-8 0,-4.41828 4.47715,-8 10,-8 0.85672,0 1.68884,0.0859 2.48242,0.24805 l 6.50781,-4.26758 z"
+       id="path4250" />
+    <path
+       inkscape:connector-curvature="0"
+       style="opacity:0.1;fill:#000000;fill-opacity:0.90196078;stroke:none"
+       d="m 467.60156,162.41211 -5.21094,3.36523 C 461.63366,165.59703 460.83167,165.5 460,165.5 c -4.55635,0 -8.25,2.91015 -8.25,6.5 0,3.58985 3.69365,6.5 8.25,6.5 4.55635,0 8.25,-2.91015 8.25,-6.5 l -0.64844,-9.58789 z M 460,169.02344 a 4,2.9784501 0 0 1 4,2.97851 4,2.9784501 0 0 1 -4,2.97852 4,2.9784501 0 0 1 -4,-2.97852 4,2.9784501 0 0 1 4,-2.97851 z"
+       id="ellipse4255" />
+    <path
+       inkscape:connector-curvature="0"
+       style="opacity:0.3;fill:#000000;fill-opacity:0.90196078;stroke:none"
+       d="m 468.99023,159.98047 -6.50781,4.26758 C 461.68884,164.08593 460.85672,164 460,164 c -5.52285,0 -10,3.58172 -10,8 0,4.41828 4.47715,8 10,8 5.52285,0 10,-3.58172 10,-8 l -1.00977,-12.01953 z m -1.38867,2.43164 L 468.25,172 c 0,3.58985 -3.69365,6.5 -8.25,6.5 -4.55635,0 -8.25,-2.91015 -8.25,-6.5 0,-3.58985 3.69365,-6.5 8.25,-6.5 0.83167,0 1.63366,0.097 2.39062,0.27734 l 5.21094,-3.36523 z"
+       id="path4253" />
+    <path
+       inkscape:connector-curvature="0"
+       style="opacity:0.4;fill:#000000;fill-opacity:1;stroke:none"
+       d="m 460,169.02344 a 4,2.9784501 0 0 0 -4,2.97851 4,2.9784501 0 0 0 4,2.97852 4,2.9784501 0 0 0 4,-2.97852 4,2.9784501 0 0 0 -4,-2.97851 z m 0,1.1875 a 2.4052107,1.7909501 0 0 1 2.4043,1.79101 2.4052107,1.7909501 0 0 1 -2.4043,1.79102 2.4052107,1.7909501 0 0 1 -2.4043,-1.79102 2.4052107,1.7909501 0 0 1 2.4043,-1.79101 z"
+       id="ellipse4257" />
+    <path
+       inkscape:connector-curvature="0"
+       style="opacity:0.874;fill:#000000;fill-opacity:1"
+       d="m 450.10352,156 c -2.27338,0 -3.87497,1.84165 -4.10352,4.10352 l -2,19.79296 c -0.006,0.0568 -0.003,0.11172 -0.006,0.16797 -0.002,-0.0564 -0.0117,-0.11098 -0.0117,-0.16797 l 0,8 c 0,2.27338 1.83014,4.10352 4.10352,4.10352 l 23.79297,0 c 2.27338,0 4.10351,-1.83014 4.10351,-4.10352 l 0,-7.17382 c 0.0389,-0.26683 0.0462,-0.54344 0.0176,-0.82618 l -2,-19.79296 C 473.77145,157.84165 472.16986,156 469.89648,156 l -19.79296,0 z m -0.11719,2 5.27148,0 12.74219,0 2,0 0.0137,0 c 1.10029,0 1.877,0.89148 1.98633,1.98633 l 2,20.02734 C 474.10933,181.10852 473.11396,182 472.01367,182 l -0.0137,0 -2,0 -16.74219,0 -5.27148,0 c -1.10029,0 -2.09566,-0.89148 -1.98633,-1.98633 l 2,-20.02734 C 448.10933,158.89148 448.88604,158 449.98633,158 Z m -4.00391,25.42187 c 0.63454,0.35847 1.36117,0.57813 2.1211,0.57813 l 23.79296,0 c 0.74595,0 1.45944,-0.21225 2.08594,-0.55859 l 0,4.57226 c 0,1.10029 -0.88604,1.98633 -1.98633,1.98633 l -0.0137,0 -2,0 -16.74218,0 -5.27149,0 c -1.10029,0 -1.98633,-0.88604 -1.98633,-1.98633 l 0,-4.5918 z"
+       id="rect4156" />
+    <rect
+       style="opacity:0.75;fill:#000000;fill-opacity:1;stroke:none"
+       id="rect4284"
+       width="12"
+       height="2"
+       x="452"
+       y="160" />
+    <rect
+       y="-451"
+       x="184"
+       height="3"
+       width="6"
+       id="rect4302"
+       style="opacity:0.5;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0,1,-1,0,0,0)" />
+    <rect
+       transform="matrix(0,1,-1,0,0,0)"
+       style="opacity:0.5;fill:#000000;fill-opacity:1;stroke:none"
+       id="rect4322"
+       width="6"
+       height="2"
+       x="184"
+       y="-460" />
+    <rect
+       y="-464"
+       x="184"
+       height="2"
+       width="6"
+       id="rect4324"
+       style="opacity:0.5;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0,1,-1,0,0,0)" />
+    <rect
+       transform="matrix(0,1,-1,0,0,0)"
+       style="opacity:0.5;fill:#000000;fill-opacity:1;stroke:none"
+       id="rect4326"
+       width="6"
+       height="2"
+       x="184"
+       y="-468" />
+    <rect
+       y="-472"
+       x="186"
+       height="2"
+       width="2"
+       id="rect4328"
+       style="opacity:0.75;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0,1,-1,0,0,0)" />
+  </g>
+  <g
+     inkscape:label="mimetypes"
+     transform="translate(-442,-156)"
+     inkscape:groupmode="layer"
+     id="layer14" />
+  <g
+     inkscape:label="emblems"
+     transform="translate(-442,-156)"
+     inkscape:groupmode="layer"
+     id="layer15"
+     style="display:inline" />
+</svg>

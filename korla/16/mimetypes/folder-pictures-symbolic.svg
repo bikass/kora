@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="36"
+   height="36"
+   id="svg3021"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="folder-pictures-symbolic.svg">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1863"
+     inkscape:window-height="1056"
+     id="namedview7"
+     showgrid="false"
+     inkscape:zoom="10.429825"
+     inkscape:cx="-8.2349487"
+     inkscape:cy="15.279686"
+     inkscape:window-x="57"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg3021" />
+  <defs
+     id="defs3023" />
+  <metadata
+     id="metadata3026">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <path
+     style="opacity:0.82;fill:#000000;fill-opacity:1;stroke:none"
+     d="M 13.460938 2.25 C 11.459517 2.25 10.288595 2.4672734 9.109375 3.6464844 C 7.930159 4.8256984 7.2500769 6.75 5.6074219 6.75 L 4.2714844 6.75 C 1.9052434 6.75 0 8.6552434 0 11.021484 L 0 27.228516 C 0 29.594757 1.9052434 31.5 4.2714844 31.5 L 31.728516 31.5 C 34.094746 31.5 36 29.594755 36 27.228516 L 36 11.021484 C 36 8.6552434 34.094746 6.75 31.728516 6.75 L 30.392578 6.75 C 28.749918 6.75 28.069835 4.8256984 26.890625 3.6464844 C 25.711405 2.4672624 24.540493 2.25 22.539062 2.25 L 13.460938 2.25 z M 13.566406 4.5 L 22.433594 4.5 C 23.716604 4.5 25.126509 5.0386181 26.230469 6.1425781 C 27.334429 7.2465411 27.876515 9 29.671875 9 L 31.548828 9 C 32.767768 9 33.75 9.9822369 33.75 11.201172 L 33.75 27.048828 C 33.75 28.267763 32.767768 29.25 31.548828 29.25 L 4.4511719 29.25 C 3.2322369 29.25 2.25 28.267763 2.25 27.048828 L 2.25 11.201172 C 2.25 9.9822369 3.2322369 9 4.4511719 9 L 6.328125 9 C 8.123481 9 8.6655752 7.2465411 9.7695312 6.1425781 C 10.873491 5.0386181 12.283416 4.5 13.566406 4.5 z M 18 12.275391 A 5.625 5.625 0 0 0 12.375 17.900391 A 5.625 5.625 0 0 0 18 23.525391 A 5.625 5.625 0 0 0 23.625 17.900391 A 5.625 5.625 0 0 0 18 12.275391 z M 18 14.525391 A 3.375 3.375 0 0 1 21.375 17.900391 A 3.375 3.375 0 0 1 18 21.275391 A 3.375 3.375 0 0 1 14.625 17.900391 A 3.375 3.375 0 0 1 18 14.525391 z "
+     id="path8213" />
+  <path
+     style="opacity:0.5;fill:#000000;fill-opacity:1;stroke:none"
+     d="M 13.566406 4.5 C 12.283416 4.5 10.873491 5.0386181 9.7695312 6.1425781 C 8.6655752 7.2465411 8.123481 9 6.328125 9 L 4.4511719 9 C 3.2322369 9 2.25 9.9822369 2.25 11.201172 L 2.25 27.048828 C 2.25 28.267763 3.2322369 29.25 4.4511719 29.25 L 31.548828 29.25 C 32.767768 29.25 33.75 28.267763 33.75 27.048828 L 33.75 11.201172 C 33.75 9.9822369 32.767768 9 31.548828 9 L 29.671875 9 C 27.876515 9 27.334429 7.2465411 26.230469 6.1425781 C 25.126509 5.0386181 23.716604 4.5 22.433594 4.5 L 13.566406 4.5 z M 18 6.6503906 A 11.25 11.25 0 0 1 29.25 17.900391 A 11.25 11.25 0 0 1 18 29.150391 A 11.25 11.25 0 0 1 6.75 17.900391 A 11.25 11.25 0 0 1 18 6.6503906 z M 18 14.525391 A 3.375 3.375 0 0 0 14.625 17.900391 A 3.375 3.375 0 0 0 18 21.275391 A 3.375 3.375 0 0 0 21.375 17.900391 A 3.375 3.375 0 0 0 18 14.525391 z "
+     id="rect8180" />
+  <path
+     inkscape:connector-curvature="0"
+     style="opacity:0.6;fill:#000000;fill-opacity:1;stroke:none"
+     d="M 18,6.65039 A 11.25,11.25 0 0 0 6.750001,17.90039 11.25,11.25 0 0 0 18,29.15039 11.25,11.25 0 0 0 29.25,17.90039 11.25,11.25 0 0 0 18,6.65039 Z m 0,2.25 a 9,9 0 0 1 9,9 9,9 0 0 1 -9,9 9,9 0 0 1 -9,-9 9,9 0 0 1 9,-9 z"
+     id="circle8202" />
+</svg>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg7384"
+   height="36"
+   width="36"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="folder-publicshare-symbolic.svg">
+  <defs
+     id="defs10" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10000"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1863"
+     inkscape:window-height="1056"
+     id="namedview8"
+     showgrid="false"
+     inkscape:zoom="5.6568542"
+     inkscape:cx="2.7661237"
+     inkscape:cy="8.502803"
+     inkscape:window-x="57"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg7384"
+     showguides="false"
+     inkscape:snap-path-clip="true"
+     inkscape:snap-tangential="true" />
+  <metadata
+     id="metadata90">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Gnome Symbolic Icon Theme</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <title
+     id="title9167">Gnome Symbolic Icon Theme</title>
+  <path
+     style="opacity:0.813;fill:#000000;fill-opacity:1;stroke:none"
+     d="M 18 0 A 18 18 0 0 0 0 18 A 18 18 0 0 0 8.859375 33.476562 A 1.25 1.25 0 0 0 9.6074219 33.728516 A 1.25 1.25 0 0 0 10.857422 32.478516 A 1.25 1.25 0 0 0 10.259766 31.412109 A 15.5 15.5 0 0 1 2.5 18 A 15.5 15.5 0 0 1 18 2.5 A 15.5 15.5 0 0 1 33.5 18 A 15.5 15.5 0 0 1 25.738281 31.408203 L 25.742188 31.414062 A 1.25 1.25 0 0 0 25.103516 32.501953 A 1.25 1.25 0 0 0 26.353516 33.751953 A 1.25 1.25 0 0 0 27.085938 33.511719 A 18 18 0 0 0 36 18 A 18 18 0 0 0 18 0 z M 18 5 A 13 13 0 0 0 5 18 A 13 13 0 0 0 11.402344 29.179688 A 1.25 1.25 0 0 0 11.511719 29.246094 A 1.25 1.25 0 0 0 12.111328 29.402344 A 1.25 1.25 0 0 0 13.361328 28.152344 A 1.25 1.25 0 0 0 12.6875 27.042969 A 1.25 1.25 0 0 0 12.677734 27.037109 A 10.5 10.5 0 0 1 7.5 18 A 10.5 10.5 0 0 1 18 7.5 A 10.5 10.5 0 0 1 28.5 18 A 10.5 10.5 0 0 1 23.240234 27.083984 A 1.25 1.25 0 0 0 22.613281 28.166016 A 1.25 1.25 0 0 0 23.863281 29.416016 A 1.25 1.25 0 0 0 24.488281 29.246094 L 24.490234 29.25 A 13 13 0 0 0 31 18 A 13 13 0 0 0 18 5 z M 18 10.5 A 7.5 7.5 0 0 0 10.5 18 A 7.5 7.5 0 0 0 14.15625 24.427734 A 1.25 1.25 0 0 0 14.232422 24.472656 A 1.25 1.25 0 0 0 14.257812 24.488281 A 1.25 1.25 0 0 0 14.849609 24.636719 A 1.25 1.25 0 0 0 16.099609 23.386719 A 1.25 1.25 0 0 0 15.460938 22.298828 A 5 5 0 0 1 13 18 A 5 5 0 0 1 18 13 A 5 5 0 0 1 23 18 A 5 5 0 0 1 20.494141 22.326172 L 20.496094 22.328125 A 1.25 1.25 0 0 0 19.890625 23.398438 A 1.25 1.25 0 0 0 21.140625 24.648438 A 1.25 1.25 0 0 0 21.744141 24.492188 A 7.5 7.5 0 0 0 21.761719 24.480469 A 1.25 1.25 0 0 0 21.863281 24.416016 A 7.5 7.5 0 0 0 25.5 18 A 7.5 7.5 0 0 0 18 10.5 z M 18 16 A 2 2 0 0 0 16 18 A 2 2 0 0 0 18 20 A 2 2 0 0 0 20 18 A 2 2 0 0 0 18 16 z "
+     id="circle4186" />
+</svg>

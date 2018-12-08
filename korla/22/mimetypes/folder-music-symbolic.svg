@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="36"
+   height="36"
+   id="svg3079"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="folder-music-symbolic.svg">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1863"
+     inkscape:window-height="1056"
+     id="namedview7"
+     showgrid="false"
+     inkscape:zoom="3.6875001"
+     inkscape:cx="-137.39095"
+     inkscape:cy="19.703886"
+     inkscape:window-x="57"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg3079" />
+  <defs
+     id="defs3081" />
+  <metadata
+     id="metadata3084">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <path
+     style="color:#bebebe;display:inline;overflow:visible;visibility:visible;opacity:0.813;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
+     d="M 30.527112,0.0078125 13.943128,4.2949219 c -1.245861,0.3338274 -2.25,1.6613623 -2.25,2.9511719 l 0,20.4511722 C 10.429792,27.035754 8.8068913,26.76801 7.1247683,27.205078 c -3.0354102,0.788695 -4.937778,3.338597 -4.2871094,5.69336 0.6506686,2.354762 3.6423241,3.669554 6.677734,2.880859 2.4216321,-0.629215 4.0911961,-2.409769 4.3574221,-4.287109 l 0.07031,-19.326172 15.740234,-4.2167972 0,15.2500002 c -1.263336,-0.661511 -2.884283,-0.929256 -4.566406,-0.492188 -3.03541,0.788695 -4.937777,3.338598 -4.28711,5.69336 0.65067,2.354762 3.640371,3.669554 6.675782,2.880859 2.421633,-0.629215 4.091197,-2.409768 4.357422,-4.287109 l 0.07031,-25.1582035 c 0,-0.96735722 -0.598564,-1.69204364 -1.40625,-1.828125 z"
+     id="rect2996"
+     inkscape:connector-curvature="0" />
+</svg>

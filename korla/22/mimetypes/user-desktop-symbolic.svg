@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg7384"
+   sodipodi:docname="user-desktop-symbolic.svg"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   height="36"
+   width="36">
+  <metadata
+     id="metadata90">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Gnome Symbolic Icon Theme</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     inkscape:cy="32.754159"
+     pagecolor="#ffffff"
+     borderopacity="1"
+     showborder="true"
+     inkscape:bbox-paths="false"
+     guidetolerance="10"
+     inkscape:window-width="1310"
+     showguides="true"
+     inkscape:object-nodes="true"
+     inkscape:snap-bbox="true"
+     inkscape:pageshadow="2"
+     inkscape:guide-bbox="true"
+     inkscape:snap-nodes="true"
+     bordercolor="#666666"
+     objecttolerance="10"
+     id="namedview88"
+     showgrid="false"
+     inkscape:window-maximized="0"
+     inkscape:window-x="67"
+     inkscape:snap-global="true"
+     inkscape:window-y="34"
+     gridtolerance="10"
+     inkscape:window-height="690"
+     inkscape:snap-to-guides="true"
+     inkscape:current-layer="layer13"
+     inkscape:zoom="5.6568542"
+     inkscape:cx="5.2224177"
+     inkscape:snap-grids="true"
+     inkscape:pageopacity="1">
+    <inkscape:grid
+       spacingx="1px"
+       spacingy="1px"
+       id="grid4866"
+       empspacing="2"
+       enabled="true"
+       type="xygrid"
+       snapvisiblegridlinesonly="true"
+       visible="true" />
+  </sodipodi:namedview>
+  <title
+     id="title9167">Gnome Symbolic Icon Theme</title>
+  <defs
+     id="defs7386" />
+  <g
+     inkscape:label="status"
+     transform="translate(-442,-156)"
+     inkscape:groupmode="layer"
+     id="layer9"
+     style="display:inline" />
+  <g
+     inkscape:label="devices"
+     transform="translate(-442,-156)"
+     inkscape:groupmode="layer"
+     id="layer10" />
+  <g
+     inkscape:label="apps"
+     transform="translate(-442,-156)"
+     inkscape:groupmode="layer"
+     id="layer11" />
+  <g
+     inkscape:label="actions"
+     transform="translate(-442,-156)"
+     inkscape:groupmode="layer"
+     id="layer12" />
+  <g
+     inkscape:label="places"
+     transform="translate(-442,-156)"
+     inkscape:groupmode="layer"
+     id="layer13">
+    <path
+       inkscape:connector-curvature="0"
+       style="opacity:0.813;fill:#000000;fill-opacity:1"
+       d="M 446.10352,160 C 443.83014,160 442,161.83014 442,164.10352 l 0,19.79296 c 0,2.27338 1.83014,4.10352 4.10352,4.10352 l 27.79296,0 C 476.16986,188 478,186.16986 478,183.89648 l 0,-19.79296 C 478,161.83014 476.16986,160 473.89648,160 l -27.79296,0 z m -0.11719,2 28.02734,0 c 1.10029,0 1.98633,0.88604 1.98633,1.98633 l 0,0.0137 -32,0 0,-0.0137 C 444,162.88604 444.88604,162 445.98633,162 Z M 444,166 l 32,0 0,18.01367 C 476,185.11396 475.11396,186 474.01367,186 l -28.02734,0 C 444.88604,186 444,185.11396 444,184.01367 L 444,166 Z"
+       id="rect4156" />
+    <path
+       inkscape:connector-curvature="0"
+       style="opacity:0.2;fill:#000000;fill-opacity:0.90196078"
+       d="m 444,166 0,18.01367 c 0,1.10029 0.88604,1.98633 1.98633,1.98633 l 6.01367,0 0,-4 16,0 0,4 6.01367,0 C 475.11396,186 476,185.11396 476,184.01367 L 476,166 l -32,0 z"
+       id="rect4169" />
+    <path
+       inkscape:connector-curvature="0"
+       style="opacity:0.5;fill:#000000;fill-opacity:1;stroke:none"
+       d="M 450.97266,181 C 450.43402,181 450,181.43402 450,181.97266 l 0,4.02734 2,0 0,-4 4,0 0,4 2,0 0,-4 4,0 0,4 2,0 0,-4 4,0 0,4 2,0 0,-4.02734 C 470,181.43402 469.56598,181 469.02734,181 l -18.05468,0 z"
+       id="rect4175" />
+  </g>
+  <g
+     inkscape:label="mimetypes"
+     transform="translate(-442,-156)"
+     inkscape:groupmode="layer"
+     id="layer14" />
+  <g
+     inkscape:label="emblems"
+     transform="translate(-442,-156)"
+     inkscape:groupmode="layer"
+     id="layer15"
+     style="display:inline" />
+</svg>
