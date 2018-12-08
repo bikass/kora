@@ -1,4 +1,4 @@
-# korla
+# KORLA
 
 Korla icon theme is a mix of following icon sets: La Capitaine, MacOS11, Papirus.
 Mac specific icons has been replaced. Dozen other was redone.
