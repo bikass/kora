@@ -7,8 +7,7 @@ Example=folder
  
 FollowsColorScheme=true
  
-DisplayDepth=32
- 
+
 DesktopDefault=48
 DesktopSizes=16,22,32,48,64,128,256
 ToolbarDefault=22
@@ -22,8 +21,7 @@ PanelSizes=16,22,32,48,64,128,256
 DialogDefault=32
 DialogSizes=16,22,32,48,64,128,256
  
-KDE-Extensions=.svg
- 
+
  
 Directories=16/actions,16/animations,16/apps,16/categories,16/devices,16/emblems,16/emotes,16/mimetypes,16/notifications,16/panel,16/places,16/status,16@2x/actions,16@2x/animations,16@2x/apps,16@2x/categories,16@2x/devices,16@2x/emblems,16@2x/emotes,16@2x/mimetypes,16@2x/notifications,16@2x/panel,16@2x/places,16@2x/status,22/actions,22/animations,22/apps,22/categories,22/devices,22/emblems,22/emotes,22/mimetypes,22/notifications,22/panel,22/places,22/status,22@2x/actions,22@2x/animations,22@2x/apps,22@2x/categories,22@2x/devices,22@2x/emblems,22@2x/emotes,22@2x/mimetypes,22@2x/notifications,22@2x/panel,22@2x/places,22@2x/status,24/actions,24/animations,24/apps,24/categories,24/devices,24/emblems,24/emotes,24/mimetypes,24/notifications,24/panel,24/places,24/status,24@2x/actions,24@2x/animations,24@2x/apps,24@2x/categories,24@2x/devices,24@2x/emblems,24@2x/emotes,24@2x/mimetypes,22@2x/notifications,24@2x/panel,24@2x/places,24@2x/status,32/actions,32/animations,32/apps,32/categories,32/devices,32/emblems,32/emotes,32/mimetypes,32/notifications,32/panel,32/places,32/status,32@2x/actions,32@2x/animations,32@2x/apps,32@2x/categories,32@2x/devices,32@2x/emblems,32@2x/emotes,32@2x/mimetypes,32@2x/notifications,32@2x/panel,32@2x/places,32@2x/status,48/actions,48/animations,48/apps,48/categories,48/devices,48/emblems,48/emotes,48/mimetypes,48/notifications,48/panel,48/places,48@2x/actions,48@2x/animations,48@2x/apps,48@2x/categories,48@2x/devices,48@2x/emblems,48@2x/emotes,48@2x/mimetypes,48@2x/notifications,48@2x/panel,48@2x/places,64/actions,64/animations,64/apps,64/categories,64/devices,64/emblems,64/emotes,64/mimetypes,64/notifications,64/panel,64/places,64@2x/actions,64@2x/animations,64@2x/apps,64@2x/categories,64@2x/devices,64@2x/emblems,64@2x/emotes,64@2x/mimetypes,64@2x/notifications,64@2x/panel,64@2x/places,96/actions,96/animations,96/apps,96/categories,96/devices,96/emblems,96/emotes,96/mimetypes,96/notifications,96/panel,96/places,96@2x/actions,96@2x/animations,96@2x/apps,96@2x/categories,96@2x/devices,96@2x/emblems,96@2x/emotes,96@2x/mimetypes,96@2x/notifications,96@2x/panel,96@2x/places,96@2x/status,128/actions,128/animations,128/apps,128/categories,128/devices,128/emblems,128/emotes,128/mimetypes,128/places,128/panel,128/status,128@2x/actions,128@2x/animations,128@2x/apps,128@2x/categories,128@2x/devices,128@2x/emblems,128@2x/emotes,128@2x/mimetypes,128@2x/places,,128@2x/panel,128@2x/status,
  

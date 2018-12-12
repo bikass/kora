@@ -1,8 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" version="1.1">
- <defs>
-  <style id="current-color-scheme" type="text/css">
-   .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#5294e2; }
-  </style>
- </defs>
- <path style="fill:currentColor" class="ColorScheme-Text" d="m 7,9 c -2.209139,0 -4,1.790861 -4,4 0,2.209139 1.790861,4 4,4 0.2424594,-8.38e-4 0.4843405,-0.02372 0.7226562,-0.06836 C 8.4620206,18.481091 9.958036,19 13,19 c 6,0 6,-2 6,-10 z m 0,2 0.00781,0 c 0.011613,1.596219 0.052166,2.938455 0.1953125,3.986328 C 7.1356935,14.994331 7.0678957,14.998894 7,15 5.8954305,15 5,14.104569 5,13 5,11.895431 5.8954305,11 7,11 Z"/>
-</svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd"><svg width="100%" height="100%" viewBox="0 0 22 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41421;"><path d="M21.054,7.987c0,10.292 0,12.866 -7.719,12.866c-3.914,0 -5.839,-0.668 -6.79,-2.662c-0.307,0.058 -0.617,0.088 -0.93,0.088c-2.842,0 -5.146,-2.303 -5.146,-5.145c0,-2.844 2.304,-5.147 5.146,-5.147l15.439,0Zm-15.439,2.573l0.01,0c0.015,2.054 0.067,3.781 0.252,5.129c-0.087,0.009 -0.174,0.016 -0.262,0.018c-1.421,0 -2.574,-1.153 -2.574,-2.573c0,-1.386 1.096,-2.516 2.574,-2.574Z" style="fill:#dfdfdf;"/></svg>
