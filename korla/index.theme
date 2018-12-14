@@ -218,7 +218,7 @@ Size=16
 Context=Places
 MinSize=8
 MaxSize=512
-Type=fixed
+Type=Fixed
 
 [panel/scalable]
 Size=16
