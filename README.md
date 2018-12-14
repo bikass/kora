@@ -10,9 +10,13 @@ If someone knows how to make it better or fix what is not working, help is appre
 
 ## Installation
 
-Copy `korla` folder to `/usr/share/icons/` (system-wide) or to `$HOME/.local/share/icons/` (local user only).
+Clone repository on your system
 
-Arch Linux: <a href="https://aur.archlinux.org/packages/korla-icon-theme/">AUR package</a>.
+    git clone https://github.com/bikass/korla.git
+
+and copy `korla` folder to `/usr/share/icons/` (system-wide, use `sudo`) or to `$HOME/.local/share/icons/` (local user only).
+
+<strong>Arch Linux</strong>: <a href="https://aur.archlinux.org/packages/korla-icon-theme/">AUR package</a>.
 
 
 ## Preview
