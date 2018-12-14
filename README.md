@@ -10,19 +10,20 @@ If someone knows how to make it better or fix what is not working, help is appre
 
 ## Installation
 
-copy folder to:
+Copy `korla` folder to `/usr/share/icons/` (system-wide) or to `$HOME/.local/share/icons/` (local user only).
 
-	/usr/share/icons/
-
-or:
-
-	$HOME/.local/share/icons/
+Arch Linux: <a href="https://aur.archlinux.org/packages/korla-icon-theme/">AUR package</a>.
 
 
 ## Preview
 
-<p align="center">
+<section align="center">
   <img src="https://github.com/bikass/korla/blob/master/im1.png" alt="preview"/>
   <img src="https://github.com/bikass/korla/blob/master/im2.png" alt="preview"/>
-</p>
+</section>
+
+
+## License
+
+<a href="https://www.gnu.org/licenses/gpl-3.0-standalone.html">GPL3</a>
 
