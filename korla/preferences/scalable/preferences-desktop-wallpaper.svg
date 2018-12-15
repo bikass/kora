@@ -1,15 +1,1 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg width="100%" height="100%" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41421;">
-    <path id="rect25" d="M46,8.4L2,8.4C2,8.4 2,33.864 2,40.191C2,40.97 2.631,41.601 3.41,41.601C10.029,41.601 37.971,41.601 44.59,41.601C45.369,41.601 46,40.97 46,40.191C46,33.864 46,8.4 46,8.4Z" style="fill-opacity:0.666667;"/>
-    <path id="path27" d="M3.562,7.399L44.438,7.399C45.303,7.399 46,8.096 46,8.962L46,38.938C46,39.803 45.303,40.5 44.438,40.5L3.562,40.5C2.697,40.5 2,39.803 2,38.938L2,8.962C2,8.096 2.697,7.399 3.562,7.399Z" style="fill:url(#_Linear1);fill-rule:nonzero;"/>
-    <path id="path29" d="M40.378,22.125L34.599,28.815L23.576,31.736L13.034,25.933L7.127,26.474L2,23.874L2,39.038C2,39.904 2.697,40.6 3.562,40.6L44.437,40.6C45.303,40.6 45.999,39.904 45.999,39.038L45.999,24.453L40.378,22.125Z" style="fill:url(#_Linear2);"/>
-    <g id="circle31" transform="matrix(0.992531,-0.121991,0.121991,0.992531,0,0)">
-        <circle cx="28.64" cy="26.041" r="3.792" style="fill:url(#_Linear3);"/>
-    </g>
-    <defs>
-        <linearGradient id="_Linear1" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.36743,-37.7,37.7,0.36743,25,41.5772)"><stop offset="0" style="stop-color:rgb(247,134,251);stop-opacity:1"/><stop offset="1" style="stop-color:rgb(39,148,245);stop-opacity:1"/></linearGradient>
-        <linearGradient id="_Linear2" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-0.302077,-11.2342,11.2342,-0.302077,26.243,35.0053)"><stop offset="0" style="stop-color:rgb(19,46,81);stop-opacity:1"/><stop offset="1" style="stop-color:rgb(39,103,185);stop-opacity:1"/></linearGradient>
-        <linearGradient id="_Linear3" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.913109,-8.0756,8.0756,0.913109,28.1252,29.6687)"><stop offset="0" style="stop-color:rgb(238,254,254);stop-opacity:0.807843"/><stop offset="1" style="stop-color:rgb(214,254,254);stop-opacity:0.807843"/></linearGradient>
-    </defs>
-</svg>
+../../apps/scalable/preferences-desktop-wallpaper.svg

@@ -1,13 +1,1 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg width="100%" height="100%" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41421;">
-    <g id="g24" transform="matrix(1.2,0,0,1.2,4.17686,-1209.46)">
-        <rect id="rect20" x="-1.814" y="1014.47" width="36.667" height="27.668" style="fill-opacity:0.666667;"/>
-        <rect id="rect22" x="-1.814" y="1013.63" width="36.667" height="27.668" style="fill:url(#_Linear1);"/>
-    </g>
-    <path id="path26" d="M19.05,15.027C18.309,15.028 17.7,15.635 17.7,16.373C17.7,17.111 18.309,17.719 19.05,17.719C19.05,17.719 19.05,17.719 19.051,17.719C19.791,17.719 20.401,17.112 20.401,16.373L20.401,16.373C20.401,15.635 19.791,15.027 19.051,15.027C19.05,15.027 19.05,15.027 19.05,15.027ZM26.7,15.027L24.14,17.579L28.079,21.504L24,26.131L26.7,28.486L33,21.308L26.7,15.027ZM17.25,21.308C17.25,21.308 17.25,21.308 17.25,21.308C16.016,21.308 15,22.321 15,23.551L15,23.552C15,24.782 16.016,25.795 17.25,25.795L17.25,25.795C18.484,25.795 19.5,24.782 19.5,23.552L19.5,23.551C19.5,22.321 18.484,21.308 17.25,21.308C17.25,21.308 17.25,21.308 17.25,21.308ZM21.3,27.589C21.3,27.589 21.299,27.589 21.299,27.589C19.818,27.589 18.599,28.804 18.599,30.281L18.599,30.281C18.599,31.758 19.818,32.973 21.299,32.973L21.3,32.973C22.781,32.973 24,31.758 24,30.281L24,30.281C24,28.804 22.781,27.589 21.3,27.589C21.3,27.589 21.3,27.589 21.3,27.589Z" style="fill:url(#_Linear2);fill-rule:nonzero;"/>
-    <defs>
-        <linearGradient id="_Linear1" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.62214e-15,-26.4916,26.4916,1.62214e-15,16.4547,1040.8)"><stop offset="0" style="stop-color:rgb(25,124,241);stop-opacity:1"/><stop offset="1" style="stop-color:rgb(32,188,250);stop-opacity:1"/></linearGradient>
-        <linearGradient id="_Linear2" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(6.59267e-16,-10.7666,10.7666,6.59267e-16,441.33,1083.01)"><stop offset="0" style="stop-color:white;stop-opacity:0"/><stop offset="1" style="stop-color:rgb(213,237,255);stop-opacity:1"/></linearGradient>
-    </defs>
-</svg>
+../../apps/scalable/preferences-desktop-plasma.svg
