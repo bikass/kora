@@ -1,46 +1,8 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="100%"
-   height="100%"
-   viewBox="0 0 16 16"
-   version="1.1"
-   xml:space="preserve"
-   style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41421;"
-   id="svg4"
-   sodipodi:docname="document-open-folder.svg"
-   inkscape:version="0.92.2 2405546, 2018-03-11"><metadata
-     id="metadata10"><rdf:RDF><cc:Work
-         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
-     id="defs8" /><sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1600"
-     inkscape:window-height="840"
-     id="namedview6"
-     showgrid="false"
-     inkscape:zoom="14.75"
-     inkscape:cx="11.457627"
-     inkscape:cy="6.779661"
-     inkscape:window-x="0"
-     inkscape:window-y="34"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg4" /><path
-     d="m 1,3.595 v 8.637 c 0,0 0,0.745 1,0.745 h 12 c 0,0 1,0 1,-0.745 V 4.718 C 15,3.973 14,3.973 14,3.973 H 6.783 L 5.496,2.85 H 2 c 0,0 -1,0 -1,0.745 z"
-     style="fill:#dfdfdf;fill-opacity:1;fill-rule:nonzero"
-     id="path2"
-     class="ColorScheme-Text"
-     inkscape:connector-curvature="0" /></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+ <defs>
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#5294e2; }
+  </style>
+ </defs>
+   <path style="fill:currentColor" class="ColorScheme-Text" d="m 1,3.595 v 8.637 c 0,0 0,0.745 1,0.745 h 12 c 0,0 1,0 1,-0.745 V 4.718 C 15,3.973 14,3.973 14,3.973 H 6.783 L 5.496,2.85 H 2 c 0,0 -1,0 -1,0.745 z"/>
+</svg>
