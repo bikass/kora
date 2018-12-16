@@ -23,10 +23,12 @@ DialogDefault=32
 DialogSizes=16,22,32,48,64,128,256
 
 
+########## Directories
+
+Directories=actions/scalable,actions/symbolic,animations,apps/scalable,apps/symbolic,categories/scalable,categories/symbolic,devices/scalable,devices/symbolic,emblems/scalable,emblems/symbolic,emotes/symbolic,mimetypes/scalable,mimetypes/symbolic,panel/scalable,panel/symbolic,places/scalable,places/symbolic,preferences/scalable,status/scalable,status/symbolic,
 
 
-Directories=actions/scalable,actions/symbolic,animations,apps/scalable,apps/symbolic,categories/scalable,categories/symbolic,devices/scalable,devices/symbolic,emblems/scalable,emblems/symbolic,emotes/symbolic,mimetypes/scalable,mimetypes/symbolic,notifications/scalable,panel/scalable,panel/symbolic,places/scalable,places/symbolic,status/scalable,status/symbolic,
-
+########## Actions
 
 [actions/scalable]
 Size=22
@@ -42,10 +44,16 @@ Type=Scalable
 MinSize=8
 MaxSize=128
 
+
+########## Animations
+
 [animations]
 Size=22
 Context=Animations
 Type=Scalable
+
+
+########## Apps
 
 [apps/scalable]
 Size=16
@@ -89,6 +97,26 @@ Type=Scalable
 MinSize=8
 MaxSize=22
 
+
+########## Categories
+
+[categories/scalable]
+Size=48
+Context=Categories
+Type=Scalable
+MinSize=16
+MaxSize=256
+
+[categories/symbolic]
+Size=16
+Context=Categories
+Type=Scalable
+MinSize=8
+MaxSize=126
+
+
+########## Devices
+
 [devices/scalable]
 Size=48
 Context=Devices
@@ -102,6 +130,9 @@ Context=Devices
 Type=Scalable
 MinSize=8
 MaxSize=128
+
+
+########## Emblems
 
 [emblems/scalable]
 Size=16
@@ -138,6 +169,9 @@ Size=128
 Context=Emblems
 Type=Scalable
 
+
+########## Emotes
+
 [emotes/scalable]
 Size=64
 Context=Emotes
@@ -152,6 +186,9 @@ Type=Scalable
 MinSize=8
 MaxSize=22
 
+
+########## Mimetypes
+
 [mimetypes/scalable]
 Size=48
 Context=MimeTypes
@@ -165,6 +202,24 @@ Context=MimeTypes
 Type=Scalable
 MinSize=8
 MaxSize=22
+
+
+########## Panel
+
+[panel/scalable]
+Size=16
+Context=Status
+Size=16
+Type=Fixed
+
+[panel/scalable]
+Size=24
+Context=Status
+Size=24
+Type=Fixed
+
+
+########## Places
 
 [places/scalable]
 Size=16
@@ -220,17 +275,7 @@ MinSize=8
 MaxSize=512
 Type=Fixed
 
-[panel/scalable]
-Size=16
-Context=Status
-Size=16
-Type=Fixed
-
-[panel/scalable]
-Size=24
-Context=Status
-Size=24
-Type=Fixed
+########## Status
 
 [status/scalable]
 Context=Status
