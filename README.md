@@ -14,7 +14,7 @@ Clone repository on your system
 
     git clone https://github.com/bikass/korla.git
 
-and copy `korla` folder to `/usr/share/icons/` (system-wide, use `sudo`) or to `$HOME/.local/share/icons/` (local user only).
+and copy `korla` subfolder to `/usr/share/icons/` (system-wide, use `sudo`) or to `$HOME/.local/share/icons/` (local user only).
 
 <strong>Arch Linux</strong>: <a href="https://aur.archlinux.org/packages/korla-icon-theme/">AUR package</a>.
 
