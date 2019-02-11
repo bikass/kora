@@ -1,0 +1,110 @@
+#! C:/Program Files/Nuke9.0v4/nuke-9.0.4.dll -nx
+version 9.0 v4
+Gizmo {
+ inputs 2
+ label FireflyKiller
+ addUserKnob {20 FireflyKiller}
+ addUserKnob {7 FireflyPixelSize l "firefly pixel size" t "Pixel size of your fireflies" R 1 3}
+ FireflyPixelSize 1
+ addUserKnob {7 ffgain l gain t "Removes your bright fireflies"}
+ ffgain 0.5
+ addUserKnob {7 ffgamma l gamma t "Removes your not so bright fireflies. Be careful, increasing gamma may wash out detail!" R 0.1 1}
+ ffgamma 0.5
+ addUserKnob {6 Diagnose l "diagnose fireflies" t "Diagnose fireflies" +STARTLINE}
+ addUserKnob {20 Help}
+ addUserKnob {26 HelpText l "" +STARTLINE T "Set firefly pixel size first. Only increase it if your fireflies are larger than one pixel!\nIncrease gain until the fireflies disappear.\nBe careful with gamma. It's a tradeoff between blur and noise and therefore may wash out detail.\n\nStefan Mueller\nmuellerstefan.de"}
+}
+ Input {
+  inputs 0
+  name mask
+  xpos -94
+  ypos -205
+  number 1
+ }
+ Dot {
+  name Dot4
+  xpos 180
+  ypos -201
+ }
+ Dot {
+  name Dot3
+  xpos 180
+  ypos 63
+ }
+ Input {
+  inputs 0
+  name img
+  selected true
+  xpos -220
+  ypos -205
+ }
+set N17cb2400 [stack 0]
+ Matrix {
+  matrix {
+      {1 1 1}
+      {1 0 1}
+      {1 1 1}
+    }
+  normalize true
+  name Matrix1
+  xpos -120
+  ypos -82
+ }
+push $N17cb2400
+ Difference {
+  inputs 2
+  name Difference1
+  xpos 23
+  ypos -73
+ }
+ ColorCorrect {
+  channels alpha
+  gamma {{ffgamma x1 0.455}}
+  gain {{ffgain*50000}}
+  name ColorCorrect1
+  xpos 23
+  ypos -23
+ }
+set N784d3400 [stack 0]
+push $N784d3400
+push $N17cb2400
+ Median {
+  inputs 1+1
+  size {{FireflyPixelSize}}
+  ignore_top_line false
+  name Median1
+  xpos -220
+  ypos -17
+ }
+ Merge2 {
+  inputs 2
+  operation difference
+  mix {{Diagnose==0?0:1 x1 0}}
+  name Merge1
+  xpos -220
+  ypos 17
+ }
+push $N17cb2400
+ Dot {
+  name Dot1
+  xpos -366
+  ypos -201
+ }
+ Dot {
+  name Dot2
+  xpos -366
+  ypos 63
+ }
+ Merge2 {
+  inputs 2+1
+  operation copy
+  name Merge2
+  xpos -220
+  ypos 59
+ }
+ Output {
+  name Output1
+  xpos -220
+  ypos 141
+ }
+end_group

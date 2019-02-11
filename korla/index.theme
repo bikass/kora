@@ -25,7 +25,7 @@ DialogSizes=16,22,32,48,64,128,256
 
 
 
-Directories=actions/scalable,actions/symbolic,animations,apps/scalable,apps/symbolic,categories/scalable,categories/symbolic,devices/scalable,devices/symbolic,emblems/scalable,emblems/symbolic,emotes/symbolic,mimetypes/scalable,mimetypes/symbolic,notifications/scalable,panel/scalable,panel/symbolic,places/scalable,places/symbolic,status/scalable,status/symbolic,
+Directories=actions/scalable,actions/symbolic,animations,apps/scalable,apps/symbolic,categories/scalable,categories/symbolic,devices/scalable,devices/symbolic,emblems/scalable,emblems/symbolic,emotes/symbolic,mimetypes/scalable,mimetypes/symbolic,notifications/scalable,panel/scalable,places/scalable,places/symbolic,status/scalable,status/symbolic,
 
 
 [actions/scalable]
@@ -228,19 +228,28 @@ Size=16
 Context=Places
 MinSize=8
 MaxSize=512
-Type=Fixed
+Type=Scalable
 
 [panel/scalable]
-Size=16
 Context=Status
 Size=16
-Type=Fixed
+Type=Scalable
+MinSize=8
+MaxSize=16
 
 [panel/scalable]
-Size=24
+Context=Status
+Size=22
+Type=Scalable
+MinSize=8
+MaxSize=22
+
+[panel/scalable]
 Context=Status
 Size=24
-Type=Fixed
+Type=Scalable
+MinSize=8
+MaxSize=24
 
 [status/scalable]
 Context=Status
