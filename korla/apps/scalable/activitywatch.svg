@@ -1,1 +1,16 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd"><svg width="100%" height="100%" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;"><path d="M32,4c15.454,0 28,12.546 28,28c0,15.454 -12.546,28 -28,28c-15.454,0 -28,-12.546 -28,-28c0,-15.454 12.546,-28 28,-28Z" style="fill:url(#_Linear1);"/><path d="M15.509,32.481l8.4,-16.981l8.091,16.5" style="fill:none;stroke:#7a7a7a;stroke-width:3px;"/><rect x="18" y="26" width="11.2" height="3" style="fill:#7a7a7a;"/><path d="M32.601,33.5l5.6,13l4.9,-13l4.9,13l5.6,-13" style="fill:none;stroke:#7a7a7a;stroke-width:3px;"/><path d="M16.7,45.3l15.3,-13.3" style="fill:none;stroke:#000;stroke-width:1.4px;stroke-linejoin:miter;"/><path d="M32,32l8.6,-10.4" style="fill:none;stroke:#000;stroke-width:3px;stroke-linejoin:miter;"/><circle cx="32" cy="32" r="4" style="fill:#434343;"/><defs><linearGradient id="_Linear1" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.771084,56,-56,0.771084,31.2289,4)"><stop offset="0" style="stop-color:#fff;stop-opacity:1"/><stop offset="1" style="stop-color:#cfcfcf;stop-opacity:1"/></linearGradient></defs></svg>
+<!DOCTYPE svg  PUBLIC '-//W3C//DTD SVG 1.1//EN'  'http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd'>
+<svg style="clip-rule:evenodd;fill-rule:evenodd;stroke-linecap:round;stroke-linejoin:round" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+ <path d="m32 4c15.454 0 28 12.546 28 28s-12.546 28-28 28-28-12.546-28-28 12.546-28 28-28z" style="fill:url(#_Linear1)"/>
+ <path d="m15.509 32.481l8.4-16.981 8.091 16.5" style="fill:none;stroke-width:3px;stroke:#7a7a7a"/>
+ <rect x="18" y="26" width="11.2" height="3" style="fill:#7a7a7a"/>
+ <path d="m32.601 33.5l5.6 13 4.9-13 4.9 13 5.6-13" style="fill:none;stroke-width:3px;stroke:#7a7a7a"/>
+ <path d="m16.7 45.3l15.3-13.3" style="fill:none;stroke-linejoin:miter;stroke-width:1.4px;stroke:#000"/>
+ <path d="m32 32l8.6-10.4" style="fill:none;stroke-linejoin:miter;stroke-width:3px;stroke:#000"/>
+ <circle cx="32" cy="32" r="4" style="fill:#434343"/>
+ <defs>
+  <linearGradient id="_Linear1" x2="1" gradientTransform="matrix(.771084 56 -56 .771084 31.2289 4)" gradientUnits="userSpaceOnUse">
+   <stop style="stop-color:#fff" offset="0"/>
+   <stop style="stop-color:#cfcfcf" offset="1"/>
+  </linearGradient>
+ </defs>
+</svg>
