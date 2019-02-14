@@ -1,13 +1,1 @@
-<!DOCTYPE svg  PUBLIC '-//W3C//DTD SVG 1.1//EN'  'http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd'>
-<svg style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41421" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
- <path d="m4.918 32c0 14.44 9.905 26.612 24.082 28-15.454 0-28-12.546-28-28s12.546-28 28-28c-14.1 1.465-24.082 13.56-24.082 28z" style="fill:#f7941e"/>
- <path d="m35 4c15.454 0 28 12.546 28 28s-12.546 28-28 28-28-12.546-28-28 12.546-28 28-28z" style="fill:url(#_Linear1)"/>
- <path d="m16.957 40c3.049 7.249 10.179 11.991 18.043 12 7.861-0.013 14.987-4.754 18.035-12h-36.078z" style="fill-rule:nonzero;fill:#3d2e73"/>
- <path d="m8.475 23c-0.437 1.293-0.778 2.629-1.024 4h55.098c-0.246-1.371-0.587-2.707-1.024-4h-53.05zm-1.397 7c-0.046 0.661-0.078 1.327-0.078 2s0.032 1.339 0.078 2h55.844c0.046-0.661 0.078-1.327 0.078-2s-0.032-1.339-0.078-2h-55.844zm0.373 7c0.246 1.371 0.587 2.707 1.024 4h53.05c0.437-1.293 0.778-2.629 1.024-4h-55.098z" style="fill-rule:nonzero;fill:#fff"/>
- <defs>
-  <linearGradient id="_Linear1" x2="1" gradientTransform="matrix(-.0039065 56 -56 -.0039065 35 4)" gradientUnits="userSpaceOnUse">
-   <stop style="stop-color:#3d268f" offset="0"/>
-   <stop style="stop-color:#241657" offset="1"/>
-  </linearGradient>
- </defs>
-</svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd"><svg width="100%" height="100%" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41421;"><path d="M4.918,32c0,14.44 9.905,26.612 24.082,28c-15.454,0 -28,-12.546 -28,-28c0,-15.454 12.546,-28 28,-28c-14.1,1.465 -24.082,13.56 -24.082,28Z" style="fill:#f7941e;"/><path d="M35,4c15.454,0 28,12.546 28,28c0,15.454 -12.546,28 -28,28c-15.454,0 -28,-12.546 -28,-28c0,-15.454 12.546,-28 28,-28Z" style="fill:#110051;"/><path d="M16.957,40c3.049,7.249 10.179,11.991 18.043,12c7.861,-0.013 14.987,-4.754 18.035,-12l-36.078,0Z" style="fill:#2d09ae;fill-rule:nonzero;"/><path d="M8.475,23c-0.437,1.293 -0.778,2.629 -1.024,4l55.098,0c-0.246,-1.371 -0.587,-2.707 -1.024,-4l-53.05,0Zm-1.397,7c-0.046,0.661 -0.078,1.327 -0.078,2c0,0.673 0.032,1.339 0.078,2l55.844,0c0.046,-0.661 0.078,-1.327 0.078,-2c0,-0.673 -0.032,-1.339 -0.078,-2l-55.844,0Zm0.373,7c0.246,1.371 0.587,2.707 1.024,4l53.05,0c0.437,-1.293 0.778,-2.629 1.024,-4l-55.098,0Z" style="fill:#fff;fill-rule:nonzero;"/></svg>
