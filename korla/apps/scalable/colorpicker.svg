@@ -1,1 +1,17 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd"><svg width="100%" height="100%" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41421;"><path d="M57,4c1.656,0 3,1.344 3,3l0,50c0,1.656 -1.344,3 -3,3l-50,0c-1.656,0 -3,-1.344 -3,-3l0,-50c0,-1.656 1.344,-3 3,-3l50,0Z" style="fill:url(#_Linear1);"/><path d="M30,29l0,6l17,0c1.662,0 3,-1.338 3,-3c0,-1.662 -1.338,-3 -3,-3l-17,0Zm6,16l0,6l11,0c1.662,0 3,-1.338 3,-3c0,-1.662 -1.338,-3 -3,-3l-11,0Z" style="fill:#fff;fill-opacity:0.5;fill-rule:nonzero;"/><path d="M43,13l-26,0c-1.662,0 -3,1.338 -3,3c0,1.662 1.338,3 3,3l26,0l0,-6Z" style="fill:#f44336;fill-rule:nonzero;"/><path d="M37,45l-20,0c-1.662,0 -3,1.338 -3,3c0,1.662 1.338,3 3,3l20,0l0,-6Z" style="fill:#03a9f4;fill-rule:nonzero;"/><path d="M28,29l-11,0c-1.662,0 -3,1.338 -3,3c0,1.662 1.338,3 3,3l11,0l0,-6Z" style="fill:#4caf50;fill-rule:nonzero;"/><path d="M50,16c0,-3.314 -2.686,-6 -6,-6c-3.314,0 -6,2.686 -6,6c0,3.314 2.686,6 6,6c3.314,0 6,-2.686 6,-6Z" style="fill:#fff;fill-rule:nonzero;"/><path d="M42,48c0,-3.314 -2.686,-6 -6,-6c-3.314,0 -6,2.686 -6,6c0,3.314 2.686,6 6,6c3.314,0 6,-2.686 6,-6Z" style="fill:#fff;fill-rule:nonzero;"/><path d="M36,32c0,-3.314 -2.686,-6 -6,-6c-3.314,0 -6,2.686 -6,6c0,3.314 2.686,6 6,6c3.314,0 6,-2.686 6,-6Z" style="fill:#fff;fill-rule:nonzero;"/><defs><linearGradient id="_Linear1" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0,-56,-56,0,32,60)"><stop offset="0" style="stop-color:#2c2531;stop-opacity:1"/><stop offset="1" style="stop-color:#555;stop-opacity:1"/></linearGradient></defs></svg>
+<!DOCTYPE svg  PUBLIC '-//W3C//DTD SVG 1.1//EN'  'http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd'>
+<svg style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41421" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+ <path d="m57 4c1.656 0 3 1.344 3 3v50c0 1.656-1.344 3-3 3h-50c-1.656 0-3-1.344-3-3v-50c0-1.656 1.344-3 3-3h50z" style="fill:url(#_Linear1)"/>
+ <path d="m30 29v6h17c1.662 0 3-1.338 3-3s-1.338-3-3-3h-17zm6 16v6h11c1.662 0 3-1.338 3-3s-1.338-3-3-3h-11z" style="fill-opacity:.5;fill-rule:nonzero;fill:#fff"/>
+ <path d="m43 13h-26c-1.662 0-3 1.338-3 3s1.338 3 3 3h26v-6z" style="fill-rule:nonzero;fill:#f44336"/>
+ <path d="m37 45h-20c-1.662 0-3 1.338-3 3s1.338 3 3 3h20v-6z" style="fill-rule:nonzero;fill:#03a9f4"/>
+ <path d="m28 29h-11c-1.662 0-3 1.338-3 3s1.338 3 3 3h11v-6z" style="fill-rule:nonzero;fill:#4caf50"/>
+ <path d="m50 16c0-3.314-2.686-6-6-6s-6 2.686-6 6 2.686 6 6 6 6-2.686 6-6z" style="fill-rule:nonzero;fill:#fff"/>
+ <path d="m42 48c0-3.314-2.686-6-6-6s-6 2.686-6 6 2.686 6 6 6 6-2.686 6-6z" style="fill-rule:nonzero;fill:#fff"/>
+ <path d="m36 32c0-3.314-2.686-6-6-6s-6 2.686-6 6 2.686 6 6 6 6-2.686 6-6z" style="fill-rule:nonzero;fill:#fff"/>
+ <defs>
+  <linearGradient id="_Linear1" x2="1" gradientTransform="matrix(0,-56,-56,0,32,60)" gradientUnits="userSpaceOnUse">
+   <stop style="stop-color:#2c2531" offset="0"/>
+   <stop style="stop-color:#555" offset="1"/>
+  </linearGradient>
+ </defs>
+</svg>

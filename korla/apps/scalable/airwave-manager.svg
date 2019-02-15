@@ -1,1 +1,11 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd"><svg width="100%" height="100%" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41421;"><path d="M23.334,6c1.471,0 2.666,1.195 2.666,2.666l0,16.668c0,1.471 -1.195,2.666 -2.666,2.666l-2.668,0c-1.471,0 -2.666,-1.195 -2.666,-2.666l0,-16.668c0,-1.471 1.195,-2.666 2.666,-2.666l2.668,0Zm20,0c1.471,0 2.666,1.195 2.666,2.666l0,16.668c0,1.471 -1.195,2.666 -2.666,2.666l-2.668,0c-1.471,0 -2.666,-1.195 -2.666,-2.666l0,-16.668c0,-1.471 1.195,-2.666 2.666,-2.666l2.668,0Z" style="fill:#838383;"/><path d="M52,28.666c0,-1.471 -1.195,-2.666 -2.666,-2.666l-34.668,0c-1.471,0 -2.666,1.195 -2.666,2.666l0,26.668c0,1.471 1.195,2.666 2.666,2.666l34.668,0c1.471,0 2.666,-1.195 2.666,-2.666l0,-26.668Z" style="fill:url(#_Linear1);"/><defs><linearGradient id="_Linear1" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.13494,-31.9229,31.9229,0.13494,31.6627,57.653)"><stop offset="0" style="stop-color:#7b0000;stop-opacity:1"/><stop offset="1" style="stop-color:#ba2d2d;stop-opacity:1"/></linearGradient></defs></svg>
+<!DOCTYPE svg  PUBLIC '-//W3C//DTD SVG 1.1//EN'  'http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd'>
+<svg style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41421" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+ <path d="m23.334 6c1.471 0 2.666 1.195 2.666 2.666v16.668c0 1.471-1.195 2.666-2.666 2.666h-2.668c-1.471 0-2.666-1.195-2.666-2.666v-16.668c0-1.471 1.195-2.666 2.666-2.666h2.668zm20 0c1.471 0 2.666 1.195 2.666 2.666v16.668c0 1.471-1.195 2.666-2.666 2.666h-2.668c-1.471 0-2.666-1.195-2.666-2.666v-16.668c0-1.471 1.195-2.666 2.666-2.666h2.668z" style="fill:#838383"/>
+ <path d="m52 28.666c0-1.471-1.195-2.666-2.666-2.666h-34.668c-1.471 0-2.666 1.195-2.666 2.666v26.668c0 1.471 1.195 2.666 2.666 2.666h34.668c1.471 0 2.666-1.195 2.666-2.666v-26.668z" style="fill:url(#_Linear1)"/>
+ <defs>
+  <linearGradient id="_Linear1" x2="1" gradientTransform="matrix(.13494 -31.9229 31.9229 .13494 31.6627 57.653)" gradientUnits="userSpaceOnUse">
+   <stop style="stop-color:#7b0000" offset="0"/>
+   <stop style="stop-color:#ba2d2d" offset="1"/>
+  </linearGradient>
+ </defs>
+</svg>
