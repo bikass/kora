@@ -8,7 +8,6 @@ Example=folder
 FollowsColorScheme=true
 
 DisplayDepth=32
-
 DesktopDefault=48
 DesktopSizes=16,22,32,48,64,128,256
 ToolbarDefault=22
@@ -230,7 +229,7 @@ Context=Status
 Size=16
 Type=Scalable
 MinSize=8
-MaxSize=16
+MaxSize=48
 
 [panel/scalable]
 Context=Status

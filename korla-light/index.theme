@@ -7,33 +7,34 @@ Example=folder
 
 FollowsColorScheme=true
 
+DisplayDepth=32
 DesktopDefault=48
-DesktopSizes=16,22,24,32,48,64
+DesktopSizes=16,22,32,48,64,128,256
 ToolbarDefault=22
-ToolbarSizes=16,22,24,32,48
+ToolbarSizes=16,22,32,48
 MainToolbarDefault=22
-MainToolbarSizes=16,22,24,32,48
+MainToolbarSizes=16,22,32,48
 SmallDefault=16
-SmallSizes=16,22,24,32,48
-PanelDefault=48
-PanelSizes=16,22,24,32,48,64
-DialogDefault=48
-DialogSizes=16,22,24,32,48,64
+SmallSizes=16,22,32,48
+PanelDefault=32
+PanelSizes=16,22,32,48,64,128,256
+DialogDefault=32
+DialogSizes=16,22,32,48,64,128,256
 
 
 
 
-Directories=../korla-light/actions/scalable,../korla-light/actions/symbolic,../korla/animations,../korla/apps/scalable,../korla/apps/symbolic,../korla/categories/scalable,../korla/categories/symbolic,../korla/devices/scalable,../korla/devices/symbolic,../korla/emblems/scalable,../korla/emblems/symbolic,../korla/emotes/symbolic,../korla/mimetypes/scalable,../korla/mimetypes/symbolic,../korla/notifications/scalable,../korla/panel/scalable,../korla/places/scalable,../korla/places/symbolic,../korla/status/scalable,../korla/status/symbolic,
+Directories=actions/scalable,actions/symbolic,../korla/animations,../korla/apps/scalable,../korla/apps/symbolic,../korla/categories/scalable,../korla/categories/symbolic,../korla/devices/scalable,../korla/devices/symbolic,../korla/emblems/scalable,../korla/emblems/symbolic,../korla/emotes/symbolic,../korla/mimetypes/scalable,../korla/mimetypes/symbolic,../korla/notifications/scalable,../korla/panel/scalable,../korla/places/scalable,../korla/places/symbolic,../korla/status/scalable,../korla/status/symbolic,
 
 
-[../korla-light/actions/scalable]
+[actions/scalable]
 Size=22
 Context=Actions
 Type=Scalable
 MinSize=16
 MaxSize=48
 
-[../korla-light/actions/symbolic]
+[actions/symbolic]
 Size=16
 Context=Actions
 Type=Scalable
