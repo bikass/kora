@@ -24,7 +24,7 @@ DialogSizes=16,22,32,48,64,128,256
 
 
 
-Directories=actions/scalable,actions/symbolic,../korla/animations,../korla/apps/scalable,../korla/apps/symbolic,../korla/categories/scalable,../korla/categories/symbolic,../korla/devices/scalable,../korla/devices/symbolic,../korla/emblems/scalable,../korla/emblems/symbolic,../korla/emotes/symbolic,../korla/mimetypes/scalable,../korla/mimetypes/symbolic,../korla/notifications/scalable,../korla/panel/scalable,../korla/places/scalable,../korla/places/symbolic,../korla/status/scalable,../korla/status/symbolic,
+Directories=actions/scalable,actions/symbolic,animations,apps/scalable,apps/symbolic,categories/scalable,categories/symbolic,devices/scalable,devices/symbolic,emblems/scalable,emblems/symbolic,emotes/symbolic,mimetypes/scalable,mimetypes/symbolic,notifications/scalable,panel/scalable,places/scalable,places/symbolic,status/scalable,status/symbolic,
 
 
 [actions/scalable]
@@ -41,218 +41,218 @@ Type=Scalable
 MinSize=8
 MaxSize=128
 
-[../korla/animations]
+[animations]
 Size=22
 Context=Animations
 Type=Scalable
 
-[../korla/apps/scalable]
+[apps/scalable]
 Size=16
 Context=Applications
 Type=Scalable
 MinSize=8
 MaxSize=22
 
-[../korla/apps/scalable]
+[apps/scalable]
 Size=22
 Context=Applications
 Type=Scalable
 MinSize=16
 MaxSize=48
 
-[../korla/apps/scalable]
+[apps/scalable]
 Size=24
 Context=Applications
 Type=Scalable
 MinSize=16
 MaxSize=48
 
-[../korla/apps/scalable]
+[apps/scalable]
 Size=32
 Context=Applications
 Type=Scalable
 MinSize=16
 MaxSize=48
 
-[../korla/apps/scalable]
+[apps/scalable]
 Size=48
 Context=Applications
 Type=Scalable
 MinSize=8
 MaxSize=256
 
-[../korla/apps/symbolic]
+[apps/symbolic]
 Size=16
 Context=Applications
 Type=Scalable
 MinSize=8
 MaxSize=22
 
-[../korla/devices/scalable]
+[devices/scalable]
 Size=48
 Context=Devices
 Type=Scalable
 MinSize=16
 MaxSize=256
 
-[../korla/devices/symbolic]
+[devices/symbolic]
 Size=16
 Context=Devices
 Type=Scalable
 MinSize=8
 MaxSize=128
 
-[../korla/emblems/scalable]
+[emblems/scalable]
 Size=16
 Context=Emblems
 Type=Scalable
 MinSize=8
 MaxSize=22
 
-[../korla/emblems/scalable]
+[emblems/scalable]
 Size=22
 Context=Emblems
 Type=Scalable
 MinSize=8
 MaxSize=22
 
-[../korla/emblems/scalable]
+[emblems/scalable]
 Size=24
 Context=Emblems
 Type=Scalable
 MinSize=8
 MaxSize=22
 
-[../korla/emblems/scalable]
+[emblems/scalable]
 Size=32
 Context=Emblems
 Type=Scalable
 MinSize=8
 MaxSize=32
 
-[../korla/emblems/scalable]
+[emblems/scalable]
 Size=48
 Context=Emblems
 Type=Scalable
 MinSize=8
 MaxSize=48
 
-[../korla/emblems/scalable]
+[emblems/scalable]
 Size=64
 Context=Emblems
 Type=Scalable
 
-[../korla/emblems/scalable]
+[emblems/scalable]
 Size=128
 Context=Emblems
 Type=Scalable
 
-[../korla/emotes/scalable]
+[emotes/scalable]
 Size=64
 Context=Emotes
 Type=Scalable
 MinSize=8
 MaxSize=128
 
-[../korla/emotes/symbolic]
+[emotes/symbolic]
 Size=16
 Context=Emotes
 Type=Scalable
 MinSize=8
 MaxSize=22
 
-[../korla/mimetypes/scalable]
+[mimetypes/scalable]
 Size=48
 Context=MimeTypes
 Type=Scalable
 MinSize=8
 MaxSize=256
 
-[../korla/mimetypes/symbolic]
+[mimetypes/symbolic]
 Size=16
 Context=MimeTypes
 Type=Scalable
 MinSize=8
 MaxSize=22
 
-[../korla/places/scalable]
+[places/scalable]
 Size=16
 Context=Places
 Type=Scalable
 MinSize=8
 MaxSize=22
 
-[../korla/places/symbolic]
+[places/symbolic]
 Size=16
 Context=Places
 Type=Scalable
 
-[../korla/places/scalable]
+[places/scalable]
 Size=22
 Context=Places
 Type=Scalable
 
-[../korla/places/scalable]
+[places/scalable]
 Size=24
 Context=Places
 Type=Scalable
 
-[../korla/places/scalable]
+[places/scalable]
 Size=32
 Context=Places
 Type=Scalable
 
-[../korla/places/scalable]
+[places/scalable]
 Size=48
 Context=Places
 Type=Scalable
 
-[../korla/places/scalable]
+[places/scalable]
 Size=64
 Context=Places
 Type=Scalable
 
-[../korla/places/scalable]
+[places/scalable]
 Size=96
 Context=Places
 Type=Scalable
 
-[../korla/places/scalable]
+[places/scalable]
 Size=128
 Context=Places
 Type=Scalable
 
 
 
-[../korla/panel/scalable]
-Context=Status
-Size=16
-Type=Scalable
-MinSize=8
-MaxSize=16
-
-[../korla/panel/scalable]
-Context=Status
-Size=22
-Type=Scalable
-MinSize=8
-MaxSize=22
-
-[../korla/panel/scalable]
-Context=Status
-Size=24
-Type=Scalable
-MinSize=8
-MaxSize=24
-
-[../korla/status/scalable]
+[panel/scalable]
 Context=Status
 Size=16
 Type=Scalable
 MinSize=8
 MaxSize=48
 
-[../korla/status/symbolic]
+[panel/scalable]
+Context=Status
+Size=22
+Type=Scalable
+MinSize=8
+MaxSize=22
+
+[panel/scalable]
+Context=Status
+Size=24
+Type=Scalable
+MinSize=8
+MaxSize=24
+
+[status/scalable]
+Context=Status
+Size=16
+Type=Scalable
+MinSize=8
+MaxSize=48
+
+[status/symbolic]
 Context=Status
 Size=16
 Type=Scalable
