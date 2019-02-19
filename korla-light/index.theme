@@ -24,7 +24,7 @@ DialogSizes=16,22,32,48,64,128,256
 
 
 
-Directories=actions/scalable,actions/symbolic,animations,apps/scalable,apps/symbolic,categories/scalable,categories/symbolic,devices/scalable,devices/symbolic,emblems/scalable,emblems/symbolic,emotes/symbolic,mimetypes/scalable,mimetypes/symbolic,notifications/scalable,panel/scalable,places/scalable,places/symbolic,status/scalable,status/symbolic,
+Directories=actions/scalable,actions/symbolic,animations,apps/scalable,apps/symbolic,categories/scalable,categories/symbolic,devices/scalable,devices/symbolic,emblems/scalable,emotes/symbolic,mimetypes/scalable,mimetypes/symbolic,panel/scalable,places/scalable,places/symbolic,status/scalable,status/symbolic,
 
 
 [actions/scalable]
@@ -115,6 +115,41 @@ Context=Emblems
 Type=Scalable
 MinSize=8
 MaxSize=22
+
+[categories/scalable]
+Size=16
+Context=Categories
+Type=Scalable
+MinSize=8
+MaxSize=22
+
+[categories/scalable]
+Size=22
+Context=Categories
+Type=Scalable
+MinSize=16
+MaxSize=48
+
+[categories/scalable]
+Size=24
+Context=Categories
+Type=Scalable
+MinSize=16
+MaxSize=48
+
+[categories/scalable]
+Size=32
+Context=Categories
+Type=Scalable
+MinSize=16
+MaxSize=48
+
+[categories/scalable]
+Size=48
+Context=Categories
+Type=Scalable
+MinSize=8
+MaxSize=256
 
 [emblems/scalable]
 Size=24
