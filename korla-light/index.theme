@@ -1,11 +1,15 @@
 [Icon Theme]
-Name=Korla-light
-Comment=Icon theme for Linux desktops. Mix of the following icon sets: La_Capitaine, MacOS11, Papirus.
-Inherits=breeze-dark,gnome,hicolor
+Name=Korla Light
+Comment=Light icon theme for Linux desktops. Mix of the following icon sets: La_Capitaine, MacOS11, Papirus.
+Inherits=korla,breeze,gnome,hicolor
 
 Example=folder
 
 FollowsColorScheme=true
+
+
+
+########## KDE SPECIFIC STUFF
 
 DisplayDepth=32
 DesktopDefault=48
@@ -23,9 +27,15 @@ DialogSizes=16,22,32,48,64,128,256
 
 
 
+########## DIRECTORY LIST
+########## ordered by category and alphabetically
 
 Directories=actions/scalable,actions/symbolic,animations,apps/scalable,apps/symbolic,categories/scalable,categories/symbolic,devices/scalable,devices/symbolic,emblems/scalable,emotes/symbolic,mimetypes/scalable,mimetypes/symbolic,panel/scalable,places/scalable,places/symbolic,status/scalable,status/symbolic,
 
+
+
+########## ICON CATEGORIES
+########## Actions
 
 [actions/scalable]
 Size=22
@@ -41,10 +51,18 @@ Type=Scalable
 MinSize=8
 MaxSize=128
 
+
+
+########## Animations
+
 [animations]
 Size=22
 Context=Animations
 Type=Scalable
+
+
+
+########## Apps
 
 [apps/scalable]
 Size=16
@@ -88,33 +106,9 @@ Type=Scalable
 MinSize=8
 MaxSize=22
 
-[devices/scalable]
-Size=48
-Context=Devices
-Type=Scalable
-MinSize=16
-MaxSize=256
 
-[devices/symbolic]
-Size=16
-Context=Devices
-Type=Scalable
-MinSize=8
-MaxSize=128
 
-[emblems/scalable]
-Size=16
-Context=Emblems
-Type=Scalable
-MinSize=8
-MaxSize=22
-
-[emblems/scalable]
-Size=22
-Context=Emblems
-Type=Scalable
-MinSize=8
-MaxSize=22
+########## Categories
 
 [categories/scalable]
 Size=16
@@ -158,6 +152,41 @@ Type=Scalable
 MinSize=8
 MaxSize=22
 
+
+########## Devices
+
+[devices/scalable]
+Size=48
+Context=Devices
+Type=Scalable
+MinSize=16
+MaxSize=256
+
+[devices/symbolic]
+Size=16
+Context=Devices
+Type=Scalable
+MinSize=8
+MaxSize=128
+
+
+
+########## Emblems
+
+[emblems/scalable]
+Size=16
+Context=Emblems
+Type=Scalable
+MinSize=8
+MaxSize=22
+
+[emblems/scalable]
+Size=22
+Context=Emblems
+Type=Scalable
+MinSize=8
+MaxSize=22
+
 [emblems/scalable]
 Size=24
 Context=Emblems
@@ -189,6 +218,10 @@ Size=128
 Context=Emblems
 Type=Scalable
 
+
+
+########## Emoticons
+
 [emotes/scalable]
 Size=64
 Context=Emotes
@@ -203,6 +236,10 @@ Type=Scalable
 MinSize=8
 MaxSize=22
 
+
+
+########## MimeTypes
+
 [mimetypes/scalable]
 Size=48
 Context=MimeTypes
@@ -216,6 +253,49 @@ Context=MimeTypes
 Type=Scalable
 MinSize=8
 MaxSize=22
+
+
+
+########## Panel
+
+[panel/scalable]
+Context=Status
+Size=16
+Type=Scalable
+MinSize=8
+MaxSize=48
+
+[panel/scalable]
+Context=Status
+Size=22
+Type=Scalable
+MinSize=8
+MaxSize=22
+
+[panel/scalable]
+Context=Status
+Size=24
+Type=Scalable
+MinSize=8
+MaxSize=24
+
+[status/scalable]
+Context=Status
+Size=16
+Type=Scalable
+MinSize=8
+MaxSize=48
+
+[status/symbolic]
+Context=Status
+Size=16
+Type=Scalable
+MinSize=8
+MaxSize=128
+
+
+
+########## Places
 
 [places/scalable]
 Size=16
@@ -266,37 +346,18 @@ Type=Scalable
 
 
 
-[panel/scalable]
-Context=Status
-Size=16
-Type=Scalable
-MinSize=8
-MaxSize=48
-
-[panel/scalable]
-Context=Status
-Size=22
-Type=Scalable
-MinSize=8
-MaxSize=22
-
-[panel/scalable]
-Context=Status
-Size=24
-Type=Scalable
-MinSize=8
-MaxSize=24
+########## STATUS
 
 [status/scalable]
+Size=32
 Context=Status
-Size=16
 Type=Scalable
-MinSize=8
-MaxSize=48
+MinSize=22
+MaxSize=256
 
 [status/symbolic]
 Context=Status
 Size=16
-Type=Scalable
 MinSize=8
-MaxSize=128
+MaxSize=512
+Type=Scalable
