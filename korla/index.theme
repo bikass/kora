@@ -168,12 +168,12 @@ Type=Fixed
 [panel/22]
 Context=Status
 Size=22
-Type=Fixes
+Type=Fixed
 
 [panel/24]
 Context=Status
 Size=24
-Type=Fixes
+Type=Fixed
 
 
 
