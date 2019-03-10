@@ -30,7 +30,7 @@ DialogSizes=16,22,32,48,64,128,256
 ########## DIRECTORY LIST
 ########## ordered by category and alphabetically
 
-Directories=actions/scalable,actions/symbolic,animations,apps/scalable,apps/symbolic,categories/scalable,categories/symbolic,devices/scalable,devices/symbolic,emblems/scalable,emotes/symbolic,mimetypes/scalable,mimetypes/symbolic,panel/scalable,places/scalable,places/symbolic,status/scalable,status/symbolic,
+Directories=actions/scalable,actions/symbolic,animations,apps/scalable,apps/symbolic,categories/scalable,categories/symbolic,devices/scalable,devices/symbolic,emblems/scalable,emotes/symbolic,mimetypes/scalable,mimetypes/symbolic,panel/16,panel/22,panel/24,places/scalable,places/symbolic,status/scalable,status/symbolic,
 
 
 
@@ -160,26 +160,20 @@ MaxSize=512
 
 ########## Panel
 
-[panel/scalable]
+[panel/16]
 Context=Status
 Size=16
-Type=Scalable
-MinSize=8
-MaxSize=48
+Type=Fixed
 
-[panel/scalable]
+[panel/22]
 Context=Status
 Size=22
-Type=Scalable
-MinSize=8
-MaxSize=22
+Type=Fixes
 
-[panel/scalable]
+[panel/24]
 Context=Status
 Size=24
-Type=Scalable
-MinSize=8
-MaxSize=24
+Type=Fixes
 
 
 
