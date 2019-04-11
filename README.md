@@ -1,33 +1,30 @@
 # KORLA
 
-Korla icon theme is a mix of following icon sets: La Capitaine, MacOS11, Papirus.
-Mac specific icons has been replaced. Dozen other was redone.
-You may need to update icon cache. Script is included.
+**Korla** icon theme is a mix of the following icon sets: *La Capitaine*, *MacOS11* and *Papirus*. It has also brand new icons, Mac specific have been replaced and dozen others were redone. To make them showing properly, you may need to update the icon cache. A script is included.
 
-This theme considered to be as beta. Many things needs to be cleaned up. Use at your own risk.
-If someone knows how to make it better or fix what is not working, help is appreciated.
-
+This theme is considered to be in beta version. Many things need to be cleaned up. Use at your own risk.
+If someone knows how to make it better or fix what it's not working, help is appreciated.
 
 ## Installation
 
-Clone repository on your system
-
+Clone this repository on your system
+    
     git clone https://github.com/bikass/korla.git
 
-and copy `korla` and `korla-light` subfolders to `/usr/share/icons/` (system-wide, use `sudo`) or to `$HOME/.local/share/icons/` (local user only).
+and copy *korla* and *korla-light* subfolders to one of the following folders: 
 
-<strong>Arch Linux</strong>: <a href="https://aur.archlinux.org/packages/korla-icon-theme/">AUR package</a>.
+* `/usr/share/icons/` - icons available system-wide
+* `$HOME/.local/share/icons/` - icons only available to local user
 
+### Specific Linux distributions
+
+* **Arch Linux**: [AUR package](https://aur.archlinux.org/packages/korla-icon-theme/)
 
 ## Preview
 
-<section align="center">
-  <img src="https://github.com/bikass/korla/blob/master/im1.png" alt="preview"/>
-  <img src="https://github.com/bikass/korla/blob/master/im2.png" alt="preview"/>
-</section>
-
+![](im1.png)
+![](im2.png)
 
 ## License
 
-<a href="https://www.gnu.org/licenses/gpl-3.0-standalone.html">GPL3</a>
-
+[GPL3](https://www.gnu.org/licenses/gpl-3.0-standalone.html)
