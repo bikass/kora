@@ -4,13 +4,13 @@
  <path d="m25.278 44.002l3.91-5.484h9.562s4.968 0.081 4.968-7.006v-22.293c-0.313-4.851-4.714-5.223-4.714-5.223h-29.298s-5.424 0.318-5.502 5.606v21.91c9e-3 6.902 5.502 7.006 5.502 7.006h10.469l3.523 5.462c0.767 0.895 0.778 0.778 1.58 0.022z" style="fill:url(#_Linear1)"/>
  <circle cx="35.36" cy="7.265" r="5.728" style="fill:url(#_Linear2)"/>
  <defs>
-  <linearGradient id="_Linear1" x2="1" gradientTransform="matrix(.799284 -39.6049 39.6049 .799284 23.3511 43.9801)" gradientUnits="userSpaceOnUse">
+  <linearGradient id="_Linear1" x2="1" gradientTransform="matrix(.799284 -39.6049 39.6049 .799284 181.612 47.174)" gradientUnits="userSpaceOnUse">
    <stop style="stop-color:#b1b1b1" offset="0"/>
    <stop style="stop-color:#fefeff" offset="1"/>
   </linearGradient>
-  <linearGradient id="_Linear2" x2="1" gradientTransform="matrix(7.01451e-16,-11.4556,11.4556,7.01451e-16,37.2684,12.9931)" gradientUnits="userSpaceOnUse">
-   <stop style="stop-color:#1447c6" offset="0"/>
-   <stop style="stop-color:#2b86dc" offset="1"/>
+  <linearGradient id="_Linear2" x2="1" gradientTransform="matrix(7.01453e-16,-11.4556,11.4556,7.01453e-16,54.8757,12.9931)" gradientUnits="userSpaceOnUse">
+   <stop style="stop-color:#dc402b" offset="0"/>
+   <stop style="stop-color:#ff6100" offset="1"/>
   </linearGradient>
  </defs>
 </svg>
