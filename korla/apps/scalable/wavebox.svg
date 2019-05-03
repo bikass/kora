@@ -1,4 +1,4 @@
-<!DOCTYPE svg  PUBLIC '-//W3C//DTD SVG 1.1//EN'  'http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd'>
+
 <svg style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41421" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
  <circle cx="32" cy="32" r="28" style="fill:url(#_Linear1)"/>
  <path d="m30 12.809l-1.191 0.375-14.809 4.625v8.906l7.832 4.898-7.832 3.918v8.836l14.398 6.297 1.602 0.703v-8.73l-6.574-2.879 6.574-3.289v-9.188l-6.5-4.062 6.5-2.031v-8.379zm4 0v8.379l6.5 2.031-6.5 4.062v9.188l6.574 3.289-6.574 2.879v8.73l1.602-0.703 14.398-6.297v-8.836l-7.832-3.918 7.832-4.898v-8.906l-14.809-4.625-1.191-0.375z" style="fill-rule:nonzero;fill:#fff"/>

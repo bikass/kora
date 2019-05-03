@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
 <svg width="100%" height="100%" viewBox="0 0 39 39" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:square;stroke-miterlimit:2.0126;">
     <g transform="matrix(1,0,0,1,0.27759,0.879036)">
         <path d="M36.549,8.952C36.549,8.224 35.959,7.634 35.231,7.634C29.671,7.634 8.174,7.634 2.614,7.634C1.886,7.634 1.295,8.224 1.295,8.952C1.295,12.78 1.295,23.862 1.295,27.69C1.295,28.418 1.886,29.008 2.614,29.008C8.174,29.008 29.671,29.008 35.231,29.008C35.959,29.008 36.549,28.418 36.549,27.69C36.549,23.862 36.549,12.78 36.549,8.952Z" style="fill:url(#_Linear1);"/>

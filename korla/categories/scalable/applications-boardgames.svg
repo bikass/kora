@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
 <svg width="100%" height="100%" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41421;">
     <g>
         <path d="M44.005,8.802C44.005,7.595 43.525,6.437 42.672,5.583C41.818,4.73 40.66,4.25 39.453,4.25C31.779,4.25 16.356,4.25 8.682,4.25C7.475,4.25 6.317,4.73 5.463,5.583C4.61,6.437 4.13,7.595 4.13,8.802C4.13,16.476 4.13,31.899 4.13,39.573C4.13,40.78 4.61,41.938 5.463,42.792C6.317,43.645 7.475,44.125 8.682,44.125C16.356,44.125 31.779,44.125 39.453,44.125C40.66,44.125 41.818,43.645 42.672,42.792C43.525,41.938 44.005,40.78 44.005,39.573C44.005,31.899 44.005,16.476 44.005,8.802Z" style="fill:url(#_Linear1);"/>
