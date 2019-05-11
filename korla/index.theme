@@ -9,24 +9,6 @@ FollowsColorScheme=true
 
 
 
-########## KDE SPECIFIC STUFF
-
-DisplayDepth=32
-DesktopDefault=48
-DesktopSizes=16,22,32,48,64,128,256
-ToolbarDefault=22
-ToolbarSizes=16,22,32,48
-MainToolbarDefault=22
-MainToolbarSizes=16,22,32,48
-SmallDefault=16
-SmallSizes=16,22,32,48
-PanelDefault=32
-PanelSizes=16,22,32,48,64,128,256
-DialogDefault=32
-DialogSizes=16,22,32,48,64,128,256
-
-
-
 ########## DIRECTORY LIST
 ########## ordered by category and alphabetically
 
@@ -40,15 +22,13 @@ Directories=actions/scalable,actions/symbolic,animations,apps/scalable,apps/symb
 [actions/scalable]
 Size=16
 Context=Actions
-Type=Scalable
-MinSize=1
-MaxSize=512
+Type=Fixed
 
 [actions/symbolic]
 Size=16
 Context=Actions
 Type=Scalable
-MinSize=1
+MinSize=16
 MaxSize=512
 
 
@@ -59,7 +39,7 @@ MaxSize=512
 Size=16
 Context=Animations
 Type=Scalable
-MinSize=1
+MinSize=16
 MaxSize=512
 
 
@@ -70,14 +50,14 @@ MaxSize=512
 Size=16
 Context=Applications
 Type=Scalable
-MinSize=1
+MinSize=16
 MaxSize=512
 
 [apps/symbolic]
 Size=16
 Context=Applications
 Type=Scalable
-MinSize=1
+MinSize=16
 MaxSize=512
 
 
@@ -88,14 +68,14 @@ MaxSize=512
 Size=16
 Context=Categories
 Type=Scalable
-MinSize=1
+MinSize=16
 MaxSize=512
 
 [categories/symbolic]
 Size=16
 Context=Categories
 Type=Scalable
-MinSize=1
+MinSize=16
 MaxSize=512
 
 
@@ -106,14 +86,14 @@ MaxSize=512
 Size=16
 Context=Devices
 Type=Scalable
-MinSize=1
+MinSize=16
 MaxSize=512
 
 [devices/symbolic]
 Size=16
 Context=Devices
 Type=Scalable
-MinSize=1
+MinSize=16
 MaxSize=512
 
 
@@ -124,7 +104,7 @@ MaxSize=512
 Size=16
 Context=Emblems
 Type=Scalable
-MinSize=1
+MinSize=16
 MaxSize=512
 
 
@@ -135,7 +115,7 @@ MaxSize=512
 Size=16
 Context=Emotes
 Type=Scalable
-MinSize=1
+MinSize=16
 MaxSize=512
 
 
@@ -146,14 +126,14 @@ MaxSize=512
 Size=16
 Context=MimeTypes
 Type=Scalable
-MinSize=1
+MinSize=16
 MaxSize=512
 
 [mimetypes/symbolic]
 Size=16
 Context=MimeTypes
 Type=Scalable
-MinSize=1
+MinSize=16
 MaxSize=512
 
 
@@ -183,14 +163,14 @@ Type=Fixed
 Size=16
 Context=Places
 Type=Scalable
-MinSize=1
+MinSize=16
 MaxSize=512
 
 [places/symbolic]
 Size=16
 Context=Places
 Type=Scalable
-MinSize=1
+MinSize=16
 MaxSize=512
 
 
@@ -201,7 +181,7 @@ MaxSize=512
 Size=16
 Context=Status
 Type=Scalable
-MinSize=1
+MinSize=16
 MaxSize=512
 
 [status/symbolic]
