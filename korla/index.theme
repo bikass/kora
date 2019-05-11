@@ -12,7 +12,7 @@ FollowsColorScheme=true
 ########## DIRECTORY LIST
 ########## ordered by category and alphabetically
 
-Directories=actions/scalable,actions/symbolic,animations,apps/scalable,apps/symbolic,categories/scalable,categories/symbolic,devices/scalable,devices/symbolic,emblems/scalable,emotes/symbolic,mimetypes/scalable,mimetypes/symbolic,panel/16,panel/22,panel/24,places/scalable,places/symbolic,status/scalable,status/symbolic,
+Directories=actions/scalable,actions/scalable@2,actions/symbolic,animations,animations@2,apps/scalable,apps/scalable@2,apps/symbolic,categories/scalable,categories/scalable@2,categories/symbolic,devices/scalable,devices/scalable@2,devices/symbolic,emblems/scalable,emblems/scalable@2,emotes/symbolic,mimetypes/scalable,mimetypes/scalable@2,mimetypes/symbolic,panel/16,panel/16@2,panel/22,panel/22@2,panel/24,panel/24@2,places/scalable,places/scalable@2,places/symbolic,status/scalable,status/scalable,status/symbolic,
 
 
 
@@ -21,11 +21,19 @@ Directories=actions/scalable,actions/symbolic,animations,apps/scalable,apps/symb
 
 [actions/scalable]
 Size=16
+Scale=1
+Context=Actions
+Type=Fixed
+
+[actions/scalable@2]
+Size=16
+Scale=2
 Context=Actions
 Type=Fixed
 
 [actions/symbolic]
 Size=16
+Scale=1
 Context=Actions
 Type=Scalable
 MinSize=16
@@ -37,6 +45,15 @@ MaxSize=512
 
 [animations]
 Size=16
+Scale=1
+Context=Animations
+Type=Scalable
+MinSize=16
+MaxSize=512
+
+[animations@2]
+Size=16
+Scale=2
 Context=Animations
 Type=Scalable
 MinSize=16
@@ -48,6 +65,15 @@ MaxSize=512
 
 [apps/scalable]
 Size=16
+Scale=1
+Context=Applications
+Type=Scalable
+MinSize=16
+MaxSize=512
+
+[apps/scalable@2]
+Size=16
+Scale=2
 Context=Applications
 Type=Scalable
 MinSize=16
@@ -55,6 +81,7 @@ MaxSize=512
 
 [apps/symbolic]
 Size=16
+Scale=1
 Context=Applications
 Type=Scalable
 MinSize=16
@@ -66,6 +93,15 @@ MaxSize=512
 
 [categories/scalable]
 Size=16
+Scale=1
+Context=Categories
+Type=Scalable
+MinSize=16
+MaxSize=512
+
+[categories/scalable@2]
+Size=16
+Scale=2
 Context=Categories
 Type=Scalable
 MinSize=16
@@ -73,6 +109,7 @@ MaxSize=512
 
 [categories/symbolic]
 Size=16
+Scale=1
 Context=Categories
 Type=Scalable
 MinSize=16
@@ -84,6 +121,15 @@ MaxSize=512
 
 [devices/scalable]
 Size=16
+Scale=1
+Context=Devices
+Type=Scalable
+MinSize=16
+MaxSize=512
+
+[devices/scalable@2]
+Size=16
+Scale=2
 Context=Devices
 Type=Scalable
 MinSize=16
@@ -91,6 +137,7 @@ MaxSize=512
 
 [devices/symbolic]
 Size=16
+Scale=1
 Context=Devices
 Type=Scalable
 MinSize=16
@@ -102,6 +149,15 @@ MaxSize=512
 
 [emblems/scalable]
 Size=16
+Scale=1
+Context=Emblems
+Type=Scalable
+MinSize=16
+MaxSize=512
+
+[emblems/scalable@2]
+Size=16
+Scale=2
 Context=Emblems
 Type=Scalable
 MinSize=16
@@ -113,6 +169,7 @@ MaxSize=512
 
 [emotes/symbolic]
 Size=16
+Scale=1
 Context=Emotes
 Type=Scalable
 MinSize=16
@@ -124,6 +181,15 @@ MaxSize=512
 
 [mimetypes/scalable]
 Size=16
+Scale=1
+Context=MimeTypes
+Type=Scalable
+MinSize=16
+MaxSize=512
+
+[mimetypes/scalable@2]
+Size=16
+Scale=2
 Context=MimeTypes
 Type=Scalable
 MinSize=16
@@ -131,6 +197,7 @@ MaxSize=512
 
 [mimetypes/symbolic]
 Size=16
+Scale=1
 Context=MimeTypes
 Type=Scalable
 MinSize=16
@@ -143,16 +210,37 @@ MaxSize=512
 [panel/16]
 Context=Status
 Size=16
+Scale=1
+Type=Fixed
+
+[panel/16@2]
+Context=Status
+Size=16
+Scale=2
 Type=Fixed
 
 [panel/22]
 Context=Status
 Size=22
+Scale=1
+Type=Fixed
+
+[panel/22@2]
+Context=Status
+Size=22
+Scale=2
 Type=Fixed
 
 [panel/24]
 Context=Status
 Size=24
+Scale=1
+Type=Fixed
+
+[panel/24@2]
+Context=Status
+Size=24
+Scale=2
 Type=Fixed
 
 
@@ -161,6 +249,15 @@ Type=Fixed
 
 [places/scalable]
 Size=16
+Scale=1
+Context=Places
+Type=Scalable
+MinSize=16
+MaxSize=512
+
+[places/scalable@2]
+Size=16
+Scale=2
 Context=Places
 Type=Scalable
 MinSize=16
@@ -168,6 +265,7 @@ MaxSize=512
 
 [places/symbolic]
 Size=16
+Scale=1
 Context=Places
 Type=Scalable
 MinSize=16
@@ -179,6 +277,15 @@ MaxSize=512
 
 [status/scalable]
 Size=16
+Scale=1
+Context=Status
+Type=Scalable
+MinSize=16
+MaxSize=512
+
+[status/scalable@2]
+Size=16
+Scale=2
 Context=Status
 Type=Scalable
 MinSize=16
@@ -187,6 +294,7 @@ MaxSize=512
 [status/symbolic]
 Context=Status
 Size=16
+Scale=1
 Type=Scalable
 MinSize=8
 MaxSize=512
