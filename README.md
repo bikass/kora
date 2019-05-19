@@ -11,7 +11,7 @@ Clone this repository on your system
     
     git clone https://github.com/bikass/korla.git
 
-and copy *korla* and *korla-light* subfolders to one of the following folders: 
+and copy both ***korla*** and ***korla-light*** subfolders to one of the following folders: 
 
 * `/usr/share/icons/` - icons available system-wide
 * `$HOME/.local/share/icons/` - icons only available to local user
