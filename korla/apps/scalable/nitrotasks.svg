@@ -1,18 +1,15 @@
-
-<svg style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41421" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41421" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
  <path d="m34.68 3.797c-0.294-1.609-1.837-2.666-3.444-2.359l-25.521 4.875c-1.607 0.307-2.673 1.863-2.379 3.472l6.159 33.728c0.294 1.61 1.837 2.667 3.444 2.36l25.522-4.875c1.607-0.307 2.673-1.863 2.379-3.473l-6.16-33.728z" style="fill:url(#_Linear1)"/>
- <clipPath id="_clip2">
-  <path d="m44.078 6.336c-0.011-1.638-1.349-2.975-2.987-2.984l-29.604-0.174c-1.638-0.01-2.958 1.312-2.947 2.949l0.247 37.237c0.01 1.638 1.349 2.975 2.986 2.985l29.605 0.174c1.637 9e-3 2.958-1.313 2.947-2.95l-0.247-37.237z"/>
- </clipPath>
- <g clip-path="url(#_clip2)">
-  <use transform="scale(.994032 .985116)" x="8.591" y="3.226" width="35.785px" height="43.345px" xlink:href="#_Image3"/>
- </g>
+ <path d="m44.078 6.336c-0.011-1.638-1.349-2.975-2.987-2.984l-29.604-0.174c-1.638-0.01-2.958 1.312-2.947 2.949l0.247 37.237c0.01 1.638 1.349 2.975 2.986 2.985l29.605 0.174c1.637 9e-3 2.958-1.313 2.947-2.95l-0.247-37.237z" style="fill:url(#_Linear2)"/>
  <path d="m25.795 27.384c0.023-0.274-0.198-0.489-0.48-0.425l-4.79 1.076c-0.282 0.063-0.396-0.155-0.259-0.402l7.289-15.386c0.133-0.246 0.209-0.227 0.162 0.048l-0.195 9.648c-0.044 0.27 0.136 0.39 0.418 0.326l4.802-1.079c0.282-0.063 0.42 0.142 0.297 0.394l-7.318 15.384c-0.123 0.256-0.207 0.235-0.182-0.043" style="fill-opacity:.827451;fill:#fff"/>
  <defs>
-  <linearGradient id="_Linear1" x2="1" gradientTransform="matrix(16.2618,-42.853,42.853,16.2618,14.3909,45.3422)" gradientUnits="userSpaceOnUse">
+  <linearGradient id="_Linear1" x2="1" gradientTransform="matrix(16.2618,-42.853,42.853,16.2618,73.7405,67.8641)" gradientUnits="userSpaceOnUse">
    <stop style="stop-color:#eee" offset="0"/>
    <stop style="stop-color:#e4e4e4" offset="1"/>
   </linearGradient>
-  <image id="_Image3" width="36px" height="44px" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACQAAAAsCAYAAAANUxr1AAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAeklEQVRYhe2YMQrAMAzEXPAz+v+9H2yydqpCoeEG6QGOODiS+Dive1QQXSPKp7rQZ69wXkIjTSguIYUAhYje57N2UF5CCgEKEd5lxMJ7aC+JCSn0ii0jurK+ZdYeyROyZYBCxKP2GWJ5CdkyQCFCIeKn7cf3oXkJKQRMf4heHPmAIBEAAAAASUVORK5CYII="/>
+  <linearGradient id="_Linear2" x2="1" gradientTransform="matrix(-1.54234,42.5639,-42.5639,-1.54234,25.5423,3.4529)" gradientUnits="userSpaceOnUse">
+   <stop style="stop-color:#1cb0fd" offset="0"/>
+   <stop style="stop-color:#1586da" offset="1"/>
+  </linearGradient>
  </defs>
 </svg>
