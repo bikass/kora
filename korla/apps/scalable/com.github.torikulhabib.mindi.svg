@@ -1,0 +1,12 @@
+<svg style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41421" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+ <path d="m15.129 59.985c-1.077 0.655-2.423 0.679-3.522 0.062s-1.78-1.78-1.78-3.04v-50.014c0-1.26 0.681-2.423 1.78-3.04s2.445-0.593 3.522 0.062c9.975 6.078 31.396 19.129 41.045 25.007 1.039 0.633 1.673 1.762 1.673 2.978s-0.634 2.345-1.673 2.978c-9.649 5.878-31.07 18.929-41.045 25.007z" style="fill-rule:nonzero;fill:url(#_Radial1)"/>
+ <path d="m34.245 19.553c-0.108-0.019-0.227-0.011-0.352 0.025l-12.142 3.515c-0.502 0.145-0.905 0.707-0.905 1.259v13.466c-0.868-0.375-1.894-0.437-2.873-0.173-2.147 0.582-3.494 2.543-3.007 4.379 0.487 1.835 2.62 2.851 4.767 2.27 1.768-0.482 3.041-1.923 3.098-3.508l8e-3 -0.272v-12.352l9.966-2.885v9.551c-0.868-0.375-1.894-0.437-2.873-0.173-2.148 0.582-3.494 2.543-3.007 4.379 0.487 1.835 2.62 2.851 4.766 2.27 1.769-0.482 3.042-1.923 3.099-3.508l8e-3 -0.105v-17.379c0-0.414-0.228-0.703-0.553-0.759z" style="fill-rule:nonzero;fill:#8a3700"/>
+ <defs>
+  <radialGradient id="_Radial1" cx="0" cy="0" r="1" gradientTransform="matrix(0 92.3521 -100.221 0 34.446 -.641085)" gradientUnits="userSpaceOnUse">
+   <stop style="stop-color:#cdf87e" offset="0"/>
+   <stop style="stop-color:#a2e34f" offset=".26"/>
+   <stop style="stop-color:#68b723" offset=".66"/>
+   <stop style="stop-color:#1d7e0d" offset="1"/>
+  </radialGradient>
+ </defs>
+</svg>

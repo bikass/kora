@@ -1,0 +1,13 @@
+<svg style="clip-rule:evenodd;fill-rule:evenodd;stroke-linecap:round;stroke-linejoin:round" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+ <path d="m31.999 3c-1.519 0-3.039 0.566-4.175 1.702l-23.122 23.125c-2.271 2.271-2.268 6.072 3e-3 8.343l23.123 23.125c2.271 2.271 6.075 2.274 8.346 3e-3l23.123-23.125c2.271-2.271 2.271-6.075 0-8.346l-23.123-23.125c-1.136-1.136-2.656-1.702-4.175-1.702z" style="fill-rule:nonzero;fill:url(#_Linear1)"/>
+ <path d="m8.951 31.655l8.789-8.789 5.859 5.859-8.789 8.788 5.859 5.859" style="fill:none;stroke-width:4px;stroke:#5092ff"/>
+ <path d="m31.899 8.707l-8.789 8.789 5.859 5.859 8.789-8.789 5.858 5.859-5.37 5.371" style="fill:none;stroke-width:4px;stroke:#4b70e1"/>
+ <path d="m25.572 38.469l8.789-8.788 5.859 5.859-8.789 8.788 5.838 5.88 8.789-8.789" style="fill:none;stroke-width:4px;stroke:#744dec"/>
+ <path d="m23.11 45.814c-1.082 1.082-0.995 2.91 0.195 4.1l6.446 6.446c1.19 1.19 3.019 1.277 4.101 0.195l2.021-2.022c-0.197-0.116-0.387-0.25-0.557-0.419l-10.253-10.253-1.953 1.953zm17.577-17.577l10.253 10.253c0.17 0.17 0.303 0.36 0.42 0.557l4.951-4.951c1.082-1.082 0.995-2.911-0.195-4.101l-6.446-6.446c-1.19-1.19-3.019-1.276-4.101-0.194l-4.882 4.882z" style="fill-rule:nonzero;fill:#283d8a"/>
+ <defs>
+  <linearGradient id="_Linear1" x2="1" gradientTransform="matrix(3.49187e-15,-57.0266,57.0266,3.49187e-15,32,60.6683)" gradientUnits="userSpaceOnUse">
+   <stop style="stop-color:#ccc" offset="0"/>
+   <stop style="stop-color:#f0f0f0" offset="1"/>
+  </linearGradient>
+ </defs>
+</svg>
