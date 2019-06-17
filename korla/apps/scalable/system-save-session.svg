@@ -1,0 +1,15 @@
+<!DOCTYPE svg  PUBLIC '-//W3C//DTD SVG 1.1//EN'  'http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd'>
+<svg style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41421" version="1.1" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
+ <circle cx="16" cy="16" r="14" style="fill:url(#_Linear1)"/>
+ <path d="m10 9c-0.55 0-1 0.45-1 1v11l2 2h11c0.55 0 1-0.45 1-1v-12c0-0.55-0.45-1-1-1h-12zm1 2h10v10h-1v-5h-8v5h-1v-10zm5 6h2v4h-2v-4z" style="fill-rule:nonzero;fill:url(#_Linear2)"/>
+ <defs>
+  <linearGradient id="_Linear1" x2="1" gradientTransform="matrix(1.70324e-15,-27.816,27.816,1.70324e-15,16,29.9467)" gradientUnits="userSpaceOnUse">
+   <stop style="stop-color:#a8008a" offset="0"/>
+   <stop style="stop-color:#cc339f" offset="1"/>
+  </linearGradient>
+  <linearGradient id="_Linear2" x2="1" gradientTransform="matrix(8.50877e-16,-13.8959,13.8959,8.50877e-16,16,22.8959)" gradientUnits="userSpaceOnUse">
+   <stop style="stop-color:#e2e2e2" offset="0"/>
+   <stop style="stop-color:#fff" offset="1"/>
+  </linearGradient>
+ </defs>
+</svg>
