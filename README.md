@@ -25,6 +25,13 @@ and copy both ***korla*** and ***korla-light*** subfolders to one of the followi
 ![](im1.png)
 ![](im2.png)
 
+
+## Korla folders
+
+Three folder icon sets for Korla icon theme. https://github.com/bikass/korla-folders
+
+![](folders_pic.jpg)
+
 ## License
 
 [GPL3](https://www.gnu.org/licenses/gpl-3.0-standalone.html)
