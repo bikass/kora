@@ -17,8 +17,8 @@
  <rect x="31.045" y="24.663" width="2.2" height="1.1" style="fill-opacity:.93;fill:#fff"/>
  <path d="m32.951 27.371v-0.694c0-0.194-0.157-0.351-0.349-0.351h-0.97c-0.193 0-0.349 0.157-0.349 0.351v0.693l-0.539 1.591c-0.151 0.443-0.079 0.935 0.193 1.317 0.272 0.381 0.713 0.608 1.18 0.608s0.908-0.227 1.18-0.608c0.271-0.382 0.344-0.874 0.193-1.317l-0.539-1.59zm-0.226 2.497c-0.279 0.393-0.937 0.393-1.217 0-0.14-0.197-0.177-0.451-0.1-0.68l0.181-0.533h1.055l0.181 0.533c0.078 0.229 0.04 0.483-0.1 0.68z" style="fill-rule:nonzero;fill:#fff"/>
  <defs>
-  <linearGradient id="_Linear1" x2="1" gradientTransform="matrix(3.03829e-15,-49.619,49.619,3.03829e-15,32.1,51.088)" gradientUnits="userSpaceOnUse">
-   <stop style="stop-color:#787e82" offset="0"/>
+  <linearGradient id="_Linear1" x2="1" gradientTransform="matrix(3.03829e-15,-49.619,49.619,3.03829e-15,104.99,51.088)" gradientUnits="userSpaceOnUse">
+   <stop style="stop-color:#6a7983" offset="0"/>
    <stop style="stop-color:#b5bdc2" offset="1"/>
   </linearGradient>
  </defs>
