@@ -1,9 +1,9 @@
 # KORLA
 
-**Korla** icon theme is a mix of the following icon sets: *La Capitaine*, *MacOS11* and *Papirus*. It has also brand new icons, Mac specific have been replaced and dozen others were redone. To make them showing properly, you may need to update the icon cache. A script is included.
+**Korla** icon theme is a mix of the following icon sets: *Papirus*, *La Capitaine* and *MacOS11*. It also has brand new icons, Mac specific icons have been replaced and a dozen others were redone. To make icons display properly, you may need to update the icon cache. A script is included.
 
-This theme is considered to be in beta version. Many things need to be cleaned up. Use at your own risk.
-If someone knows how to make it better or fix what it's not working, help is appreciated.
+This theme is considered to be in beta. Many things need to be cleaned up. Use at your own risk.
+If anyone knows how to make it better or fix what is not working, help is appreciated.
 
 ## Installation
 
