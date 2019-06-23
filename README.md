@@ -1,6 +1,6 @@
 # KORLA
 
-**Korla** icon theme is a mix of the following icon sets: *Korla* and *Papirus*. It also has brand new icons, Mac specific icons have been replaced and a dozen others were redone. To make icons display properly, you may need to update the icon cache. A script is included.
+**Korla** icon theme is a mix of the following icon sets: *Korla* and *Papirus*. To make icons display properly, you may need to update the icon cache. A script is included.
 
 This theme is considered to be in beta. Many things need to be cleaned up. Use at your own risk.
 If anyone knows how to make it better or fix what is not working, help is appreciated.
