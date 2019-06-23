@@ -1,19 +1,15 @@
-<svg style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
- <clipPath id="_clip1">
-  <path d="m39.386 2.87c0-1.145-0.93-2.075-2.075-2.075h-31.669c-1.145 0-2.075 0.93-2.075 2.075v39.038c0 1.145 0.93 2.075 2.075 2.075h31.669c1.145 0 2.075-0.93 2.075-2.075v-39.038z"/>
- </clipPath>
- <g clip-path="url(#_clip1)">
-  <use transform="matrix(.994968 0 0 .981546 0 -1.38778e-17)" x="3.585" y="0.81" width="35.819px" height="43.188px" xlink:href="#_Image2"/>
- </g>
- <clipPath id="_clip3">
-  <path d="m43.179 6.386c0-1.145-0.93-2.075-2.075-2.075h-31.669c-1.145 0-2.075 0.93-2.075 2.075v39.038c0 1.145 0.93 2.075 2.075 2.075h31.669c1.145 0 2.075-0.93 2.075-2.075v-39.038z"/>
- </clipPath>
- <g clip-path="url(#_clip3)">
-  <use transform="matrix(.994968 0 0 .981546 0 -4.44089e-16)" x="7.397" y="4.392" width="35.819px" height="43.188px" xlink:href="#_Image4"/>
- </g>
+<svg style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+ <path d="m40.02 2.87c0-1.145-0.93-2.075-2.075-2.075h-31.669c-1.145 0-2.075 0.93-2.075 2.075v39.038c0 1.145 0.93 2.075 2.075 2.075h31.669c1.145 0 2.075-0.93 2.075-2.075v-39.038z" style="fill:url(#_Linear1)"/>
+ <path d="m44.367 6.031c0-1.145-0.93-2.075-2.075-2.075h-31.669c-1.145 0-2.075 0.93-2.075 2.075v39.038c0 1.145 0.93 2.075 2.075 2.075h31.669c1.145 0 2.075-0.93 2.075-2.075v-39.038z" style="fill:url(#_Linear2)"/>
  <path d="m18.035 30.895l0.303 3.887 3.888-0.303 9.051-10.585-4.191-3.583-9.051 10.584zm16.413-10.697c0.379-0.443 0.328-1.091-0.115-1.47l-2.619-2.239c-0.443-0.38-1.092-0.329-1.47 0.115l-1.872 2.201 4.192 3.584 1.884-2.191z" style="fill-opacity:.84;fill-rule:nonzero;fill:#fff"/>
  <defs>
-  <image id="_Image2" width="36px" height="44px" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACQAAAAsCAYAAAANUxr1AAAACXBIWXMAAA7EAAAOxAGVKw4bAAACBklEQVRYhcWXUY7DMAhEu5Lvf9QcIexHktrAAINbqfmoYhvy8BhI+ncch7x+dMn7Z47HL6Bq4h4+M18JyEIhWJzJHC8LrYDK3QJoBBZzJxIExEDNDA1dwZHvEMGOrMQCLCqo95uL4xT0yAxMQFOwON91OKQJVXYNKLJDNkMq50LibLcRdNqJe/445RUcDQ+NwBE0872PbF9iC2UDlmDRJ3VTYi5gbQCr9+lDPql7ErNQC8a+QKEOFIEZqIQlEpa9BrehCRi/CeY1pAF1Uxm0AM/M0GqPE1h3JOagHhwFPI9sU2IN5qDK1ex+iEgjJ2oo8rVQZ7NU9dWpE2gErpumeRLZv3xSNyVmod7Xp4iI+x7ioVzAQV4m1XsfWZwXDBSB+18Q12gm9behELzcBYWgk5qEqkc3oHXA9wda6ZxIjHwr6DOD2o0re4PioCG42+OWskdQ59yAIl+Yq2bBl31TYgaKwJFKJqk5KA6YgAZBz1wVc2SFI4JCcAHNfF3ZR+AW1IDzN4H2jxUKoMpuEzpvfFMeT84wEvMdPYdGvjqpm7v1ic69gmKba2V+fmxKTAVsoNDmHug+tCFxBVUzWct4Aqr+uVYSd6D6+eLtZPnIb0lcNL8KGvneSf2ZxOsq09H9PnXQoUIRmIYCY+ZNMGQT+p7bgGbXPLKGxGxH37lm2QPKp7vduf4BYJ+X8DiGRTUAAAAASUVORK5CYII="/>
-  <image id="_Image4" width="36px" height="44px" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACQAAAAsCAYAAAANUxr1AAAACXBIWXMAAA7EAAAOxAGVKw4bAAACCElEQVRYhcWYXY7CMAyEEyn3P8LelHofmgU7scfjUGn7AirxfBP/lEBvPyLtXy5pTdT7eY3/gDY3B/KUoQDqguX90s3ajwZpSMwL3m0EteBIYzFUTzHabUXjUzK5QFARmmi0VcPcWg0dphiJsxpdrR1drq9SDKEuGGuMdqmS0dDYPIYC8+L1EBGwQVPzRKmVBmxqJsWb8KbDGp+GugiGmlvRbhHUN98DjZkhJsVrFhzzKTQzL22061UK8IxHu8011rXSRtMlA+AaNDaPNXTJMqgLLk6TOwS3xt8A3Q/GL1LMQXdwpKHGvpDiyCAJtW+t8dvQFym2YZF51F/2c/XV4ZeJ2q0LXcGcxmhyFaAe+KSx1RAtGrOp/YAUCs3HUGTeNrVZVyuTD65nXR3Q8kmoQWPzSGNOWQEamY+g5nacsT4/Jk+Mz0xTN0t8/eXEeNDYTpn6e0lhWv0TIzcJKTQCE1kHJ0YNDcAsNDLvbP7zYDxM8b4WQXfzfbm/NPUekEM9MIaGWQ+b2gWzUGQeaEwdvqk38HmZkPH9CEtBE/NHjX1zR5cXGYCgyPwOtWF2rfrqcKBOAGvcgAvDcZfsaJoIaGrea+rrggFZisvQRGO02UP1FD/x4Jz/SSkN57e9A6agMXiFIg38294NOoCSGsoQH8DvNilpcG0nxhp0BXNQaKhvU+aBn4Wi6xdpx+iN35UhwAAAAABJRU5ErkJggg=="/>
+  <linearGradient id="_Linear1" x2="1" gradientTransform="matrix(-.116223 -43.188 43.188 -.116223 16.9338 43.983)" gradientUnits="userSpaceOnUse">
+   <stop style="stop-color:#cdd9f0" offset="0"/>
+   <stop style="stop-color:#fff" offset="1"/>
+  </linearGradient>
+  <linearGradient id="_Linear2" x2="1" gradientTransform="matrix(-.116223 -43.188 43.188 -.116223 21.2812 47.1441)" gradientUnits="userSpaceOnUse">
+   <stop style="stop-color:#0055f2" offset="0"/>
+   <stop style="stop-color:#42a5f9" offset="1"/>
+  </linearGradient>
  </defs>
 </svg>

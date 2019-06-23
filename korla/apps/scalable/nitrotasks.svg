@@ -1,19 +1,15 @@
-<svg style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
- <clipPath id="_clip1">
-  <path d="m39.386 2.835c0-1.145-0.93-2.075-2.075-2.075h-31.669c-1.145 0-2.075 0.93-2.075 2.075v39.038c0 1.145 0.93 2.075 2.075 2.075h31.669c1.145 0 2.075-0.93 2.075-2.075v-39.038z"/>
- </clipPath>
- <g clip-path="url(#_clip1)">
-  <use transform="matrix(.994968 0 0 .981546 0 -6.93889e-18)" x="3.585" y="0.774" width="35.819px" height="43.188px" xlink:href="#_Image2"/>
- </g>
- <clipPath id="_clip3">
-  <path d="m43.179 6.386c0-1.145-0.93-2.075-2.075-2.075h-31.669c-1.145 0-2.075 0.93-2.075 2.075v39.038c0 1.145 0.93 2.075 2.075 2.075h31.669c1.145 0 2.075-0.93 2.075-2.075v-39.038z"/>
- </clipPath>
- <g clip-path="url(#_clip3)">
-  <use transform="matrix(.994968 0 0 .981546 0 -4.44089e-16)" x="7.397" y="4.392" width="35.819px" height="43.188px" xlink:href="#_Image4"/>
- </g>
+<svg style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+ <path d="m39.365 3.351c0-1.145-0.93-2.075-2.075-2.075h-31.669c-1.145 0-2.075 0.93-2.075 2.075v39.038c0 1.145 0.93 2.075 2.075 2.075h31.669c1.145 0 2.075-0.93 2.075-2.075v-39.038z" style="fill:url(#_Linear1)"/>
+ <path d="m44.367 6.031c0-1.145-0.93-2.075-2.075-2.075h-31.669c-1.145 0-2.075 0.93-2.075 2.075v39.038c0 1.145 0.93 2.075 2.075 2.075h31.669c1.145 0 2.075-0.93 2.075-2.075v-39.038z" style="fill:url(#_Linear2)"/>
  <path d="m25.795 27.384c0.023-0.274-0.198-0.489-0.48-0.425l-4.79 1.076c-0.282 0.063-0.396-0.155-0.259-0.402l7.289-15.386c0.133-0.246 0.209-0.227 0.162 0.048l-0.195 9.648c-0.044 0.27 0.136 0.39 0.418 0.326l4.802-1.079c0.282-0.063 0.42 0.142 0.297 0.394l-7.318 15.384c-0.123 0.256-0.207 0.235-0.182-0.043" style="fill-opacity:.83;fill:#fff"/>
  <defs>
-  <image id="_Image2" width="36px" height="44px" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACQAAAAsCAYAAAANUxr1AAAACXBIWXMAAA7EAAAOxAGVKw4bAAAA8ElEQVRYhe1WWw7DIAxbJe5/VK6Q/U2tCnk6AU3w6zq2IG5y9d7ps/AQPeXbClEOhxmyiHK42RBXWBLV8IeGMkUlvM1A1BPADEULe/GWLWqt/7uh7GbVch9Ptqpv7virh1aaGhqqEN0u9hzOxr6ymVWGskQ5vM0ApCkLXx377Bm2ZeyJyJeyTFP/Ffstp32UP5z2VQnS8GHTHnWTpbHXmHJNe01hL9edsrPko0St9c+SL/GhsUf8YOFLfhR3T3vpm5RpHyns5YqxzxDlcFXso6Ys/LPkS6d8yZfwtCVf+iZlyfeKcicce6/w1BAi9sjzBceChxD4/zUEAAAAAElFTkSuQmCC"/>
-  <image id="_Image4" width="36px" height="44px" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACQAAAAsCAYAAAANUxr1AAAACXBIWXMAAA7EAAAOxAGVKw4bAAACBUlEQVRYhcWYXZLDIAyDzQxn3PtfZOt9aJOAsWSRzUzzFKjqTxE/DW32425fuQbsYKF/Azr1h74HDCFoBr7aDRgUDYXC9GkRNGrDvaeG9iNewcX9VGr9vJu/CHgX+mkX0NzgOYcuQ3cihqZSbV6vDX29wYQiVDVIUhYMvhNSIxZ0HMpqpnOofoIcirW6uXebTmol4hXKdLXB3sxFqGpOM9jGfr/uPwntrQpV22K/R936vW7+SwSaQfS0CIoNunVbhiwvsAdlWpK6hyGroaAghYY20B7sz8YoRKysNAhdwcjc8NOxGbE6mTfTS1ZZBlagDKyvtOGn484K4hNUM7gs+9e/ItYNopRn7fBrr+8V2KAGRVozOGTMIBtaTZuy/DCUJQRe1PagiYli800N1VBcjEOZ1k9ub8MrrBZxXOqqQR8eFuvI+5AWcbYX5RNZS08+deCnfSa945pOHXciLqFTV73Sho1xB8q0DLpqIzscg1hBBAXtcniH9rAPkiFj5hgUfK/cfN/telIHg/VkBsNUas+E3PDTgoTKp1VTmXXNzHpDL/lqsVTLoaxmfnKVDHJzd+fUNWQldC1WQsuaqy4/KEIoKKhCBe15UNyPmMyvDYPxj7DrbD9p9YihqeEe//u2tvGQQfAdaOgj2vLUUUWsQZHJ9UpfYXcirv+t3bvAUToUfxjKrj+KX2bO7FDY0AAAAABJRU5ErkJggg=="/>
+  <linearGradient id="_Linear1" x2="1" gradientTransform="matrix(-.116223 -43.188 43.188 -.116223 16.2788 44.4642)" gradientUnits="userSpaceOnUse">
+   <stop style="stop-color:#cdd9f0" offset="0"/>
+   <stop style="stop-color:#fff" offset="1"/>
+  </linearGradient>
+  <linearGradient id="_Linear2" x2="1" gradientTransform="matrix(-.116223 -43.188 43.188 -.116223 21.2812 47.1441)" gradientUnits="userSpaceOnUse">
+   <stop style="stop-color:#0055f2" offset="0"/>
+   <stop style="stop-color:#42a5f9" offset="1"/>
+  </linearGradient>
  </defs>
 </svg>
