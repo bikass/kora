@@ -5,9 +5,9 @@
  <path d="m36.931 58.891h-0.854l-0.958-1.432-0.941 1.432h-0.855l1.369-1.97-1.337-1.907h0.823l0.957 1.369 0.91-1.369h0.855l-1.353 1.907 1.384 1.97z" style="fill-rule:nonzero;fill:#fff"/>
  <path d="m29.836 36.986l-6.253-18.968 2.437-0.803 5.484 16.636 8.212-2.707 0.769 2.331-10.649 3.511z" style="fill-rule:nonzero;fill:#fff;stroke-width:2.03px;stroke:#fff"/>
  <defs>
-  <linearGradient id="_Linear1" x2="1" gradientTransform="matrix(3.03829e-15,-49.619,49.619,3.03829e-15,323.66,51.088)" gradientUnits="userSpaceOnUse">
+  <linearGradient id="_Linear1" x2="1" gradientTransform="matrix(3.03829e-15,-49.619,49.619,3.03829e-15,469.44,51.088)" gradientUnits="userSpaceOnUse">
    <stop style="stop-color:#348692" offset="0"/>
-   <stop style="stop-color:#9cebff" offset="1"/>
+   <stop style="stop-color:#69b9cd" offset="1"/>
   </linearGradient>
  </defs>
 </svg>

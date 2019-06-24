@@ -7,9 +7,9 @@
  <path d="m35.806 54.55v1.01h0.779v0.552h-0.779v2.587c0 0.167 0.035 0.293 0.104 0.378 0.069 0.082 0.188 0.123 0.355 0.123 0.082 0 0.195-0.015 0.339-0.046v0.578c-0.188 0.052-0.37 0.077-0.547 0.077-0.319 0-0.56-0.096-0.722-0.289-0.161-0.193-0.242-0.466-0.242-0.821v-2.587h-0.76v-0.552h0.76v-1.01h0.713z" style="fill-rule:nonzero;fill:#fff"/>
  <path d="m38.127 56.065c0.316-0.388 0.728-0.582 1.234-0.582 0.882 0 1.327 0.497 1.334 1.492v2.757h-0.713v-2.761c-3e-3 -0.3-0.072-0.523-0.208-0.667-0.134-0.144-0.343-0.216-0.629-0.216-0.231 0-0.434 0.062-0.609 0.185-0.175 0.124-0.311 0.286-0.409 0.486v2.973h-0.713v-5.923h0.713v2.256z" style="fill-rule:nonzero;fill:#fff"/>
  <defs>
-  <linearGradient id="_Linear1" x2="1" gradientTransform="matrix(3.03829e-15,-49.619,49.619,3.03829e-15,396.55,51.088)" gradientUnits="userSpaceOnUse">
+  <linearGradient id="_Linear1" x2="1" gradientTransform="matrix(3.03829e-15,-49.619,49.619,3.03829e-15,469.44,51.088)" gradientUnits="userSpaceOnUse">
    <stop style="stop-color:#348692" offset="0"/>
-   <stop style="stop-color:#9cebff" offset="1"/>
+   <stop style="stop-color:#69b9cd" offset="1"/>
   </linearGradient>
  </defs>
 </svg>

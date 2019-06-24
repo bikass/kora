@@ -3,9 +3,9 @@
  <path d="m32.07 31.448c2.582 0 4.675-2.093 4.675-4.675s-2.093-4.675-4.675-4.675-4.676 2.093-4.676 4.675c0 2.555 2.05 4.631 4.676 4.675z" style="fill:#296f79"/>
  <path d="m38.047 31.796c-1.499-0.844-2.997 2.079-6.09 1.937-2.899-0.133-4.76-2.975-6.231-2.127-1.472 0.848-4.173 6.036-2.599 7.213 1.653 1.237 3.833 2.511 8.539 2.551 5.144 0.045 7.832-1.34 9.284-2.576s-1.404-6.154-2.903-6.998z" style="fill:#296f79"/>
  <defs>
-  <linearGradient id="_Linear1" x2="1" gradientTransform="matrix(3.03829e-15,-49.619,49.619,3.03829e-15,396.55,51.088)" gradientUnits="userSpaceOnUse">
+  <linearGradient id="_Linear1" x2="1" gradientTransform="matrix(3.03829e-15,-49.619,49.619,3.03829e-15,469.44,51.088)" gradientUnits="userSpaceOnUse">
    <stop style="stop-color:#348692" offset="0"/>
-   <stop style="stop-color:#9cebff" offset="1"/>
+   <stop style="stop-color:#69b9cd" offset="1"/>
   </linearGradient>
  </defs>
 </svg>
