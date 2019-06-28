@@ -1,6 +1,6 @@
 [Icon Theme]
 Name=Kora
-Comment=Dark icon theme for Linux desktops. Mix of the following icon sets: Papirus, La_Capitaine, MacOS11.
+Comment=Dark icon theme for Linux desktops. Mix of the following icon sets: Korla, Papirus, MacOS.
 Inherits=breeze,gnome,hicolor
 
 Example=folder
