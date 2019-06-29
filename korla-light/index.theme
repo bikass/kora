@@ -1,6 +1,6 @@
 [Icon Theme]
 Name=Kora Light
-Comment=Light icon theme for Linux desktops. Mix of the following icon sets: Korla, Papirus, MacOS.
+Comment=Light icon theme for Linux desktops. Mix of the following icon sets: Korla, Papirus, Mac.
 Inherits=breeze,gnome,hicolor
 
 Example=folder
