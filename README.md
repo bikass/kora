@@ -32,6 +32,9 @@ Folder icon sets for Korla icon theme. https://github.com/bikass/korla-folders
 
 ![](folders_pic.jpg)
 
+Appreciate for coffee or beer:
+ko-fi.com/tarmakofi 
+
 ## License
 
 [GPL3](https://www.gnu.org/licenses/gpl-3.0-standalone.html)
