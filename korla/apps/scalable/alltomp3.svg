@@ -1,15 +1,12 @@
+<!DOCTYPE svg  PUBLIC '-//W3C//DTD SVG 1.1//EN'  'http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd'>
 <svg style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
- <path d="m32 2.412c16.331 0 29.588 13.257 29.588 29.588s-13.257 29.588-29.588 29.588-29.588-13.257-29.588-29.588 13.257-29.588 29.588-29.588z" style="fill:url(#_Linear1)"/>
- <circle cx="32" cy="32" r="27.055" style="fill:url(#_Linear2)"/>
+ <circle cx="32" cy="32" r="29.588" style="fill:url(#_Linear1)"/>
+ <path d="m32 2.412c16.331 0 29.588 13.257 29.588 29.588s-13.257 29.588-29.588 29.588-29.588-13.257-29.588-29.588 13.257-29.588 29.588-29.588zm0 2.533c14.932 0 27.055 12.123 27.055 27.055s-12.123 27.055-27.055 27.055-27.055-12.123-27.055-27.055 12.123-27.055 27.055-27.055z" style="fill-opacity:.44;fill:#fff"/>
  <path d="m24.841 18.833h-0.051c-1.199 0-2.187 0.963-2.187 2.134v22.066c0 1.171 0.988 2.134 2.187 2.134 0.384 0 0.761-0.098 1.093-0.286l9.785-5.514 9.783-5.518c0.675-0.38 1.093-1.086 1.093-1.848 0-0.761-0.418-1.467-1.093-1.848l-9.783-5.518-9.785-5.515c-0.317-0.18-0.676-0.279-1.042-0.287z" style="fill-rule:nonzero;fill:#f7dbdb"/>
  <defs>
-  <linearGradient id="_Linear1" x2="1" gradientTransform="matrix(3.62353e-15,-59.1768,59.1768,3.62353e-15,-204.707,61.5884)" gradientUnits="userSpaceOnUse">
-   <stop style="stop-color:#fff" offset="0"/>
-   <stop style="stop-color:#d4d4d4" offset="1"/>
-  </linearGradient>
-  <linearGradient id="_Linear2" x2="1" gradientTransform="matrix(.817882 -54.1106 54.1106 .817882 571.559 67.2341)" gradientUnits="userSpaceOnUse">
-   <stop style="stop-color:#a02300" offset="0"/>
-   <stop style="stop-color:#ff5722" offset="1"/>
+  <linearGradient id="_Linear1" x2="1" gradientTransform="matrix(.894455 -59.1767 59.1767 .894455 914.703 74.9559)" gradientUnits="userSpaceOnUse">
+   <stop style="stop-color:#791f06" offset="0"/>
+   <stop style="stop-color:#f77c5a" offset="1"/>
   </linearGradient>
  </defs>
 </svg>

@@ -1,1 +1,19 @@
-<svg height="48" width="48" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><linearGradient id="a" gradientUnits="userSpaceOnUse" x1="423.610718341685" x2="422.88237847784" y1="578.005212584455" y2="530.415892923715"><stop offset="0" stop-color="#981fe7"/><stop offset="1" stop-color="#db50c8"/></linearGradient><g fill="#fff" fill-opacity=".854839" transform="matrix(.248537059565 -.000000000325 .000000000325 .248537059565 -66.616602303774 -130.794604675482)"><circle cx="423.5881" cy="555.00751" fill="url(#a)" fill-opacity="1" fill-rule="evenodd" r="25.426903" transform="matrix(3.797752316329 0 0 3.797752316329 -1244.08274197169 -1484.95801449654)"/><g transform="matrix(4.0235448 0 0 4.0235448 67.040221 551.95877)"><circle cx="73.954624280988" cy="17.812395610227" fill="#fff" fill-opacity=".846774" r="17.999999628516"/><path d="m68.054623 11.012429 13 7-13 7z" fill="#b836d8" fill-opacity="1" stroke="#b836d8" stroke-linecap="round" stroke-linejoin="round"/></g></g></svg>
+<svg style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+ <circle cx="24" cy="24" r="22.734" style="fill:url(#_Linear1)"/>
+ <circle cx="24" cy="24.189" r="17.051" style="fill:url(#_Linear2)"/>
+ <path d="m16.095 17.073c0-0.783 0.412-1.509 1.084-1.911 0.673-0.401 1.507-0.42 2.196-0.049 3.715 2.001 9.751 5.251 13.608 7.328 0.721 0.388 1.17 1.14 1.17 1.959s-0.449 1.571-1.17 1.959c-3.857 2.077-9.893 5.327-13.608 7.328-0.689 0.371-1.523 0.352-2.196-0.049-0.672-0.402-1.084-1.127-1.084-1.911v-14.654z" style="fill:url(#_Linear3)"/>
+ <defs>
+  <linearGradient id="_Linear1" x2="1" gradientTransform="matrix(-.651217 -42.5502 42.5502 -.651217 24.0202 44.5625)" gradientUnits="userSpaceOnUse">
+   <stop style="stop-color:#6300a3" offset="0"/>
+   <stop style="stop-color:#db50c8" offset="1"/>
+  </linearGradient>
+  <linearGradient id="_Linear2" x2="1" gradientTransform="matrix(-4.24354e-7 -34.1017 34.1017 -4.24354e-7 24 41.2403)" gradientUnits="userSpaceOnUse">
+   <stop style="stop-color:#d6b1e1" offset="0"/>
+   <stop style="stop-color:#fff" offset="1"/>
+  </linearGradient>
+  <linearGradient id="_Linear3" x2="1" gradientTransform="matrix(1.95093e-15,-31.861,31.861,1.95093e-15,24,39.4839)" gradientUnits="userSpaceOnUse">
+   <stop style="stop-color:#6300a3" offset="0"/>
+   <stop style="stop-color:#d54cc6" offset="1"/>
+  </linearGradient>
+ </defs>
+</svg>
