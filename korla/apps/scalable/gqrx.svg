@@ -5,13 +5,13 @@
  <path d="m47.996 20.588c0 2.701 1.422 4.243 4.027 4.243s4.027-1.542 4.027-4.243v-8.783c0-2.7-1.422-4.242-4.027-4.242s-4.027 1.542-4.027 4.242v8.783zm-4.076-8.686c0 4.874-5.259 5.694-5.259 10.664v2.072h7.668v-2.409h-5.017c-0.024-0.121-0.024-0.242-0.024-0.362 0-2.775 5.282-4.753 5.282-10.061 0-2.701-1.349-4.243-3.954-4.243-2.606 0-3.955 1.542-3.955 4.243v1.64h2.506v-1.809c0-1.207 0.531-1.665 1.376-1.665 0.846 0 1.377 0.41 1.377 1.93zm6.727-0.265c0-1.207 0.531-1.665 1.376-1.665s1.377 0.458 1.377 1.665v9.12c0 1.206-0.532 1.665-1.377 1.665s-1.376-0.459-1.376-1.665v-9.12z" style="fill-rule:nonzero;fill:#c97c2e"/>
  <rect x="38.661" y="50.673" width="17.389" height="5.036" style="fill:#c97c2e"/>
  <defs>
-  <linearGradient id="_Linear1" x2="1" gradientTransform="matrix(-.152504 57.7119 -57.5621 -.152108 30.7687 3.14407)" gradientUnits="userSpaceOnUse">
+  <linearGradient id="_Linear1" x2="1" gradientTransform="matrix(-.152504 57.7119 -57.7119 -.152504 -150.207 2.66584)" gradientUnits="userSpaceOnUse">
    <stop style="stop-color:#969696" offset="0"/>
    <stop style="stop-color:#454545" offset="1"/>
   </linearGradient>
-  <linearGradient id="_Linear2" x2="1" gradientTransform="matrix(-.329298 55.8547 -55.7098 -.328444 29.9564 4.07264)" gradientUnits="userSpaceOnUse">
-   <stop style="stop-color:#132136" offset="0"/>
-   <stop offset="1"/>
+  <linearGradient id="_Linear2" x2="1" gradientTransform="matrix(-.329298 55.8547 -55.8547 -.329298 -196.95 2.73489)" gradientUnits="userSpaceOnUse">
+   <stop style="stop-color:#3b4b64" offset="0"/>
+   <stop style="stop-color:#2a303a" offset="1"/>
   </linearGradient>
  </defs>
 </svg>
