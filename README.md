@@ -18,7 +18,7 @@ and copy both ***korla*** and ***korla-light*** subfolders to one of the followi
 
 ### Specific Linux distributions
 
-* **Arch Linux**: [AUR package](https://aur.archlinux.org/packages/korla-icon-theme/)
+* **Arch Linux**: AUR [stable](https://aur.archlinux.org/packages/korla-icon-theme/) and [git](https://aur.archlinux.org/packages/korla-icon-theme-git/)
 
 ## Preview
 
