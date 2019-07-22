@@ -2,11 +2,10 @@
 
 **Korla** icon theme is a mix of the following icon sets: *Korla* and *Papirus*. To make icons display properly, you may need to update the icon cache. A script is included.
 
-***korla*** - for dark themes with dark panel
-
-***korla-light*** - for light themes with dark panel (depends on Korla)
-
-***korla-light-panel*** - for light themes with light panel (depends on Korla and Korla-light)
+Different versions available:
+* ***korla*** - for dark themes with dark panel
+* ***korla-light*** - for light themes with dark panel (depends on Korla)
+* ***korla-light-panel*** - for light themes with light panel (depends on Korla and Korla-light)
 
 ## Installation
 
