@@ -4,9 +4,9 @@
 
 ***korla*** - for dark themes with dark panel
 
-***korla-light*** - for light themes with dark panel
+***korla-light*** - for light themes with dark panel (depends on Korla)
 
-***korla-light-panel*** - for light themes with light panel
+***korla-light-panel*** - for light themes with light panel (depends on Korla and Korla-light)
 
 ## Installation
 
@@ -14,7 +14,7 @@ Clone this repository on your system
     
     git clone https://github.com/bikass/korla.git
 
-and copy both ***korla***, ***korla-light*** and ***korla-light-panel*** subfolders to one of the following folders: 
+and copy ***korla***, ***korla-light*** and ***korla-light-panel*** subfolders to one of the following folders: 
 
 * `/usr/share/icons/` - icons available system-wide
 * `$HOME/.local/share/icons/` - icons only available to local user
