@@ -1,14 +1,1 @@
-<svg style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41421" version="1.1" viewBox="0 0 600 600" xmlns="http://www.w3.org/2000/svg">
- <circle cx="300" cy="300" r="283.012" style="fill:url(#_Linear1)"/>
- <path d="m329.765 405.193c3.695 28.226-20.706 42.164-44.605 23.969-76.079-57.923 125.965-86.819 112.648-165.953-11.055-65.686-212.595-45.463-235.545 57.316-15.535 69.514 63.946 165.956 146.879 165.956 40.798 0 87.857-36.839 96.662-83.508 6.724-35.587-79.124-21.327-76.039 2.22zm-158.074-151.777c17.499-7.702 2.254-83.04-27.5-62.493-29.741 20.549 10.003 70.193 27.5 62.493zm49.303-39.433c20.83-4.246 21.971-89.69-15.174-74.363-37.154 15.332-5.64 78.616 15.174 74.363zm199.84-122.336c-82.138 0-97.546 116.991-51.339 116.991 46.201 0 133.481-116.991 51.339-116.991zm-136.388 102.495c24.603 1.502 51.596-93.891 5.355-87.891-46.224 5.999-29.969 86.388-5.355 87.891z" style="fill:url(#_Linear2)"/>
- <defs>
-  <linearGradient id="_Linear1" x2="1" gradientTransform="matrix(-5.91237,565.963,-565.963,-5.91237,300,16.988)" gradientUnits="userSpaceOnUse">
-   <stop style="stop-color:#27abec" offset="0"/>
-   <stop style="stop-color:#1e678d" offset="1"/>
-  </linearGradient>
-  <linearGradient id="_Linear2" x2="1" gradientTransform="matrix(-8.20226,394.834,-394.834,-8.20226,285.129,91.647)" gradientUnits="userSpaceOnUse">
-   <stop style="stop-color:#fff" offset="0"/>
-   <stop style="stop-color:#bfe9f1" offset="1"/>
-  </linearGradient>
- </defs>
-</svg>
+desktop-environment-gnome.svg

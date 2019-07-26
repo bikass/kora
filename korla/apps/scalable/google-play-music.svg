@@ -1,17 +1,17 @@
 <svg style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
- <circle cx="24" cy="24" r="23" style="fill:url(#_Linear1)"/>
- <circle cx="24" cy="24" r="20.016" style="fill:url(#_Linear2)"/>
- <path d="m32.521 14.957c3.065 0.322 4.976-2.383 4.839-2.662-0.129-0.261-2.959 0.291-6.831-1.697-1.596-0.82-4.317 0.374-4.502 1.271l-2.681 19.089c-1.031-0.776-3.344-0.898-4.889-0.699-2.787 0.359-4.51 2.209-4.244 4.488 0.267 2.278 2.307 3.214 5.096 2.855 2.224-0.288 5.197-1.351 5.682-4.352l2.484-16.734s1.07-1.974 5.046-1.559z" style="fill-rule:nonzero;fill:url(#_Linear3)"/>
+ <circle cx="24" cy="24" r="22.764" style="fill:url(#_Linear1)"/>
+ <circle cx="24" cy="24" r="19.811" style="fill:url(#_Linear2)"/>
+ <path d="m32.434 15.05c3.033 0.318 4.925-2.359 4.789-2.635-0.128-0.258-2.929 0.288-6.761-1.679-1.58-0.812-4.273 0.37-4.456 1.257l-2.653 18.894c-1.021-0.768-3.31-0.889-4.839-0.692-2.759 0.355-4.464 2.186-4.201 4.442 0.265 2.254 2.284 3.181 5.044 2.825 2.201-0.285 5.144-1.337 5.624-4.307l2.458-16.562s1.059-1.954 4.995-1.543z" style="fill-rule:nonzero;fill:url(#_Linear3)"/>
  <defs>
-  <linearGradient id="_Linear1" x2="1" gradientTransform="matrix(-.118507 -45.8616 45.8616 -.118507 23.7108 46.8052)" gradientUnits="userSpaceOnUse">
+  <linearGradient id="_Linear1" x2="1" gradientTransform="matrix(-.117291 -45.391 45.391 -.117291 69.1048 46.4539)" gradientUnits="userSpaceOnUse">
    <stop style="stop-color:#f7881a" offset="0"/>
    <stop style="stop-color:#fbc967" offset="1"/>
   </linearGradient>
-  <linearGradient id="_Linear2" x2="1" gradientTransform="matrix(2.39002e-15,-39.032,39.032,2.39002e-15,24,43.0156)" gradientUnits="userSpaceOnUse">
+  <linearGradient id="_Linear2" x2="1" gradientTransform="matrix(2.3655e-15,-38.6315,38.6315,2.3655e-15,177.908,42.8205)" gradientUnits="userSpaceOnUse">
    <stop style="stop-color:#cc5200" offset="0"/>
    <stop style="stop-color:#ff7f2a" offset="1"/>
   </linearGradient>
-  <linearGradient id="_Linear3" x2="1" gradientTransform="matrix(4.79569,-34.1402,34.1402,4.79569,385.423,90.4923)" gradientUnits="userSpaceOnUse">
+  <linearGradient id="_Linear3" x2="1" gradientTransform="matrix(4.74648,-33.7899,33.7899,4.74648,730.547,138.811)" gradientUnits="userSpaceOnUse">
    <stop style="stop-color:#d5d5d5" offset="0"/>
    <stop style="stop-color:#fcf9f9" offset="1"/>
   </linearGradient>

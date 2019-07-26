@@ -1,16 +1,11 @@
-<svg style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41421" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
- <circle cx="23.98" cy="24.009" r="24" style="fill:url(#_Linear1)"/>
- <path d="m23.98 24.009z" style="fill:url(#_Linear2)"/>
+<svg style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+ <circle cx="24" cy="24" r="22.764" style="fill:url(#_Linear1)"/>
  <path d="m21.917 11.509c0.46 0 0.833 0.373 0.833 0.833v23.334c0 0.46-0.373 0.833-0.833 0.833h-3.334c-0.46 0-0.833-0.373-0.833-0.833v-23.334c0-0.46 0.373-0.833 0.833-0.833h3.334z" style="fill:#c8c8c8"/>
  <path d="m29.417 31.509c0.46 0 0.833 0.373 0.833 0.833v3.334c0 0.46-0.373 0.833-0.833 0.833h-10.834c-0.46 0-0.833-0.373-0.833-0.833v-3.334c0-0.46 0.373-0.833 0.833-0.833h10.834zm0-20c0.46 0 0.833 0.373 0.833 0.833v3.334c0 0.46-0.373 0.833-0.833 0.833h-10.834c-0.46 0-0.833-0.373-0.833-0.833v-3.334c0-0.46 0.373-0.833 0.833-0.833h10.834z" style="fill:#fff"/>
  <defs>
-  <linearGradient id="_Linear1" x2="1" gradientTransform="matrix(2.83419e-15,-46.2859,46.2859,2.83419e-15,22.99,46.879)" gradientUnits="userSpaceOnUse">
-   <stop style="stop-color:#3985dd" offset="0"/>
-   <stop style="stop-color:#5cc4ff" offset="1"/>
-  </linearGradient>
-  <linearGradient id="_Linear2" x2="1" gradientTransform="matrix(2.93916e-15,-48.0001,48.0001,2.93916e-15,22.2658,48.0092)" gradientUnits="userSpaceOnUse">
-   <stop style="stop-color:#3889e9" offset="0"/>
-   <stop style="stop-color:#5ea5fb" offset="1"/>
+  <linearGradient id="_Linear1" x2="1" gradientTransform="matrix(2.78782e-15,-45.5286,45.5286,2.78782e-15,210.895,46.7643)" gradientUnits="userSpaceOnUse">
+   <stop style="stop-color:#0a80fd" offset="0"/>
+   <stop style="stop-color:#56c5fa" offset="1"/>
   </linearGradient>
  </defs>
 </svg>
