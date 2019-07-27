@@ -1,18 +1,15 @@
-<svg height="48" width="48" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-  <linearGradient id="a" gradientTransform="matrix(1.0638147 0 0 1 9.758108 -.061865)" gradientUnits="userSpaceOnUse" x1="368.96432" x2="368.96432" y1="545.75293" y2="517.39703">
-    <stop offset="0" stop-color="#fc7816" />
-    <stop offset="1" stop-color="#ffac01" />
+<svg style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+ <path d="m47.312 10.595c0-0.976-0.388-1.911-1.077-2.601-0.69-0.691-1.627-1.079-2.603-1.079h-39.264c-0.976 0-1.913 0.388-2.603 1.079-0.689 0.69-1.077 1.625-1.077 2.601v27.823c0 0.976 0.388 1.911 1.077 2.602 0.69 0.69 1.627 1.078 2.603 1.078h39.264c0.976 0 1.913-0.388 2.603-1.078 0.689-0.691 1.077-1.626 1.077-2.602v-27.823z" style="fill-opacity:.67"/>
+ <path d="m47.312 9.381c0-1.921-1.557-3.479-3.479-3.479h-39.666c-1.922 0-3.479 1.558-3.479 3.479v28.225c0 1.921 1.557 3.479 3.479 3.479h39.666c1.922 0 3.479-1.558 3.479-3.479v-28.225z" style="fill:url(#_Linear1)"/>
+ <path d="m3.292 7.761v5.007h1.001v-4.006h4.006v-1.001h-5.007z" style="fill-opacity:.75;fill-rule:nonzero;fill:#fff"/>
+ <path d="m3.292 40.11h5.007v-1.002h-4.006v-4.006h-1.001v5.008z" style="fill-opacity:.75;fill-rule:nonzero;fill:#fff"/>
+ <path d="m44.655 39.609v-1.002-4.006h-1.002v4.006h-4.006v1.002h5.008z" style="fill-opacity:.75;fill-rule:nonzero;fill:#fff"/>
+ <path d="m44.755 8.061h-1.002-4.006v1.001h4.006v4.006h1.002v-5.007z" style="fill-opacity:.75;fill-rule:nonzero;fill:#fff"/>
+ <circle cx="23.728" cy="24.489" r="5.571" style="fill-opacity:.77;fill:#fff"/>
+ <defs>
+  <linearGradient id="_Linear1" x2="1" gradientTransform="matrix(2.21762e-15,-36.2165,36.2165,2.21762e-15,275.714,42.119)" gradientUnits="userSpaceOnUse">
+   <stop style="stop-color:#fc7a15" offset="0"/>
+   <stop style="stop-color:#ffa902" offset="1"/>
   </linearGradient>
-  <g transform="matrix(1.031659 0 0 1.031659 -397.471904 -516.392414)">
-    <rect fill="url(#a)" height="28.0625" opacity=".988" ry="2" transform="matrix(1.36942419 0 0 1.36942419 -141.440306 -204.316785)" width="33.975594" x="384.6958" y="517.73608" />
-    <g fill="#fff">
-      <g transform="matrix(.97078178 0 0 .97078178 102.181235 16.595155)">
-        <path d="m294.90044 506.26511v1 4h1v-4h4v-1z" opacity=".75" />
-        <path d="m294.90044 538.56511h1 4v-1h-4v-4h-1z" opacity=".75" />
-        <path d="m336.2007 538.06511v-1-4h-1v4h-4v1z" opacity=".75" />
-        <path d="m336.3007 506.56472h-1-4v1h4v4h1z" opacity=".75" />
-      </g>
-      <circle cx="408.27432" cy="524.28314" opacity=".77" r="5.400003" />
-    </g>
-  </g>
+ </defs>
 </svg>
