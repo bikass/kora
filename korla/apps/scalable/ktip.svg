@@ -1,1 +1,10 @@
-<svg height="48" width="48" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><linearGradient id="a" gradientUnits="userSpaceOnUse" x1="399.57144" x2="399.57144" y1="545.79797" y2="517.79797"><stop offset="0" stop-color="#3889e9"/><stop offset="1" stop-color="#5ea5fb"/></linearGradient><linearGradient id="b" gradientUnits="userSpaceOnUse" x1="399.9939" x2="399.9939" y1="545.13873" y2="518.13873"><stop offset="0" stop-color="#197ff1"/><stop offset="1" stop-color="#21c6fb"/></linearGradient><g stroke-width="1.3" transform="matrix(1.714287145397 0 0 1.714287145397 -662.624419757845 -887.654378991536)"><circle cx="400.57138" cy="531.79791" fill="url(#b)" r="13.999958"/><circle cx="400.57144" cy="531.79797" fill="none" r="13.999958"/><circle cx="400.57138" cy="531.79791" fill="url(#a)" r="0"/></g><g fill="#fff" fill-opacity=".847222" stroke-width=".916363" transform="matrix(.855110446603 0 0 .855110446603 4.559577100585 5.665328383235)"><path d="m22.683 16.977c-2.028 0-3.465 1.646-3.465 3.672v12.485c0 2.028 1.437 3.671 3.465 3.671 2.027 0 3.463-1.643 3.463-3.671v-12.485c0-2.028-1.436-3.672-3.463-3.672z" fill="#fff" fill-opacity=".847222"/><path d="m22.698 7.432c-2.095 0-3.795 1.699-3.795 3.795 0 2.095 1.7 3.793 3.795 3.793 2.093 0 3.793-1.698 3.793-3.793 0-2.096-1.7-3.795-3.793-3.795z" fill="#fff" fill-opacity=".847222"/></g></svg>
+<svg style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+ <circle cx="24" cy="24" r="22.764" style="fill:url(#_Linear1)"/>
+ <path d="m23.956 20.183c-1.734 0-2.963 1.407-2.963 3.14v10.676c0 1.734 1.229 3.139 2.963 3.139 1.733 0 2.961-1.405 2.961-3.139v-10.676c0-1.735-1.228-3.14-2.961-3.14zm0.013-8.162c-1.792 0-3.245 1.452-3.245 3.245 0 1.791 1.453 3.243 3.245 3.243 1.79 0 3.243-1.452 3.243-3.243 0-1.793-1.453-3.245-3.243-3.245z" style="fill-opacity:.85;fill-rule:nonzero;fill:#fff"/>
+ <defs>
+  <linearGradient id="_Linear1" x2="1" gradientTransform="matrix(2.78782e-15,-45.5286,45.5286,2.78782e-15,210.895,46.7643)" gradientUnits="userSpaceOnUse">
+   <stop style="stop-color:#0a80fd" offset="0"/>
+   <stop style="stop-color:#56c5fa" offset="1"/>
+  </linearGradient>
+ </defs>
+</svg>

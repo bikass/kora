@@ -1,11 +1,11 @@
-<svg style="clip-rule:evenodd;fill-rule:evenodd" version="1.1" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
- <path d="m14.041 0.5c0.805 0 1.459 0.654 1.459 1.459v12.082c0 0.805-0.654 1.459-1.459 1.459h-12.082c-0.805 0-1.459-0.654-1.459-1.459v-12.082c0-0.805 0.654-1.459 1.459-1.459h12.082z" style="fill:url(#_Linear1)"/>
- <path d="m4 11.5l4-7 4 7" style="fill:none;stroke-width:.8px;stroke:#fff"/>
- <path d="m6.333 2.5c-0.461 0-0.833 0.357-0.833 0.8v2.4c0 0.443 0.372 0.8 0.833 0.8h3.334c0.461 0 0.833-0.357 0.833-0.8v-2.4c0-0.443-0.372-0.8-0.833-0.8h-3.334z" style="fill-rule:nonzero;fill:#fff"/>
- <path d="m2.333 9.5c-0.461 0-0.833 0.357-0.833 0.8v2.4c0 0.443 0.372 0.8 0.833 0.8h3.334c0.461 0 0.833-0.357 0.833-0.8v-2.4c0-0.443-0.372-0.8-0.833-0.8h-3.334z" style="fill-rule:nonzero;fill:#fff"/>
- <path d="m10.333 9.5c-0.461 0-0.833 0.357-0.833 0.8v2.4c0 0.443 0.372 0.8 0.833 0.8h3.334c0.461 0 0.833-0.357 0.833-0.8v-2.4c0-0.443-0.372-0.8-0.833-0.8h-3.334z" style="fill-rule:nonzero;fill:#fff"/>
+<svg style="clip-rule:evenodd;fill-rule:evenodd" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+ <path d="m45.668 8.56c0-3.438-2.79-6.228-6.228-6.228h-30.88c-3.438 0-6.228 2.79-6.228 6.228v30.88c0 3.438 2.79 6.228 6.228 6.228h30.88c3.438 0 6.228-2.79 6.228-6.228v-30.88z" style="fill:url(#_Linear1)"/>
+ <path d="m14.387 32.411l9.613-16.822 9.613 16.822" style="fill:none;stroke-width:1.92px;stroke:#fff"/>
+ <path d="m19.994 10.782c-1.108 0-2.002 0.858-2.002 1.923v5.768c0 1.064 0.894 1.922 2.002 1.922h8.012c1.108 0 2.002-0.858 2.002-1.922v-5.768c0-1.065-0.894-1.923-2.002-1.923h-8.012z" style="fill-rule:nonzero;fill:#fff"/>
+ <path d="m10.381 27.605c-1.108 0-2.002 0.858-2.002 1.922v5.768c0 1.065 0.894 1.923 2.002 1.923h8.012c1.108 0 2.002-0.858 2.002-1.923v-5.768c0-1.064-0.894-1.922-2.002-1.922h-8.012z" style="fill-rule:nonzero;fill:#fff"/>
+ <path d="m29.607 27.605c-1.108 0-2.002 0.858-2.002 1.922v5.768c0 1.065 0.894 1.923 2.002 1.923h8.012c1.108 0 2.002-0.858 2.002-1.923v-5.768c0-1.064-0.894-1.922-2.002-1.922h-8.012z" style="fill-rule:nonzero;fill:#fff"/>
  <defs>
-  <linearGradient id="_Linear1" x2="1" gradientTransform="matrix(0,-15,-15,0,8,15.5)" gradientUnits="userSpaceOnUse">
+  <linearGradient id="_Linear1" x2="1" gradientTransform="matrix(2.65361e-15,-43.3368,43.3368,2.65361e-15,2.33162,45.6684)" gradientUnits="userSpaceOnUse">
    <stop style="stop-color:#c75900" offset="0"/>
    <stop style="stop-color:#f58800" offset="1"/>
   </linearGradient>

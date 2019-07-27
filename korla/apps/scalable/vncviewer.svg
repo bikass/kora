@@ -1,9 +1,8 @@
-
-<svg style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41421" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
- <path d="m48.186 4c6.52 0 11.814 5.294 11.814 11.814v32.372c0 6.52-5.294 11.814-11.814 11.814h-32.372c-6.52 0-11.814-5.294-11.814-11.814v-32.372c0-6.52 5.294-11.814 11.814-11.814h32.372z" style="fill:url(#_Linear1)"/>
- <path d="m11.27 16l9.008 29.879c9e-3 0.018 0.018 0.022 0.027 0.039 0.319 1.196 1.403 2.082 2.699 2.082 1.23 0 2.261-0.796 2.637-1.898 8e-3 -0.017 0.028-0.039 0.035-0.055l9.059-30.047h-3.022l-8.709 29.115-8.709-29.115h-3.025zm32.73 0c-3.866 0-7 3.134-7 7v7h3v-7c0-2.245 1.756-4 4-4 2.245 0 4 1.755 4 4v7h3v-7c0-3.866-3.134-7-7-7zm0 18c-3.866 0-7 3.134-7 7s3.134 7 7 7h7v-3h-7c-2.244 0-4-1.755-4-4s1.756-4 4-4h7v-3h-7z" style="fill-rule:nonzero;fill:#fff"/>
+<svg style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+ <path d="m45.668 8.56c0-3.438-2.79-6.228-6.228-6.228h-30.88c-3.438 0-6.228 2.79-6.228 6.228v30.88c0 3.438 2.79 6.228 6.228 6.228h30.88c3.438 0 6.228-2.79 6.228-6.228v-30.88z" style="fill:url(#_Linear1)"/>
+ <path d="m8.453 12l6.755 22.409c7e-3 0.014 0.014 0.017 0.021 0.03 0.239 0.897 1.052 1.561 2.024 1.561 0.922 0 1.696-0.597 1.978-1.423 6e-3 -0.013 0.021-0.03 0.026-0.042l6.794-22.535h-2.266l-6.532 21.836-6.532-21.836h-2.269zm24.548 0c-2.9 0-5.25 2.351-5.25 5.25v5.25h2.25v-5.25c0-1.684 1.317-3 3-3 1.684 0 3 1.316 3 3v5.25h2.25v-5.25c0-2.899-2.351-5.25-5.25-5.25zm0 13.5c-2.9 0-5.25 2.351-5.25 5.25 0 2.9 2.35 5.25 5.25 5.25h5.25v-2.25h-5.25c-1.683 0-3-1.316-3-3s1.317-3 3-3h5.25v-2.25h-5.25z" style="fill-rule:nonzero;fill:#fff"/>
  <defs>
-  <linearGradient id="_Linear1" x2="1" gradientTransform="matrix(0,-56,-56,0,32,60)" gradientUnits="userSpaceOnUse">
+  <linearGradient id="_Linear1" x2="1" gradientTransform="matrix(2.65356e-15,-43.336,43.336,2.65356e-15,-149.344,45.668)" gradientUnits="userSpaceOnUse">
    <stop style="stop-color:#014081" offset="0"/>
    <stop style="stop-color:#288cf4" offset="1"/>
   </linearGradient>

@@ -1,11 +1,10 @@
-
-<svg style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41421" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
- <path d="m47.008 4c7.17 0 12.992 5.822 12.992 12.992v30.016c0 7.17-5.822 12.992-12.992 12.992h-30.016c-7.17 0-12.992-5.822-12.992-12.992v-30.016c0-7.17 5.822-12.992 12.992-12.992h30.016z" style="fill:url(#_Linear1)"/>
- <path d="m10.259 22l2.833 12.107 1.841 7.893h4.11l1.841-7.893 0.166-0.709 2.667-11.398h-4.117l-2.612 11.195-2.612-11.195h-4.117z" style="fill-rule:nonzero;fill:#ff513a"/>
- <path d="m24.925 22l-3.922 19.607-0.078 0.393h4.078l2.112-10.552 2.461 10.552h4.11l2.461-10.552 2.112 10.552h4.078l-0.078-0.393-3.922-19.607h-4.094l-2.612 11.195-2.612-11.195h-4.094z" style="fill-rule:nonzero;fill:#00af3a"/>
- <path d="m42.925 22v20h2s2.416 0.028 4.893-1.211c2.478-1.238 5.107-4.122 5.107-8.789s-2.629-7.551-5.107-8.789c-2.477-1.239-4.893-1.211-4.893-1.211h-2zm4 4.508c0.484 0.117 0.564 0.01 1.107 0.281 1.523 0.762 2.893 1.878 2.893 5.211s-1.37 4.449-2.893 5.211c-0.543 0.271-0.623 0.164-1.107 0.281v-10.984z" style="fill-rule:nonzero;fill:#0092eb"/>
+<svg style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+ <path d="m45.668 8.56c0-3.438-2.79-6.228-6.228-6.228h-30.88c-3.438 0-6.228 2.79-6.228 6.228v30.88c0 3.438 2.79 6.228 6.228 6.228h30.88c3.438 0 6.228-2.79 6.228-6.228v-30.88z" style="fill:url(#_Linear1)"/>
+ <path d="m7.694 16.5l2.125 9.08 1.381 5.92h3.082l1.381-5.92 0.125-0.532 2-8.548h-3.088l-1.959 8.396-1.959-8.396h-3.088z" style="fill-rule:nonzero;fill:#ff513a"/>
+ <path d="m18.694 16.5l-2.942 14.705-0.058 0.295h3.058l1.584-7.914 1.846 7.914h3.082l1.846-7.914 1.584 7.914h3.059l-0.059-0.295-2.941-14.705h-3.071l-1.959 8.396-1.959-8.396h-3.07z" style="fill-rule:nonzero;fill:#00af3a"/>
+ <path d="m32.194 16.5v15h1.5s1.812 0.021 3.669-0.908c1.859-0.929 3.831-3.092 3.831-6.592s-1.972-5.663-3.831-6.592c-1.857-0.929-3.669-0.908-3.669-0.908h-1.5zm3 3.381c0.363 0.088 0.423 8e-3 0.83 0.211 1.142 0.571 2.17 1.408 2.17 3.908s-1.028 3.337-2.17 3.908c-0.407 0.203-0.467 0.123-0.83 0.211v-8.238z" style="fill-rule:nonzero;fill:#0092eb"/>
  <defs>
-  <linearGradient id="_Linear1" x2="1" gradientTransform="matrix(0,-56,-56,0,32,60)" gradientUnits="userSpaceOnUse">
+  <linearGradient id="_Linear1" x2="1" gradientTransform="matrix(2.65356e-15,-43.336,43.336,2.65356e-15,-149.344,45.668)" gradientUnits="userSpaceOnUse">
    <stop style="stop-color:#292929" offset="0"/>
    <stop style="stop-color:#5b5b5b" offset="1"/>
   </linearGradient>

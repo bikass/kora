@@ -1,13 +1,13 @@
 <svg style="clip-rule:evenodd;fill-rule:evenodd" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
- <circle cx="24" cy="24" r="22.875" style="fill:url(#_Linear1)"/>
- <circle cx="24" cy="24" r="22.08" style="fill:none;stroke-opacity:.63;stroke-width:1.84px;stroke:#fff"/>
- <path d="m31.325 14.453c2.901 0.304 4.71-2.256 4.58-2.52-0.122-0.247-2.8 0.275-6.465-1.606-1.511-0.776-4.086 0.354-4.261 1.203l-2.538 18.067c-0.975-0.734-3.165-0.85-4.627-0.662-2.638 0.34-4.269 2.091-4.017 4.248 0.253 2.156 2.184 3.042 4.823 2.702 2.105-0.272 4.919-1.278 5.378-4.119l2.351-15.838s1.013-1.868 4.776-1.475z" style="fill-rule:nonzero;fill:url(#_Linear2)"/>
+ <circle cx="24" cy="24" r="22.764" style="fill:url(#_Linear1)"/>
+ <circle cx="24" cy="24" r="21.973" style="fill:none;stroke-opacity:.63;stroke-width:1.83px;stroke:#fff"/>
+ <path d="m31.289 14.499c2.887 0.303 4.688-2.245 4.558-2.507-0.121-0.246-2.786 0.273-6.433-1.599-1.504-0.772-4.067 0.353-4.241 1.198l-2.525 17.979c-0.971-0.731-3.15-0.846-4.605-0.659-2.625 0.338-4.248 2.081-3.997 4.227s2.173 3.028 4.799 2.689c2.095-0.27 4.895-1.271 5.352-4.099l2.34-15.761s1.008-1.859 4.752-1.468z" style="fill-rule:nonzero;fill:url(#_Linear2)"/>
  <defs>
-  <linearGradient id="_Linear1" x2="1" gradientTransform="matrix(-.117866 -45.6131 45.6131 -.117866 23.7124 46.6816)" gradientUnits="userSpaceOnUse">
+  <linearGradient id="_Linear1" x2="1" gradientTransform="matrix(-.117294 -45.3918 45.3918 -.117294 74.7795 46.4396)" gradientUnits="userSpaceOnUse">
    <stop style="stop-color:#ff9300" offset="0"/>
    <stop style="stop-color:#ffd702" offset="1"/>
   </linearGradient>
-  <linearGradient id="_Linear2" x2="1" gradientTransform="matrix(4.53898,-32.3127,32.3127,4.53898,365.337,85.9441)" gradientUnits="userSpaceOnUse">
+  <linearGradient id="_Linear2" x2="1" gradientTransform="matrix(4.51695,-32.1559,32.1559,4.51695,687.404,131.117)" gradientUnits="userSpaceOnUse">
    <stop style="stop-color:#dfdfdf" offset="0"/>
    <stop style="stop-color:#fcf9f9" offset="1"/>
   </linearGradient>

@@ -1,13 +1,13 @@
-<svg height="48" width="48" version="1.1" xmlns="http://www.w3.org/2000/svg">
-	<defs>
-		<linearGradient id="a" gradientUnits="userSpaceOnUse" x1="0" x2="0" y1="46" y2="2">
-			<stop offset="0" stop-color="#197ff1" />
-			<stop offset="1" stop-color="#21c6fb" />
-		</linearGradient>
-	</defs>
-	<circle cx="24" cy="24" r="22" fill="url(#a)" />
-	<g fill="none" stroke="#FFF" opacity="0.85" stroke-width="3" stroke-linecap="round" transform="translate(-1 -1) rotate(-45 24 24)">
-		<circle cx="24" cy="24" r="6.5" />
-		<line x1="24" y1="30.5" x2="24" y2="37.5" />
-	</g>
+<svg style="clip-rule:evenodd;fill-rule:evenodd;stroke-linecap:round" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+ <circle cx="24" cy="24" r="22.764" style="fill:url(#_Linear1)"/>
+ <g opacity=".85">
+  <path d="m17.389 17.389c2.9-2.901 7.611-2.901 10.512 0 2.901 2.9 2.901 7.611 0 10.512s-7.612 2.901-10.512 0c-2.901-2.901-2.901-7.612 0-10.512z" style="fill:none;stroke-width:3.43px;stroke:#fff"/>
+  <path d="m28.317 28.319l5.245 5.241" style="fill:none;stroke-width:3.75px;stroke:#fff"/>
+ </g>
+ <defs>
+  <linearGradient id="_Linear1" x2="1" gradientTransform="matrix(2.78782e-15,-45.5286,45.5286,2.78782e-15,210.895,46.7643)" gradientUnits="userSpaceOnUse">
+   <stop style="stop-color:#0a80fd" offset="0"/>
+   <stop style="stop-color:#56c5fa" offset="1"/>
+  </linearGradient>
+ </defs>
 </svg>

@@ -1,12 +1,12 @@
 <svg style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
- <circle cx="24" cy="24" r="22.447" style="fill:url(#_Linear1)"/>
- <path d="m32.215 15.529l-7.953 7.953c-0.141 0.141-0.358 0.141-0.499 0l-7.965-7.953c-0.269-0.269-0.627-0.422-1.011-0.422h-2.071c-0.396 0-0.716 0.32-0.716 0.716v16.354c0 0.396 0.32 0.716 0.716 0.716h3.018c0.396 0 0.716-0.32 0.716-0.716v-9.296c0-0.077 0.089-0.115 0.153-0.064l6.393 6.393c0.55 0.55 1.458 0.55 2.008 0l6.393-6.393c0.051-0.052 0.153-0.013 0.153 0.064v9.296c0 0.396 0.32 0.716 0.716 0.716h3.018c0.396 0 0.716-0.32 0.716-0.716v-16.354c0-0.396-0.32-0.716-0.716-0.716h-2.071c-0.371 0.013-0.729 0.153-0.998 0.422z" style="fill-rule:nonzero;fill:url(#_Linear2)"/>
+ <circle cx="24" cy="24" r="22.764" style="fill:url(#_Linear1)"/>
+ <path d="m32.331 15.409l-8.065 8.066c-0.143 0.143-0.363 0.143-0.506 0l-8.078-8.066c-0.273-0.272-0.636-0.428-1.025-0.428h-2.1c-0.402 0-0.726 0.325-0.726 0.727v16.584c0 0.402 0.324 0.727 0.726 0.727h3.06c0.402 0 0.726-0.325 0.726-0.727v-9.427c0-0.078 0.091-0.116 0.156-0.065l6.483 6.484c0.558 0.557 1.478 0.557 2.036 0l6.483-6.484c0.052-0.052 0.156-0.013 0.156 0.065v9.427c0 0.402 0.324 0.727 0.726 0.727h3.06c0.402 0 0.726-0.325 0.726-0.727v-16.584c0-0.402-0.324-0.727-0.726-0.727h-2.1c-0.376 0.014-0.739 0.156-1.012 0.428z" style="fill-rule:nonzero;fill:url(#_Linear2)"/>
  <defs>
-  <linearGradient id="_Linear1" x2="1" gradientTransform="matrix(.772995 -44.5761 44.5761 .772995 23.7333 46.1683)" gradientUnits="userSpaceOnUse">
+  <linearGradient id="_Linear1" x2="1" gradientTransform="matrix(.783911 -45.2056 45.2056 .783911 93.9338 47.6988)" gradientUnits="userSpaceOnUse">
    <stop style="stop-color:#860005" offset="0"/>
    <stop style="stop-color:#f55" offset="1"/>
   </linearGradient>
-  <linearGradient id="_Linear2" x2="1" gradientTransform="matrix(.126268 -18.1828 18.1828 .126268 24.1174 33.2559)" gradientUnits="userSpaceOnUse">
+  <linearGradient id="_Linear2" x2="1" gradientTransform="matrix(.128051 -18.4396 18.4396 .128051 302.686 35.3211)" gradientUnits="userSpaceOnUse">
    <stop style="stop-color:#fff" offset="0"/>
    <stop style="stop-color:#f9f9f9" offset="1"/>
   </linearGradient>

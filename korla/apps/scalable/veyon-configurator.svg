@@ -1,12 +1,12 @@
-<svg style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41421" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
- <path d="m61 10c0-3.863-3.137-7-7-7h-43c-3.863 0-7 3.137-7 7v43c0 3.863 3.137 7 7 7h43c3.863 0 7-3.137 7-7v-43z" style="fill:url(#_Linear1)"/>
- <path d="m18.75 18.668c-1.523 0-2.75 1.115-2.75 2.5s1.227 2.5 2.75 2.5h27.5c1.523 0 2.75-1.115 2.75-2.5s-1.227-2.5-2.75-2.5h-15.949-0.551-11z" style="fill-opacity:.4;fill-rule:nonzero;fill:#fff"/>
- <path d="m18.75 38.789c-1.523 0-2.75 1.115-2.75 2.5s1.227 2.5 2.75 2.5h27.5c1.523 0 2.75-1.115 2.75-2.5s-1.227-2.5-2.75-2.5h-15.949-0.551-11z" style="fill-opacity:.4;fill-rule:nonzero;fill:#fff"/>
- <path d="m44 21.168c0-3.037-2.463-5.5-5.5-5.5s-5.5 2.463-5.5 5.5c0 3.038 2.463 5.5 5.5 5.5s5.5-2.462 5.5-5.5z" style="fill-rule:nonzero;fill:#fff"/>
- <path d="m30.719 41.289s-4.128-5.5-9.219-5.5-9.219 5.5-9.219 5.5 4.128 5.5 9.219 5.5 9.219-5.5 9.219-5.5z" style="fill-rule:nonzero;fill:#fff"/>
- <circle cx="21.5" cy="41.289" r="3.337" style="fill:#545454"/>
+<svg style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+ <path d="m45.668 8.56c0-3.438-2.79-6.228-6.228-6.228h-30.88c-3.438 0-6.228 2.79-6.228 6.228v30.88c0 3.438 2.79 6.228 6.228 6.228h30.88c3.438 0 6.228-2.79 6.228-6.228v-30.88z" style="fill:url(#_Linear1)"/>
+ <path d="m14.063 14.001c-1.143 0-2.063 0.836-2.063 1.875s0.92 1.875 2.063 1.875h20.624c1.143 0 2.063-0.836 2.063-1.875s-0.92-1.875-2.063-1.875h-11.961-0.413-8.25z" style="fill-opacity:.4;fill-rule:nonzero;fill:#fff"/>
+ <path d="m14.063 29.092c-1.143 0-2.063 0.836-2.063 1.875 0 1.038 0.92 1.875 2.063 1.875h20.624c1.143 0 2.063-0.837 2.063-1.875 0-1.039-0.92-1.875-2.063-1.875h-11.961-0.413-8.25z" style="fill-opacity:.4;fill-rule:nonzero;fill:#fff"/>
+ <path d="m33 15.876c0-2.278-1.847-4.125-4.125-4.125s-4.125 1.847-4.125 4.125 1.847 4.125 4.125 4.125 4.125-1.846 4.125-4.125z" style="fill-rule:nonzero;fill:#fff"/>
+ <path d="m23.039 30.967s-3.096-4.125-6.914-4.125-6.914 4.125-6.914 4.125 3.096 4.125 6.914 4.125 6.914-4.125 6.914-4.125z" style="fill-rule:nonzero;fill:#fff"/>
+ <circle cx="16.125" cy="30.967" r="2.503" style="fill:#545454"/>
  <defs>
-  <linearGradient id="_Linear1" x2="1" gradientTransform="matrix(.5 -57 57 .5 32 60)" gradientUnits="userSpaceOnUse">
+  <linearGradient id="_Linear1" x2="1" gradientTransform="matrix(.38014 -43.336 43.336 .38014 153.628 46.8084)" gradientUnits="userSpaceOnUse">
    <stop style="stop-color:#363636" offset="0"/>
    <stop style="stop-color:#545454" offset="1"/>
   </linearGradient>

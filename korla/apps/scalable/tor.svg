@@ -1,19 +1,17 @@
-<svg style="clip-rule:evenodd;fill-rule:evenodd;stroke-linecap:round;stroke-linejoin:round" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
- <circle cx="32" cy="32" r="28" style="fill:url(#_Linear1)"/>
- <circle cx="32" cy="32" r="21.882" style="fill:none;stroke-width:4.24px;stroke:#fff"/>
- <circle cx="32" cy="32" r="13.818" style="fill:none;stroke-width:4.36px;stroke:#fff"/>
- <circle cx="32" cy="32" r="8" style="fill:#fff"/>
- <clipPath id="_clip2">
-  <path d="m32 58.6c-14.681 0-26.6-11.919-26.6-26.6s11.919-26.6 26.6-26.6v53.2z"/>
- </clipPath>
- <g clip-path="url(#_clip2)">
-  <use transform="scale(.985185)" x="5.481" y="5.481" width="26.6px" height="53.2px" xlink:href="#_Image3"/>
- </g>
+<svg style="clip-rule:evenodd;fill-rule:evenodd;stroke-linecap:round;stroke-linejoin:round" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+ <circle cx="24" cy="24" r="22.764" style="fill:url(#_Linear1)"/>
+ <circle cx="24" cy="24" r="17.79" style="fill:none;stroke-width:3.45px;stroke:#fff"/>
+ <circle cx="24" cy="24" r="11.234" style="fill:none;stroke-width:3.54px;stroke:#fff"/>
+ <circle cx="24" cy="24" r="6.504" style="fill:#fff"/>
+ <path d="m24 45.626c-11.936 0-21.626-9.69-21.626-21.626s9.69-21.626 21.626-21.626v43.252z" style="fill:url(#_Linear2)"/>
  <defs>
-  <linearGradient id="_Linear1" x2="1" gradientTransform="matrix(-7.34186e-7 -55.9504 55.9504 -7.34186e-7 32 59.9504)" gradientUnits="userSpaceOnUse">
+  <linearGradient id="_Linear1" x2="1" gradientTransform="matrix(-5.96893e-7 -45.4877 45.4877 -5.96893e-7 205.951 46.7237)" gradientUnits="userSpaceOnUse">
    <stop style="stop-color:#4f0078" offset="0"/>
    <stop style="stop-color:#7307aa" offset="1"/>
   </linearGradient>
-  <image id="_Image3" width="27px" height="54px" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABsAAAA2CAYAAAA25uK9AAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAg0lEQVRYhe2YgQnAIAwEDThDx+9wHSRxBUPCQ4+4wHkY/0V7ny+WaG0PGWvtWK6EKc1izDpgSjMvmJlZDlYxi+QdRQ+IEqbNRmoQgyuGawZOEKqZY8242QhOkCnPDljlkZqGibORembciuGaTXk2wbgV80ezi1+KPrOLPc89a4JRR/8AH5aGyyhi37YAAAAASUVORK5CYII="/>
+  <linearGradient id="_Linear2" x2="1" gradientTransform="matrix(-2.83524e-7 -43.2133 21.6066 -5.67049e-7 99.6137 45.5875)" gradientUnits="userSpaceOnUse">
+   <stop style="stop-color:#4f0078" offset="0"/>
+   <stop style="stop-color:#7307aa" offset="1"/>
+  </linearGradient>
  </defs>
 </svg>

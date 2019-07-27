@@ -1,12 +1,12 @@
-<svg style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41421" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
- <circle cx="24.041" cy="24.034" r="24" style="fill:url(#_Linear1)"/>
- <path d="m35.884 19.978c-0.136-1.625-1.104-3.674-3.095-3.747-5.56-0.374-12.146-0.476-17.807 0-1.756 0.196-2.96 2.336-3.091 3.96-0.277 3.413-0.277 5.356 0 8.769 0.133 1.624 1.306 3.776 3.094 4.001 5.728 0.374 12.282 0.428 17.807 0 1.733-0.3 2.961-2.377 3.094-4.001 0.276-3.415 0.276-5.569-2e-3 -8.982zm-15.049 8.927v-8.75l7.628 4.375-7.628 4.375z" style="fill-rule:nonzero;fill:url(#_Linear2)"/>
+<svg style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+ <circle cx="24.041" cy="24.034" r="22.798" style="fill:url(#_Linear1)"/>
+ <path d="m35.291 20.181c-0.129-1.543-1.049-3.49-2.94-3.559-5.282-0.355-11.538-0.452-16.915 0-1.668 0.186-2.812 2.219-2.936 3.761-0.264 3.243-0.264 5.088 0 8.33 0.126 1.543 1.24 3.587 2.939 3.801 5.441 0.355 11.666 0.406 16.915 0 1.646-0.285 2.812-2.258 2.939-3.801 0.262-3.244 0.262-5.29-2e-3 -8.532zm-14.295 8.48v-8.312l7.246 4.156-7.246 4.156z" style="fill-rule:nonzero;fill:url(#_Linear2)"/>
  <defs>
-  <linearGradient id="_Linear1" x2="1" gradientTransform="matrix(2.86567e-15,-46.8,46.8,2.86567e-15,24.041,46.834)" gradientUnits="userSpaceOnUse">
+  <linearGradient id="_Linear1" x2="1" gradientTransform="matrix(2.72215e-15,-44.4561,44.4561,2.72215e-15,25.5525,45.6921)" gradientUnits="userSpaceOnUse">
    <stop style="stop-color:#930313" offset="0"/>
    <stop style="stop-color:#f55" offset="1"/>
   </linearGradient>
-  <linearGradient id="_Linear2" x2="1" gradientTransform="matrix(-.226932 -13.1936 13.1936 -.226932 24.2679 33.2621)" gradientUnits="userSpaceOnUse">
+  <linearGradient id="_Linear2" x2="1" gradientTransform="matrix(-.215567 -12.5328 12.5328 -.215567 223.668 29.37)" gradientUnits="userSpaceOnUse">
    <stop style="stop-color:#bebebe" offset="0"/>
    <stop style="stop-color:#fefefe" offset="1"/>
   </linearGradient>
