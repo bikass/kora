@@ -1,12 +1,10 @@
-<svg style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
- <clipPath id="_clip1">
-  <path d="m45.668 8.56c0-3.438-2.79-6.228-6.228-6.228h-30.88c-3.438 0-6.228 2.79-6.228 6.228v30.88c0 3.438 2.79 6.228 6.228 6.228h30.88c3.438 0 6.228-2.79 6.228-6.228v-30.88z"/>
- </clipPath>
- <g clip-path="url(#_clip1)">
-  <use transform="scale(.984909)" x="2.368" y="2.368" width="43.336px" height="43.336px" xlink:href="#_Image2"/>
- </g>
+<svg style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+ <path d="m45.668 8.56c0-3.438-2.79-6.228-6.228-6.228h-30.88c-3.438 0-6.228 2.79-6.228 6.228v30.88c0 3.438 2.79 6.228 6.228 6.228h30.88c3.438 0 6.228-2.79 6.228-6.228v-30.88z" style="fill:url(#_Linear1)"/>
  <path d="m10.667 11.016l7.991 21.044 2.232-0.02 3.821-9.157-1.752 0.016-4.831-11.952-7.461 0.069zm20.294-0.187l-4.946 12.042-0.026 1e-3 -5.021 12.217-1.156 0.011 1.134 2.985 5.632-0.052 11.84-27.271-7.457 0.067z" style="fill:#444d54"/>
  <defs>
-  <image id="_Image2" width="44px" height="44px" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAYAAAAehFoBAAAACXBIWXMAAA7EAAAOxAGVKw4bAAABRElEQVRYhe2YwRKDMAhEYSb//1m999qPKT1oNFpHWQRJO75zxiwJLjvhx/MlNMLUP0Vk0kuys7Als7CFYC36wvxLKwa9akRZGlKW6YS9Ud8YdyL4CObhDkQ2BQf/UobPtxrLu9E71nFW0jZV6MnPx9uak9AK1sOM7c3E7hemszXjKeXYGlNYW1eQViyHp9CF6812cL2tmciwNSfutNZypzXKDj/wIMoSzKBSmpeX90pwRN+tNhhyopGvHlb3nbUuz7SmYbrNpNY/Hs0rtEKjWivM1iIsjSjb1gifrkmC8XapKq+3tcX2OHZbM295DnNLZCW7wB7G0rV2EAWmNWxianX4nrDpVQf7tI9g+Bkgy9bMrzoetjZFVMDWEmbOHH4MYVrD/9qacl26raGr09Mays+ktUrfaW1DSp9pbcff+0prikH0AYrRvqgHrMywAAAAAElFTkSuQmCC"/>
+  <linearGradient id="_Linear1" x2="1" gradientTransform="matrix(.53598 -43.336 43.336 .53598 22.9578 45.668)" gradientUnits="userSpaceOnUse">
+   <stop style="stop-color:#96aabc" offset="0"/>
+   <stop style="stop-color:#c6d1da" offset="1"/>
+  </linearGradient>
  </defs>
 </svg>

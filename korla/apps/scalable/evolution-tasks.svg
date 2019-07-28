@@ -1,19 +1,15 @@
-<svg style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
- <clipPath id="_clip1">
-  <path d="m39.386 2.835c0-1.145-0.93-2.075-2.075-2.075h-31.669c-1.145 0-2.075 0.93-2.075 2.075v39.038c0 1.145 0.93 2.075 2.075 2.075h31.669c1.145 0 2.075-0.93 2.075-2.075v-39.038z"/>
- </clipPath>
- <g clip-path="url(#_clip1)">
-  <use transform="matrix(.994968 0 0 .981546 0 -6.93889e-18)" x="3.585" y="0.774" width="35.819px" height="43.188px" xlink:href="#_Image2"/>
- </g>
- <clipPath id="_clip3">
-  <path d="m43.179 6.386c0-1.145-0.93-2.075-2.075-2.075h-31.669c-1.145 0-2.075 0.93-2.075 2.075v39.038c0 1.145 0.93 2.075 2.075 2.075h31.669c1.145 0 2.075-0.93 2.075-2.075v-39.038z"/>
- </clipPath>
- <g clip-path="url(#_clip3)">
-  <use transform="matrix(.994968 0 0 .981546 0 -4.44089e-16)" x="7.397" y="4.392" width="35.819px" height="43.188px" xlink:href="#_Image4"/>
- </g>
+<svg style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+ <path d="m39.386 2.835c0-1.145-0.93-2.075-2.075-2.075h-31.669c-1.145 0-2.075 0.93-2.075 2.075v39.038c0 1.145 0.93 2.075 2.075 2.075h31.669c1.145 0 2.075-0.93 2.075-2.075v-39.038z" style="fill:url(#_Linear1)"/>
+ <path d="m43.179 6.386c0-1.145-0.93-2.075-2.075-2.075h-31.669c-1.145 0-2.075 0.93-2.075 2.075v39.038c0 1.145 0.93 2.075 2.075 2.075h31.669c1.145 0 2.075-0.93 2.075-2.075v-39.038z" style="fill:url(#_Linear2)"/>
  <path d="m36.98 18.274l-1.039-0.971c-0.428-0.4-1.103-0.377-1.507 0.051l-10.179 10.893-5.704-5.332c-0.428-0.4-1.103-0.377-1.507 0.051l-0.971 1.038c-0.4 0.428-0.377 1.104 0.051 1.507l7.518 7.028c0.216 0.201 0.488 0.298 0.761 0.289 0.272-9e-3 0.541-0.124 0.739-0.34l11.878-12.707c0.41-0.435 0.387-1.107-0.04-1.507z" style="fill-opacity:.69;fill-rule:nonzero;fill:#fff"/>
  <defs>
-  <image id="_Image2" width="36px" height="44px" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACQAAAAsCAYAAAANUxr1AAAACXBIWXMAAA7EAAAOxAGVKw4bAAAB3klEQVRYhcWYzXLDMAiE6YyeuG/XN+sp9GC3+mNXC0knPtnKmg8wQkw+vr8+3d52+XbX3gEd78xn7YscClH9yU/afpd0iBgDUPQW+jVwSIUetEA3PfmubT6J8yk+OhhAWQbb9cKhBkpQoD3YbG4P0RACFzPo+5qZWftdqKa4AmV2m08OFIuUgqNgsIN3UddTjNYw2IO+OPWhXkOVFCvQo3a4lk+Wge5gFQq1vhV1PsUMjKDMwV5DxRRDXQBWgmnuvA9RY0Uo1I6fLAPlYKFnkc3Tz7JUtIKDhx3rwO69y+oprkCh1pc+FEIP4BhKtNvy2oemT/ZfUN1uGw9TNcV7EDloqPVLS88yJcUcHEOZg9c89GKorA10bZ1/5J0Boy0EM/wUz9RHaAxWoVh9z9TPQxE4hqL33cBM/TwUgYGD+JMhKDEmQXcw0i5FnU9xBYrtCjO1BiVaRTcc7M3s8VSK5WAGKNOFM3W5SCEU2Q3OMtqHkCExWmyzr/sS0TAx1lLMwTGUOQhmagRWoQct0eE+JIH5WcbAo7GpqOfHfIpVqKQ1H3dZLcUrWIEyB/9maqleZGhfh1rf1+7DdTEYQhFYcNATWiP/D3HospKEsmvqQ9QYSHEVDB3a5qEXRlu5fgBKyh/G4V/7qgAAAABJRU5ErkJggg=="/>
-  <image id="_Image4" width="36px" height="44px" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACQAAAAsCAYAAAANUxr1AAAACXBIWXMAAA7EAAAOxAGVKw4bAAACJElEQVRYhcWXUY7DMAhEseT7X2LPWbMfSS2MYRinlZqPVb0hfgwBYpr8qcovrjdW5x8RFem/gIroXHrbzx2KoBnY2LbEQc4hDUAn0NDW/DbPrA49CDFSG0LN1tH9LmPEBidQC1G3Tp2Ko97lNRIoobYSstnGopqx7S2L0AYl1G7QAFw4uESIgjJqSQfjHHo7VKpNoIVtKnBjXT+upA434kK8q/bOkkl+r3sbiqHMZg+SvOEcIkJM9pEU6sDL2vzu8nrJcj3oI5naDIoqt8vQ3eggxBs0BPNRvzs1gFrWF6vJ274LqDefQ4chpqABOGOZb9lBiAsHy3aROT6r7IMQb3YWnECRU6ZTx1F53hxZB9c30GWMA2ilFjmYVe56z3zt2RCfJXkEXdZu/zuHzD8rtbA5JvcPRJU5ZNc0tBSVO2i+9gS0VJtAS1udp8a7MQK10UaWdVBN86gKWOCQf1BNi4O6nJHj5809Z+uOsO4hRi3MIQcmunceITLEFNSu0RvQO0KfhPgsyff7vojcGESo3aC52gyK9o9ziFKbQGlRsYMghzwUqIVzGGs7c0hztXRzJKChyL2IeoOHfAIK1GZQ5KAbFB0IOphAPbhw0LOuqePhoAihmcjiDZSD4gol1bLdOwjAHBSPQ8wmeRH15va/ZvsgB6DaEBqAEygSsgyKZR8BiZ1CA1uU2KZTM9VEqAWVx1zhoMhD3ZqEQodaOCh68Heh6PoH3Q0GXW7zOG4AAAAASUVORK5CYII="/>
+  <linearGradient id="_Linear1" x2="1" gradientTransform="matrix(35.819,0,0,43.188,3.567,22.354)" gradientUnits="userSpaceOnUse">
+   <stop style="stop-color:#e1ac44" offset="0"/>
+   <stop style="stop-color:#f8b972" offset="1"/>
+  </linearGradient>
+  <linearGradient id="_Linear2" x2="1" gradientTransform="matrix(35.819,0,0,43.188,7.36,25.905)" gradientUnits="userSpaceOnUse">
+   <stop style="stop-color:#0940b2" offset="0"/>
+   <stop style="stop-color:#00a3ff" offset="1"/>
+  </linearGradient>
  </defs>
 </svg>
