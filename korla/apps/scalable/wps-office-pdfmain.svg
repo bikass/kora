@@ -1,0 +1,12 @@
+<!DOCTYPE svg  PUBLIC '-//W3C//DTD SVG 1.1//EN'  'http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd'>
+<svg style="clip-rule:evenodd;fill-rule:evenodd;stroke-linecap:round;stroke-linejoin:round" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+ <path d="m42.73 5.217c0-0.921-0.748-1.668-1.668-1.668h-19.89c-0.921 0-1.668 0.747-1.668 1.668v36.827c0 0.921 0.747 1.668 1.668 1.668h19.89c0.92 0 1.668-0.747 1.668-1.668v-36.827z" style="fill:#fff"/>
+ <path d="m37.408 2.002c-0.162-4e-3 -0.346 2e-3 -0.555 0.021l-13.467 1.526h-13.894c-1.718-0.154-2.414 0.038-2.414 1.916v36.121c-0.107 2.062 0.605 2.018 2.275 2.018h14.172l13.443 1.896c1.62 0 1.633-0.926 1.528-2.988l0.114-38.209c0-1.644-0.069-2.272-1.202-2.301z" style="fill:url(#_Linear1)"/>
+ <path d="m22 20v-7.014h6s6 0.014 6 6.514-6 6.5-6 6.5h-10.5s-3.482 0.505-3.5 4.5 3.5 4.5 3.5 4.5h4.5v-3" style="fill:none;stroke-width:4px;stroke:#fff"/>
+ <defs>
+  <linearGradient id="_Linear1" x2="1" gradientTransform="matrix(2.40281e-15,-39.2409,39.2409,2.40281e-15,81.7542,42.6529)" gradientUnits="userSpaceOnUse">
+   <stop style="stop-color:#92000d" offset="0"/>
+   <stop style="stop-color:#ff4468" offset="1"/>
+  </linearGradient>
+ </defs>
+</svg>
