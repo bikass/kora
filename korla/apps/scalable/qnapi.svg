@@ -1,1 +1,11 @@
-gnome-subtitles.svg
+<svg style="clip-rule:evenodd;fill-rule:evenodd" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+ <path d="m45.668 8.56c0-3.438-2.79-6.228-6.228-6.228h-30.88c-3.438 0-6.228 2.79-6.228 6.228v30.88c0 3.438 2.79 6.228 6.228 6.228h30.88c3.438 0 6.228-2.79 6.228-6.228v-30.88z" style="fill:url(#_Linear1)"/>
+ <path d="m24 10c-7.68 0-14 6.32-14 14s6.32 14 14 14 14-6.32 14-14-6.32-14-14-14zm0 5c4.389 0 8 4.063 8 9s-3.611 9-8 9-8-4.063-8-9 3.611-9 8-9z" style="fill-rule:nonzero;fill:#5a3608"/>
+ <path d="m21.103 28.085c4.782-0.372 11.134 4.944 14.377 10.209" style="fill:none;stroke-width:4px;stroke:#5a3608"/>
+ <defs>
+  <linearGradient id="_Linear1" x2="1" gradientTransform="matrix(2.65356e-15,-43.336,43.336,2.65356e-15,23.5236,45.668)" gradientUnits="userSpaceOnUse">
+   <stop style="stop-color:#d26c1d" offset="0"/>
+   <stop style="stop-color:#ff8945" offset="1"/>
+  </linearGradient>
+ </defs>
+</svg>
