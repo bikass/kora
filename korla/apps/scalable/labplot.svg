@@ -1,1 +1,23 @@
-<svg height="48" width="48" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><linearGradient id="a" gradientTransform="matrix(1.0309825 0 0 1 -.512598 0)" gradientUnits="userSpaceOnUse" x1="17" x2="17" y1="1036.3622" y2="1012.3622"><stop offset="0" stop-color="#2f74c8"/><stop offset="1" stop-color="#50aff7"/></linearGradient><linearGradient id="b" gradientTransform="matrix(.68964436 0 0 1 10.82717 0)" gradientUnits="userSpaceOnUse" x1="33.461716" x2="34.116894" y1="1013.622" y2="1037.2084"><stop offset="0" stop-color="#f6fbff"/><stop offset="1" stop-color="#eaeff2"/></linearGradient><linearGradient id="c" gradientUnits="userSpaceOnUse" x1="27.800341" x2="27.800341" y1="1037.3622" y2="1011.3622"><stop offset="0" stop-color="#2862a6"/><stop offset="1" stop-color="#4192da"/></linearGradient><g fill="none" stroke="#000" transform="matrix(1.1526351 0 0 1.1526351 -392.655097435745 -577.086477986532)"><g fill-rule="evenodd" stroke="none" transform="matrix(1.5263052 0 0 1.5263052 327.253194 -1042.524148)"><path d="m11.563303 1036.9442h11.636697l-.000321-24.4983-11.533282.0003c-1.268259-.094-1.782566.023-1.782566 1.1721v22.0916c-.07966 1.261.446208 1.2343 1.679472 1.2343z" fill="url(#a)"/><path d="m33.959911 1036.9362h-7.990815v-24.498h7.990815c.848365-.094.916631.023.916631 1.1721v22.0916c.05328 1.261-.09168 1.2343-.916631 1.2343z" fill="url(#b)"/><path d="m31.957586 1038.1035-10.029586-1.1715-.00002-24.4861 9.945926-.9324c1.230149-.094 1.296492.2446 1.296492 1.3937l-.08368 23.3688c.07726 1.261.06707 1.8275-1.129132 1.8275z" fill="url(#c)"/></g><g fill="none" stroke="#fff" stroke-width="1.394198" transform="matrix(.57380653 0 0 .57380653 125.0066 221.75671)"><path d="m389.57143 524.29002c13.00545 0 15.77175 14.97339 21.511 15.01587 5.73924.0423 5.48353-15.01587 18.489-15.01587"/><path d="m389.57143 523.30598c13.00545 0 15.77175-10.2735 21.511-10.31598 5.73924-.0423 5.48353 10.31598 18.489 10.31598"/><path d="m389.57143 522.08521c13.00545 0 15.77175-14.97339 21.511-15.01587 5.73924-.0423 5.48353 15.01587 18.489 15.01587"/><path d="m387.04988 523.78239h44.92372"/></g></g></svg>
+<svg style="clip-rule:evenodd;fill-rule:evenodd" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+ <path d="m6.399 45.363h19.042l-1e-3 -43.099-18.857-0.059c-3.166 0.058-4.486 1.251-4.569 4.417v34.223c0.012 2.752 2.216 4.518 4.385 4.518z" style="fill:url(#_Linear1)"/>
+ <path d="m42.397 45.363l-12.085-0.014v-43.099l12.431-0.045c2.16 0.026 3.24 1.708 3.24 3.729v35.526c0.094 2.219-1.372 3.855-3.586 3.903z" style="fill:url(#_Linear2)"/>
+ <path d="m42.838 43.097c-0.04 2.642-1.222 4.026-3.552 4.123l-16.083-1.878v-43.078l16.584-1.555c2.209-0.223 3.174 0.962 3.191 3.337l-0.14 39.051z" style="fill:url(#_Linear3)"/>
+ <path d="m9.09 25.278c8.602 0 10.432 9.903 14.228 9.931 3.795 0.028 3.626-9.931 12.228-9.931" style="fill:none;stroke-width:.92px;stroke:#fff"/>
+ <path d="m9.09 24.627c8.602 0 10.432-6.795 14.228-6.823 3.795-0.028 3.626 6.823 12.228 6.823" style="fill:none;stroke-width:.92px;stroke:#fff"/>
+ <path d="m9.09 23.82c8.602 0 10.432-9.903 14.228-9.932 3.795-0.028 3.626 9.932 12.228 9.932" style="fill:none;stroke-width:.92px;stroke:#fff"/>
+ <path d="m7.423 24.942h29.712" style="fill:none;stroke-width:.92px;stroke:#fff"/>
+ <defs>
+  <linearGradient id="_Linear1" x2="1" gradientTransform="matrix(2.58389e-15,-42.2364,42.1981,2.58624e-15,14.5646,44.3387)" gradientUnits="userSpaceOnUse">
+   <stop style="stop-color:#2f74c8" offset="0"/>
+   <stop style="stop-color:#50aff7" offset="1"/>
+  </linearGradient>
+  <linearGradient id="_Linear2" x2="1" gradientTransform="matrix(.79491 41.4949 -41.4949 .79491 44.2716 4.33297)" gradientUnits="userSpaceOnUse">
+   <stop style="stop-color:#f6fbff" offset="0"/>
+   <stop style="stop-color:#eaeff2" offset="1"/>
+  </linearGradient>
+  <linearGradient id="_Linear3" x2="1" gradientTransform="matrix(2.80034e-15,-45.4796,45.733,2.78482e-15,33.5323,45.9233)" gradientUnits="userSpaceOnUse">
+   <stop style="stop-color:#2862a6" offset="0"/>
+   <stop style="stop-color:#4192da" offset="1"/>
+  </linearGradient>
+ </defs>
+</svg>

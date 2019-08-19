@@ -1,13 +1,19 @@
-<svg style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
- <path d="m57.2 4c1.545 0 2.8 1.255 2.8 2.8v50.4c0 1.545-1.255 2.8-2.8 2.8h-50.4c-1.545 0-2.8-1.255-2.8-2.8v-50.4c0-1.545 1.255-2.8 2.8-2.8h50.4z" style="fill:#c91123"/>
- <rect x="38" y="7" width="16" height="22" style="fill-opacity:.2"/>
- <path d="m60 57.2v-25.2h-56v25.2c0 1.551 1.249 2.8 2.8 2.8h50.4c1.551 0 2.8-1.249 2.8-2.8z" style="fill-opacity:.2;fill-rule:nonzero"/>
- <circle cx="18" cy="18" r="8" style="fill:#bbb"/>
- <path d="m50 13v4h-12v-4h12zm-4-6v4h-8v-4h8z" style="fill:#f2af0d"/>
- <path d="m52 25v4h-14v-4h14zm-8-6v4h-6v-4h6z" style="fill:#0dcaf2"/>
- <rect x="4" y="32" width="56" height="1" style="fill-opacity:.2"/>
- <rect x="38" y="35" width="16" height="22" style="fill-opacity:.2"/>
- <circle cx="18" cy="46" r="8" style="fill:#bbb"/>
- <path d="m50 41v4h-12v-4h12zm-4-6v4h-8v-4h8z" style="fill:#f2af0d"/>
- <path d="m52 53v4h-14v-4h14zm-8-6v4h-6v-4h6z" style="fill:#0dcaf2"/>
+<svg style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+ <path d="m45.668 8.56c0-3.438-2.79-6.228-6.228-6.228h-30.88c-3.438 0-6.228 2.79-6.228 6.228v30.88c0 3.438 2.79 6.228 6.228 6.228h30.88c3.438 0 6.228-2.79 6.228-6.228v-30.88z" style="fill:url(#_Linear1)"/>
+ <rect x="28.5" y="5.25" width="12" height="16.5" style="fill-opacity:.2"/>
+ <path d="m2.332 24h43.336v15.44c0 3.438-2.79 6.228-6.228 6.228h-30.88c-3.438 0-6.228-2.79-6.228-6.228v-15.44z" style="fill-opacity:.2;fill-rule:nonzero"/>
+ <circle cx="13.5" cy="13.5" r="6" style="fill:#bbb"/>
+ <path d="m37.5 9.75v3h-9v-3h9zm-3-4.5v3h-6v-3h6z" style="fill:#f2af0d"/>
+ <path d="m39 18.75v3h-10.5v-3h10.5zm-6-4.5v3h-4.5v-3h4.5z" style="fill:#0dcaf2"/>
+ <rect x="2.332" y="24" width="43.336" height=".75" style="fill-opacity:.2"/>
+ <rect x="28.5" y="26.25" width="12" height="16.5" style="fill-opacity:.2"/>
+ <circle cx="13.5" cy="34.5" r="6" style="fill:#bbb"/>
+ <path d="m37.5 30.75v3h-9v-3h9zm-3-4.5v3h-6v-3h6z" style="fill:#f2af0d"/>
+ <path d="m39 39.75v3h-10.5v-3h10.5zm-6-4.5v3h-4.5v-3h4.5z" style="fill:#0dcaf2"/>
+ <defs>
+  <linearGradient id="_Linear1" x2="1" gradientTransform="matrix(2.65364e-15,-43.3373,43.3373,2.65364e-15,201.9,45.6687)" gradientUnits="userSpaceOnUse">
+   <stop style="stop-color:#b82d17" offset="0"/>
+   <stop style="stop-color:#fa5685" offset="1"/>
+  </linearGradient>
+ </defs>
 </svg>
