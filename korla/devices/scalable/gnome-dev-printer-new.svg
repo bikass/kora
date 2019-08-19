@@ -23,6 +23,8 @@
  <rect x="11.677" y="4.5" width="24.681" height="9.012" style="fill:url(#_Linear9)"/>
  <path d="m42.473 20.441h2.587v1.725h-2.587c-0.478 0-0.863-0.385-0.863-0.863 0-0.477 0.385-0.862 0.863-0.862z" style="fill:#3b3b3b"/>
  <rect x="42.238" y="20.791" width="2.337" height="1.047" style="fill:#d5d5d5"/>
+ <circle cx="34" cy="34" r="12" style="fill:#009545"/>
+ <path d="m35 27v6h6v2h-6v6h-2v-6h-6v-2h6v-6h2z" style="fill-rule:nonzero;fill:#fff"/>
  <defs>
   <linearGradient id="_Linear1" x2="1" gradientTransform="matrix(7.66623e-16,-12.5199,12.5199,7.66623e-16,24.619,25.0388)" gradientUnits="userSpaceOnUse">
    <stop style="stop-color:#cbcbcb" offset="0"/>
