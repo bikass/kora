@@ -1,1 +1,16 @@
-conky.svg
+<svg style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+ <path d="m45.668 8.56c0-3.438-2.79-6.228-6.228-6.228h-30.88c-3.438 0-6.228 2.79-6.228 6.228v30.88c0 3.438 2.79 6.228 6.228 6.228h30.88c3.438 0 6.228-2.79 6.228-6.228v-30.88z" style="fill:url(#_Linear1)"/>
+ <path d="m39.44 2.332c1.755 0 3.341 0.727 4.473 1.896l-39.685 39.685c-1.169-1.132-1.896-2.718-1.896-4.473v-30.88c0-3.438 2.79-6.228 6.228-6.228h30.88z" style="fill:url(#_Linear2)"/>
+ <path d="m7 40c0 0.554 0.446 1 1 1h4c0.554 0 1-0.446 1-1v-4c0-0.554-0.446-1-1-1h-4c-0.554 0-1 0.446-1 1v4zm0-7c0 0.554 0.446 1 1 1h4c0.554 0 1-0.446 1-1v-4c0-0.554-0.446-1-1-1h-4c-0.554 0-1 0.446-1 1v4zm0-7c0 0.554 0.446 1 1 1h4c0.554 0 1-0.446 1-1v-4c0-0.554-0.446-1-1-1h-4c-0.554 0-1 0.446-1 1v4zm0-7c0 0.554 0.446 1 1 1h4c0.554 0 1-0.446 1-1v-4c0-0.554-0.446-1-1-1h-4c-0.554 0-1 0.446-1 1v4zm0-7c0 0.554 0.446 1 1 1h4c0.554 0 1-0.446 1-1v-4c0-0.554-0.446-1-1-1h-4c-0.554 0-1 0.446-1 1v4z" style="fill-rule:nonzero;fill:#fff"/>
+ <path d="m33 10v1h8v-1h-8zm0 2v1h5v-1h-5zm0 2v1h8v-1h-8zm0 2v1h7v-1h-7zm0 2v1h8v-1h-8zm0 2v1h3v-1h-3zm0 2v1h8v-1h-8zm0 2v1h7v-1h-7zm0 2v1h8v-1h-8zm0 2v1h6v-1h-6z" style="fill-rule:nonzero;fill:#ffbb1f"/>
+ <defs>
+  <linearGradient id="_Linear1" x2="1" gradientTransform="matrix(2.65364e-15,-43.3373,43.3373,2.65364e-15,201.9,45.6687)" gradientUnits="userSpaceOnUse">
+   <stop style="stop-color:#034284" offset="0"/>
+   <stop style="stop-color:#13709d" offset="1"/>
+  </linearGradient>
+  <linearGradient id="_Linear2" x2="1" gradientTransform="matrix(2.65364e-15,-43.3373,43.3373,2.65364e-15,201.9,45.6687)" gradientUnits="userSpaceOnUse">
+   <stop style="stop-color:#0a80fd" offset="0"/>
+   <stop style="stop-color:#56c5fa" offset="1"/>
+  </linearGradient>
+ </defs>
+</svg>
