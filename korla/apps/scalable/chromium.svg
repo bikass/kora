@@ -5,24 +5,24 @@
  <path d="m24.045 13.695c5.841 0 10.543 4.702 10.543 10.542s-4.702 10.542-10.543 10.542c-5.84 0-10.542-4.702-10.542-10.542s4.702-10.542 10.542-10.542z" style="fill-rule:nonzero;fill:url(#_Linear4)"/>
  <path d="m24.045 16.091c4.513 0 8.147 3.633 8.147 8.146s-3.634 8.146-8.147 8.146-8.146-3.633-8.146-8.146 3.633-8.146 8.146-8.146z" style="fill-rule:nonzero;fill:url(#_Linear5)"/>
  <defs>
-  <linearGradient id="_Linear1" x2="1" gradientTransform="matrix(-.0948576 -38.2258 38.2258 -.0948576 10.4365 43.3463)" gradientUnits="userSpaceOnUse">
-   <stop style="stop-color:#649af5" offset="0"/>
-   <stop style="stop-color:#80b3ff" offset="1"/>
+  <linearGradient id="_Linear1" x2="1" gradientTransform="matrix(-22.7934,-27.329,27.329,-22.7934,25.055,44.603)" gradientUnits="userSpaceOnUse">
+   <stop style="stop-color:#91aaf8" offset="0"/>
+   <stop style="stop-color:#83b7fa" offset="1"/>
   </linearGradient>
-  <linearGradient id="_Linear2" x2="1" gradientTransform="matrix(2.48023e-15,-40.5053,40.5053,2.48023e-15,37.6584,46.764)" gradientUnits="userSpaceOnUse">
-   <stop style="stop-color:#a2c2f8" offset="0"/>
-   <stop style="stop-color:#87aade" offset="1"/>
+  <linearGradient id="_Linear2" x2="1" gradientTransform="matrix(-3.0655,29.981,-29.981,-3.0655,38.4475,13.756)" gradientUnits="userSpaceOnUse">
+   <stop style="stop-color:#90b5ec" offset="0"/>
+   <stop style="stop-color:#bbd4ff" offset="1"/>
   </linearGradient>
-  <linearGradient id="_Linear3" x2="1" gradientTransform="matrix(.156197 -28.6764 28.6764 .156197 22.7056 29.9124)" gradientUnits="userSpaceOnUse">
-   <stop style="stop-color:#3b6bd4" offset="0"/>
+  <linearGradient id="_Linear3" x2="1" gradientTransform="matrix(25.7577,-8.68443,8.68443,25.7577,9.62432,16.091)" gradientUnits="userSpaceOnUse">
+   <stop style="stop-color:#2a52a9" offset="0"/>
    <stop style="stop-color:#4270d5" offset="1"/>
   </linearGradient>
-  <linearGradient id="_Linear4" x2="1" gradientTransform="matrix(1.21932e-15,-19.913,19.913,1.21932e-15,24.0454,33.608)" gradientUnits="userSpaceOnUse">
+  <linearGradient id="_Linear4" x2="1" gradientTransform="matrix(1.21932e-15,-19.913,19.913,1.21932e-15,296.754,33.608)" gradientUnits="userSpaceOnUse">
    <stop style="stop-color:#f2f6f7" offset="0"/>
    <stop style="stop-color:#ecf0f1" offset="1"/>
   </linearGradient>
-  <linearGradient id="_Linear5" x2="1" gradientTransform="matrix(-.156186 -30.6626 30.6626 -.156186 24.0455 32.3834)" gradientUnits="userSpaceOnUse">
-   <stop style="stop-color:#59f" offset="0"/>
+  <linearGradient id="_Linear5" x2="1" gradientTransform="matrix(-.0455 -16.2919 16.2919 -.0455 24.0455 32.383)" gradientUnits="userSpaceOnUse">
+   <stop style="stop-color:#3077ff" offset="0"/>
    <stop style="stop-color:#80b3ff" offset="1"/>
   </linearGradient>
  </defs>
