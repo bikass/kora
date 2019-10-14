@@ -1,0 +1,20 @@
+<svg style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+ <rect x="7.5" y="4" width="7" height="7" style="fill:#3a48a8"/>
+ <rect x="29.5" y="4" width="7" height="7" style="fill:#878186"/>
+ <rect x="36.5" y="11" width="7" height="7" style="fill:#3a48a8"/>
+ <rect x="36.5" y="30" width="7" height="7" style="fill:#ffba52"/>
+ <rect x="29.5" y="37" width="7" height="7" style="fill:#878186"/>
+ <rect x="11.5" y="32" width="7" height="7" style="fill:#85d33a"/>
+ <rect x="4.5" y="25" width="7" height="7" style="fill:#cb383c"/>
+ <path d="m14.5 4v7h-10v14h7v7h7v12h11v-7h7v-7h7v-12h-7-7v-7-7h-15z" style="fill-rule:nonzero;fill:#00879d"/>
+ <rect x="29.5" y="11" width="7" height="7" style="fill:#85d33a"/>
+ <path d="m14.762 6.334c3.304-0.601 7.463-0.395 10.934 0.652 2.246 0.559 3.8 1.721 5.202 3.285 2.256 2.729 3.616 6.247 3.557 9.43 0.291 4.222-0.845 8.602-3.169 11.246-1.058 1.176-3.34 3.001-5.403 4.869 0 0-0.547 0.642-0.518 1.024 0.044 0.571 0.384 0.932 0.727 1.303 0.195 0.211 0.505 0.402 0.792 0.585 0.792 0.414 0.724 1.409 0.448 1.863-0.619 0.626-1.183 0.964-1.966 1.24-0.934 0.337-1.301 0.172-1.864-0.507-0.542-0.611-0.933-1.241-1.252-1.906-0.69-1.233-0.809-2.366-0.641-3.653 0.182-0.581 0.54-1.083 1.09-1.817 0.84-1.032 1.519-1.863 2.306-3.163 0.542-0.839-0.043-1.025-0.414-1.354-1.856-1.633-3.82-3.15-5.015-5.005 1.475-1.593 1.68-3.507 2.109-5.364-1.79 3.488-2.889 5.854-6.423 4.784-1.516-0.606-2.783-1.677-3.643-2.686-2.344-3.136-2.127-6.068-2.103-7.278 0.031-1.553 0.381-3.114 1.373-4.687 0.922-1.658 2.264-2.34 3.873-2.861z" style="fill-rule:nonzero;fill:url(#_Linear1)"/>
+ <circle cx="29" cy="19.5" r="1.5" style="fill:#3f3f3f"/>
+ <path d="m27.863 25.386l4.637 3.478c-0.634-0.016-1.464 0.194-2.385 0.12-2.003-0.159-4.394-0.666-4.589-1.322-0.11-0.91 0.103-1.621 1.084-2.342 0.605-0.473 0.669-0.397 1.253 0.066z" style="fill-rule:nonzero;fill:#fff"/>
+ <defs>
+  <linearGradient id="_Linear1" x2="1" gradientTransform="matrix(-.5 -35.1833 35.1833 -.5 24.5 41.7346)" gradientUnits="userSpaceOnUse">
+   <stop style="stop-color:#35a9ff" offset="0"/>
+   <stop style="stop-color:#6fc0fc" offset="1"/>
+  </linearGradient>
+ </defs>
+</svg>
