@@ -1,0 +1,15 @@
+<svg style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+ <path d="m9.75 3c-1.246 0-2.25 1.003-2.25 2.25v37.5c0 1.246 1.004 2.25 2.25 2.25h28.5c1.246 0 2.25-1.004 2.25-2.25v-37.5c0-1.247-1.004-2.25-2.25-2.25h-28.5z" style="fill-rule:nonzero;fill:url(#_Linear1)"/>
+ <path d="m9.75 3c-1.246 0-2.25 1.003-2.25 2.25v37.5c0 1.246 1.004 2.25 2.25 2.25h3.75v-42h-3.75z" style="fill-opacity:.2;fill-rule:nonzero"/>
+ <path d="m39.479 6c0-1.104-0.896-2-2-2h-23.979v40h23.979c1.104 0 2-0.896 2-2v-36z" style="fill:#e4e4e4"/>
+ <path d="m15.382 36h22v2h-22v-2zm0-5h22v2h-22v-2zm0-5h22v2h-22v-2zm0-5h22v2h-22v-2zm0-5h22v2h-22v-2zm0-5h22v2h-22v-2z" style="fill-rule:nonzero;fill:#4c4c4c"/>
+ <path d="m15.382 26h12v2h-12v-2zm0-5h22v2h-22v-2zm0-5h22v2h-22v-2zm0-5h22v2h-22v-2z" style="fill-opacity:.5;fill-rule:nonzero;fill:#fff"/>
+ <path d="m6.382 2c-1.108 0-2 0.892-2 2v14c0 1.108 0.892 2 2 2h16l5 5v-21c0-1.108-0.892-2-2-2h-19z" style="fill-rule:nonzero;fill:#477dbc"/>
+ <path d="m12.382 9l3-3v10l-3-3h-2v-4h2zm6.522 6h-0.044c-0.264 0-0.478-0.214-0.478-0.478v-7.044c0-0.264 0.214-0.478 0.478-0.478h0.044c0.264 0 0.478 0.214 0.478 0.478v7.044c0 0.264-0.214 0.478-0.478 0.478zm-1.522-5.5c0-0.276-0.224-0.5-0.5-0.5s-0.5 0.224-0.5 0.5v3c0 0.276 0.224 0.5 0.5 0.5s0.5-0.224 0.5-0.5v-3z" style="fill-rule:nonzero;fill:#fff"/>
+ <defs>
+  <linearGradient id="_Linear1" x2="1" gradientTransform="matrix(-.506203 -42 42 -.506203 192 42.9752)" gradientUnits="userSpaceOnUse">
+   <stop style="stop-color:#095c4d" offset="0"/>
+   <stop style="stop-color:#009587" offset="1"/>
+  </linearGradient>
+ </defs>
+</svg>
