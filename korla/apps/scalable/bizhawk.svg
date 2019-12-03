@@ -1,0 +1,16 @@
+<svg style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+ <circle cx="24" cy="24" r="22.764" style="fill:url(#_Linear1)"/>
+ <path d="m16.455 21.356h15.09l-2.515-12.575s0-2.515-5.03-2.515-5.03 2.515-5.03 2.515v7.545l-2.515 5.03z" style="fill-rule:nonzero;fill:#f0f0f0"/>
+ <path d="m8.493 21.356h31.014c1.723 0 1.723 2.515 1.723 2.515l-5.169 7.545c1.723 0 1.723 2.515 1.723 2.515l-11.269 10.06h-5.03l-11.269-10.06s0-2.515 1.723-2.515l-5.169-7.545s0-2.515 1.723-2.515z" style="fill-rule:nonzero;fill:#6fbfff"/>
+ <path d="m18.97 8.781l-4.972 2.515-1.535 5.221 3.992-2.706 3.934 3.373-1.419-8.403z" style="fill-rule:nonzero;fill:#f2d12d"/>
+ <path d="m13.94 21.356h20.12l-2.515 2.515h5.03l-10.06 20.12h-5.03l-10.06-20.12h5.03l-2.515-2.515z" style="fill-rule:nonzero;fill:#4f4f4f"/>
+ <path d="m18.97 21.112l2.515 22.879h5.03l2.515-22.879h-10.06z" style="fill-rule:nonzero;fill:#fff"/>
+ <path d="m24 21.356l-2.515 10.06 2.515 2.515 2.515-2.515-2.515-10.06z" style="fill-rule:nonzero;fill:#4f4f4f"/>
+ <ellipse cx="22.285" cy="9.429" rx="1.258" ry="1.067" style="fill:#4f4f4f"/>
+ <defs>
+  <linearGradient id="_Linear1" x2="1" gradientTransform="matrix(2.78787e-15,-45.5294,45.5294,2.78787e-15,210.898,46.7647)" gradientUnits="userSpaceOnUse">
+   <stop style="stop-color:#0a80fd" offset="0"/>
+   <stop style="stop-color:#56c5fa" offset="1"/>
+  </linearGradient>
+ </defs>
+</svg>
