@@ -1,0 +1,19 @@
+<svg style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+ <circle cx="32.551" cy="18.656" r="12.826" style="fill:url(#_Linear1)"/>
+ <circle cx="15.449" cy="22.931" r="12.826" style="fill:url(#_Linear2)"/>
+ <circle cx="28.275" cy="29.344" r="12.826" style="fill:url(#_Linear3)"/>
+ <defs>
+  <linearGradient id="_Linear1" x2="1" gradientTransform="matrix(-3.36306e-7 -25.6517 25.6517 -3.36306e-7 32.5506 31.4818)" gradientUnits="userSpaceOnUse">
+   <stop style="stop-color:#ad1000" offset="0"/>
+   <stop style="stop-color:#e54333" offset="1"/>
+  </linearGradient>
+  <linearGradient id="_Linear2" x2="1" gradientTransform="matrix(3.36306e-7 -25.6517 25.6517 3.36306e-7 15.4494 35.7571)" gradientUnits="userSpaceOnUse">
+   <stop style="stop-color:#07a618" offset="0"/>
+   <stop style="stop-color:#0fd925" offset="1"/>
+  </linearGradient>
+  <linearGradient id="_Linear3" x2="1" gradientTransform="matrix(-5.31747e-7 -25.6517 25.6517 -5.31747e-7 28.2753 42.17)" gradientUnits="userSpaceOnUse">
+   <stop style="stop-color:#093ea7" offset="0"/>
+   <stop style="stop-color:#4168b5" offset="1"/>
+  </linearGradient>
+ </defs>
+</svg>
