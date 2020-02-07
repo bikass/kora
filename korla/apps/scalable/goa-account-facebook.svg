@@ -1,15 +1,1 @@
-<svg style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
- <path d="m45.668 8.56c0-3.438-2.79-6.228-6.228-6.228h-30.88c-3.438 0-6.228 2.79-6.228 6.228v30.88c0 3.438 2.79 6.228 6.228 6.228h30.88c3.438 0 6.228-2.79 6.228-6.228v-30.88z" style="fill:url(#_Linear1)"/>
- <path d="m41.38 11.615c0-2.757-2.238-4.995-4.995-4.995h-24.77c-2.757 0-4.995 2.238-4.995 4.995v24.77c0 2.757 2.238 4.995 4.995 4.995h24.77c2.757 0 4.995-2.238 4.995-4.995v-24.77z" style="fill:url(#_Linear2)"/>
- <path d="m25.205 41.38v-13.401h-4.6v-5.326h4.6v-3.928c0-4.559 2.784-7.041 6.851-7.041 1.947 0 3.621 0.146 4.109 0.21v4.764l-2.82 1e-3c-2.212 0-2.64 1.051-2.64 2.593v3.4h5.275l-0.687 5.327h-4.588v13.401h-5.5z" style="fill:#e6f2ff"/>
- <defs>
-  <linearGradient id="_Linear1" x2="1" gradientTransform="matrix(2.65365e-15,-43.3373,43.3373,2.65365e-15,201.9,45.6687)" gradientUnits="userSpaceOnUse">
-   <stop style="stop-color:#e6f2ff" offset="0"/>
-   <stop style="stop-color:#d8d8d8" offset="1"/>
-  </linearGradient>
-  <linearGradient id="_Linear2" x2="1" gradientTransform="matrix(2.12852e-15,-34.7614,34.7614,2.12852e-15,166.696,41.3807)" gradientUnits="userSpaceOnUse">
-   <stop style="stop-color:#3c54a0" offset="0"/>
-   <stop style="stop-color:#6081c4" offset="1"/>
-  </linearGradient>
- </defs>
-</svg>
+goa-account-facebook-alt.svg
