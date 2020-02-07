@@ -1,6 +1,6 @@
 [Icon Theme]
 Name=Korla PGray
-Comment=Light icon theme for Linux desktops. Mix of the following icon sets: Korla, Papirus, Mac.
+Comment=Light icon theme for Linux desktops. Mix of the following icon sets: Korla, Papirus.
 Inherits=breeze,gnome,hicolor
 
 Example=folder
