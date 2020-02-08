@@ -1,19 +1,19 @@
 <svg style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
- <path d="m6.24 3.799c0-1.103 0.896-2 2-2h31.52c1.104 0 2 0.897 2 2v40.402c0 1.103-0.896 2-2 2h-31.52c-1.104 0-2-0.897-2-2v-40.402z" style="fill:url(#_Linear1)"/>
+ <path d="m42.059 6.707c0-2.783-2.256-5.04-5.039-5.04h-25.149c-2.783 0-5.039 2.257-5.039 5.04v34.586c0 2.783 2.256 5.04 5.039 5.04h25.149c2.783 0 5.039-2.257 5.039-5.04v-34.586z" style="fill:url(#_Linear1)"/>
  <path d="m9.57 28.44c0-7.964 6.466-14.43 14.43-14.43s14.43 6.466 14.43 14.43-6.466 14.43-14.43 14.43-14.43-6.466-14.43-14.43z" style="fill:url(#_Linear2)"/>
  <path d="m35.1 28.44c0-6.126-4.974-11.1-11.1-11.1s-11.1 4.974-11.1 11.1c0 6.127 4.974 11.1 11.1 11.1s11.1-4.973 11.1-11.1z" style="fill:url(#_Linear3)"/>
  <path d="m29.55 28.44c0-3.063-2.487-5.55-5.55-5.55s-5.55 2.487-5.55 5.55 2.487 5.55 5.55 5.55 5.55-2.487 5.55-5.55z" style="fill:#383838"/>
  <path d="m37.32 8.46c0 1.225-0.994 2.22-2.22 2.22-1.225 0-2.22-0.995-2.22-2.22 0-1.226 0.995-2.22 2.22-2.22 1.226 0 2.22 0.994 2.22 2.22zm-22.2 0c0 1.225-0.995 2.22-2.22 2.22-1.226 0-2.22-0.995-2.22-2.22 0-1.226 0.994-2.22 2.22-2.22 1.225 0 2.22 0.994 2.22 2.22z" style="fill:#333"/>
  <defs>
-  <linearGradient id="_Linear1" x2="1" gradientTransform="matrix(-1.69993e-14,-44.4011,44.4011,-1.69993e-14,24,46.2006)" gradientUnits="userSpaceOnUse">
-   <stop style="stop-color:#bababa" offset="0"/>
-   <stop style="stop-color:#e4e4e4" offset="1"/>
+  <linearGradient id="_Linear1" x2="1" gradientTransform="matrix(-.476427 -44.666 44.666 -.476427 97.8031 45.5388)" gradientUnits="userSpaceOnUse">
+   <stop style="stop-color:#bcbcbc" offset="0"/>
+   <stop style="stop-color:#e2e2e2" offset="1"/>
   </linearGradient>
-  <linearGradient id="_Linear2" x2="1" gradientTransform="matrix(-5.98268e-7 -28.8607 28.8607 -5.98268e-7 24 42.8705)" gradientUnits="userSpaceOnUse">
+  <linearGradient id="_Linear2" x2="1" gradientTransform="matrix(-5.98268e-7 -28.8607 28.8607 -5.98268e-7 428.338 42.8705)" gradientUnits="userSpaceOnUse">
    <stop style="stop-color:#252525" offset="0"/>
    <stop style="stop-color:#5b5b5b" offset="1"/>
   </linearGradient>
-  <linearGradient id="_Linear3" x2="1" gradientTransform="matrix(0,-22.2006,-22.2006,0,24,39.5404)" gradientUnits="userSpaceOnUse">
+  <linearGradient id="_Linear3" x2="1" gradientTransform="matrix(1.35939e-15,-22.2006,22.2006,1.35939e-15,-360.958,39.5404)" gradientUnits="userSpaceOnUse">
    <stop style="stop-color:#fe9706" offset="0"/>
    <stop style="stop-color:#fec006" offset="1"/>
   </linearGradient>

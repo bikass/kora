@@ -1,9 +1,9 @@
 <svg style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
- <path d="m9.75 3c-1.246 0-2.25 1.003-2.25 2.25v37.5c0 1.246 1.004 2.25 2.25 2.25h28.5c1.246 0 2.25-1.004 2.25-2.25v-37.5c0-1.247-1.004-2.25-2.25-2.25h-28.5z" style="fill-rule:nonzero;fill:url(#_Linear1)"/>
- <path d="m9.75 3c-1.246 0-2.25 1.003-2.25 2.25v37.5c0 1.246 1.004 2.25 2.25 2.25h3.75v-42h-3.75z" style="fill-opacity:.2;fill-rule:nonzero"/>
- <path d="m28.5 3v21l3-3 3 3v-21h-6z" style="fill-rule:nonzero;fill:#d8d8d8"/>
+ <path d="m37.02 1.667c2.783 0 5.039 2.257 5.039 5.04v34.586c0 2.783-2.256 5.04-5.039 5.04h-25.149c-2.783 0-5.039-2.257-5.039-5.04v-34.586c0-2.783 2.256-5.04 5.039-5.04h25.149z" style="fill-rule:nonzero;fill:url(#_Linear1)"/>
+ <path d="m11.871 1.667h0.887v44.666h-0.887c-2.783 0-5.039-2.257-5.039-5.04v-34.586c0-2.783 2.256-5.04 5.039-5.04z" style="fill-opacity:.2;fill-rule:nonzero"/>
+ <path d="m28.786 1.667v22.333l3.19-3.19 3.191 3.19v-22.333h-6.381z" style="fill-rule:nonzero;fill:#d8d8d8"/>
  <defs>
-  <linearGradient id="_Linear1" x2="1" gradientTransform="matrix(-.506203 -42 42 -.506203 192 42.9752)" gradientUnits="userSpaceOnUse">
+  <linearGradient id="_Linear1" x2="1" gradientTransform="matrix(-.506203 -42 42 -.506203 318 41.4566)" gradientUnits="userSpaceOnUse">
    <stop style="stop-color:#095c4d" offset="0"/>
    <stop style="stop-color:#009587" offset="1"/>
   </linearGradient>
