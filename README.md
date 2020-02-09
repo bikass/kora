@@ -6,6 +6,7 @@ Different versions available:
 * ***korla*** - for dark themes with dark panel
 * ***korla-light*** - for light themes with dark panel (depends on Korla)
 * ***korla-light-panel*** - for light themes with light panel (depends on Korla and Korla-light)
+* ***korla-prgey*** - theme with grey folder colors (depends on Korla)
 
 ## Installation
 
