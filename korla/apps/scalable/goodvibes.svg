@@ -1,0 +1,21 @@
+<svg style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+ <path d="m45.668 8.56c0-3.438-2.79-6.228-6.228-6.228h-30.88c-3.438 0-6.228 2.79-6.228 6.228v30.88c0 3.438 2.79 6.228 6.228 6.228h30.88c3.438 0 6.228-2.79 6.228-6.228v-30.88z" style="fill:url(#_Linear1)"/>
+ <g transform="matrix(1.10531,0,0,1.10531,-1.42208,-2.52739)">
+  <circle cx="13" cy="29" r="6" style="fill:rgb(184,59,0)"/>
+ </g>
+ <g transform="matrix(1.10531,0,0,1.10531,-2.52739,-2.52739)">
+  <rect x="7" y="11" width="34" height="7" style="fill:rgb(56,56,56)"/>
+ </g>
+ <g transform="matrix(0,1.10531,-1.10531,0,-2.52739,-2.52739)">
+  <rect x="12.75" y="-20" width="5.25" height="4" style="fill:rgb(184,59,0)"/>
+ </g>
+ <g transform="matrix(1.10531,0,0,1.10531,-2.52739,-2.52739)">
+  <path d="m27 21c-1.097 0-2 0.903-2 2s0.903 2 2 2 2-0.903 2-2-0.903-2-2-2zm6 0c-1.097 0-2 0.903-2 2s0.903 2 2 2 2-0.903 2-2-0.903-2-2-2zm6 0c-1.097 0-2 0.903-2 2s0.903 2 2 2 2-0.903 2-2-0.903-2-2-2zm-12 6c-1.097 0-2 0.903-2 2s0.903 2 2 2 2-0.903 2-2-0.903-2-2-2zm6 0c-1.097 0-2 0.903-2 2s0.903 2 2 2 2-0.903 2-2-0.903-2-2-2zm6 0c-1.097 0-2 0.903-2 2s0.903 2 2 2 2-0.903 2-2-0.903-2-2-2zm-12 6c-1.097 0-2 0.903-2 2s0.903 2 2 2 2-0.903 2-2-0.903-2-2-2zm6 0c-1.097 0-2 0.903-2 2s0.903 2 2 2 2-0.903 2-2-0.903-2-2-2zm6 0c-1.097 0-2 0.903-2 2s0.903 2 2 2 2-0.903 2-2-0.903-2-2-2z" style="fill-rule:nonzero;fill:rgb(56,56,56)"/>
+ </g>
+ <defs>
+  <linearGradient id="_Linear1" x2="1" gradientTransform="matrix(-6.96896e-15,-43.336,43.336,-6.96896e-15,24,45.668)" gradientUnits="userSpaceOnUse">
+   <stop style="stop-color:rgb(212,133,0)" offset="0"/>
+   <stop style="stop-color:rgb(255,197,67)" offset="1"/>
+  </linearGradient>
+ </defs>
+</svg>
