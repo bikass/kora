@@ -9,9 +9,9 @@
   <path d="m0.05 0c-0.022 0-0.039-0.017-0.039-0.039v-0.091l0.376-0.465h-0.302c-0.018 0-0.032-0.014-0.032-0.032v-0.057c0-0.018 0.014-0.032 0.032-0.032h0.453c0.011 0 0.021 4e-3 0.028 0.012 7e-3 7e-3 0.011 0.017 0.011 0.027v0.073l-0.392 0.483h0.375c9e-3 0 0.017 4e-3 0.023 0.01s9e-3 0.014 9e-3 0.022v0.057c0 9e-3 -3e-3 0.017-9e-3 0.023s-0.014 9e-3 -0.023 9e-3h-0.51zm0.082-0.904h0.111l0.053 0.073 0.057-0.073h0.11l-0.101 0.144h-0.127l-0.103-0.144z" style="fill-rule:nonzero;fill:rgb(221,242,254)"/>
  </g>
  <defs>
-  <linearGradient id="_Linear1" x2="1" gradientTransform="matrix(-.0392603 -37.228 37.228 -.0392603 408.904 541.768)" gradientUnits="userSpaceOnUse">
-   <stop style="stop-color:rgb(25,124,241)" offset="0"/>
-   <stop style="stop-color:rgb(32,188,250)" offset="1"/>
+  <linearGradient id="_Linear1" x2="1" gradientTransform="matrix(-.0392603 -37.228 37.228 -.0392603 19185.8 521.966)" gradientUnits="userSpaceOnUse">
+   <stop style="stop-color:rgb(1,107,136)" offset="0"/>
+   <stop style="stop-color:rgb(28,193,241)" offset="1"/>
   </linearGradient>
  </defs>
 </svg>
