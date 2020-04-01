@@ -1,35 +1,31 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="48" height="48">
-	<defs>
-		<linearGradient id="frontGrad" x1="0" y1="1" x2="0" y2="0">
-			<stop stop-color="#197CF1" offset="0" />
-			<stop stop-color="#20BCFA" offset="1" />
-		</linearGradient>
-		<linearGradient id="backGrad" x1="0" y1="0" x2="1" y2="0">
-			<stop stop-color="#3889E9" offset="0" />
-			<stop stop-color="#5ea5fb" offset="1" />
-		</linearGradient>
-		<linearGradient id="leftfrontfoldGrad" xlink:href="#frontGrad" x1="0" y1="0" x2="1" y2="0" />
-		<linearGradient id="rightfrontfoldGrad" xlink:href="#frontGrad" x1="1" y1="0" x2="0" y2="0" />
-		<linearGradient id="rightbackfoldGrad" xlink:href="#backGrad" x1="1" y1="0" x2="0" y2="0" />
-		<linearGradient id="leftbackfoldGrad" xlink:href="#backGrad" x1="0" y1="0" x2="1" y2="0" />
-		<linearGradient id="handleGrad" x1="0" y1="1" x2="0" y2="0">
-			<stop stop-color="#E6E6E6" offset="0" />
-			<stop stop-color="#FFF" offset="1" />
-		</linearGradient>
-		<clipPath id="frontClip">
-			<rect x="2" y="9" width="44" height="37" />
-		</clipPath>
-	</defs>
-
-	<rect id="back" x="4" y="3" width="40" height="10" fill="url(#backGrad)" />
-	<polygon id="leftbackfold" fill="url(#leftbackfoldGrad)" points="4,3 4,30 7.5,5.5" />
-	<polygon id="rightbackfold" fill="url(#rightbackfoldGrad)" points="44,3 44,8 40.5,5.5" />
-	<polygon id="shadow" points="7.5,5.5 15.2,11 4,11" fill="#000" opacity="0.08"  />
-	<rect id="frontnew" fill="url(#frontGrad)" x="2" y="6" width="44" height="40" rx="3" clip-path="url(#frontClip)" />
-	<polygon id="rightfrontfold" points="46,9 40.5,9 40.5,5.5" fill="url(#rightfrontfoldGrad)" />
-	<polygon id="leftfrontfold" points="7.5,5.5 2,9 7.5,9" fill="url(#leftfrontfoldGrad)" />
-	<circle class="hole" cx="14" cy="14" r="2" fill="#000" opacity="0.3" />
-	<circle class="hole" cx="34" cy="14" r="2" fill="#000" opacity="0.3" />
-	<path id="handle" d="M 34,13 a 10,10 0 1,0 -20,0" fill="none" stroke="url(#handleGrad)" stroke-width="2.4" stroke-linecap="round"  />
-	<path id="symbol" d="m 19.264891,20.764034 a 1.2912988,1.2873121 0 0 0 -1.290652,1.287407 1.2912988,1.2873121 0 0 0 1.290652,1.287396 1.2912988,1.2873121 0 0 0 1.292282,-1.287396 1.2912988,1.2873121 0 0 0 -1.292282,-1.287407 z m 7.318044,0 L 24.133796,23.205 27.901325,26.959541 24,31.384522 l 2.582935,2.253416 6.02576,-6.866068 z m -9.039456,6.007836 a 2.1521546,2.1455275 0 0 0 -2.152174,2.145627 2.1521546,2.1455275 0 0 0 2.152174,2.145638 2.1521546,2.1455275 0 0 0 2.152173,-2.145638 2.1521546,2.1455275 0 0 0 -2.152173,-2.145627 z m 3.873586,6.007837 A 2.5825865,2.5746331 0 0 0 18.83413,35.354388 2.5825865,2.5746331 0 0 0 21.417065,37.929191 2.5825865,2.5746331 0 0 0 24,35.354388 2.5825865,2.5746331 0 0 0 21.417065,32.779707 Z" fill="#FFF" opacity="0.8" />
+<svg style="clip-rule:evenodd;fill-rule:evenodd;stroke-linecap:round" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+ <rect id="back" x="4" y="3" width="40" height="10" style="fill:url(#_Linear1)"/>
+ <path id="leftbackfold" d="M4,3L4,30L7.5,5.5L4,3Z" style="fill-rule:nonzero;fill:rgb(4,146,172)"/>
+ <path id="rightbackfold" d="m44 3v5l-3.5-2.5 3.5-2.5z" style="fill-rule:nonzero;fill:url(#_Linear2)"/>
+ <path id="shadow" d="M7.5,5.5L15.2,11L4,11L7.5,5.5Z" style="fill-opacity:.08;fill-rule:nonzero"/>
+ <path id="frontnew" d="m46 9h-44v34c0 1.656 1.344 3 3 3h38c1.656 0 3-1.344 3-3v-34z" style="fill:url(#_Linear3)"/>
+ <path id="rightfrontfold" d="m46 9h-5.5v-3.5l5.5 3.5z" style="fill-rule:nonzero;fill:rgb(9,149,177)"/>
+ <path id="leftfrontfold" d="m7.5 5.5-5.5 3.5h5.5v-3.5z" style="fill-rule:nonzero;fill:rgb(57,186,223)"/>
+ <circle cx="14" cy="14" r="2" style="fill-opacity:.3"/>
+ <circle cx="34" cy="14" r="2" style="fill-opacity:.3"/>
+ <path id="handle" d="m34 13c0-5.486-4.514-10-10-10s-10 4.514-10 10" style="fill:none;stroke-width:2.4px;stroke:url(#_Linear4)"/>
+ <path id="symbol" d="m19.265 20.764c-0.708 0-1.291 0.581-1.291 1.287s0.583 1.287 1.291 1.288h1e-3c0.708 0 1.291-0.581 1.291-1.287v-1e-3c0-0.706-0.583-1.287-1.291-1.287h-1e-3zm7.318 0-2.449 2.441 3.767 3.755-3.901 4.425 2.583 2.253 6.026-6.866-6.026-6.008zm-9.04 6.008c-1.18 0-2.152 0.968-2.152 2.145v1e-3c0 1.177 0.972 2.145 2.152 2.145 1.181 0 2.153-0.968 2.153-2.145v-1e-3c0-1.177-0.972-2.145-2.153-2.145zm3.874 6.008c-1.417 0-2.583 1.162-2.583 2.574v1e-3c0 1.412 1.166 2.574 2.583 2.574s2.583-1.162 2.583-2.574v-1e-3c0-1.412-1.166-2.574-2.583-2.574z" style="fill-opacity:.8;fill-rule:nonzero;fill:white"/>
+ <defs>
+  <linearGradient id="_Linear1" x2="1" gradientTransform="matrix(.0595533 -6.84864 6.84864 .0595533 23.2854 9.8263)" gradientUnits="userSpaceOnUse">
+   <stop style="stop-color:rgb(1,143,169)" offset="0"/>
+   <stop style="stop-color:rgb(53,183,220)" offset="1"/>
+  </linearGradient>
+  <linearGradient id="_Linear2" x2="1" gradientTransform="matrix(-1,1.22465e-16,-1.22465e-16,-1,1,0)" gradientUnits="userSpaceOnUse">
+   <stop style="stop-color:rgb(58,187,225)" offset="0"/>
+   <stop style="stop-color:rgb(94,165,251)" offset="1"/>
+  </linearGradient>
+  <linearGradient id="_Linear3" x2="1" gradientTransform="matrix(2.2656e-15,-37,37,2.2656e-15,24,46)" gradientUnits="userSpaceOnUse">
+   <stop style="stop-color:rgb(0,103,131)" offset="0"/>
+   <stop style="stop-color:rgb(32,204,255)" offset="1"/>
+  </linearGradient>
+  <linearGradient id="_Linear4" x2="1" gradientTransform="matrix(6.12323e-17,-1,1,6.12323e-17,0,1)" gradientUnits="userSpaceOnUse">
+   <stop style="stop-color:rgb(230,230,230)" offset="0"/>
+   <stop style="stop-color:white" offset="1"/>
+  </linearGradient>
+ </defs>
 </svg>

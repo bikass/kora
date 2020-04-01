@@ -1,14 +1,14 @@
 <svg style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
- <path d="m45.668 8.56c0-3.438-2.79-6.228-6.228-6.228h-30.88c-3.438 0-6.228 2.79-6.228 6.228v30.88c0 3.438 2.79 6.228 6.228 6.228h30.88c3.438 0 6.228-2.79 6.228-6.228v-30.88z" style="fill:url(#_Linear1)"/>
+ <path d="m39.44 45.668h-30.88c-3.438 0-6.228-2.79-6.228-6.228v-30.88c0-3.438 2.79-6.228 6.228-6.228h30.88c3.438 0 6.228 2.79 6.228 6.228v30.88c0 3.438-2.79 6.228-6.228 6.228z" style="fill:url(#_Linear1)"/>
  <path d="m21.288 28.64c1.924 0 3.487 1.558 3.487 3.477 0 1.918-1.563 3.476-3.487 3.476-1.925 0-3.487-1.558-3.487-3.476 0-1.919 1.562-3.477 3.487-3.477zm6.974-16.233-3.306 3.303 5.086 5.063-5.267 5.983 3.487 3.032 8.137-9.272-8.137-8.109zm-12.206 8.122c1.604 0 2.906 1.298 2.906 2.897s-1.302 2.897-2.906 2.897-2.907-1.298-2.907-2.897 1.303-2.897 2.907-2.897zm2.325-8.114c0.963 0 1.744 0.779 1.744 1.738 0 0.96-0.781 1.738-1.744 1.738-0.962 0-1.743-0.778-1.743-1.738 0-0.959 0.781-1.738 1.743-1.738z" style="fill:url(#_Linear2)"/>
  <defs>
-  <linearGradient id="_Linear1" x2="1" gradientTransform="matrix(2.65364e-15,-43.3373,43.3373,2.65364e-15,201.9,45.6687)" gradientUnits="userSpaceOnUse">
-   <stop style="stop-color:#0a80fd" offset="0"/>
-   <stop style="stop-color:#56c5fa" offset="1"/>
+  <linearGradient id="_Linear1" x2="1" gradientTransform="matrix(2.06275e-15,-33.6872,33.6872,2.06275e-15,766.162,40.4502)" gradientUnits="userSpaceOnUse">
+   <stop style="stop-color:rgb(0,103,131)" offset="0"/>
+   <stop style="stop-color:rgb(32,204,255)" offset="1"/>
   </linearGradient>
-  <linearGradient id="_Linear2" x2="1" gradientTransform="matrix(8.12461e-16,-13.2685,13.2685,8.12461e-16,14145.9,2627.51)" gradientUnits="userSpaceOnUse">
-   <stop style="stop-color:#fff;stop-opacity:0" offset="0"/>
-   <stop style="stop-color:#d5edff" offset="1"/>
+  <linearGradient id="_Linear2" x2="1" gradientTransform="matrix(8.12461e-16,-13.2685,13.2685,8.12461e-16,14310.5,2627.51)" gradientUnits="userSpaceOnUse">
+   <stop style="stop-color:white;stop-opacity:0" offset="0"/>
+   <stop style="stop-color:rgb(213,237,255)" offset="1"/>
   </linearGradient>
  </defs>
 </svg>
