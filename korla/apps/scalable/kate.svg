@@ -19,9 +19,9 @@
   <path d="m15.803 27.327c-3.178-4.093-2.192-7.843 4.032-9.792 6.141-1.923 11.67-3.193 15.812-4.606-11.177 4.258-25.573 7.104-19.844 14.398z" style="fill-rule:nonzero;fill:white"/>
  </g>
  <defs>
-  <linearGradient id="_Linear1" x2="1" gradientTransform="matrix(2.78787e-15,-45.5294,45.5294,2.78787e-15,210.898,46.7647)" gradientUnits="userSpaceOnUse">
-   <stop style="stop-color:rgb(33,109,189)" offset="0"/>
-   <stop style="stop-color:rgb(86,197,250)" offset="1"/>
+  <linearGradient id="_Linear1" x2="1" gradientTransform="matrix(2.78779e-15,-45.5281,45.5281,2.78779e-15,192.818,46.764)" gradientUnits="userSpaceOnUse">
+   <stop style="stop-color:rgb(0,103,131)" offset="0"/>
+   <stop style="stop-color:rgb(32,204,255)" offset="1"/>
   </linearGradient>
  </defs>
 </svg>
