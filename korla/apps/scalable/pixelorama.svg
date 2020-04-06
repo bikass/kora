@@ -1,0 +1,23 @@
+<svg style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+ <g transform="matrix(2.12208 0 0 2.12208 .657072 .657072)">
+  <path d="m6 1v1h-2v1h-2v3h-1v10h1v3h2v1h2v1h10v-1h2v-1h2v-3h1v-10h-1v-3h-2v-1h-2v-1h-10z" style="fill-rule:nonzero;fill:rgb(63,63,63)"/>
+ </g>
+ <g transform="matrix(2.12208 0 0 2.12208 .657072 .657072)">
+  <path d="m6 2v1h-2v1h-1v2h-1v10h1v2h1v1h2v1h10v-1h2v-1h1v-2h1v-10h-1v-2h-1v-1h-2v-1h-10z" style="fill-rule:nonzero;fill:rgb(228,228,228)"/>
+ </g>
+ <g transform="matrix(2.12208 0 0 2.12208 .657072 .657072)">
+  <rect x="8" y="3" width="6" height="16" style="fill:rgb(115,210,22)"/>
+ </g>
+ <g transform="matrix(2.12208 0 0 2.12208 .657072 .657072)">
+  <path d="m8 19v-16h-2v1h-2v2h-1v10h1v2h2v1h2z" style="fill-rule:nonzero;fill:rgb(42,111,200)"/>
+ </g>
+ <g transform="matrix(2.12208 0 0 2.12208 .657072 .657072)">
+  <path d="m14 19v-16h2v1h2v2h1v10h-1v2h-2v1h-2z" style="fill-rule:nonzero;fill:rgb(224,46,46)"/>
+ </g>
+ <g transform="matrix(2.12208 0 0 2.12208 .657072 .657072)">
+  <path d="m5 7v-2h2v-1h8v1h2v2h1v8h-1v2h-2v1h-8v-1h-2v-2h-1v-8h1z" style="fill-rule:nonzero;fill:rgb(63,63,63)"/>
+ </g>
+ <g transform="matrix(2.12208 0 0 2.12208 .657072 .657072)">
+  <path d="m8 7v1h-1v3h1v1h3v-1h1v-3h-1v-1h-3zm5 7v2h2v-2h-2z" style="fill-rule:nonzero;fill:white"/>
+ </g>
+</svg>

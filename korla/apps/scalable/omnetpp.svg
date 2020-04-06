@@ -1,0 +1,23 @@
+<svg style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+ <g transform="matrix(.925958 0 0 .925958 1.72235 1.5925)">
+  <path d="m39.44 45.668h-30.88c-3.438 0-6.228-2.79-6.228-6.228v-30.88c0-3.438 2.79-6.228 6.228-6.228h30.88c3.148 0 5.753 2.339 6.17 5.374v32.588c-0.417 3.035-3.022 5.374-6.17 5.374z" style="fill:rgb(0,131,131)"/>
+ </g>
+ <g transform="matrix(1.11855,0,0,1.11855,-3.02424,-5.33723)">
+  <rect x="11" y="13" width="26" height="26" style="fill-rule:nonzero;fill:url(#_Linear1)"/>
+ </g>
+ <g transform="matrix(1.11855,0,0,1.11855,-3.02424,-5.33723)">
+  <path d="m34.194 10.216c-1.92 4.016-7.5 11.546-15.235 17.944-6.548 5.414-10.974 7.761-15.085 9.159 4.819-1.331 10.43-3.378 18.065-8.518 7.425-4.993 14.361-10.566 17.76-13.178-2.761-0.41-4.783-2.761-5.505-5.407z" style="fill-rule:nonzero;fill:rgb(212,53,25)"/>
+ </g>
+ <g transform="matrix(1.07964,0,0,1.11855,-2.59614,-5.33723)">
+  <rect x="6" y="33" width="5" height="5" style="fill:rgb(0,131,131)"/>
+ </g>
+ <g transform="matrix(1.11855,0,0,1.11855,-4.2153,-3.17842)">
+  <path d="m45 9.998c0 3.311-2.688 6.002-6 6.002-3.315 0-6-2.691-6-6.002 0-3.314 2.685-5.998 6-5.998 3.312 0 6 2.684 6 5.998" style="fill-rule:nonzero;fill:rgb(248,69,41)"/>
+ </g>
+ <defs>
+  <linearGradient id="_Linear1" x2="1" gradientTransform="matrix(1.59204e-15,-26,26,1.59204e-15,24.16,39)" gradientUnits="userSpaceOnUse">
+   <stop style="stop-color:rgb(212,213,204)" offset="0"/>
+   <stop style="stop-color:rgb(236,216,216)" offset="1"/>
+  </linearGradient>
+ </defs>
+</svg>

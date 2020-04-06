@@ -1,11 +1,1 @@
-<svg style="clip-rule:evenodd;fill-rule:evenodd" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
- <ellipse cx="24.01" cy="23.99" rx="22.905" ry="22.905" style="fill:url(#_Linear1)"/>
- <circle cx="24" cy="24" r="22.042" style="fill:none;stroke-opacity:.42;stroke-width:1.92px;stroke:#fff"/>
- <path d="m32.583 13.256h-6.481c-1.188 0-2.848 0.688-3.688 1.528l-10.04 10.04c-0.84 0.84-0.84 2.215 0 3.055l7.747 7.747c0.84 0.84 2.215 0.84 3.055 0l10.04-10.04c0.84-0.84 1.528-2.5 1.528-3.688v-6.481c0-1.189-0.972-2.161-2.161-2.161zm-2.87 7.188c-1.191 0-2.157-0.966-2.157-2.157 0-1.19 0.966-2.156 2.157-2.156 1.19 0 2.156 0.966 2.156 2.156 0 1.191-0.966 2.157-2.156 2.157z" style="fill-opacity:.85;fill-rule:nonzero;fill:#fff"/>
- <defs>
-  <linearGradient id="_Linear1" x2="1" gradientTransform="matrix(-.368798 -45.8104 45.8104 -.368798 23.2332 46.8948)" gradientUnits="userSpaceOnUse">
-   <stop style="stop-color:#2e3e46" offset="0"/>
-   <stop style="stop-color:#47606a" offset="1"/>
-  </linearGradient>
- </defs>
-</svg>
+io.github.quodlibet.ExFalso.svg
