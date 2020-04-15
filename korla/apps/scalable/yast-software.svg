@@ -1,47 +1,51 @@
 <svg style="clip-rule:evenodd;fill-rule:evenodd;stroke-linecap:round" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
  <rect x="4" y="3" width="40" height="10" style="fill:url(#_Linear1)"/>
- <path d="m4 3v27l3.5-24.5-3.5-2.5z" style="fill-rule:nonzero;fill:url(#_Linear2)"/>
+ <path d="M4,3L4,30L7.5,5.5L4,3Z" style="fill-rule:nonzero;fill:url(#_Linear2)"/>
  <path d="m44 3v5l-3.5-2.5 3.5-2.5z" style="fill-rule:nonzero;fill:url(#_Linear3)"/>
- <path d="m7.5 5.5l7.7 5.5h-11.2l3.5-5.5z" style="fill-opacity:.08;fill-rule:nonzero"/>
- <path d="m46 9h-44v34c0 1.656 1.344 3 3 3h38c1.656 0 3-1.344 3-3v-34z" style="fill:url(#_Linear4)"/>
+ <path d="M7.5,5.5L15.2,11L4,11L7.5,5.5Z" style="fill-opacity:.08;fill-rule:nonzero"/>
+ <g transform="translate(0 -.160963)">
+  <path d="m46 9h-44v34c0 1.656 1.344 3 3 3h38c1.656 0 3-1.344 3-3v-34z" style="fill:url(#_Linear4)"/>
+ </g>
  <path d="m46 9h-5.5v-3.5l5.5 3.5z" style="fill-rule:nonzero;fill:url(#_Linear5)"/>
- <path d="m7.5 5.5l-5.5 3.5h5.5v-3.5z" style="fill-rule:nonzero;fill:url(#_Linear6)"/>
+ <path d="m7.5 5.5-5.5 3.5h5.5v-3.5z" style="fill-rule:nonzero;fill:url(#_Linear6)"/>
  <circle cx="14" cy="14" r="2" style="fill-opacity:.3"/>
  <circle cx="34" cy="14" r="2" style="fill-opacity:.3"/>
  <path d="m34 13c0-5.486-4.514-10-10-10s-10 4.514-10 10" style="fill:none;stroke-width:2.4px;stroke:url(#_Linear7)"/>
- <path d="m26.426 41.092c-2.967-0.972-4.318-4.052-2.953-6.732 0.619-1.215 1.436-1.886 2.771-2.276 1.742-0.507 3.653 0.193 4.656 1.71 0.686 1.036 0.764 2.703 0.179 3.799-1.374 2.573-5.144 2.519-6.14-0.09-0.577-1.513 0.091-3.092 1.546-3.647 1.476-0.563 3.026 0.339 3.197 1.862 0.073 0.641 0.013 0.847-0.378 1.312-0.844 1.004-2.23 0.888-2.738-0.23-0.271-0.593-0.069-0.706 0.485-0.271 0.585 0.461 1.016 0.467 1.462 0.02 0.459-0.458 0.44-0.917-0.063-1.503-0.938-1.09-2.753-0.204-2.788 1.36-0.02 0.883 0.407 1.564 1.226 1.963 2.078 1.011 4.372-1.269 3.528-3.504-0.233-0.615-0.964-1.395-1.637-1.746-1.362-0.712-3.446-0.055-4.399 1.385-0.397 0.599-0.474 0.905-0.474 1.872 0 0.984 0.078 1.285 0.526 2.009 0.326 0.528 0.85 1.051 1.378 1.377 0.743 0.459 1.01 0.525 2.082 0.519 2.539-0.013 4.282-1.642 4.807-4.495 0.373-2.022-0.364-4.316-1.85-5.761-0.529-0.515-0.77-0.892-0.77-1.209 0-0.531-0.281-1.135-0.528-1.135-0.095 0-0.168 0.646-0.168 1.482v1.482l0.783 0.474c0.858 0.517 1.057 1.083 0.382 1.083-0.219 0-0.486-0.087-0.592-0.194-0.107-0.105-0.69-0.364-1.297-0.572-1.126-0.387-1.463-0.835-0.71-0.941 0.337-0.048 0.392-0.16 0.392-0.805v-0.749l-0.973-0.081c-1.095-0.09-1.282-0.268-1.286-1.222-1e-3 -0.359-0.072-0.653-0.155-0.653-0.39 0-0.612 0.652-0.683 1.999-0.074 1.417-0.067 1.451 0.335 1.508 0.792 0.112 0.594 0.629-0.41 1.074-0.514 0.226-1.224 0.667-1.577 0.978-0.644 0.564-1.164 0.612-1.164 0.107 0-0.142 0.352-0.552 0.783-0.912 0.771-0.645 0.781-0.668 0.781-1.722 0-1.329-0.439-2.063-1.606-2.682l-0.816-0.433-0.756 0.741-0.755 0.741-3.467-0.047c-3.447-0.048-3.468-0.049-3.522-0.439l-0.056-0.392h2.686c2.176 0 2.727-0.049 2.902-0.26 0.192-0.23-0.15-0.261-2.914-0.261-2.295 0-3.178-0.057-3.31-0.217-0.198-0.239-0.011-1.59 0.339-2.449 0.559-1.318 1.496-2.563 2.616-3.488 0.954-0.787 3.722-1.693 4.39-1.437 0.215 0.082 0.271 0.405 0.271 1.586 0 0.817 0.062 1.484 0.139 1.484 0.341 0 0.556-0.481 0.556-1.245 0-0.825 3e-3 -0.829 0.739-1.035 1.147-0.321 3.836-0.232 5.396 0.176 4.297 1.125 7.433 4.13 8.491 8.136 0.48 1.819 0.521 4.761 0.085 6.227-0.797 2.688-2.527 4.828-4.736 5.862-0.923 0.433-1.442 0.558-2.485 0.598-0.724 0.029-1.513-0.013-1.753-0.091zm-5.382-10.521c-0.15-0.396-0.273-0.443-1.261-0.49-0.983-0.047-1.1-0.092-1.149-0.443-0.054-0.373 0-0.392 1.123-0.392 1.117 0 1.211-0.032 1.818-0.625 0.554-0.541 0.69-0.598 1.008-0.429 0.5 0.269 0.463 0.504-0.191 1.178-0.341 0.352-0.561 0.758-0.565 1.048-0.01 0.642-0.555 0.75-0.783 0.153z" style="fill-rule:nonzero;fill:url(#_Linear8)"/>
+ <g transform="matrix(.422421 0 0 .422421 -4.64013 8.30386)">
+  <path d="m101.541 40.263c-0.477-0.492-1.262-0.492-1.738 0-0.536 0.534-0.472 1.456 0.192 1.897 0.406 0.269 0.948 0.269 1.353 0 0.662-0.441 0.727-1.363 0.193-1.897m-1.589-4.179c-3.284-0.769-6.234 2.182-5.463 5.464 0.391 1.671 1.719 2.998 3.392 3.39 3.284 0.772 6.236-2.181 5.463-5.465-0.394-1.672-1.721-2.998-3.392-3.389m-21.681 18.487c-2.14-0.791-2.967-0.632-5.703-0.594-1.896 0.024-1.965-0.041-4.129-0.041-0.669 0-0.915 3.205 1.504 3.871 1.059 0.291 2.203 0.475 3 1.289 0.353 0.36 0.551 0.904-0.264 0.904h-6.006c-1.051 0-2.043 0.024-2.846-0.656-1.213-1.025-1.779-2.435-2.386-3.834-0.63-1.455-1.309-2.888-2.107-4.259-1.586-2.726-3.683-5.192-6.496-6.699-3.512-1.884-9.473-2.818-14.193 0.807-4.974 3.819-3.909 10.973 0.442 14.473 1.718 1.383 3.958 1.961 6.16 1.831 4.303-0.249 7.476-3.42 6.688-7.323-0.263-1.306-1.025-2.543-2.173-3.217-0.816-0.477-1.784-0.646-2.729-0.648-1.016-3e-3 -2.097 0.206-2.828 0.913-0.864 0.837-1.004 2.316-0.313 3.301 0.382 0.546 1.004 1.007 0.899 1.718-0.072 0.481-0.469 0.839-0.943 0.945-0.807 0.18-1.546-0.28-2.091-0.842-1.398-1.44-1.836-3.732-1.066-5.587 1.006-2.429 3.804-3.765 6.431-3.678 3.387 0.114 6.58 2.348 7.968 5.439 1.389 3.093 0.973 6.888-0.941 9.686-4.253 6.216-14.756 5.482-19.636 0.24-3.061-3.289-4.724-6.48-4.491-12.423 0.164-4.199 2.587-8.336 5.676-11.246 5.033-4.743 11.661-7.986 18.406-9.384 4.096-0.847 8.325-1.045 12.483-0.63 3.667 0.364 7.312 1.036 10.836 2.127 1.75 0.545 3.471 1.193 5.135 1.957 1.468 0.674 3.392 1.409 4.535 2.573 0-2.108-0.082-4.424-0.082-6.037 0-0.615 0.647-1.031 1.201-0.768 2.385 1.107 8.035 3.776 11.802 5.499 5.05 2.307 5.407 7.75 5.583 12.576 4e-3 0.108 9e-3 0.219-0.039 0.315-0.159 0.331-1.01 0.241-1.322 0.245-0.604 6e-3 -1.515 2e-3 -2.119 0.03-1.205 0.052-2.379 0.03-3.585-0.03-2.229-0.108-4.384-1.102-5.827-2.309-0.144-0.122-0.61-0.254-0.829-0.026-0.228 0.235-0.15 0.603-0.027 0.729 0.828 0.835 1.725 1.375 2.769 1.914 1.326 0.681 2.772 0.854 4.238 0.939 1.57 0.093 3.151 0.069 4.718-0.091 1.308-0.134 1.646-0.224 0.355 0.735-1.134 0.843-2.449 1.449-3.783 1.897-1.914 0.652-3.934 0.973-5.951 1.029-1.223 0.033-2.446-0.03-3.659-0.188-0.628-0.078-1.251-0.192-1.881-0.256-0.511-0.052-1.041-0.147-1.55-0.037-0.463 0.101-0.89 0.351-1.181 0.728-0.399 0.521-0.537 1.951-0.306 2.571 0.445 1.201 1.424 1.899 2.458 2.515 1.12 0.666 2.593 0.894 2.88 2.167 0.059 0.266-2.322 0.273-2.592 0.269h-3.169s-1.722 0.041-2.393-0.203c-0.021-6e-3 -0.039-0.016-0.061-0.027-0.364-0.196-0.522-0.684-0.646-1.054-0.177-0.521-0.487-1.042-0.864-1.581-0.716-1.022-1.816-2.14-2.96-2.564m23.997-14.062c0 1.858-1.504 3.362-3.361 3.362-1.856 0-3.36-1.504-3.36-3.362 0-1.855 1.504-3.359 3.36-3.359 1.857 0 3.361 1.504 3.361 3.359" style="fill-rule:nonzero;fill:url(#_Linear8)"/>
+ </g>
  <defs>
-  <linearGradient id="_Linear1" x2="1" gradientTransform="matrix(.131484 -10 10 .131484 51.8866 13.3945)" gradientUnits="userSpaceOnUse">
-   <stop style="stop-color:#727272" offset="0"/>
-   <stop style="stop-color:#eee" offset="1"/>
+  <linearGradient id="_Linear1" x2="1" gradientTransform="matrix(.131484 -10 10 .131484 81.8866 13.789)" gradientUnits="userSpaceOnUse">
+   <stop style="stop-color:rgb(114,114,114)" offset="0"/>
+   <stop style="stop-color:rgb(238,238,238)" offset="1"/>
   </linearGradient>
-  <linearGradient id="_Linear2" x2="1" gradientTransform="translate(0 3)" gradientUnits="userSpaceOnUse">
-   <stop style="stop-color:#d9d9d9" offset="0"/>
-   <stop style="stop-color:#eee" offset="1"/>
+  <linearGradient id="_Linear2" x2="1" gradientTransform="translate(0 6)" gradientUnits="userSpaceOnUse">
+   <stop style="stop-color:rgb(217,217,217)" offset="0"/>
+   <stop style="stop-color:rgb(238,238,238)" offset="1"/>
   </linearGradient>
-  <linearGradient id="_Linear3" x2="1" gradientTransform="matrix(-1,1.22465e-16,-1.22465e-16,-1,1,-3)" gradientUnits="userSpaceOnUse">
-   <stop style="stop-color:#d9d9d9" offset="0"/>
-   <stop style="stop-color:#eee" offset="1"/>
+  <linearGradient id="_Linear3" x2="1" gradientTransform="matrix(-1,1.22465e-16,-1.22465e-16,-1,1,-6)" gradientUnits="userSpaceOnUse">
+   <stop style="stop-color:rgb(217,217,217)" offset="0"/>
+   <stop style="stop-color:rgb(238,238,238)" offset="1"/>
   </linearGradient>
-  <linearGradient id="_Linear4" x2="1" gradientTransform="matrix(2.2656e-15,-37,37,2.2656e-15,357,46)" gradientUnits="userSpaceOnUse">
-   <stop style="stop-color:#d6d6d6" offset="0"/>
-   <stop style="stop-color:#fff" offset="1"/>
+  <linearGradient id="_Linear4" x2="1" gradientTransform="matrix(2.2656e-15,-37,37,2.2656e-15,690,46)" gradientUnits="userSpaceOnUse">
+   <stop style="stop-color:rgb(187,187,187)" offset="0"/>
+   <stop style="stop-color:white" offset="1"/>
   </linearGradient>
-  <linearGradient id="_Linear5" x2="1" gradientTransform="matrix(-1,1.22465e-16,-1.22465e-16,-1,1,-5.5)" gradientUnits="userSpaceOnUse">
-   <stop style="stop-color:#ececec" offset="0"/>
-   <stop style="stop-color:#fff" offset="1"/>
+  <linearGradient id="_Linear5" x2="1" gradientTransform="matrix(-1,1.22465e-16,-1.22465e-16,-1,1,-11)" gradientUnits="userSpaceOnUse">
+   <stop style="stop-color:rgb(236,236,236)" offset="0"/>
+   <stop style="stop-color:white" offset="1"/>
   </linearGradient>
-  <linearGradient id="_Linear6" x2="1" gradientTransform="translate(0 5.5)" gradientUnits="userSpaceOnUse">
-   <stop style="stop-color:#ececec" offset="0"/>
-   <stop style="stop-color:#fff" offset="1"/>
+  <linearGradient id="_Linear6" x2="1" gradientTransform="translate(0 11)" gradientUnits="userSpaceOnUse">
+   <stop style="stop-color:rgb(236,236,236)" offset="0"/>
+   <stop style="stop-color:white" offset="1"/>
   </linearGradient>
-  <linearGradient id="_Linear7" x2="1" gradientTransform="matrix(-2.94545e-14,183.161,-183.161,-2.94545e-14,66.2679,-181.25)" gradientUnits="userSpaceOnUse">
-   <stop style="stop-color:#cdcdcd" offset="0"/>
-   <stop style="stop-color:#fff" offset="1"/>
+  <linearGradient id="_Linear7" x2="1" gradientTransform="matrix(6.74509e-13,-2381.09,2381.09,6.74509e-13,-483.215,2383)" gradientUnits="userSpaceOnUse">
+   <stop style="stop-color:rgb(205,205,205)" offset="0"/>
+   <stop style="stop-color:white" offset="1"/>
   </linearGradient>
-  <linearGradient id="_Linear8" x2="1" gradientTransform="matrix(1.17504e-15,-21.297,19.1899,1.30407e-15,24,40.6465)" gradientUnits="userSpaceOnUse">
-   <stop style="stop-color:#118702" offset="0"/>
-   <stop style="stop-color:#80e950" offset="1"/>
+  <linearGradient id="_Linear8" x2="1" gradientTransform="matrix(2.33234e-15,-38.09,38.09,2.33234e-15,67.7999,66.7887)" gradientUnits="userSpaceOnUse">
+   <stop style="stop-color:rgb(48,158,105)" offset="0"/>
+   <stop style="stop-color:rgb(48,186,120)" offset="1"/>
   </linearGradient>
  </defs>
 </svg>
