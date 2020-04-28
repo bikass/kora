@@ -1,3 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1">
- <path style="fill:#dfdfdf" d="M 4 1 L 4 3 L 12 3 L 12 1 L 4 1 z M 2 4 C 1.5 4 1 4.5 1 5 L 1 9 C 1 9.5 1.5 10 2 10 L 3 10 L 3 8 L 13 8 L 13 10 L 14 10 C 14.5 10 15 9.5 15 9 L 15 5 C 15 4.5 14.5 4 14 4 L 2 4 z M 4 9 L 4 14 L 12 14 L 12 9 L 4 9 z"/>
+<svg style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2" version="1.1" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+ <g transform="translate(0 -.337469)">
+  <rect x="4" y="9" width="8" height="5" style="fill-opacity:.5;fill:rgb(223,223,223)"/>
+ </g>
+ <g transform="translate(0 .416873)">
+  <rect x="4" y="1" width="8" height="2" style="fill-opacity:.3;fill:rgb(223,223,223)"/>
+ </g>
+ <path d="m2 4c-0.5 0-1 0.5-1 1v4c0 0.5 0.5 1 1 1h1v-2h10v2h1c0.5 0 1-0.5 1-1v-4c0-0.5-0.5-1-1-1h-12zm10 0.457c0.531 0 0.963 0.431 0.963 0.962 0 0.532-0.432 0.963-0.963 0.963s-0.963-0.431-0.963-0.963c0-0.531 0.432-0.962 0.963-0.962z" style="fill:rgb(223,223,223)"/>
 </svg>
