@@ -1,3 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1">
- <path style="fill:#dfdfdf" d="M 3,2 C 2.45,2 2,2.446 2,3 V 13 C 2,13.554 2.45,14 3,14 H 13 C 13.55,14 14,13.554 14,13 V 3 C 14,2.446 13.55,2 13,2 Z M 5,7 H 11 V 9 H 5 Z"/>
+<svg style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2" version="1.1" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+ <g transform="matrix(1.78809,0,0,1.78809,-6.30471,-6.30471)">
+  <path d="m5 7.807c0-0.446 0.361-0.807 0.807-0.807h4.386c0.446 0 0.807 0.361 0.807 0.807v0.386c0 0.446-0.361 0.807-0.807 0.807h-4.386c-0.446 0-0.807-0.361-0.807-0.807v-0.386z" style="fill:rgb(223,223,223)"/>
+ </g>
 </svg>

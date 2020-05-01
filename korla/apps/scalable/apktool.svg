@@ -1,0 +1,32 @@
+<svg style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+ <g transform="matrix(2.0805,0,0,2.0805,1.11453,1.11453)">
+  <path d="m1 11v2h3v8h2v-8h2v-2h-7z" style="fill-rule:nonzero;fill:rgb(12,145,250)"/>
+ </g>
+ <g transform="matrix(2.0805,0,0,2.0805,1.11453,1.11453)">
+  <path d="m6 13v8h5v-10h-3v2h-2z" style="fill-rule:nonzero;fill:rgb(4,112,197)"/>
+ </g>
+ <g transform="matrix(2.0805,0,0,2.0805,1.11453,1.11453)">
+  <rect x="11" y="11" width="5" height="10" style="fill-rule:nonzero;fill:rgb(3,77,135)"/>
+ </g>
+ <g transform="matrix(2.0805,0,0,2.0805,1.11453,1.11453)">
+  <path d="m16 11v10h5v-2h-3v-8h-2z" style="fill-rule:nonzero;fill:rgb(2,53,95)"/>
+ </g>
+ <g transform="matrix(2.0805,0,0,2.0805,1.11453,1.11453)">
+  <rect x="1" y="1" width="7" height="10" style="fill-rule:nonzero;fill:rgb(93,236,54)"/>
+ </g>
+ <g transform="matrix(2.0805,0,0,2.0805,1.11453,1.11453)">
+  <path d="m8 11h4.25v-2.5h3.75v-7.5h-8v10z" style="fill-rule:nonzero;fill:rgb(57,199,19)"/>
+ </g>
+ <g transform="matrix(2.0805,0,0,2.0805,1.11453,1.11453)">
+  <path d="m12.25 8.5v2.5h8.75v-2.5l-2.5-2.5 2.5-2.5v-2.5h-5v7.5h-3.75z" style="fill-rule:nonzero;fill:rgb(45,157,14)"/>
+ </g>
+ <g transform="matrix(2.0805,0,0,2.0805,1.11453,1.11453)">
+  <path d="m4 3v4h1v-4h-1zm8 0v4h1v-4h-1zm-8 5v3h1v-3h-1z" style="fill-rule:nonzero;fill:white"/>
+ </g>
+ <g transform="matrix(2.0805,0,0,2.0805,1.11453,1.11453)">
+  <rect x="8" y="14" width="1" height="4" style="fill:white"/>
+ </g>
+ <g transform="matrix(2.0805,0,0,2.0805,1.11453,1.11453)">
+  <rect x="13" y="14" width="1" height="4" style="fill:white"/>
+ </g>
+</svg>

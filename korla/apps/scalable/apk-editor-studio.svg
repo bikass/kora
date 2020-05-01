@@ -1,0 +1,21 @@
+<svg style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+ <g transform="matrix(1.11118,0,0,1.11118,-3.2239,-3.2239)">
+  <path d="M12.8,5C8.479,5 5,8.479 5,12.8L5,42.05C5,43.13 5.87,44 6.95,44L36.2,44C40.521,44 44,40.521 44,36.2L44,6.95C44,5.87 43.13,5 42.05,5L12.8,5Z" style="fill-rule:nonzero;fill:url(#_Linear1)"/>
+ </g>
+ <g transform="matrix(1.11118,0,0,1.11118,-3.2239,-3.2239)">
+  <path d="m43.431 5.569-37.862 37.862c0.353 0.352 0.841 0.569 1.381 0.569h29.25c4.321 0 7.8-3.479 7.8-7.8v-29.25c0-0.54-0.217-1.028-0.569-1.381z" style="fill-rule:nonzero;fill:url(#_Linear2)"/>
+ </g>
+ <g transform="matrix(1.11118,0,0,1.11118,-3.2239,-3.2239)">
+  <path d="m15 10c-5.018 0-5 5-5 5h5v-5zm1 0v5h5v-5h-5zm6 0v5h5v-5h-5zm6 0v5h5v-5h-5zm6 0v5h5v-5h-5zm-24 6v5h5v-5h-5zm6 0v5h5v-5h-5zm6 0v5h5v-5h-5zm6 0v5h5v-5h-5zm6 0v5h5v-5h-5zm-24 6v5h5v-5h-5zm6 0v5h5v-5h-5zm6 0v5h5v-5h-5zm6 0v5h5v-5h-5zm6 0v5h5v-5h-5zm-24 6v5h5v-5h-5zm6 0v5h5v-5h-5zm6 0v5h5v-5h-5zm6 0v5h5v-5h-5zm6 0v5h5v-5h-5zm-24 6v5h5v-5h-5zm6 0v5h5v-5h-5zm6 0v5h5v-5h-5zm6 0v5h5v-5h-5zm6 0v5c5.018 0 5-5 5-5h-5z" style="fill-rule:nonzero;fill:rgb(244,247,226)"/>
+ </g>
+ <defs>
+  <linearGradient id="_Linear1" x2="1" gradientTransform="matrix(2.38806e-15,-39,39,2.38806e-15,24.5,44)" gradientUnits="userSpaceOnUse">
+   <stop style="stop-color:rgb(103,144,44)" offset="0"/>
+   <stop style="stop-color:rgb(128,180,54)" offset="1"/>
+  </linearGradient>
+  <linearGradient id="_Linear2" x2="1" gradientTransform="matrix(2.38806e-15,-39,39,2.38806e-15,28,44)" gradientUnits="userSpaceOnUse">
+   <stop style="stop-color:rgb(140,164,50)" offset="0"/>
+   <stop style="stop-color:rgb(178,207,66)" offset="1"/>
+  </linearGradient>
+ </defs>
+</svg>

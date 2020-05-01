@@ -1,1 +1,17 @@
-multimedia-photo-viewer.svg
+<svg style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+ <g transform="matrix(1.08554,0,0,1.08554,-2.59569,-1.51015)">
+  <path d="m15 35c0-1.104-0.896-2-2-2h-6c-1.104 0-2 0.896-2 2v6c0 1.104 0.896 2 2 2h6c1.104 0 2-0.896 2-2v-6zm29 0c0-1.104-0.896-2-2-2h-6c-1.104 0-2 0.896-2 2v6c0 1.104 0.896 2 2 2h6c1.104 0 2-0.896 2-2v-6zm-29-29c0-1.104-0.896-2-2-2h-6c-1.104 0-2 0.896-2 2v6c0 1.104 0.896 2 2 2h6c1.104 0 2-0.896 2-2v-6zm29 0c0-1.104-0.896-2-2-2h-6c-1.104 0-2 0.896-2 2v6c0 1.104 0.896 2 2 2h6c1.104 0 2-0.896 2-2v-6z" style="fill:rgb(0,102,153)"/>
+ </g>
+ <g transform="matrix(1.08554,0,0,1.08554,-2.59569,-1.51015)">
+  <rect x="8" y="7" width="33" height="33" style="fill:url(#_Linear1)"/>
+ </g>
+ <g transform="matrix(1.08554,0,0,1.08554,-2.59569,-1.51015)">
+  <path d="m27.879 13 3.56-3.561c0.586-0.585 1.536-0.585 2.122 0 0.585 0.586 0.585 1.536 0 2.122l-1.44 1.439h3.879l-10 11.043v10.957h4.5c0.828 0 1.5 0.672 1.5 1.5s-0.672 1.5-1.5 1.5h-12c-0.828 0-1.5-0.672-1.5-1.5s0.672-1.5 1.5-1.5h4.5v-10.957l-10-11.043h14.879z" style="fill:rgb(0,102,153)"/>
+ </g>
+ <defs>
+  <linearGradient id="_Linear1" x2="1" gradientTransform="matrix(2.02067e-15,-33,33,2.02067e-15,24.5,40)" gradientUnits="userSpaceOnUse">
+   <stop style="stop-color:rgb(228,228,228)" offset="0"/>
+   <stop style="stop-color:white" offset="1"/>
+  </linearGradient>
+ </defs>
+</svg>

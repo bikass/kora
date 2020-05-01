@@ -1,4 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1">
- <path style="fill:#dfdfdf" d="M 4 3 L 4 5 L 10 5 C 10.43 5 11 5.61 11 6 L 13 6 C 13 4.37 11.68 3 10 3 L 4 3 z M 3 10 C 3 10.72 3.2693 11.449 3.7793 12.029 C 4.2893 12.609 5.09 13 6 13 L 13 13 L 13 10 L 11 10 L 11 11 L 6 11 C 5.6 11 5.4293 10.891 5.2793 10.721 C 5.1293 10.551 5 10.28 5 10 L 3 10 z"/>
- <path style="fill:#dfdfdf" d="M 1,7 V 9 H 15 V 7 Z"/>
+<svg style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2" version="1.1" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+ <path d="m12.621 9.029v3.705h-0.92v-1.699h-0.041c-0.697 1.209-2.214 1.904-3.609 1.904-2.482 0-4.165-1.669-4.575-3.91h0.946c0.394 1.7 1.706 3.051 3.609 3.051 1.983 0 3.222-1.322 3.605-3.051h0.985zm-9.166-2.058c0.368-2.277 2.048-3.91 4.555-3.91 1.456 0 2.851 0.654 3.65 1.843h0.041v-1.638h0.92v3.705h-0.939c-0.341-1.765-1.728-3.051-3.713-3.051-1.827 0-3.176 1.39-3.559 3.051h-0.955z" style="fill-rule:nonzero;fill:rgb(223,223,223)"/>
+ <g transform="matrix(1 0 0 .528536 0 .600496)">
+  <rect x="2" y="13" width="12" height="2" style="fill:rgb(223,223,223)"/>
+ </g>
 </svg>
