@@ -1,6 +1,10 @@
-<svg width="16" height="16" version="1.1" xmlns="http://www.w3.org/2000/svg">
- <path d="m8 10h6v2h-6z" style="fill:#dfdfdf"/>
- <path d="m8 4h6v2h-6z" style="fill:#dfdfdf"/>
- <path d="M 2.25,3 H 5.75 C 5.8885,3 6,3.1115 6,3.25 V 6.75 C 6,6.8885 5.8885,7 5.75,7 H 2.25 C 2.1115,7 2,6.8885 2,6.75 V 3.25 C 2,3.1115 2.1115,3 2.25,3 Z" style="fill:#dfdfdf"/>
- <path d="m2.25 9h3.5c0.1385 0 0.25 0.1115 0.25 0.25v3.5c0 0.139-0.1115 0.25-0.25 0.25h-3.5c-0.1385 0-0.25-0.111-0.25-0.25v-3.5c0-0.1385 0.1115-0.25 0.25-0.25z" style="fill:#dfdfdf"/>
+<svg style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2" version="1.1" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+ <g transform="matrix(1.09264 0 0 .761787 -1.01902 1.19107)">
+  <rect x="8" y="4" width="6" height="2" style="fill-rule:nonzero;fill:rgb(223,223,223)"/>
+ </g>
+ <g transform="matrix(1.09264 0 0 .761787 -1.01902 7.19107)">
+  <rect x="8" y="4" width="6" height="2" style="fill-rule:nonzero;fill:rgb(223,223,223)"/>
+ </g>
+ <path d="M2.25,3L5.75,3C5.888,3 6,3.112 6,3.25L6,6.75C6,6.888 5.888,7 5.75,7L2.25,7C2.112,7 2,6.888 2,6.75L2,3.25C2,3.112 2.112,3 2.25,3Z" style="fill-rule:nonzero;fill:rgb(223,223,223)"/>
+ <path d="M2.25,9L5.75,9C5.888,9 6,9.112 6,9.25L6,12.75C6,12.889 5.888,13 5.75,13L2.25,13C2.112,13 2,12.889 2,12.75L2,9.25C2,9.112 2.112,9 2.25,9Z" style="fill-rule:nonzero;fill:rgb(223,223,223)"/>
 </svg>
