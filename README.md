@@ -21,7 +21,7 @@ and copy ***korla***, ***korla-light*** and ***korla-light-panel*** subfolders t
 
 ### Specific Linux distributions
 
-* **Arch Linux**: AUR [stable](https://aur.archlinux.org/packages/korla-icon-theme/) and [git](https://aur.archlinux.org/packages/korla-icon-theme-git/)
+* **Arch Linux**: [git](https://aur.archlinux.org/packages/korla-icon-theme-git/)
 
 * **Solus**: sudo eopkg it korla-icon-theme
 
