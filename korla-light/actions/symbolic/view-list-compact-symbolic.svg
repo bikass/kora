@@ -1,6 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1">
- <path style="fill:#dfdfdf" d="M 8,5 H 12 V 6 H 8 Z"/>
- <path style="fill:#dfdfdf" d="M 4.25,4 H 6.75 C 6.8885,4 7,4.1115 7,4.25 V 6.75 C 7,6.8885 6.8885,7 6.75,7 H 4.25 C 4.1115,7 4,6.8885 4,6.75 V 4.25 C 4,4.1115 4.1115,4 4.25,4 Z"/>
- <path style="fill:#dfdfdf" d="M 8,10 H 12 V 11 H 8 Z"/>
- <path style="fill:#dfdfdf" d="M 4.25,9 H 6.75 C 6.8885,9 7,9.1115 7,9.25 V 11.75 C 7,11.889 6.8885,12 6.75,12 H 4.25 C 4.1115,12 4,11.889 4,11.75 V 9.25 C 4,9.1115 4.1115,9 4.25,9 Z"/>
+<svg clip-rule="evenodd" fill-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="2" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+ <g fill="#444" fill-rule="nonzero">
+  <path d="m8 5h4v1h-4z"/>
+  <path d="m4.25 4h2.5c.138 0 .25.112.25.25v2.5c0 .138-.112.25-.25.25h-2.5c-.138 0-.25-.112-.25-.25v-2.5c0-.138.112-.25.25-.25z" fill-opacity=".5"/>
+  <path d="m8 10h4v1h-4z"/>
+  <path d="m4.25 9h2.5c.138 0 .25.112.25.25v2.5c0 .139-.112.25-.25.25h-2.5c-.138 0-.25-.111-.25-.25v-2.5c0-.138.112-.25.25-.25z" fill-opacity=".5"/>
+ </g>
 </svg>

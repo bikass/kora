@@ -1,3 +1,3 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1">
- <path style="fill:#dfdfdf" d="M 4,10 V 12 H 12 V 10 Z"/>
+<svg style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2" version="1.1" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+ <rect x="4" y="10" width="8" height="2" style="fill-rule:nonzero;fill:#444"/>
 </svg>
