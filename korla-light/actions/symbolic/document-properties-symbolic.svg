@@ -1,6 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1">
- <path style="fill:#444444" d="M 1,1 H 15 V 3 H 1 Z"/>
- <path style="fill:#444444" d="M 1,5 H 15 V 7 H 1 Z"/>
- <path style="fill:#444444" d="M 1,9 H 15 V 11 H 1 Z"/>
- <path style="fill:#444444" d="M 1,13 H 15 V 15 H 1 Z"/>
+<svg style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2" version="1.1" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+ <g transform="matrix(1 0 0 1.0777 0 -.0771211)">
+  <rect x="1.022" y=".993" width="13.978" height="1.007" style="fill:rgb(68,68,68)"/>
+ </g>
+ <g transform="matrix(1,0,0,1.0777,0,4.2417)">
+  <rect x="1.022" y=".993" width="13.978" height="1.007" style="fill:rgb(68,68,68)"/>
+ </g>
+ <g transform="matrix(1,0,0,1.0777,0,8.56052)">
+  <rect x="1.022" y=".993" width="13.978" height="1.007" style="fill:rgb(68,68,68)"/>
+ </g>
+ <g transform="matrix(1,0,0,1.0777,0,12.8793)">
+  <rect x="1.022" y=".993" width="13.978" height="1.007" style="fill:rgb(68,68,68)"/>
+ </g>
 </svg>
