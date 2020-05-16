@@ -1,3 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1">
- <path style="fill:#444444" d="M 3,2 C 2.45,2 2,2.446 2,3 V 13 C 2,13.554 2.45,14 3,14 H 13 C 13.55,14 14,13.554 14,13 V 3 C 14,2.446 13.55,2 13,2 Z M 7,5 H 9 V 7 H 11 V 9 H 9 V 11 H 7 V 9 H 5 V 7 H 7 Z"/>
+<svg style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2" version="1.1" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+ <g transform="translate(-1e-5 -.345111)">
+  <path d="m2.636 8.345c0-0.797 0.645-1.443 1.443-1.443h7.842c0.798 0 1.443 0.646 1.443 1.443 0 0.798-0.645 1.443-1.443 1.443h-7.842c-0.798 0-1.443-0.645-1.443-1.443z" style="fill:rgb(68,68,68)"/>
+ </g>
+ <g transform="matrix(6.12323e-17 1 -1 6.12323e-17 16.3451 -1e-5)">
+  <path d="m2.636 8.345c0-0.797 0.645-1.443 1.443-1.443h7.842c0.798 0 1.443 0.646 1.443 1.443 0 0.798-0.645 1.443-1.443 1.443h-7.842c-0.798 0-1.443-0.645-1.443-1.443z" style="fill:rgb(68,68,68)"/>
+ </g>
 </svg>
