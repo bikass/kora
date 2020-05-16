@@ -1,3 +1,4 @@
 <svg style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2" version="1.1" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
- <path d="m5 4c-0.554 0-1 0.446-1 1v6c0 0.554 0.446 1 1 1h6c0.554 0 1-0.446 1-1v-6c0-0.554-0.446-1-1-1h-6zm0.978 2.756h4.044c0.373 0 0.674 0.301 0.674 0.674v2.696c0 0.373-0.301 0.674-0.674 0.674h-4.044c-0.373 0-0.674-0.301-0.674-0.674v-2.696c0-0.373 0.301-0.674 0.674-0.674z" style="fill-rule:nonzero;fill:rgb(68,68,68)"/>
+ <path d="m5 4c-0.554 0-1 0.446-1 1v6c0 0.554 0.446 1 1 1h6c0.554 0 1-0.446 1-1v-6c0-0.554-0.446-1-1-1h-6zm0 1v6h6v-6h-6z" style="fill:rgb(68,68,68)"/>
+ <rect x="5" y="5" width="6" height="2.186" style="fill-opacity:.5;fill:rgb(68,68,68)"/>
 </svg>
