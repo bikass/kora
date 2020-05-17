@@ -1,0 +1,18 @@
+<svg clip-rule="evenodd" fill-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="2" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+ <linearGradient id="a" x2="1" gradientTransform="matrix(0 -24 25.0953 0 22.7126 41)" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#ff5f00" offset="0"/>
+  <stop stop-color="#fca526" offset="1"/>
+ </linearGradient>
+ <linearGradient id="b" x2="1" gradientTransform="matrix(0 -39.8283 39.8283 0 35 44)" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#f1ebeb" offset="0"/>
+  <stop stop-color="#fff" offset="1"/>
+ </linearGradient>
+ <path d="m44 17c0-1.656-1.344-3-3-3h-34c-1.656 0-3 1.344-3 3v24c0 1.656 1.344 3 3 3h34c1.656 0 3-1.344 3-3z" fill="#41342c"/>
+ <path transform="matrix(1.08747 0 0 1.1371 -2.09936 -3.97593)" d="m41 17.526c0-.139-.058-.273-.161-.372s-.243-.154-.389-.154c-4.025 0-28.875 0-32.9 0-.146 0-.286.055-.389.154s-.161.233-.161.372v22.948c0 .139.058.273.161.372s.243.154.389.154h32.9c.146 0 .286-.055.389-.154s.161-.233.161-.372c0-3.178 0-19.77 0-22.948z" fill="url(#a)"/>
+ <path d="m34 21.579c0-.871-.708-1.579-1.579-1.579h-11.842c-.871 0-1.579.708-1.579 1.579v11.842c0 .871.708 1.579 1.579 1.579h11.842c.871 0 1.579-.708 1.579-1.579z" fill="#fff" fill-opacity=".6"/>
+ <path d="m24 27.4c0-.773-.627-1.4-1.4-1.4h-11.2c-.773 0-1.4.627-1.4 1.4v9.2c0 .773.627 1.4 1.4 1.4h11.2c.773 0 1.4-.627 1.4-1.4z" fill="#fff" fill-opacity=".6"/>
+ <path d="m44 7c0-1.656-1.344-3-3-3h-12c-1.656 0-3 1.344-3 3v34c0 1.656 1.344 3 3 3h12c1.656 0 3-1.344 3-3z" fill="url(#b)"/>
+ <circle cx="32" cy="26" r="2" fill="#f66151"/>
+ <path d="m32 36c1.104 0 2 .896 2 2s-.896 2-2 2-2-.896-2-2 .896-2 2-2zm6 0c1.104 0 2 .896 2 2s-.896 2-2 2-2-.896-2-2 .896-2 2-2zm-6-6c1.104 0 2 .896 2 2s-.896 2-2 2-2-.896-2-2 .896-2 2-2zm6 0c1.104 0 2 .896 2 2s-.896 2-2 2-2-.896-2-2 .896-2 2-2zm0-6c1.104 0 2 .896 2 2s-.896 2-2 2-2-.896-2-2 .896-2 2-2zm-3-16c3.311 0 6 2.689 6 6s-2.689 6-6 6-6-2.689-6-6 2.689-6 6-6z" fill="#787773"/>
+ <circle transform="matrix(0 -1 -1 0 0 0)" cx="-14" cy="-35" r="3" fill="#f9f8f7"/>
+</svg>
