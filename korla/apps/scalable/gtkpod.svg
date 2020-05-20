@@ -1,21 +1,13 @@
-<svg style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
- <g transform="matrix(.0764416 0 0 .0664928 11.6668 1.2041)">
-  <rect x="18.553" y="87.912" width="292.693" height="525.809" style="fill:url(#_Linear1)"/>
- </g>
- <g transform="matrix(3.28571,0,0,3.28571,-2.28571,-3407.48)">
-  <path d="m11.404 1037.36h-6.808c-0.31 0-0.561 0.25-0.561 0.56v12.88c0 0.31 0.251 0.56 0.561 0.56h6.808c0.31 0 0.561-0.25 0.561-0.56v-12.88c0-0.31-0.251-0.56-0.561-0.56zm-0.082 11.78h-6.644v-9.55h6.644v9.55z" style="fill-rule:nonzero;fill:url(#_Linear2)"/>
- </g>
- <g transform="matrix(.0847045 0 0 .0736803 10.3336 -3.38136)">
-  <ellipse cx="161.342" cy="637.978" rx="25.226" ry="29" style="fill:rgb(6,130,161)"/>
- </g>
- <defs>
-  <linearGradient id="_Linear1" x2="1" gradientTransform="matrix(1.39319e-14,-408.737,227.524,2.5028e-14,6238.66,550.412)" gradientUnits="userSpaceOnUse">
-   <stop style="stop-color:rgb(0,103,131)" offset="0"/>
-   <stop style="stop-color:rgb(19,190,227)" offset="1"/>
-  </linearGradient>
-  <linearGradient id="_Linear2" x2="1" gradientTransform="matrix(-.051729 -12.1132 12.1132 -.051729 8.16672 1050.47)" gradientUnits="userSpaceOnUse">
-   <stop style="stop-color:rgb(20,20,20)" offset="0"/>
-   <stop style="stop-color:rgb(45,45,47)" offset="1"/>
-  </linearGradient>
- </defs>
+<svg clip-rule="evenodd" fill-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="2" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+ <linearGradient id="a" x2="1" gradientTransform="matrix(0 -408.737 227.524 0 6238.66 550.412)" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#006783" offset="0"/>
+  <stop stop-color="#13bee3" offset="1"/>
+ </linearGradient>
+ <linearGradient id="b" x2="1" gradientTransform="matrix(-.051729 -12.1132 12.1132 -.051729 8.16672 1050.47)" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#141414" offset="0"/>
+  <stop stop-color="#2d2d2f" offset="1"/>
+ </linearGradient>
+ <path transform="matrix(.0764416 0 0 .0664928 11.6668 1.2041)" d="m18.553 87.912h292.693v525.809h-292.693z" fill="url(#a)"/>
+ <path transform="matrix(3.28571 0 0 3.28571 -2.28571 -3407.48)" d="m11.404 1037.36h-6.808c-.31 0-.561.25-.561.56v12.88c0 .31.251.56.561.56h6.808c.31 0 .561-.25.561-.56v-12.88c0-.31-.251-.56-.561-.56zm-.082 11.78h-6.644v-9.55h6.644z" fill="url(#b)" fill-rule="nonzero"/>
+ <ellipse transform="matrix(.0847045 0 0 .0736803 10.3336 -3.38136)" cx="161.342" cy="637.978" rx="25.226" ry="29" fill="#0682a1"/>
 </svg>

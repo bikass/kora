@@ -1,14 +1,12 @@
-<svg style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
- <circle cx="24" cy="24" r="22.764" style="fill:url(#_Linear1)"/>
- <path d="m35.183 18.663c-2.116-0.304-4.371-0.524-6.723-0.648l3.93-3.931-1.525-1.525-5.353 5.352c-0.501-8e-3 -1.005-0.013-1.512-0.013l-6.102-6.102-1.525 1.526 4.628 4.628c-2.882 0.101-5.633 0.347-8.184 0.713-0.657 2.568-1.021 5.405-1.021 8.388s0.364 5.82 1.021 8.387c3.423 0.493 7.206 0.766 11.183 0.766s7.76-0.273 11.183-0.766c0.657-2.567 1.021-5.404 1.021-8.387s-0.364-5.82-1.021-8.388zm-2.796 13.979c-2.567 0.329-5.404 0.511-8.387 0.511s-5.82-0.182-8.387-0.511c-0.493-1.711-0.766-3.603-0.766-5.591 0-1.989 0.273-3.88 0.766-5.592 2.567-0.328 5.404-0.51 8.387-0.51s5.82 0.182 8.387 0.51c0.493 1.712 0.766 3.603 0.766 5.592 0 1.988-0.273 3.88-0.766 5.591zm12.144-8.642c0 11.27-9.268 20.544-20.531 20.544s-20.531-9.274-20.531-20.544 9.268-20.544 20.531-20.544 20.531 9.274 20.531 20.544z" style="fill-rule:nonzero;fill:url(#_Linear2)"/>
- <defs>
-  <linearGradient id="_Linear1" x2="1" gradientTransform="matrix(2.78787e-15,-45.5294,45.5294,2.78787e-15,210.898,46.7647)" gradientUnits="userSpaceOnUse">
-   <stop style="stop-color:rgb(31,161,245)" offset="0"/>
-   <stop style="stop-color:rgb(70,242,130)" offset="1"/>
-  </linearGradient>
-  <linearGradient id="_Linear2" x2="1" gradientTransform="matrix(-40.1954 .114708 -.114708 -40.1954 43.2112 -137.092)" gradientUnits="userSpaceOnUse">
-   <stop style="stop-color:rgb(228,228,228)" offset="0"/>
-   <stop style="stop-color:rgb(238,238,238)" offset="1"/>
-  </linearGradient>
- </defs>
+<svg clip-rule="evenodd" fill-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="2" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+ <linearGradient id="a" x2="1" gradientTransform="matrix(0 -45.5294 45.5294 0 210.898 46.7647)" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#1fa1f5" offset="0"/>
+  <stop stop-color="#46f282" offset="1"/>
+ </linearGradient>
+ <linearGradient id="b" x2="1" gradientTransform="matrix(-40.1954 .114708 -.114708 -40.1954 43.2112 -137.092)" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#e4e4e4" offset="0"/>
+  <stop stop-color="#eee" offset="1"/>
+ </linearGradient>
+ <circle cx="24" cy="24" r="22.764" fill="url(#a)"/>
+ <path d="m35.183 18.663c-2.116-.304-4.371-.524-6.723-.648l3.93-3.931-1.525-1.525-5.353 5.352c-.501-.008-1.005-.013-1.512-.013l-6.102-6.102-1.525 1.526 4.628 4.628c-2.882.101-5.633.347-8.184.713-.657 2.568-1.021 5.405-1.021 8.388s.364 5.82 1.021 8.387c3.423.493 7.206.766 11.183.766s7.76-.273 11.183-.766c.657-2.567 1.021-5.404 1.021-8.387s-.364-5.82-1.021-8.388zm-2.796 13.979c-2.567.329-5.404.511-8.387.511s-5.82-.182-8.387-.511c-.493-1.711-.766-3.603-.766-5.591 0-1.989.273-3.88.766-5.592 2.567-.328 5.404-.51 8.387-.51s5.82.182 8.387.51c.493 1.712.766 3.603.766 5.592 0 1.988-.273 3.88-.766 5.591zm12.144-8.642c0 11.27-9.268 20.544-20.531 20.544s-20.531-9.274-20.531-20.544 9.268-20.544 20.531-20.544 20.531 9.274 20.531 20.544z" fill="url(#b)" fill-rule="nonzero"/>
 </svg>

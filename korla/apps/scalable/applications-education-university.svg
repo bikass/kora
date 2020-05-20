@@ -1,16 +1,16 @@
-<svg style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
- <circle cx="24.1" cy="24.068" r="22.832" style="fill:url(#_Linear1)"/>
- <path d="m23.656 29.478l15.845-7.633v-0.697l-15.845-7.633-15.832 7.626v0.711l15.832 7.626z" style="fill-rule:nonzero;fill:url(#_Linear2)"/>
- <path d="m13.309 25.885v4.562l9.545 4.598h1.604l9.518-4.585c9e-3 -0.021 0.018-0.041 0.027-0.061v-4.514l-10.347 4.984-10.347-4.984z" style="fill-rule:nonzero;fill:url(#_Linear2)"/>
- <path d="m38.649 35.351l-0.816-2.487v-8.875l-1.254 0.632v8.243l-0.816 2.487 1.234 1.652h0.418l1.234-1.652z" style="fill-rule:nonzero;fill:url(#_Linear2)"/>
- <defs>
-  <linearGradient id="_Linear1" x2="1" gradientTransform="matrix(.305496 -46.1563 46.1563 .305496 24.0027 47.3515)" gradientUnits="userSpaceOnUse">
-   <stop style="stop-color:#2fae61" offset="0"/>
-   <stop style="stop-color:#4bdf88" offset="1"/>
-  </linearGradient>
-  <linearGradient id="_Linear2" x2="1" gradientTransform="matrix(-2.15625,-23.883,23.883,-2.15625,23.4057,33.7904)" gradientUnits="userSpaceOnUse">
-   <stop style="stop-color:#e8e8e8;stop-opacity:.92" offset="0"/>
-   <stop style="stop-color:#fffcff" offset="1"/>
-  </linearGradient>
- </defs>
+<svg clip-rule="evenodd" fill-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="2" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+ <linearGradient id="a" x2="1" gradientTransform="matrix(.305496 -46.1563 46.1563 .305496 24.0027 47.3515)" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#2fae61" offset="0"/>
+  <stop stop-color="#4bdf88" offset="1"/>
+ </linearGradient>
+ <linearGradient id="b" x2="1" gradientTransform="matrix(-2.15625 -23.883 23.883 -2.15625 23.4057 33.7904)" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#e8e8e8" stop-opacity=".92" offset="0"/>
+  <stop stop-color="#fffcff" offset="1"/>
+ </linearGradient>
+ <circle cx="24.1" cy="24.068" r="22.832" fill="url(#a)"/>
+ <g fill="url(#b)" fill-rule="nonzero">
+  <path d="m23.656 29.478 15.845-7.633v-.697l-15.845-7.633-15.832 7.626v.711z"/>
+  <path d="m13.309 25.885v4.562l9.545 4.598h1.604l9.518-4.585c.009-.021.018-.041.027-.061v-4.514l-10.347 4.984z"/>
+  <path d="m38.649 35.351-.816-2.487v-8.875l-1.254.632v8.243l-.816 2.487 1.234 1.652h.418z"/>
+ </g>
 </svg>

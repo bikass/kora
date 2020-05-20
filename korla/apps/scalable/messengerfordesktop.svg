@@ -1,15 +1,15 @@
-<svg style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
- <circle cx="24" cy="24" r="22.764" style="fill:url(#_Linear1)"/>
- <path d="m21.726 17.819-12.309 13.033 11.202-6.147 5.854 6.147 12.239-13.033-11.078 6.038-5.908-6.038z" style="fill-rule:nonzero;fill:white"/>
- <path d="m24 1.236c-12.562 0-22.764 10.202-22.764 22.764s10.202 22.764 22.764 22.764 22.764-10.202 22.764-22.764-10.202-22.764-22.764-22.764zm0 1.821c11.577 0 20.943 9.366 20.943 20.943s-9.366 20.943-20.943 20.943-20.943-9.366-20.943-20.943 9.366-20.943 20.943-20.943z" style="fill-rule:nonzero;fill:url(#_Linear2)"/>
- <defs>
-  <linearGradient id="_Linear1" x2="1" gradientTransform="matrix(2.16708e-15,-35.3911,35.3911,2.16708e-15,968.766,41.2823)" gradientUnits="userSpaceOnUse">
-   <stop style="stop-color:rgb(0,103,131)" offset="0"/>
-   <stop style="stop-color:rgb(19,190,227)" offset="1"/>
-  </linearGradient>
-  <linearGradient id="_Linear2" x2="1" gradientTransform="matrix(.11382 -45.7556 45.7556 .11382 125.627 46.9055)" gradientUnits="userSpaceOnUse">
-   <stop style="stop-color:rgb(230,230,230);stop-opacity:.46" offset="0"/>
-   <stop style="stop-color:white;stop-opacity:.44" offset="1"/>
-  </linearGradient>
- </defs>
+<svg clip-rule="evenodd" fill-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="2" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+ <linearGradient id="a" x2="1" gradientTransform="matrix(0 -35.3911 35.3911 0 968.766 41.2823)" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#006783" offset="0"/>
+  <stop stop-color="#13bee3" offset="1"/>
+ </linearGradient>
+ <linearGradient id="b" x2="1" gradientTransform="matrix(.11382 -45.7556 45.7556 .11382 125.627 46.9055)" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#e6e6e6" stop-opacity=".46" offset="0"/>
+  <stop stop-color="#fff" stop-opacity=".44" offset="1"/>
+ </linearGradient>
+ <circle cx="24" cy="24" r="22.764" fill="url(#a)"/>
+ <g fill-rule="nonzero">
+  <path d="m21.726 17.819-12.309 13.033 11.202-6.147 5.854 6.147 12.239-13.033-11.078 6.038z" fill="#fff"/>
+  <path d="m24 1.236c-12.562 0-22.764 10.202-22.764 22.764s10.202 22.764 22.764 22.764 22.764-10.202 22.764-22.764-10.202-22.764-22.764-22.764zm0 1.821c11.577 0 20.943 9.366 20.943 20.943s-9.366 20.943-20.943 20.943-20.943-9.366-20.943-20.943 9.366-20.943 20.943-20.943z" fill="url(#b)"/>
+ </g>
 </svg>

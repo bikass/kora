@@ -4,6 +4,8 @@
   <path d="m44 24h-20v-20c11.046 0 20 8.954 20 20z" fill="#ff9044"/>
   <path d="m24 10c-7.68 0-14 6.32-14 14s6.32 14 14 14 14-6.32 14-14-6.32-14-14-14zm0 2c6.583 0 12 5.417 12 12s-5.417 12-12 12-12-5.417-12-12 5.417-12 12-12z" fill="#fff"/>
  </g>
- <circle cx="24" cy="24" r="9.1056" fill="#fff" stroke-width="1.1382"/>
- <circle cx="24" cy="24" r="6.8292" fill="#3f3f3f" stroke-width="1.1382"/>
+ <g stroke-width="1.1382">
+  <circle cx="24" cy="24" r="9.1056" fill="#fff"/>
+  <circle cx="24" cy="24" r="6.8292" fill="#3f3f3f"/>
+ </g>
 </svg>

@@ -1,15 +1,15 @@
-<svg style="clip-rule:evenodd;fill-rule:evenodd" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
- <path d="m45.668 8.56c0-3.438-2.79-6.228-6.228-6.228h-30.88c-3.438 0-6.228 2.79-6.228 6.228v30.88c0 3.438 2.79 6.228 6.228 6.228h30.88c3.438 0 6.228-2.79 6.228-6.228v-30.88z" style="fill:url(#_Linear1)"/>
- <path d="m14.25 24c7.957 0 11.543 15 19.5 15" style="fill:none;stroke-width:2.25px;stroke:#6c7f94"/>
- <path d="m11.268 21.75l-0.036 0.041-2.232 2.209 2.268 2.25h4.482v-4.5h-4.482z" style="fill:#4c66cc"/>
- <path d="m32.25 36.75v4.5h4.526l2.224-2.25-2.224-2.25h-0.052-4.474z" style="fill:#4c66cc"/>
- <path d="m14.25 9c7.957 0 11.543 15 19.5 15" style="fill:none;stroke-width:2.25px;stroke:#6c7f94"/>
- <path d="m11.268 6.75l-0.036 0.041-2.232 2.209 2.268 2.25h4.482v-4.5h-4.482z" style="fill:#4c66cc"/>
- <path d="m32.25 21.75v4.5h4.526l2.224-2.25-2.224-2.25h-0.052-4.474z" style="fill:#4c66cc"/>
- <defs>
-  <linearGradient id="_Linear1" x2="1" gradientTransform="matrix(2.65365e-15,-43.3373,43.3373,2.65365e-15,201.9,45.6687)" gradientUnits="userSpaceOnUse">
-   <stop style="stop-color:#500" offset="0"/>
-   <stop style="stop-color:#752828" offset="1"/>
-  </linearGradient>
- </defs>
+<svg clip-rule="evenodd" fill-rule="evenodd" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+ <linearGradient id="a" x2="1" gradientTransform="matrix(0 -43.3373 43.3373 0 201.9 45.6687)" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#500" offset="0"/>
+  <stop stop-color="#752828" offset="1"/>
+ </linearGradient>
+ <path d="m45.668 8.56c0-3.438-2.79-6.228-6.228-6.228h-30.88c-3.438 0-6.228 2.79-6.228 6.228v30.88c0 3.438 2.79 6.228 6.228 6.228h30.88c3.438 0 6.228-2.79 6.228-6.228z" fill="url(#a)"/>
+ <path d="m14.25 24c7.957 0 11.543 15 19.5 15" fill="none" stroke="#6c7f94" stroke-width="2.25"/>
+ <path d="m11.268 21.75-.036.041-2.232 2.209 2.268 2.25h4.482v-4.5z" fill="#4c66cc"/>
+ <path d="m32.25 36.75v4.5h4.526l2.224-2.25-2.224-2.25h-.052z" fill="#4c66cc"/>
+ <path d="m14.25 9c7.957 0 11.543 15 19.5 15" fill="none" stroke="#6c7f94" stroke-width="2.25"/>
+ <g fill="#4c66cc">
+  <path d="m11.268 6.75-.036.041-2.232 2.209 2.268 2.25h4.482v-4.5z"/>
+  <path d="m32.25 21.75v4.5h4.526l2.224-2.25-2.224-2.25h-.052z"/>
+ </g>
 </svg>

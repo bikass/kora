@@ -6,8 +6,10 @@
   <path d="m45.668 39.44c0 3.438-2.79 6.228-6.228 6.228h-15.44v-21.668h21.668z" fill="#8e8e8e"/>
  </g>
  <circle cx="13.166" cy="13.166" r="6.5004" fill="#fff" stroke-width="1.0834"/>
- <path transform="matrix(.94353 0 0 1.08949 -.109798 -1.90367)" d="m14.07 26.759 8.038 13.922h-16.075l4.019-6.961z" fill="#ffdd4c" fill-rule="nonzero"/>
- <path transform="matrix(1.0834 0 0 1.0834 -2.0016 -2.0016)" d="m32 8v4h-4v4h4v4h4v-4h4v-4h-4v-4z" fill="#2f2f2f" fill-rule="nonzero"/>
- <path transform="matrix(-1.0834 0 0 1.0834 -2.0016 -2.0016)" d="m-40 27 4 2.6v11.4h-4z" fill="#2f2f2f" fill-rule="nonzero"/>
- <path transform="matrix(0 .67395 .933852 0 3.34457 23.1845)" d="m14.07 26.759 8.038 13.922h-16.075l4.019-6.961z" fill="#eb0000" fill-rule="nonzero"/>
+ <g fill-rule="nonzero">
+  <path transform="matrix(.94353 0 0 1.08949 -.109798 -1.90367)" d="m14.07 26.759 8.038 13.922h-16.075l4.019-6.961z" fill="#ffdd4c"/>
+  <path transform="matrix(1.0834 0 0 1.0834 -2.0016 -2.0016)" d="m32 8v4h-4v4h4v4h4v-4h4v-4h-4v-4z" fill="#2f2f2f"/>
+  <path transform="matrix(-1.0834 0 0 1.0834 -2.0016 -2.0016)" d="m-40 27 4 2.6v11.4h-4z" fill="#2f2f2f"/>
+  <path transform="matrix(0 .67395 .933852 0 3.34457 23.1845)" d="m14.07 26.759 8.038 13.922h-16.075l4.019-6.961z" fill="#eb0000"/>
+ </g>
 </svg>

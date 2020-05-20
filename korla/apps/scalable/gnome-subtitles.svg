@@ -1,10 +1,10 @@
-<svg style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
- <path d="M41.778,6C43.009,6 44,7.269 44,8.5L44,34.5C44,35.731 43.009,37 41.778,37L23,37L18,42L13,37L6.222,37C4.991,37 4,35.731 4,34.5L4,8.5C4,7.269 4.991,6 6.222,6L41.778,6Z" style="fill-rule:nonzero;fill:url(#_Linear1)"/>
- <path d="m15 28v-2h12v2h-12zm0-4v-2h18v2h-18zm0-4v-2h18v2h-18zm0-4v-2h18v2h-18z" style="fill-rule:nonzero;fill:rgb(157,193,180)"/>
- <defs>
-  <linearGradient id="_Linear1" x2="1" gradientTransform="matrix(2.19981e-15,-35.9256,35.9256,2.19981e-15,17.9553,41.9256)" gradientUnits="userSpaceOnUse">
-   <stop style="stop-color:rgb(0,98,63)" offset="0"/>
-   <stop style="stop-color:rgb(58,130,104)" offset="1"/>
-  </linearGradient>
- </defs>
+<svg clip-rule="evenodd" fill-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="2" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+ <linearGradient id="a" x2="1" gradientTransform="matrix(0 -35.9256 35.9256 0 17.9553 41.9256)" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#00623f" offset="0"/>
+  <stop stop-color="#3a8268" offset="1"/>
+ </linearGradient>
+ <g fill-rule="nonzero">
+  <path d="m41.778 6c1.231 0 2.222 1.269 2.222 2.5v26c0 1.231-.991 2.5-2.222 2.5h-18.778l-5 5-5-5h-6.778c-1.231 0-2.222-1.269-2.222-2.5v-26c0-1.231.991-2.5 2.222-2.5z" fill="url(#a)"/>
+  <path d="m15 28v-2h12v2zm0-4v-2h18v2zm0-4v-2h18v2zm0-4v-2h18v2z" fill="#9dc1b4"/>
+ </g>
 </svg>

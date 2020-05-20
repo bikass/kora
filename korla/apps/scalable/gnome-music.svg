@@ -1,20 +1,18 @@
-<svg style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
- <path d="m15.278 6c2.636-1.281 5.596-2 8.722-2s6.086 0.719 8.722 2h7.278l0.052 1e-3c0.217 8e-3 0.431 0.045 0.635 0.12 0.548 0.201 0.991 0.644 1.192 1.192 0.081 0.221 0.118 0.452 0.121 0.687v7.278c1.281 2.636 2 5.596 2 8.722s-0.719 6.086-2 8.722v7.278c-3e-3 0.219-0.035 0.434-0.105 0.641-0.193 0.569-0.644 1.031-1.208 1.238-0.221 0.081-0.452 0.118-0.687 0.121h-7.278c-2.636 1.281-5.596 2-8.722 2s-6.086-0.719-8.722-2h-7.278c-0.235-3e-3 -0.466-0.04-0.687-0.121-0.564-0.207-1.015-0.669-1.208-1.238-0.07-0.207-0.102-0.422-0.105-0.641v-7.278c-1.281-2.636-2-5.596-2-8.722s0.719-6.086 2-8.722v-7.278c3e-3 -0.235 0.04-0.466 0.121-0.687 0.201-0.548 0.644-0.991 1.192-1.192 0.204-0.075 0.418-0.112 0.635-0.12l0.052-1e-3h7.278z" style="fill:url(#_Linear1)"/>
- <path d="m24 6c9.934 0 18 8.066 18 18s-8.066 18-18 18-18-8.066-18-18 8.066-18 18-18zm14.5 31c0.828 0 1.5 0.672 1.5 1.5s-0.672 1.5-1.5 1.5-1.5-0.672-1.5-1.5 0.672-1.5 1.5-1.5zm-29 0c0.828 0 1.5 0.672 1.5 1.5s-0.672 1.5-1.5 1.5-1.5-0.672-1.5-1.5 0.672-1.5 1.5-1.5zm0-29c0.828 0 1.5 0.672 1.5 1.5s-0.672 1.5-1.5 1.5-1.5-0.672-1.5-1.5 0.672-1.5 1.5-1.5zm29 0c0.828 0 1.5 0.672 1.5 1.5s-0.672 1.5-1.5 1.5-1.5-0.672-1.5-1.5 0.672-1.5 1.5-1.5z" style="fill:url(#_Linear2)"/>
- <circle cx="24" cy="24" r="16" style="fill:url(#_Linear3)"/>
- <circle cx="24" cy="24" r="6" style="fill:rgb(42,42,42)"/>
- <defs>
-  <linearGradient id="_Linear1" x2="1" gradientTransform="matrix(.416873 -40.0199 40.0199 .416873 23.8213 44.0695)" gradientUnits="userSpaceOnUse">
-   <stop style="stop-color:rgb(104,102,102)" offset="0"/>
-   <stop style="stop-color:rgb(132,132,132)" offset="1"/>
-  </linearGradient>
-  <linearGradient id="_Linear2" x2="1" gradientTransform="matrix(.238213 -35.9107 35.9107 .238213 23.8809 41.866)" gradientUnits="userSpaceOnUse">
-   <stop style="stop-color:rgb(42,42,42)" offset="0"/>
-   <stop style="stop-color:rgb(69,69,69)" offset="1"/>
-  </linearGradient>
-  <linearGradient id="_Linear3" x2="1" gradientTransform="matrix(.297767 -31.861 31.861 .297767 23.8213 40.0199)" gradientUnits="userSpaceOnUse">
-   <stop style="stop-color:rgb(254,192,6)" offset="0"/>
-   <stop style="stop-color:rgb(254,160,6)" offset="1"/>
-  </linearGradient>
- </defs>
+<svg clip-rule="evenodd" fill-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="2" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+ <linearGradient id="a" x2="1" gradientTransform="matrix(.416873 -40.0199 40.0199 .416873 23.8213 44.0695)" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#686666" offset="0"/>
+  <stop stop-color="#848484" offset="1"/>
+ </linearGradient>
+ <linearGradient id="b" x2="1" gradientTransform="matrix(.238213 -35.9107 35.9107 .238213 23.8809 41.866)" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#2a2a2a" offset="0"/>
+  <stop stop-color="#454545" offset="1"/>
+ </linearGradient>
+ <linearGradient id="c" x2="1" gradientTransform="matrix(.297767 -31.861 31.861 .297767 23.8213 40.0199)" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#fec006" offset="0"/>
+  <stop stop-color="#fea006" offset="1"/>
+ </linearGradient>
+ <path d="m15.278 6c2.636-1.281 5.596-2 8.722-2s6.086.719 8.722 2h7.278l.052.001c.217.008.431.045.635.12.548.201.991.644 1.192 1.192.081.221.118.452.121.687v7.278c1.281 2.636 2 5.596 2 8.722s-.719 6.086-2 8.722v7.278c-.003.219-.035.434-.105.641-.193.569-.644 1.031-1.208 1.238-.221.081-.452.118-.687.121h-7.278c-2.636 1.281-5.596 2-8.722 2s-6.086-.719-8.722-2h-7.278c-.235-.003-.466-.04-.687-.121-.564-.207-1.015-.669-1.208-1.238-.07-.207-.102-.422-.105-.641v-7.278c-1.281-2.636-2-5.596-2-8.722s.719-6.086 2-8.722v-7.278c.003-.235.04-.466.121-.687.201-.548.644-.991 1.192-1.192.204-.075.418-.112.635-.12l.052-.001z" fill="url(#a)"/>
+ <path d="m24 6c9.934 0 18 8.066 18 18s-8.066 18-18 18-18-8.066-18-18 8.066-18 18-18zm14.5 31c.828 0 1.5.672 1.5 1.5s-.672 1.5-1.5 1.5-1.5-.672-1.5-1.5.672-1.5 1.5-1.5zm-29 0c.828 0 1.5.672 1.5 1.5s-.672 1.5-1.5 1.5-1.5-.672-1.5-1.5.672-1.5 1.5-1.5zm0-29c.828 0 1.5.672 1.5 1.5s-.672 1.5-1.5 1.5-1.5-.672-1.5-1.5.672-1.5 1.5-1.5zm29 0c.828 0 1.5.672 1.5 1.5s-.672 1.5-1.5 1.5-1.5-.672-1.5-1.5.672-1.5 1.5-1.5z" fill="url(#b)"/>
+ <circle cx="24" cy="24" r="16" fill="url(#c)"/>
+ <circle cx="24" cy="24" r="6" fill="#2a2a2a"/>
 </svg>

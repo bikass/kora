@@ -1,10 +1,8 @@
-<svg style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
- <circle cx="24" cy="24" r="22.764" style="fill:url(#_Linear1)"/>
- <path d="m39.728 20.626c0-0.467-0.353-0.757-1.059-0.87l-9.489-1.38-4.254-8.601c-0.239-0.517-0.548-0.775-0.926-0.775s-0.687 0.258-0.926 0.775l-4.254 8.601-9.489 1.38c-0.706 0.113-1.059 0.403-1.059 0.87 0 0.264 0.158 0.567 0.473 0.907l6.881 6.692-1.626 9.452c-0.025 0.176-0.037 0.302-0.037 0.378 0 0.264 0.066 0.488 0.198 0.671s0.331 0.274 0.595 0.274c0.227 0 0.479-0.075 0.756-0.227l8.488-4.461 8.488 4.461c0.265 0.152 0.517 0.227 0.756 0.227 0.253 0 0.445-0.091 0.577-0.274s0.198-0.407 0.198-0.671c0-0.164-6e-3 -0.29-0.019-0.378l-1.626-9.452 6.862-6.692c0.328-0.328 0.492-0.63 0.492-0.907z" style="fill-opacity:.8;fill-rule:nonzero"/>
- <defs>
-  <linearGradient id="_Linear1" x2="1" gradientTransform="matrix(2.78782e-15,-45.5286,45.5286,2.78782e-15,210.895,46.7643)" gradientUnits="userSpaceOnUse">
-   <stop style="stop-color:#98aab2" offset="0"/>
-   <stop style="stop-color:#cddbe0" offset="1"/>
-  </linearGradient>
- </defs>
+<svg clip-rule="evenodd" fill-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="2" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+ <linearGradient id="a" x2="1" gradientTransform="matrix(0 -45.5286 45.5286 0 210.895 46.7643)" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#98aab2" offset="0"/>
+  <stop stop-color="#cddbe0" offset="1"/>
+ </linearGradient>
+ <circle cx="24" cy="24" r="22.764" fill="url(#a)"/>
+ <path d="m39.728 20.626c0-.467-.353-.757-1.059-.87l-9.489-1.38-4.254-8.601c-.239-.517-.548-.775-.926-.775s-.687.258-.926.775l-4.254 8.601-9.489 1.38c-.706.113-1.059.403-1.059.87 0 .264.158.567.473.907l6.881 6.692-1.626 9.452c-.025.176-.037.302-.037.378 0 .264.066.488.198.671s.331.274.595.274c.227 0 .479-.075.756-.227l8.488-4.461 8.488 4.461c.265.152.517.227.756.227.253 0 .445-.091.577-.274s.198-.407.198-.671c0-.164-.006-.29-.019-.378l-1.626-9.452 6.862-6.692c.328-.328.492-.63.492-.907z" fill-opacity=".8" fill-rule="nonzero"/>
 </svg>

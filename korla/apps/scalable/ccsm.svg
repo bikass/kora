@@ -1,10 +1,8 @@
-<svg style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
- <circle cx="24" cy="24" r="22.764" style="fill:url(#_Linear1)"/>
- <path d="m37.631 21.075c0-0.404-0.306-0.655-0.918-0.753l-8.224-1.196-3.686-7.454c-0.207-0.448-0.475-0.672-0.803-0.672-0.327 0-0.595 0.224-0.803 0.672l-3.686 7.454-8.224 1.196c-0.612 0.098-0.918 0.349-0.918 0.753 0 0.23 0.137 0.492 0.41 0.787l5.963 5.8-1.408 8.191c-0.022 0.153-0.033 0.262-0.033 0.328 0 0.229 0.057 0.423 0.172 0.582 0.114 0.158 0.286 0.237 0.516 0.237 0.196 0 0.415-0.065 0.655-0.196l7.356-3.867 7.356 3.867c0.23 0.131 0.448 0.196 0.655 0.196 0.219 0 0.386-0.079 0.5-0.237 0.115-0.159 0.172-0.353 0.172-0.582 0-0.142-5e-3 -0.251-0.016-0.328l-1.409-8.191 5.947-5.8c0.284-0.284 0.426-0.546 0.426-0.787z" style="fill-opacity:.85;fill-rule:nonzero;fill:white"/>
- <defs>
-  <linearGradient id="_Linear1" x2="1" gradientTransform="matrix(2.78779e-15,-45.5281,45.5281,2.78779e-15,192.818,46.764)" gradientUnits="userSpaceOnUse">
-   <stop style="stop-color:rgb(0,103,131)" offset="0"/>
-   <stop style="stop-color:rgb(32,204,255)" offset="1"/>
-  </linearGradient>
- </defs>
+<svg clip-rule="evenodd" fill-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="2" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+ <linearGradient id="a" x2="1" gradientTransform="matrix(0 -45.5281 45.5281 0 192.818 46.764)" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#006783" offset="0"/>
+  <stop stop-color="#20ccff" offset="1"/>
+ </linearGradient>
+ <circle cx="24" cy="24" r="22.764" fill="url(#a)"/>
+ <path d="m37.631 21.075c0-.404-.306-.655-.918-.753l-8.224-1.196-3.686-7.454c-.207-.448-.475-.672-.803-.672-.327 0-.595.224-.803.672l-3.686 7.454-8.224 1.196c-.612.098-.918.349-.918.753 0 .23.137.492.41.787l5.963 5.8-1.408 8.191c-.022.153-.033.262-.033.328 0 .229.057.423.172.582.114.158.286.237.516.237.196 0 .415-.065.655-.196l7.356-3.867 7.356 3.867c.23.131.448.196.655.196.219 0 .386-.079.5-.237.115-.159.172-.353.172-.582 0-.142-.005-.251-.016-.328l-1.409-8.191 5.947-5.8c.284-.284.426-.546.426-.787z" fill="#fff" fill-opacity=".85" fill-rule="nonzero"/>
 </svg>

@@ -9,8 +9,10 @@
  <g transform="matrix(.866025 -.5 .5 .866025 0 0)">
   <circle cx=".49" cy="29.151" r="5" fill="#939393"/>
   <circle cx=".49" cy="29.151" r="2" fill="#0062c9"/>
-  <circle cx=".54" cy="25.901" r=".75" fill="#3f3f3f"/>
-  <circle cx="-2.66" cy="30.401" r=".75" fill="#3f3f3f"/>
-  <circle cx="3.64" cy="30.401" r=".75" fill="#3f3f3f"/>
+  <g fill="#3f3f3f">
+   <circle cx=".54" cy="25.901" r=".75"/>
+   <circle cx="-2.66" cy="30.401" r=".75"/>
+   <circle cx="3.64" cy="30.401" r=".75"/>
+  </g>
  </g>
 </svg>

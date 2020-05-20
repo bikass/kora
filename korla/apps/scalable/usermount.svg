@@ -1,12 +1,8 @@
-<svg style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
- <circle cx="24" cy="24" r="22.764" style="fill:url(#_Linear1)"/>
- <g transform="translate(-.00025 -2.08437)">
-  <path d="m35.147 27.932h-22.294c-0.459 0-0.884-0.244-1.114-0.643-0.23-0.398-0.23-0.889 0-1.287l11.147-13.358c0.229-0.399 0.654-0.644 1.114-0.644 0.459 0 0.885 0.245 1.114 0.644l11.148 13.358c0.114 0.199 0.172 0.421 0.172 0.644 0 0.222-0.058 0.444-0.172 0.644-0.231 0.398-0.656 0.642-1.115 0.642zm1.274 7.553v-4.247c0-0.284-0.231-0.515-0.516-0.515h-23.811c-0.284 0-0.515 0.231-0.515 0.515v4.247c0 0.285 0.231 0.515 0.515 0.515h23.811c0.285 0 0.516-0.23 0.516-0.515z" style="fill-opacity:.85;fill-rule:nonzero;fill:white"/>
- </g>
- <defs>
-  <linearGradient id="_Linear1" x2="1" gradientTransform="matrix(2.78779e-15,-45.5281,45.5281,2.78779e-15,192.818,46.764)" gradientUnits="userSpaceOnUse">
-   <stop style="stop-color:rgb(0,103,131)" offset="0"/>
-   <stop style="stop-color:rgb(32,204,255)" offset="1"/>
-  </linearGradient>
- </defs>
+<svg clip-rule="evenodd" fill-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="2" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+ <linearGradient id="a" x2="1" gradientTransform="matrix(0 -45.5281 45.5281 0 192.818 46.764)" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#006783" offset="0"/>
+  <stop stop-color="#20ccff" offset="1"/>
+ </linearGradient>
+ <circle cx="24" cy="24" r="22.764" fill="url(#a)"/>
+ <path transform="translate(-.00025 -2.08437)" d="m35.147 27.932h-22.294c-.459 0-.884-.244-1.114-.643-.23-.398-.23-.889 0-1.287l11.147-13.358c.229-.399.654-.644 1.114-.644.459 0 .885.245 1.114.644l11.148 13.358c.114.199.172.421.172.644 0 .222-.058.444-.172.644-.231.398-.656.642-1.115.642zm1.274 7.553v-4.247c0-.284-.231-.515-.516-.515h-23.811c-.284 0-.515.231-.515.515v4.247c0 .285.231.515.515.515h23.811c.285 0 .516-.23.516-.515z" fill="#fff" fill-opacity=".85" fill-rule="nonzero"/>
 </svg>

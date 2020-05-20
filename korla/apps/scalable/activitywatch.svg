@@ -1,15 +1,15 @@
-<svg style="clip-rule:evenodd;fill-rule:evenodd;stroke-linecap:round;stroke-linejoin:round" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
- <path d="m24 1.236c12.564 0 22.764 10.2 22.764 22.764s-10.2 22.764-22.764 22.764-22.764-10.2-22.764-22.764 10.2-22.764 22.764-22.764z" style="fill:url(#_Linear1)"/>
- <path d="m10.593 24.391l6.829-13.806 6.578 13.415" style="fill:none;stroke-width:2.44px;stroke:#7a7a7a"/>
- <rect x="12.618" y="19.122" width="9.106" height="2.439" style="fill:#7a7a7a"/>
- <path d="m24.489 25.22l4.552 10.569 3.984-10.57 3.984 10.569 4.553-10.569" style="fill:none;stroke-width:2.44px;stroke:#7a7a7a"/>
- <path d="m13.367 36.801l10.633-12.594" style="fill:none;stroke-linejoin:miter;stroke-width:1.14px;stroke:#fff"/>
- <path d="m24 24l6.992-8.455" style="fill:none;stroke-linejoin:miter;stroke-width:2.44px;stroke:#ff6656"/>
- <circle cx="24" cy="24" r="3.252" style="fill:#fff"/>
- <defs>
-  <linearGradient id="_Linear1" x2="1" gradientTransform="matrix(.626891 45.528 -45.528 .626891 -340.851 6.25113)" gradientUnits="userSpaceOnUse">
-   <stop style="stop-color:#fff" offset="0"/>
-   <stop style="stop-color:#bababa" offset="1"/>
-  </linearGradient>
- </defs>
+<svg clip-rule="evenodd" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+ <linearGradient id="a" x2="1" gradientTransform="matrix(.626891 45.528 -45.528 .626891 -340.851 6.25113)" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#fff" offset="0"/>
+  <stop stop-color="#bababa" offset="1"/>
+ </linearGradient>
+ <path d="m24 1.236c12.564 0 22.764 10.2 22.764 22.764s-10.2 22.764-22.764 22.764-22.764-10.2-22.764-22.764 10.2-22.764 22.764-22.764z" fill="url(#a)"/>
+ <path d="m10.593 24.391 6.829-13.806 6.578 13.415" fill="none" stroke="#7a7a7a" stroke-width="2.44"/>
+ <path d="m12.618 19.122h9.106v2.439h-9.106z" fill="#7a7a7a"/>
+ <g fill="none">
+  <path d="m24.489 25.22 4.552 10.569 3.984-10.57 3.984 10.569 4.553-10.569" stroke="#7a7a7a" stroke-width="2.44"/>
+  <path d="m13.367 36.801 10.633-12.594" stroke="#fff" stroke-linejoin="miter" stroke-width="1.14"/>
+  <path d="m24 24 6.992-8.455" stroke="#ff6656" stroke-linejoin="miter" stroke-width="2.44"/>
+ </g>
+ <circle cx="24" cy="24" r="3.252" fill="#fff"/>
 </svg>
