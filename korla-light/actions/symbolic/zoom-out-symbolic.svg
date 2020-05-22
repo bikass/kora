@@ -1,5 +1,3 @@
-<svg style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2" version="1.1" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
- <g transform="translate(-1e-5 -.345111)">
-  <path d="m2.636 8.345c0-0.797 0.645-1.443 1.443-1.443h7.842c0.798 0 1.443 0.646 1.443 1.443 0 0.798-0.645 1.443-1.443 1.443h-7.842c-0.798 0-1.443-0.645-1.443-1.443z" style="fill:rgb(68,68,68)"/>
- </g>
+<svg clip-rule="evenodd" fill-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="2" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+ <path transform="translate(.148883)" d="m3.424 8.945h8.854c.522 0 .945-.423.945-.945s-.423-.946-.945-.946h-8.854c-.522 0-.945.424-.945.946s.423.945.945.945z" fill="#444"/>
 </svg>
