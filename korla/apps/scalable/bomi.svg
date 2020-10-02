@@ -1,17 +1,8 @@
-<svg clip-rule="evenodd" fill-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="2" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
- <linearGradient id="a" x2="1" gradientTransform="matrix(-.503256 -43.5317 43.5317 -.503256 109.621 44.9398)" gradientUnits="userSpaceOnUse">
-  <stop stop-color="#aa0124" offset="0"/>
-  <stop stop-color="#fa365f" offset="1"/>
+<svg clip-rule="evenodd" fill-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="2" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+ <linearGradient id="a" x2="1" gradientTransform="matrix(0 -43.336 43.336 0 24 45.668)" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#be395c" offset="0"/>
+  <stop stop-color="#e75177" offset="1"/>
  </linearGradient>
- <linearGradient id="b">
-  <stop stop-color="#dbc9ee" offset="0"/>
-  <stop stop-color="#faf7fd" offset="1"/>
- </linearGradient>
- <linearGradient id="c" x2="1" gradientTransform="matrix(.401139 -52.5244 52.5244 .401139 74.5409 50.0289)" gradientUnits="userSpaceOnUse" xlink:href="#b"/>
- <linearGradient id="d" x2="1" gradientTransform="matrix(-1.1e-6 -45.2092 45.2092 -1.1e-6 83.6622 46.6802)" gradientUnits="userSpaceOnUse" xlink:href="#b"/>
- <circle cx="24" cy="24" r="21.816" fill="url(#a)"/>
- <g fill-rule="nonzero">
-  <path d="m24 1.236c-12.561 0-22.764 10.203-22.764 22.764s10.203 22.764 22.764 22.764 22.764-10.203 22.764-22.764-10.203-22.764-22.764-22.764zm0 1.897c11.535 0 20.867 9.332 20.867 20.867s-9.332 20.867-20.867 20.867-20.867-9.332-20.867-20.867 9.332-20.867 20.867-20.867z" fill="url(#c)"/>
-  <path d="m20.206 1.559v31.926c0 1.051-.846 1.897-1.897 1.897h-1.897c-1.051 0-1.897-.846-1.897-1.897v-30.148zm2.853 11.059c.158 0 .314.047.452.13l17.073 10.348c.649.394.649 1.414 0 1.809l-17.073 10.347c-.631.381-1.407-.116-1.408-.903v-20.698c.001-.574.429-1.037.956-1.033z" fill="url(#d)"/>
- </g>
+ <path d="m39.44 45.668h-30.88c-3.438 0-6.228-2.79-6.228-6.228v-30.88c0-3.438 2.79-6.228 6.228-6.228h30.88c3.438 0 6.228 2.79 6.228 6.228v30.88c0 3.438-2.79 6.228-6.228 6.228z" fill="url(#a)"/>
+ <path d="m24 9.826c-.792.001-1.582.068-2.362.201v19.288c0 .972-.8 1.772-1.772 1.772s-1.772-.8-1.772-1.772v-18.181c-5.032 2.307-8.26 7.331-8.268 12.866 0 7.828 6.346 14.174 14.174 14.174s14.174-6.346 14.174-14.174-6.346-14.174-14.174-14.174zm-.586 7.087c.099.001.195.029.281.081l10.631 6.443c.404.246.404.88 0 1.126l-10.631 6.443c-.393.237-.875-.073-.876-.563v-12.886c0-.358.267-.647.595-.644z" fill="#fff" fill-rule="nonzero"/>
 </svg>
