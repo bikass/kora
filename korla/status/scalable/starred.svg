@@ -45,12 +45,9 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title>Paper Symbolic Icon Theme</dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <title
-     id="title8473">Paper Symbolic Icon Theme</title>
   <defs
      id="defs7386">
     <linearGradient
