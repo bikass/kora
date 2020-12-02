@@ -1,12 +1,14 @@
 <svg clip-rule="evenodd" fill-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="2" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
- <circle cx="13" cy="13" r="9" fill="#acb8cb"/>
- <circle cx="35" cy="35" r="9" fill="#acb8cb"/>
- <path transform="matrix(.8726 -.146376 .145974 .875 -.261837 3.4364)" d="m13.006 5.106 1.705 2.75 2.997-1.223-.237 3.228 3.143.772-2.088 2.473 2.088 2.472-3.143.772.237 3.228-2.997-1.223-1.705 2.751-1.706-2.751-2.997 1.223.237-3.228-3.143-.772 2.089-2.472-2.089-2.473 3.143-.772-.237-3.228 2.997 1.223z" fill="#ffca3c" fill-rule="nonzero"/>
- <circle cx="35" cy="13" r="9" fill="#465c76"/>
- <circle cx="13" cy="35" r="9" fill="#465c76"/>
- <path transform="matrix(.890889 -.121777 .125199 .866539 2.64178 5.37796)" d="m37.506 7.143-.511 4.877 3.967 2.884-4.797 1.022-1.517 4.663-2.454-4.246-4.904-.002 3.28-3.646-1.514-4.664 4.481 1.992z" fill="#ffeb3b" fill-rule="nonzero"/>
- <circle cx="13" cy="13" r="4" fill="#fff" fill-opacity=".3"/>
- <path transform="matrix(.890889 -.121777 .125199 .866539 -19.3582 27.378)" d="m37.506 7.143-.511 4.877 3.967 2.884-4.797 1.022-1.517 4.663-2.454-4.246-4.904-.002 3.28-3.646-1.514-4.664 4.481 1.992z" fill="#ffeb3b" fill-rule="nonzero"/>
- <path transform="matrix(.8726 -.146376 .145974 .875 21.7382 25.4364)" d="m13.006 5.106 1.705 2.75 2.997-1.223-.237 3.228 3.143.772-2.088 2.473 2.088 2.472-3.143.772.237 3.228-2.997-1.223-1.705 2.751-1.706-2.751-2.997 1.223.237-3.228-3.143-.772 2.089-2.472-2.089-2.473 3.143-.772-.237-3.228 2.997 1.223z" fill="#ffca3c" fill-rule="nonzero"/>
- <circle cx="35" cy="35" r="4" fill="#fff" fill-opacity=".3"/>
+ <linearGradient id="a" x2="1" gradientTransform="matrix(0 -43.336 43.336 0 24 45.668)" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#139157" offset="0"/>
+  <stop stop-color="#2ec27e" offset="1"/>
+ </linearGradient>
+ <path d="m39.44 2.332c3.438 0 6.228 2.79 6.228 6.228v30.88c0 3.438-2.79 6.228-6.228 6.228h-30.88c-3.438 0-6.228-2.79-6.228-6.228v-30.88c0-3.438 2.79-6.228 6.228-6.228z" fill="url(#a)"/>
+ <path transform="matrix(1.0834 0 0 1.0834 -2.0016 -2.0016)" d="m18 16h12v-12h2v12h12v2h-12v12h12v2h-12v12h-2v-12h-12v12h-2v-12h-12v-2h12v-12h-12v-2h12v-12h2zm0 14h12v-12h-12z" fill="#26a269"/>
+ <g stroke-width="1.0834">
+  <circle cx="24" cy="24" r="5.417" fill="#ffffff"/>
+  <circle cx="39.1676" cy="39.1676" r="5.417" fill="#ffffff"/>
+  <circle cx="39.1676" cy="24" r="5.417" fill="#3d3846"/>
+  <circle cx="24" cy="39.1676" r="5.417" fill="#3d3846"/>
+ </g>
 </svg>
