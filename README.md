@@ -33,13 +33,7 @@ and copy ***korla***, ***korla-light***, ***korla-light-panel*** and ***korla-pg
 
 ![](im1.png)
 ![](im2.png)
-
-
-## Korla folders
-
-Folder icon sets for Korla icon theme: https://github.com/bikass/korla-folders
-
-![](folders_pic.jpg)
+![](korla_aps.jpg)
 
 
 ## License
