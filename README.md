@@ -1,6 +1,6 @@
-# KORLA
+# KORA
 
-**Korla** is an SVG icon theme with lots of new icons and other ones based on *Papirus*. 
+**Kora** is an SVG icon theme with lots of new icons and other ones based on *Papirus*. 
 
 To make them display properly, you may need to update the icon cache. A script is included.
 
