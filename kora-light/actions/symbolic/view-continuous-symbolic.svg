@@ -1,0 +1,11 @@
+<svg clip-rule="evenodd" fill-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="2" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+ <g transform="scale(-1 1)" fill="#444" fill-rule="nonzero">
+  <path d="m-12 10h8v2h-8z" fill-opacity=".3"/>
+  <path d="m-12 4h8v2h-8z" fill-opacity=".3"/>
+  <path d="m-14 7h12v2h-12z"/>
+  <g fill-opacity=".3">
+   <path d="m-10 13h4v1h-4z"/>
+   <path d="m-10 2h4v1h-4z"/>
+  </g>
+ </g>
+</svg>

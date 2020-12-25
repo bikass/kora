@@ -1,0 +1,9 @@
+<svg clip-rule="evenodd" fill-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="2" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+ <g fill="#444" fill-rule="nonzero">
+  <path d="m1 3h1v10h-1z"/>
+  <path d="m3 4h1v8h-1z"/>
+  <path d="m12 4h1v8h-1z"/>
+  <path d="m14 3h1v10h-1z"/>
+  <path d="m5 5h6v6h-6z" fill-opacity=".5"/>
+ </g>
+</svg>
