@@ -1,0 +1,24 @@
+<svg clip-rule="evenodd" fill-rule="evenodd" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+ <linearGradient id="a" x2="1" gradientTransform="matrix(0 -31.9453 31.9453 0 24 43.9453)" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#243842" offset="0"/>
+  <stop stop-color="#455a64" offset="1"/>
+ </linearGradient>
+ <linearGradient id="b" x2="1" gradientTransform="matrix(.00104395 -23.9961 23.9961 .00104395 21.4935 39.9985)" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#1d1d1d" offset="0"/>
+  <stop stop-color="#26343b" offset="1"/>
+ </linearGradient>
+ <path d="m19 6 4.5 6" fill="none" stroke="#37474f" stroke-width="1.5"/>
+ <path d="m29 6-3.5 6" fill="none" stroke="#37474f" stroke-width="1.5"/>
+ <ellipse cx="24" cy="12.5" rx="7" ry="2.5" fill="#37474f"/>
+ <circle cx="19" cy="6" r="2" fill="#455a64"/>
+ <path d="m24 12c2.591 0 19 0 19 11.289v9.422c0 11.289-.864 11.289-19 11.289-3.455 0-19 0-19-11.289v-9.422c0-11.289 16.409-11.289 19-11.289z" fill="url(#a)" fill-rule="nonzero"/>
+ <circle cx="38.5" cy="38.5" r="2.5" fill="#0061ff"/>
+ <path d="m22 16c1.909 0 14 0 14 8.467v7.066c0 8.467-11.455 8.467-14 8.467s-14 0-14-8.467v-7.066c0-8.467 12.091-8.467 14-8.467z" fill="url(#b)" fill-rule="nonzero"/>
+ <g fill="none" stroke-linecap="round" stroke-width="3">
+  <path d="m22 21.5-4.5 14" stroke="#26a69a" stroke-opacity=".5"/>
+  <path d="m31.5 21.5-4 14" stroke="#26a69a" stroke-opacity=".5"/>
+  <path d="m12.5 21.5 5 14" stroke="#00a39f"/>
+  <path d="m22 21.5 5.5 14" stroke="#00a39f"/>
+ </g>
+ <circle cx="29" cy="6" r="2" fill="#455a64"/>
+</svg>

@@ -1,0 +1,51 @@
+<svg width="48" height="48" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <linearGradient id="a" x2="0" y1="1">
+  <stop stop-color="#ececec" offset="0"/>
+  <stop stop-color="#fff" offset="1"/>
+ </linearGradient>
+ <linearGradient id="b">
+  <stop stop-color="#d9d9d9" offset="0"/>
+  <stop stop-color="#eee" offset="1"/>
+ </linearGradient>
+ <linearGradient id="c" xlink:href="#a"/>
+ <linearGradient id="d" x1="1" x2="0" xlink:href="#a"/>
+ <linearGradient id="e" x1="1" x2="0" xlink:href="#b"/>
+ <linearGradient id="f" xlink:href="#b"/>
+ <linearGradient id="g" x2="0" y1="1">
+  <stop stop-color="#e6e6e6" offset="0"/>
+  <stop stop-color="#fff" offset="1"/>
+ </linearGradient>
+ <linearGradient id="h" x2="0" y1="1">
+  <stop stop-color="#00a0ff" offset="0"/>
+  <stop stop-color="#00e3ff" offset="1"/>
+ </linearGradient>
+ <linearGradient id="i" x2="0" y1="1">
+  <stop stop-color="#32a071" offset="0"/>
+  <stop stop-color="#00f076" offset="1"/>
+ </linearGradient>
+ <linearGradient id="j" x2="0" y1="1">
+  <stop stop-color="#c31162" offset="0"/>
+  <stop stop-color="#ff3a44" offset="1"/>
+ </linearGradient>
+ <linearGradient id="k" x2="0" y1="1">
+  <stop stop-color="#ff9c00" offset="0"/>
+  <stop stop-color="#ffe000" offset="1"/>
+ </linearGradient>
+ <clipPath id="l">
+  <path d="m2 9h44v37h-44z"/>
+ </clipPath>
+ <path d="m4 3h40v10h-40z" fill="url(#b)"/>
+ <path d="m4 3v27l3.5-24.5z" fill="url(#f)"/>
+ <path d="m44 3v5l-3.5-2.5z" fill="url(#e)"/>
+ <path d="m7.5 5.5 7.7 5.5h-11.2z" opacity=".08"/>
+ <rect x="2" y="6" width="44" height="40" rx="3" clip-path="url(#l)" fill="url(#a)"/>
+ <path d="m46 9h-5.5v-3.5z" fill="url(#d)"/>
+ <path d="m7.5 5.5-5.5 3.5h5.5z" fill="url(#c)"/>
+ <circle cx="14" cy="14" r="2" opacity=".3"/>
+ <circle cx="34" cy="14" r="2" opacity=".3"/>
+ <path d="m34 13a10 10 0 1 0-20 0" fill="none" stroke="url(#g)" stroke-linecap="round" stroke-width="2.4"/>
+ <path d="m17.430744 19.88925c-.200627.207591-.316744.530764-.316744.949298v14.928719c0 .418533.116117.741707.316744.949281l.04953.04562 8.464023-8.362183v-.19745l-8.464023-8.362174-.04953.04895z" fill="url(#h)"/>
+ <path d="m28.829097 25.449981-9.977726-5.603753c-.587371-.325726-1.103883-.286056-1.420627.04303l8.51355 8.411961z" fill="url(#i)"/>
+ <path d="m28.829097 31.152464-2.884803-2.851245-8.51355 8.415329c.316744.329102.833256.368756 1.420627.03961l9.977726-5.603745" fill="url(#j)"/>
+ <path d="m28.762507 31.18874-2.818213-2.788801v-.19745l2.821624-2.7888.06321.03628 3.341564 1.879173c.953642.533291.953642 1.410845 0 1.947514l-3.341564 1.875804-.06655.03628z" fill="url(#k)"/>
+</svg>

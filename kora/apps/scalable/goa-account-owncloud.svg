@@ -1,0 +1,31 @@
+<svg clip-rule="evenodd" fill-rule="evenodd" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <linearGradient id="a" x2="1" gradientTransform="matrix(0 -43.3373 43.3373 0 302.963 45.6687)" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#1d2d44" offset="0"/>
+  <stop stop-color="#1b4889" offset="1"/>
+ </linearGradient>
+ <linearGradient id="b">
+  <stop stop-color="#eaeaea" offset="0"/>
+  <stop stop-color="#fcf9f9" offset="1"/>
+ </linearGradient>
+ <linearGradient id="c" x2="1" gradientTransform="matrix(36.5213 0 0 36.5213 6.02811 555.268)" gradientUnits="userSpaceOnUse" xlink:href="#b"/>
+ <linearGradient id="d" x2="1" gradientTransform="matrix(33.0518 0 0 33.0518 6.53283 745.626)" gradientUnits="userSpaceOnUse" xlink:href="#b"/>
+ <linearGradient id="e" x2="1" gradientTransform="matrix(36.5213 0 0 36.5213 6.02811 683.604)" gradientUnits="userSpaceOnUse" xlink:href="#b"/>
+ <linearGradient id="f" x2="1" gradientTransform="matrix(36.5213 0 0 36.5213 6.02811 617.829)" gradientUnits="userSpaceOnUse" xlink:href="#b"/>
+ <linearGradient id="g" x2="1" gradientTransform="matrix(36.5213 0 0 36.5213 6.02811 474.593)" gradientUnits="userSpaceOnUse" xlink:href="#b"/>
+ <linearGradient id="h" x2="1" gradientTransform="matrix(33.1276 0 0 33.1276 9.12866 883.445)" gradientUnits="userSpaceOnUse" xlink:href="#b"/>
+ <linearGradient id="i" x2="1" gradientTransform="matrix(36.5213 0 0 36.5213 6.02811 796.199)" gradientUnits="userSpaceOnUse" xlink:href="#b"/>
+ <linearGradient id="j" x2="1" gradientTransform="matrix(36.5213 0 0 36.5213 6.02811 981.143)" gradientUnits="userSpaceOnUse" xlink:href="#b"/>
+ <linearGradient id="k" x2="1" gradientTransform="matrix(36.5213 0 0 36.5213 6.02811 682.655)" gradientUnits="userSpaceOnUse" xlink:href="#b"/>
+ <path d="m45.668 8.56c0-3.438-2.79-6.228-6.228-6.228h-30.88c-3.438 0-6.228 2.79-6.228 6.228v30.88c0 3.438 2.79 6.228 6.228 6.228h30.88c3.438 0 6.228-2.79 6.228-6.228z" fill="url(#a)"/>
+ <circle cx="16.388" cy="17.348" r="2.753" fill="url(#c)"/>
+ <circle cx="11.341" cy="26.915" r="4.563" fill="url(#d)"/>
+ <circle cx="17.029" cy="23.56" r="5.451" fill="url(#e)" stroke="#1c3c6b" stroke-width=".54"/>
+ <circle cx="28.145" cy="21.35" r="5.042" fill="url(#f)"/>
+ <circle cx="22.616" cy="17.428" r="5.042" fill="url(#g)" stroke="#1c3f73" stroke-width=".54"/>
+ <circle cx="39.395" cy="28.862" r="2.616" fill="url(#h)"/>
+ <g stroke-width=".54">
+  <circle cx="33.267" cy="26.643" r="5.451" fill="url(#i)" stroke="#1c3b67"/>
+  <circle cx="16.696" cy="29.14" r="2.884" fill="url(#j)" stroke="#1c375d"/>
+  <path d="m31.229 25.032c0 3.838-3.112 6.949-6.95 6.949-3.839 0-6.95-3.111-6.95-6.949s3.112-6.949 6.95-6.949 6.95 3.111 6.95 6.949z" fill="url(#k)" fill-rule="nonzero" stroke="#1c3964"/>
+ </g>
+</svg>

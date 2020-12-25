@@ -1,0 +1,22 @@
+<svg clip-rule="evenodd" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <linearGradient id="a" x2="1" gradientTransform="matrix(0 -43.3373 43.3373 0 201.9 45.6687)" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#8b3ffc" offset="0"/>
+  <stop stop-color="#eb60ff" offset="1"/>
+ </linearGradient>
+ <clipPath id="b">
+  <path d="m39.29 7.358-5.595 4.58h-7.442l5.088-4.594-5.053-5.046h7.413zm-7.384 0-4.641 4.19h6.291l5.137-4.205-5.143-4.656h-6.32z" clip-rule="evenodd"/>
+ </clipPath>
+ <clipPath id="c">
+  <path d="m21.999 7.358-5.595 4.58h-7.442l5.088-4.594-5.053-5.046h7.412zm-12.061-4.671 4.677 4.671-4.641 4.19h6.291l5.137-4.205-5.143-4.656z" clip-rule="evenodd"/>
+ </clipPath>
+ <path d="m45.668 8.56c0-3.438-2.79-6.228-6.228-6.228h-30.88c-3.438 0-6.228 2.79-6.228 6.228v30.88c0 3.438 2.79 6.228 6.228 6.228h30.88c3.438 0 6.228-2.79 6.228-6.228z" fill="url(#a)"/>
+ <image transform="matrix(.985765 0 0 .963185 2.3135905 2.3135704)" width="43.374" height="9.632" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAKCAYAAADPcbwqAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAzUlEQVQ4jZWUSw7CMAxEB2QJWHAKjkQrlkgcA4klp+GAbGzMpnz6sT3JqnUyk9dJ6lV/Oh4AXAH0AHZIhvv3KVs21pSS5YlJ9QnHA8Bd1OwG4MxwePIWaetPc8ZuD+ACYC2q1pWesW+NFOpyfXAynajZhtk3tHdOWN+I9Pw+Yyuq1rQTnTB3Y3LnBVENHNnPo27EySRx2qIWADf9gH+VREf3Fs+A9dVmV3OFs3xXDIB9lDBFkmORRHxL9llZbCD2ySLGsLVVtWcyAP8E9gaa1nWV1xxgPAAAAABJRU5ErkJggg=="/>
+ <path d="m26.759 11.743h6.866l5.367-4.392-5.367-4.858h-6.866l4.865 4.858z" fill="#fff" fill-opacity=".95"/>
+ <g clip-path="url(#b)">
+  <image transform="matrix(.931241 0 0 .963999 26.252615 2.2981736)" width="13.037" height="9.64" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAKCAYAAACE2W/HAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAASklEQVQokWMMCQv6z0AGYPnz9y+ERaR2mDKWP3/+Eq+aZI1YHIRXIz7XI/xIhGJkSZY/f/4SGy6oNv4mMVRRbCQIsBhKdKiimwQAW2wotHtWZOIAAAAASUVORK5CYII="/>
+ </g>
+ <path d="m9.468 11.743h6.866l5.367-4.392-5.367-4.859h-6.866l4.865 4.859z" fill="#fff" fill-opacity=".95"/>
+ <g clip-path="url(#c)">
+  <image transform="matrix(.931241 0 0 .963999 8.9613321 2.2981736)" width="13.037" height="9.64" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAKCAYAAACE2W/HAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAMElEQVQokWMMDg38z0AGYPnz5y9+FYy4NP4loJE4G3EYj93Gf9SwkRSN1PHjYLYRAP9fHMI1CNevAAAAAElFTkSuQmCC"/>
+ </g>
+</svg>

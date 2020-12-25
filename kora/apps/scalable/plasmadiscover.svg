@@ -1,0 +1,31 @@
+<svg clip-rule="evenodd" fill-rule="evenodd" stroke-linecap="round" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+ <linearGradient id="a" x2="1" gradientTransform="matrix(.0595533 -6.84864 6.84864 .0595533 23.2854 9.8263)" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#018fa9" offset="0"/>
+  <stop stop-color="#35b7dc" offset="1"/>
+ </linearGradient>
+ <linearGradient id="b" x2="1" gradientTransform="matrix(-1 0 0 -1 1 0)" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#3abbe1" offset="0"/>
+  <stop stop-color="#5ea5fb" offset="1"/>
+ </linearGradient>
+ <linearGradient id="c" x2="1" gradientTransform="matrix(0 -37 37 0 24 46)" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#006783" offset="0"/>
+  <stop stop-color="#20ccff" offset="1"/>
+ </linearGradient>
+ <linearGradient id="d" x2="1" gradientTransform="matrix(0 -1 1 0 0 1)" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#e6e6e6" offset="0"/>
+  <stop stop-color="#fff" offset="1"/>
+ </linearGradient>
+ <path d="m4 3h40v10h-40z" fill="url(#a)"/>
+ <g fill-rule="nonzero">
+  <path d="m4 3v27l3.5-24.5z" fill="#0492ac"/>
+  <path d="m44 3v5l-3.5-2.5z" fill="url(#b)"/>
+  <path d="m7.5 5.5 7.7 5.5h-11.2z" fill-opacity=".08"/>
+ </g>
+ <path d="m46 9h-44v34c0 1.656 1.344 3 3 3h38c1.656 0 3-1.344 3-3z" fill="url(#c)"/>
+ <path d="m46 9h-5.5v-3.5z" fill="#0995b1" fill-rule="nonzero"/>
+ <path d="m7.5 5.5-5.5 3.5h5.5z" fill="#39badf" fill-rule="nonzero"/>
+ <circle cx="14" cy="14" r="2" fill-opacity=".3"/>
+ <circle cx="34" cy="14" r="2" fill-opacity=".3"/>
+ <path d="m34 13c0-5.486-4.514-10-10-10s-10 4.514-10 10" fill="none" stroke="url(#d)" stroke-width="2.4"/>
+ <path d="m19.265 20.764c-.708 0-1.291.581-1.291 1.287s.583 1.287 1.291 1.288h.001c.708 0 1.291-.581 1.291-1.287v-.001c0-.706-.583-1.287-1.291-1.287zm7.318 0-2.449 2.441 3.767 3.755-3.901 4.425 2.583 2.253 6.026-6.866zm-9.04 6.008c-1.18 0-2.152.968-2.152 2.145v.001c0 1.177.972 2.145 2.152 2.145 1.181 0 2.153-.968 2.153-2.145v-.001c0-1.177-.972-2.145-2.153-2.145zm3.874 6.008c-1.417 0-2.583 1.162-2.583 2.574v.001c0 1.412 1.166 2.574 2.583 2.574s2.583-1.162 2.583-2.574v-.001c0-1.412-1.166-2.574-2.583-2.574z" fill="#fff" fill-opacity=".8" fill-rule="nonzero"/>
+</svg>

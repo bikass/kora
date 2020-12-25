@@ -1,0 +1,25 @@
+<svg style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <g transform="matrix(.0778555 0 0 .0563743 13.662 4.67306)">
+  <rect x="-13.563" y="87.912" width="292.693" height="525.809" style="fill:url(#_Linear1)"/>
+ </g>
+ <g transform="matrix(3.34649,0,0,2.78571,-2.77194,-2885.29)">
+  <clipPath id="_clip2">
+   <path d="m11.404 1037.36h-6.808c-0.31 0-0.561 0.25-0.561 0.56v12.88c0 0.31 0.251 0.56 0.561 0.56h6.808c0.31 0 0.561-0.25 0.561-0.56v-12.88c0-0.31-0.251-0.56-0.561-0.56zm-0.082 11.78h-6.644v-9.55h6.644v9.55z" clip-rule="nonzero"/>
+  </clipPath>
+  <g clip-path="url(#_clip2)">
+   <g transform="matrix(.29882 -0 -0 .358974 .828311 1035.75)">
+    <use transform="scale(.982856 1)" x="10.919" y="4.5" width="26.537px" height="39px" xlink:href="#_Image3"/>
+   </g>
+  </g>
+ </g>
+ <g transform="matrix(.0778555 0 0 .0563743 13.662 4.67306)">
+  <ellipse cx="132.784" cy="637.424" rx="20.679" ry="29.856" style="fill:rgb(8,139,171)"/>
+ </g>
+ <defs>
+  <linearGradient id="_Linear1" x2="1" gradientTransform="matrix(1.39319e-14,-408.737,227.524,2.5028e-14,6206.55,550.412)" gradientUnits="userSpaceOnUse">
+   <stop style="stop-color:rgb(0,103,131)" offset="0"/>
+   <stop style="stop-color:rgb(19,190,227)" offset="1"/>
+  </linearGradient>
+  <image id="_Image3" width="27px" height="39px" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABsAAAAnCAYAAAD+bDODAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAaUlEQVRYhe2XwQkAIAwDq7iOuP909Sn9FEUNGuoAOdsTgqnWpgI6GQWCw4oqbIvEkxHDRKCT7UbMB7y9xp27Eb/G+6wBMM5ug6mdRcUEzIF9VjFLsHB2AEZWMQYWzv6DnYzzw3id8f6pO+eQVcJ9wptrAAAAAElFTkSuQmCC"/>
+ </defs>
+</svg>

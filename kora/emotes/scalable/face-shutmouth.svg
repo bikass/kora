@@ -1,0 +1,13 @@
+<svg style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+ <path d="m44.928 24.216c0 11.476-9.302 20.778-20.778 20.778-11.474 0-20.778-9.302-20.778-20.778 0-11.474 9.304-20.778 20.778-20.778 11.476 0 20.778 9.304 20.778 20.778z" style="fill-rule:nonzero;fill:url(#_Linear1)"/>
+ <ellipse cx="18.016" cy="22.485" rx="2.886" ry="4.04" style="fill:#664500"/>
+ <ellipse cx="30.045" cy="22.485" rx="2.886" ry="4.04" style="fill:#664500"/>
+ <path d="m34.476 29.559c-0.208-0.777-1.007-1.239-1.786-1.031l-18.136 4.86c-0.777 0.208-1.239 1.008-1.031 1.786l1e-3 2e-3c0.208 0.777 1.008 1.239 1.786 1.031l18.136-4.86c0.778-0.209 1.239-1.008 1.031-1.786l-1e-3 -2e-3z" style="fill:#664500"/>
+ <path d="m34.477 35.174c0.208-0.778-0.253-1.577-1.031-1.786l-18.136-4.86c-0.778-0.208-1.578 0.254-1.786 1.031l-1e-3 2e-3c-0.208 0.778 0.254 1.578 1.031 1.786l18.136 4.86c0.779 0.208 1.578-0.254 1.786-1.031l1e-3 -2e-3z" style="fill:#664500"/>
+ <defs>
+  <linearGradient id="_Linear1" x2="1" gradientTransform="matrix(2.54449e-15,-41.5546,41.5546,2.54449e-15,167.18,44.9943)" gradientUnits="userSpaceOnUse">
+   <stop style="stop-color:#ffb200" offset="0"/>
+   <stop style="stop-color:#ffcc4d" offset="1"/>
+  </linearGradient>
+ </defs>
+</svg>

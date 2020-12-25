@@ -5,19 +5,19 @@
 To make them display properly, you may need to update the icon cache. A script is included.
 
 Different versions available:
-* ***korla*** - for dark themes with dark panel
-* ***korla-light*** - for light themes with dark panel (depends on Korla)
-* ***korla-light-panel*** - for light themes with light panel (depends on Korla and Korla-light)
-* ***korla-pgrey*** - theme with grey folder colors (depends on Korla)
+* ***kora*** - for dark themes with dark panel
+* ***kora-light*** - for light themes with dark panel (depends on Kora)
+* ***kora-light-panel*** - for light themes with light panel (depends on Kora and Kora-light)
+* ***kora-pgrey*** - theme with grey folder colors (depends on Kora)
 
 
 ## Installation
 
 Clone this repository on your system
     
-    git clone https://github.com/bikass/korla.git
+    git clone https://github.com/bikass/kora.git
 
-and copy ***korla***, ***korla-light***, ***korla-light-panel*** and ***korla-pgrey*** subfolders to one of the following folders: 
+and copy ***kora***, ***kora-light***, ***kora-light-panel*** and ***kora-pgrey*** subfolders to one of the following folders: 
 
 * `/usr/share/icons/` - icons available system-wide
 * `$HOME/.local/share/icons/` - icons only available to local user

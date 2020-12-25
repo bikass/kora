@@ -1,0 +1,22 @@
+<svg clip-rule="evenodd" fill-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="2" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+ <linearGradient id="a" x2="1" gradientTransform="matrix(0 -24 26.6985 0 23.6515 42)" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#2d3f45" offset="0"/>
+  <stop stop-color="#4f4f4f" offset="1"/>
+ </linearGradient>
+ <linearGradient id="b" x2="1" gradientTransform="matrix(0 -18.6564 18.6564 0 534.032 44.1103)" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#006783" offset="0"/>
+  <stop stop-color="#13bee3" offset="1"/>
+ </linearGradient>
+ <path transform="matrix(1 0 0 1.21269 0 -4.25381)" d="m9 6h30v14h-30z" fill="#b7b7b7" fill-rule="nonzero"/>
+ <path transform="matrix(1 0 0 1.11244 0 -2.02388)" d="m44 22.384c0-2.42-2.185-4.384-4.877-4.384h-30.246c-2.692 0-4.877 1.964-4.877 4.384v15.232c0 2.42 2.185 4.384 4.877 4.384h30.246c2.692 0 4.877-1.964 4.877-4.384z" fill="url(#a)"/>
+ <path d="m12 23h24v4h-24z"/>
+ <path d="m14 29h20v4h-20z"/>
+ <path d="m16 35h16v4h-16z"/>
+ <path d="m14 9h6v4h-6z" fill-opacity=".5"/>
+ <path d="m28 9h6v4h-6z" fill-opacity=".5"/>
+ <g transform="translate(-1)">
+  <circle cx="36" cy="35" r="12" fill="url(#b)"/>
+  <path transform="matrix(1.17295 0 0 1.17295 -4.60622 -6.63975)" d="m29.357 36h4.286c.198 0 .357.159.357.357v4.286c0 .198-.159.357-.357.357h-4.286c-.198 0-.357-.159-.357-.357v-4.286c0-.198.159-.357.357-.357zm6.238 0h4.286c.197 0 .357.159.357.357v4.286c0 .198-.16.357-.357.357h-4.286c-.198 0-.357-.159-.357-.357v-4.286c0-.198.159-.357.357-.357zm-6.238-6h4.286c.198 0 .357.159.357.357v4.286c0 .198-.159.357-.357.357h-4.286c-.198 0-.357-.159-.357-.357v-4.286c0-.198.159-.357.357-.357zm6.238 0h4.286c.197 0 .357.159.357.357v4.286c0 .198-.16.357-.357.357h-4.286c-.198 0-.357-.159-.357-.357v-4.286c0-.198.159-.357.357-.357z" fill="#fff" fill-rule="nonzero"/>
+ </g>
+ <path d="m24.349 4.698h1.007v2.684h-1.007v4.916h1.007v2.878h-1.007v2.824h-.698v-3.521h1.008v-1.484h-1.008v-6.31h1.008v-1.29h-1.008v-2.373h.698z" fill="#a2a2a2"/>
+</svg>

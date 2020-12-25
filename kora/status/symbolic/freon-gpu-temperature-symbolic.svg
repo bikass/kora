@@ -1,0 +1,6 @@
+<svg style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2" version="1.1" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+ <path d="m3.013 3.075 11.482 0.012 0.127 1.096v9.74h-7.676l-0.913-1.015-3.02 3e-3v-9.836z" style="fill-opacity:.3;fill:rgb(223,223,223)"/>
+ <g transform="matrix(.983329 0 0 .983329 .13337 .125066)">
+  <path d="m1 0c-1.325 0-1.325 0.991 0 0.991h1v4.009h-2v3h2v1h-2v3h2v2c0 1.325 0.928 1.345 0.928 0.02v-13c0-1-1-1-1-1l-0.928-0.02zm2.809 3v1.127h10.925v9.905h-7.806v-2h-3.119v0.968h2.191v2h8.408c0.422 0 0.827-0.168 1.126-0.466 0.298-0.299 0.466-0.704 0.466-1.126v-8.816c0-0.879-0.713-1.592-1.592-1.592h-10.599zm-3.127 2.98h1v1h-1v-1zm5.318 0.02v4h1v-4h-1zm2 0v4h1v-4h-1zm2 0v4h1v-4h-1zm2 0v4h1v-4h-1zm-11.318 3.98h1v1h-1v-1z" style="fill-rule:nonzero;fill:rgb(223,223,223)"/>
+ </g>
+</svg>

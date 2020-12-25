@@ -1,0 +1,20 @@
+<svg clip-rule="evenodd" fill-rule="evenodd" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+ <linearGradient id="a" x2="1" gradientTransform="matrix(0 -43.3373 43.3373 0 201.9 45.6687)" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#2e4642" offset="0"/>
+  <stop stop-color="#6f6f6f" offset="1"/>
+ </linearGradient>
+ <path d="m45.668 8.56c0-3.438-2.79-6.228-6.228-6.228h-30.88c-3.438 0-6.228 2.79-6.228 6.228v30.88c0 3.438 2.79 6.228 6.228 6.228h30.88c3.438 0 6.228-2.79 6.228-6.228z" fill="url(#a)"/>
+ <path transform="translate(-.44665 -.552616)" d="m33 19-6.1 17" fill="none" stroke="#b8b8b8" stroke-width="3"/>
+ <path transform="matrix(.80161 -.597847 .597847 .80161 -.44665 -.552616)" d="m6.99 19.04h10v11h-10z" fill="#cb7200"/>
+ <path transform="translate(-.44665 -.552616)" d="m9 21h5v5l6 3v5l-11-6z" fill="#cb7200" fill-rule="nonzero"/>
+ <path transform="matrix(0 -1 1 0 -.44665 -.552616)" d="m-16 9c0-1.656-1.344-3-3-3s-3 1.344-3 3v12c0 1.656 1.344 3 3 3s3-1.344 3-3z" fill="#e9a400"/>
+ <path transform="translate(-.44665 -.552616)" d="m36 13c0-1.656-1.344-3-3-3s-3 1.344-3 3v6c0 1.656 1.344 3 3 3s3-1.344 3-3z" fill="#e9a400"/>
+ <path transform="matrix(.931319 .364204 -.364204 .931319 -.44665 -.552616)" d="m40.59 16.47c0-1.656-1.344-3-3-3s-3 1.344-3 3v6c0 1.656 1.344 3 3 3s3-1.344 3-3z" fill="#cb7200"/>
+ <circle cx="32.55335" cy="18.447384" r="2" fill-opacity=".46"/>
+ <path transform="translate(-.44665 -.552616)" d="m34 6c-9.47 0-17.299 6.935-18.74 16h10.263c1.237-3.493 4.56-6 8.477-6 2.006.004 3.952.678 5.531 1.914l-1.722-11.506c-1.253-.264-2.529-.401-3.809-.408zm-18.949 20c.523 10.026 8.793 18 18.949 18 1.247-.001 2.49-.125 3.713-.369l1.717-11.463c-1.562 1.186-3.469 1.829-5.43 1.832-4.632 0-8.443-3.501-8.941-8z" fill="#f5c700" fill-rule="nonzero"/>
+ <g fill-opacity=".46">
+  <path transform="translate(-.44665 -.552616)" d="m21.5 14c-1.92 0-3.5 1.58-3.5 3.5s1.58 3.5 3.5 3.5 3.5-1.58 3.5-3.5-1.58-3.5-3.5-3.5zm0 1c1.371 0 2.5 1.129 2.5 2.5s-1.129 2.5-2.5 2.5-2.5-1.129-2.5-2.5 1.129-2.5 2.5-2.5z" fill-rule="nonzero"/>
+  <circle cx="8.55335" cy="18.447384" r="2"/>
+  <circle cx="25.55335" cy="36.447384" r="2"/>
+ </g>
+</svg>

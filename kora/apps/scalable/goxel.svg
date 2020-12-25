@@ -1,0 +1,13 @@
+<svg clip-rule="evenodd" fill-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="2" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+ <g fill-rule="nonzero">
+  <path transform="matrix(1.08337 0 0 1.07896 11.8823 15.8469)" d="m21.185 4.544 10 5.774v11.547l-10 5.773-10-5.773v-11.547z" fill="#6e8387"/>
+  <path transform="matrix(1.08337 0 0 1.08337 -2.00099 -2.00099)" d="m34 21 10 5.75v11.5l-10 5.75z" fill-opacity=".25"/>
+  <path transform="matrix(1.08337 0 0 1.08337 -2.00099 -2.00099)" d="m34 21-10 5.75 10 5.75 10-5.75z" fill="#83929a"/>
+  <path transform="matrix(1.08337 0 0 1.07896 -9.78519 15.8469)" d="m21.185 4.544 10 5.774v11.547l-10 5.773-10-5.773v-11.547z" fill="#0c5586"/>
+  <path transform="matrix(1.08337 0 0 1.08337 -2.00099 -2.00099)" d="m14 21 10 5.75v11.5l-10 5.75z" fill-opacity=".2"/>
+  <path transform="matrix(1.08337 0 0 1.08337 -2.00099 -2.00099)" d="m14 21-10 5.75 10 5.75 10-5.75z" fill="#366a90"/>
+  <path transform="matrix(1.08337 0 0 1.07896 1.04856 -2.57049)" d="m21.185 4.544 10 5.774v11.547l-10 5.773-10-5.773v-11.547z" fill="#287aca"/>
+  <path transform="matrix(1.08337 0 0 1.07896 1.04856 -2.57049)" d="m21.185 4.544 10 5.774v11.547l-10 5.773z" fill-opacity=".2"/>
+  <path transform="matrix(1.08337 0 0 1.08337 -2.00099 -2.00099)" d="m24 4-10 5.75 10 5.75 10-5.75z" fill="#4aa7ef"/>
+ </g>
+</svg>

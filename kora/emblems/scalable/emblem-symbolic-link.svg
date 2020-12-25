@@ -1,0 +1,16 @@
+
+<svg style="clip-rule:evenodd;fill-rule:evenodd;stroke-linecap:round;stroke-miterlimit:10" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+ <path d="m1.508 25.305c0.068 1.796 0.301 3.547 0.681 5.219 2.905 12.772 14.399 20.932 26.219 9.538 0.768-0.735 1.983-0.722 2.736 0.029 1.978 1.953 5.321 5.287 5.321 5.287l0.027-20.87-20.409 0.031s3.364 3.481 5.294 5.478c0.368 0.38 0.567 0.892 0.554 1.422-0.014 0.529-0.239 1.03-0.626 1.391-10.768 10.301-17.448 0.894-19.797-7.525z" style="fill-rule:nonzero;fill:url(#_Linear1);stroke-width:1.02px;stroke:url(#_Linear2)"/>
+ <defs>
+  <linearGradient id="_Linear1" x2="1" gradientTransform="matrix(32.9415,0,0,32.9415,2.3392,26.2217)" gradientUnits="userSpaceOnUse">
+   <stop style="stop-color:rgb(121,121,121);stop-opacity:0" offset="0"/>
+   <stop style="stop-color:rgb(84,84,84);stop-opacity:.780392" offset=".22"/>
+   <stop style="stop-color:rgb(41,41,41)" offset="1"/>
+  </linearGradient>
+  <linearGradient id="_Linear2" x2="1" gradientTransform="matrix(-33.8038,4.13977e-15,-4.13977e-15,-33.8038,36.1584,24.9408)" gradientUnits="userSpaceOnUse">
+   <stop style="stop-color:rgb(129,129,129)" offset="0"/>
+   <stop style="stop-color:rgb(234,234,234);stop-opacity:.780392" offset=".78"/>
+   <stop style="stop-color:rgb(234,234,234);stop-opacity:0" offset="1"/>
+  </linearGradient>
+ </defs>
+</svg>

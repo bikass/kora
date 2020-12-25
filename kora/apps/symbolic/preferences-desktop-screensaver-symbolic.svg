@@ -1,0 +1,10 @@
+<svg style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2" version="1.1" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+ <path d="m10.48 4.69c0.32 0.39 0.52 0.89 0.52 1.43 0 1.25-1.01 2.26-2.26 2.26-0.54 0-1.04-0.2-1.43-0.52 0.28 1.16 1.32 2.02 2.56 2.02 1.45 0 2.63-1.18 2.63-2.63 0-1.24-0.86-2.29-2.02-2.56z" style="fill-rule:nonzero;fill:rgb(223,223,223)"/>
+ <path d="M5.5,7.5L5,6L3.5,5.5L5,5L5.5,3.5L6,5L7.5,5.5L6,6L5.5,7.5Z" style="fill-rule:nonzero;fill:rgb(223,223,223)"/>
+ <rect x="3" y="14.385" width="10" height="1.615" style="fill-opacity:.5;fill:rgb(223,223,223)"/>
+ <path d="m2 0c-2 0-2 2-2 2v9s0 2 2 2h12s2 0 2-2v-9s0-2-2-2h-12zm-1.026 0.834h14.052v11.332h-14.052v-11.332z" style="fill:rgb(223,223,223)"/>
+ <path d="m8 3.5c0 0.274-0.226 0.5-0.5 0.5s-0.5-0.226-0.5-0.5 0.226-0.5 0.5-0.5 0.5 0.226 0.5 0.5z" style="fill-rule:nonzero;fill:rgb(223,223,223)"/>
+ <path d="m13 3.5c0 0.274-0.226 0.5-0.5 0.5s-0.5-0.226-0.5-0.5 0.226-0.5 0.5-0.5 0.5 0.226 0.5 0.5z" style="fill-rule:nonzero;fill:rgb(223,223,223)"/>
+ <path d="m9 5.5c0 0.274-0.226 0.5-0.5 0.5s-0.5-0.226-0.5-0.5 0.226-0.5 0.5-0.5 0.5 0.226 0.5 0.5z" style="fill-rule:nonzero;fill:rgb(223,223,223)"/>
+ <path d="m5 8.5c0 0.274-0.226 0.5-0.5 0.5s-0.5-0.226-0.5-0.5 0.226-0.5 0.5-0.5 0.5 0.226 0.5 0.5z" style="fill-rule:nonzero;fill:rgb(223,223,223)"/>
+</svg>

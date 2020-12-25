@@ -1,0 +1,35 @@
+<svg clip-rule="evenodd" fill-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="2" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <linearGradient id="a" x2="1" gradientTransform="matrix(0 -42.2364 42.1981 0 14.5646 44.3387)" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#178b6f" offset="0"/>
+  <stop stop-color="#4dd7c4" offset="1"/>
+ </linearGradient>
+ <linearGradient id="b" x2="1" gradientTransform="matrix(.79491 41.4949 -41.4949 .79491 44.2716 4.33297)" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#f6fbff" offset="0"/>
+  <stop stop-color="#eaeff2" offset="1"/>
+ </linearGradient>
+ <linearGradient id="c" x2="1" gradientTransform="matrix(0 -45.4796 45.733 0 33.5323 45.9233)" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#178b6f" offset="0"/>
+  <stop stop-color="#3cad9d" offset="1"/>
+ </linearGradient>
+ <clipPath id="d">
+  <path d="m12.761 24.714.017 9.174 5.391-.001-.017-9.174z" clip-rule="evenodd"/>
+ </clipPath>
+ <clipPath id="e">
+  <path d="m20.356 19.726.017 14.127 5.392-.002-.017-14.126z" clip-rule="evenodd"/>
+ </clipPath>
+ <clipPath id="f">
+  <path d="m28.239 14.812.017 19.08 5.391-.002-.017-19.08z" clip-rule="evenodd"/>
+ </clipPath>
+ <path d="m6.399 45.363h19.042l-.001-43.099-18.857-.059c-3.166.058-4.486 1.251-4.569 4.417v34.223c.012 2.752 2.216 4.518 4.385 4.518z" fill="url(#a)"/>
+ <path d="m42.397 45.363-12.085-.014v-43.099l12.431-.045c2.16.026 3.24 1.708 3.24 3.729v35.526c.094 2.219-1.372 3.855-3.586 3.903z" fill="url(#b)"/>
+ <path d="m42.838 43.097c-.04 2.642-1.222 4.026-3.552 4.123l-16.083-1.878v-43.078l16.584-1.555c2.209-.223 3.174.962 3.191 3.337z" fill="url(#c)"/>
+ <g clip-path="url(#d)">
+  <image transform="matrix(.901419 0 0 .917447 12.760487 24.71327)" width="5.409" height="9.174" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAYAAAAKCAYAAACXDi8zAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAIklEQVQImWN8/eHzfwYsgIWRkRGbOF4JJhJ1MDHR3g5cEgDPKwQSjcabgQAAAABJRU5ErkJggg=="/>
+ </g>
+ <g clip-path="url(#e)">
+  <image transform="matrix(.901419 0 0 .941887 20.355844 19.724998)" width="5.409" height="14.128" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAYAAAAPCAYAAADHw76AAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAJElEQVQYlWN89f7TfwYsgIWRkRGbOFUlGBioaAdWcXpZTqIEAMpkBCnAl29TAAAAAElFTkSuQmCC"/>
+ </g>
+ <g clip-path="url(#f)">
+  <image transform="matrix(.901419 0 0 .954107 28.238753 14.809649)" width="5.409" height="19.082" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAYAAAAUCAYAAACu0kzYAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAKklEQVQYlWN89f7TfwYsgIWRkRGbOG4JJqyieI1iYMBpB+2NGqyW09woAMxgBDuSaSZnAAAAAElFTkSuQmCC"/>
+ </g>
+</svg>

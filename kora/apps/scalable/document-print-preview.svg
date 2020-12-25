@@ -1,0 +1,58 @@
+<svg clip-rule="evenodd" fill-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="2" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <linearGradient id="a" x2="1" gradientTransform="matrix(0 -107.071 107.071 0 744.611 408.869)" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#cbcbcb" offset="0"/>
+  <stop stop-color="#e9e9e9" offset=".6"/>
+  <stop stop-color="#bebebe" offset="1"/>
+ </linearGradient>
+ <linearGradient id="b" x2="1" gradientTransform="matrix(-1.41418 -82.0244 82.0244 -1.41418 747.803 499.837)" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#a8a8a8" offset="0"/>
+  <stop stop-color="#ccc" offset="1"/>
+ </linearGradient>
+ <linearGradient id="c" x2="1" gradientTransform="matrix(0 -70 70 0 744.571 380.998)" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#333" offset="0"/>
+  <stop stop-color="#4e4e4e" offset=".64"/>
+  <stop stop-color="#333" offset="1"/>
+ </linearGradient>
+ <linearGradient id="d">
+  <stop stop-color="#060606" offset="0"/>
+  <stop stop-color="#343434" offset="1"/>
+ </linearGradient>
+ <linearGradient id="e" x2="1" gradientTransform="matrix(-3.67804 -61 61 -3.67804 745.906 499.568)" gradientUnits="userSpaceOnUse" xlink:href="#d"/>
+ <linearGradient id="f" x2="1" gradientTransform="matrix(.91632 39.5 -39.5 .91632 735.781 464.76)" gradientUnits="userSpaceOnUse" xlink:href="#d"/>
+ <linearGradient id="g">
+  <stop stop-color="#1f1f1f" offset="0"/>
+  <stop stop-color="#444" offset="1"/>
+ </linearGradient>
+ <linearGradient id="h" x2="1" gradientTransform="matrix(.175247 70 -70 .175247 735.66 501.815)" gradientUnits="userSpaceOnUse" xlink:href="#g"/>
+ <linearGradient id="i" x2="1" gradientTransform="matrix(4.41602 -83.5858 83.5858 4.41602 743.781 547.504)" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#f4f4f4" offset="0"/>
+  <stop stop-color="#b0b0b0" offset="1"/>
+ </linearGradient>
+ <linearGradient id="j" x2="1" gradientTransform="matrix(-2 -44 44 -2 754.571 302.798)" gradientUnits="userSpaceOnUse" xlink:href="#g"/>
+ <linearGradient id="k" x2="1" gradientTransform="matrix(2.12134 -74.2462 74.2462 2.12134 736.817 307.466)" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#cbcbcb" offset="0"/>
+  <stop stop-color="#f3f3f3" offset="1"/>
+ </linearGradient>
+ <linearGradient id="l" x2="1" gradientTransform="matrix(0 -17.1017 17.1017 0 492.529 43.3511)" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#006783" offset="0"/>
+  <stop stop-color="#13bee3" offset="1"/>
+ </linearGradient>
+ <path transform="matrix(.75 0 0 .75 -64.1786 -453.599)" d="m94.556 662.311h46.311l.3.504v.822h-46.911v-.849z" fill="#2a2a2a"/>
+ <g transform="matrix(.116931 0 0 .116931 -62.4489 -22.7707)">
+  <path d="m588.95 310.332h298.63l31.849 30.509v75.557h-360.339v-75.911z" fill="url(#a)"/>
+  <path d="m919.629 416.348v74.731c0 7.645-6.154 13.8-13.8 13.8h-333.024c-7.645 0-13.8-6.155-13.8-13.8v-75.481z" fill="url(#b)"/>
+  <path d="m629.209 309.621h220.417l10 21.377v38.727s.057 15.556-15.557 15.556h-209.303s-15.057-.614-15.557-14.849v-39.684z" fill="url(#c)"/>
+  <path d="m621.584 443.132h235.466c9.794 0 17.678 7.884 17.678 17.678v44.194h-270.822v-44.194c0-9.794 7.885-17.678 17.678-17.678z" fill="url(#e)"/>
+  <path d="m638.458 461.517h205.061c9.794 0 17.678 7.884 17.678 17.678v25.809h-240.416v-25.809c0-9.794 7.884-17.678 17.677-17.678z" fill="url(#f)"/>
+  <path d="m603.836 504.879h270.815l15.978 61.872h-300.775z" fill="url(#h)"/>
+  <path d="m636.332 461.517h210.365l10 89.802h-230.365z" fill="url(#i)"/>
+  <path d="m616.571 248.998h243v61h-243z" fill="url(#j)"/>
+  <path d="m633.933 233.22h211.071v77.075h-211.071z" fill="url(#k)"/>
+  <path d="m897.296 369.548h22.125v14.75h-22.125c-4.085 0-7.375-3.289-7.375-7.375s3.29-7.375 7.375-7.375z" fill="#3b3b3b"/>
+  <path d="m895.29 372.54h19.982v8.958h-19.982z" fill="#d5d5d5"/>
+ </g>
+ <g transform="matrix(.825839 0 0 .825839 7.28222 8.95421)">
+  <circle cx="36" cy="35" r="11" fill="url(#l)"/>
+  <path d="m36 30c-1.551.015-3.112.369-4.463 1.135-.538.351-1.185.804-1.672 1.26-.766.751-1.422 1.626-1.865 2.606 1.215 2.68 3.886 4.645 6.824 4.935 1.928.218 3.945-.115 5.639-1.069.538-.351 1.185-.804 1.672-1.26.766-.751 1.422-1.626 1.865-2.606-1.215-2.68-3.886-4.645-6.824-4.935-.39-.045-.783-.066-1.176-.066zm0 2c1.607-.035 3.03 1.402 3 3.001.051 1.767-1.709 3.292-3.449 2.962-1.758-.207-2.992-2.178-2.414-3.849.369-1.229 1.576-2.129 2.863-2.114zm0 2.001c-.549 0-1 .451-1 1s.451 1 1 1 1-.451 1-1c-.001-.548-.452-.999-1-.999z" fill="#fff"/>
+ </g>
+</svg>

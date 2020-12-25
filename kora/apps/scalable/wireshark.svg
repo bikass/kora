@@ -1,0 +1,45 @@
+<svg clip-rule="evenodd" fill-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="2" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <linearGradient id="a" x2="1" gradientTransform="matrix(-.0845103 44.6218 -44.6218 -.0845103 24.1901 2.17506)" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#80b3ff" offset="0"/>
+  <stop stop-color="#298fc4" offset="1"/>
+ </linearGradient>
+ <linearGradient id="b">
+  <stop stop-color="#b2c1c0" offset="0"/>
+  <stop stop-color="#ccc" offset="1"/>
+ </linearGradient>
+ <linearGradient id="c" x2="1" gradientTransform="matrix(-.454305 -30.4951 30.4951 -.454305 35.4756 33.2487)" gradientUnits="userSpaceOnUse" xlink:href="#b"/>
+ <linearGradient id="d" x2="1" gradientTransform="matrix(-24.2021 -11.3425 11.3425 -24.2021 31.4822 43.6193)" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#954852" offset="0"/>
+  <stop stop-color="#ed4c5c" offset=".77"/>
+  <stop stop-color="#ff717f" offset="1"/>
+ </linearGradient>
+ <linearGradient id="e">
+  <stop stop-color="#f2f2f2" offset="0"/>
+  <stop stop-color="#f9f9f9" offset="1"/>
+ </linearGradient>
+ <radialGradient id="f" cx="0" cy="0" r="1" gradientTransform="matrix(-6.63975 -5.84965 4.20231 -4.76991 18.1852 33.6099)" gradientUnits="userSpaceOnUse" xlink:href="#e"/>
+ <linearGradient id="g" x2="1" gradientTransform="matrix(-.795034 -43.8403 43.8403 -.795034 24.6291 46.3667)" gradientUnits="userSpaceOnUse" xlink:href="#b"/>
+ <linearGradient id="h" x2="1" gradientTransform="matrix(-1.36083 -3.10284 3.10284 -1.36083 21.3662 22.9451)" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#1a1a1a" offset="0"/>
+  <stop stop-color="#333" offset="1"/>
+ </linearGradient>
+ <linearGradient id="i" x2="1" gradientTransform="matrix(-.340727 -42.7046 42.7046 -.340727 19.0071 45.742)" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#e8e8e8" offset="0"/>
+  <stop stop-color="#f9f9f9" offset="1"/>
+ </linearGradient>
+ <linearGradient id="j" x2="1" gradientTransform="matrix(-.828566 -44.6597 44.6597 -.828566 24.2693 46.682)" gradientUnits="userSpaceOnUse" xlink:href="#e"/>
+ <circle cx="24" cy="24" r="22.29" fill="url(#a)"/>
+ <g fill-rule="nonzero">
+  <path d="m44.744 24.252c-9.996-8.172-20.159-3.473-20.159-3.473l5.661 12.35c3.184-4.319 14.498-8.877 14.498-8.877z" fill="url(#c)"/>
+  <path d="m26.504 31.587s-6.521 15.619-21.524 1.228c0 0 9.842-8.216 21.524-1.228z" fill="url(#d)"/>
+  <path d="m7.12 26.795.316 3.218 1.987-2.406.119 3.076 2.045-2.457.119 3.606 2.289-3.311-.09 4.11 2.614-3.388-.043 4.174 2.417-3.53.211 3.735 2.231-3.258-.334 3.903 2.626-3.505s-6.992-2.682-16.507-3.967" fill="url(#f)"/>
+  <path d="m21.433 39.062-.257-3.036-1.903 2.241-.073-2.899-1.958 2.289-.067-3.399-2.198 3.091.136-3.872-2.506 3.16.094-3.933-2.322 3.296-.153-3.522-2.143 3.042.365-3.673-2.519 3.269s6.554 2.616 15.504 3.946" fill="url(#f)"/>
+  <path d="m8.043 12.483c-.753.016-1.297.152-1.601.394.812-.339 7.309 6.175 9.569 12.869 2.295 6.798 12.199.424 13.464 3.721 1.393 3.603-8.642 8.623-6.463 16.571-.092-.016-.184-.041-.275-.058.279.09.644.195.976.295.096.005.191.01.287.014 6.06-.009 11.861-2.489 16.054-6.863-1.077-3.895-2.637-8.668-4.395-11.079-7.847-10.761-22.444-15.979-27.616-15.864z" fill="url(#g)"/>
+ </g>
+ <path d="m22.463 20.553c.517.646.413 1.591-.233 2.109s-1.591.413-2.109-.233-.414-1.591.233-2.109c.646-.518 1.591-.413 2.109.233z" fill="url(#h)"/>
+ <path d="m21.384 20.716c.224.279.179.687-.101.911-.279.224-.687.179-.911-.1-.223-.28-.178-.688.101-.912.279-.223.687-.178.911.101z" fill="#e6e6e6"/>
+ <path d="m22.078 21.954c.119.148.095.363-.053.481-.147.119-.363.095-.481-.053-.118-.147-.094-.363.053-.481.148-.118.363-.094.481.053z" fill="#e6e6e6"/>
+ <path d="m11.932 22.148s1.326.516 1.397 1.938c.046.594-.803.608-1.361-.167-.454-.762.255-.97-.036-1.771" fill="#1a1a1a" fill-rule="nonzero"/>
+ <path d="m6.396 12.882c.642-.563 7.32 6.066 9.614 12.864 2.295 6.798 12.201.425 13.465 3.722 1.394 3.603-8.642 8.622-6.463 16.57-8.625-1.565-17.464-7.349-18.04-13.241 15.795 11.223 20.988-.668 20.988-.668s-11.85-.208-19.017-5.149c-2.643-1.775-2.591-12.307-.547-14.098z" fill="url(#i)" fill-rule="nonzero"/>
+ <path d="m24 1.236c-12.561 0-22.764 10.203-22.764 22.764s10.203 22.764 22.764 22.764 22.764-10.203 22.764-22.764-10.203-22.764-22.764-22.764zm0 1.821c11.577 0 20.943 9.366 20.943 20.943s-9.366 20.943-20.943 20.943-20.943-9.366-20.943-20.943 9.366-20.943 20.943-20.943z" fill="url(#j)" fill-rule="nonzero"/>
+</svg>

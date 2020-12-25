@@ -1,0 +1,54 @@
+<svg clip-rule="evenodd" fill-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="2" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="a" x2="1" gradientTransform="matrix(0 -32.9469 32.9469 0 36.1938 40.4734)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#535353" offset="0"/>
+   <stop stop-color="#1b1b1b" offset="1"/>
+  </linearGradient>
+  <image id="b" width="10" height="10" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAYAAACNMs+9AAAACXBIWXMAAA7EAAAOxAGVKw4bAAABNklEQVQYlSXKTW7TQBiA4Xc839iZcerUSSqFClWCJQLWFWtuwQW4F+oJOA0LdrRIBfLjn9iO7fm64Fk/Jjw02o+eslVu6sjupNweIrtT5KZWylYpOkWW7owxUM+efDBMiWIjhAtc9f9T0SlSZA2STFQox9GzO0E2KddnZVsr61ZZ9oqssyO5pHjpeTYbDlXg+jxx9y9ye4gUneJHRTb+SFTDrJZX+R9+ujs+fwu8e5wJF0VmsAqyXeyRZCKzI0Va8/XDAx+/vCd8/4T9vSZpF5iLIBt/wMvA0rXswl/erH7R31tME0h/vMY+l5gqIGVWEVzHKq3Z+j1eemJZM719wswJMQzY/RVSpA25O7NKa3LX4ZIRzUbmTUVS7UENpBOSu44gHcH1LOyANRF1E7rsmMsGMzhQeAGNlI0AJdGWFQAAAABJRU5ErkJggg=="/>
+  <linearGradient id="c" x2="1" gradientTransform="matrix(0 -4.78547 3.85672 0 18.002 39.5012)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#151515" offset="0"/>
+   <stop stop-color="#272727" offset="1"/>
+  </linearGradient>
+  <clipPath id="d">
+   <path d="m36.194 29.561c2.57 0 4.657 2.087 4.657 4.657 0 2.571-2.087 4.658-4.657 4.658-2.571 0-4.658-2.087-4.658-4.658 0-2.57 2.087-4.657 4.658-4.657zm0 3.562c.604 0 1.095.49 1.095 1.095s-.491 1.095-1.095 1.095c-.605 0-1.096-.49-1.096-1.095s.491-1.095 1.096-1.095z" clip-rule="evenodd"/>
+  </clipPath>
+  <clipPath id="e">
+   <path d="m36.194 19.343c2.57 0 4.657 2.086 4.657 4.657s-2.087 4.657-4.657 4.657c-2.571 0-4.658-2.086-4.658-4.657s2.087-4.657 4.658-4.657zm0 3.562c.604 0 1.095.49 1.095 1.095s-.491 1.095-1.095 1.095c-.605 0-1.096-.49-1.096-1.095s.491-1.095 1.096-1.095z" clip-rule="evenodd"/>
+  </clipPath>
+  <clipPath id="f">
+   <path d="m36.194 9.207c2.57 0 4.657 2.087 4.657 4.657 0 2.571-2.087 4.658-4.657 4.658-2.571 0-4.658-2.087-4.658-4.658 0-2.57 2.087-4.657 4.658-4.657zm0 3.562c.604 0 1.095.491 1.095 1.095 0 .605-.491 1.096-1.095 1.096-.605 0-1.096-.491-1.096-1.096 0-.604.491-1.095 1.096-1.095z" clip-rule="evenodd"/>
+  </clipPath>
+  <clipPath id="g">
+   <path d="m12.193 39.736h11.618v.738h-11.618z" clip-rule="evenodd"/>
+  </clipPath>
+  <clipPath id="h">
+   <path d="m3.012 19.88h29.98v16.922h-29.98z" clip-rule="evenodd"/>
+  </clipPath>
+  <clipPath id="i">
+   <path d="m3.387 20.255h29.23v16.184h-29.23z" clip-rule="evenodd"/>
+  </clipPath>
+ </defs>
+ <path d="m27.4 6.948h17.588v34.105h-17.588z" fill="#b2b2b2"/>
+ <path d="m44.689 9.048c0-.404-.16-.791-.445-1.076s-.672-.445-1.076-.445h-13.949c-.403 0-.79.16-1.075.445-.286.285-.446.672-.446 1.076v29.904c0 .404.16.791.446 1.076.285.285.672.445 1.075.445h13.949c.404 0 .791-.16 1.076-.445s.445-.672.445-1.076z" fill="url(#a)"/>
+ <g clip-path="url(#d)">
+  <use transform="scale(.931495)" x="33.856" y="31.735" width="9.315" height="9.315" xlink:href="#b"/>
+ </g>
+ <g clip-path="url(#e)">
+  <use transform="scale(.931495)" x="33.856" y="20.765" width="9.315" height="9.315" xlink:href="#b"/>
+ </g>
+ <g clip-path="url(#f)">
+  <use transform="scale(.931495)" x="33.856" y="9.884" width="9.315" height="9.315" xlink:href="#b"/>
+ </g>
+ <circle cx="43.288" cy="9.824" r=".71" fill="#1b1b1b"/>
+ <path d="m42.14 9.207c0-.052-.042-.093-.093-.093h-.663c-.051 0-.093.041-.093.093v.187c0 .051.042.093.093.093h.663c.051 0 .093-.042.093-.093z" fill="#008dff"/>
+ <path d="m14.894 33.717.594 6.612h5.028l.594-6.612z" fill="url(#c)" fill-rule="nonzero"/>
+ <g clip-path="url(#g)">
+  <image transform="matrix(.968183 0 0 .737609 12.193297 39.735734)" width="11.618" height=".738" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAwAAAABCAYAAADq6085AAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAFUlEQVQImWOUkZH5z4ADMDIyYogBADzaAViDmAZSAAAAAElFTkSuQmCC"/>
+ </g>
+ <g clip-path="url(#h)">
+  <image transform="matrix(.999331 0 0 .995394 3.0119836 19.880009)" width="29.98" height="16.922" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAARCAYAAADKZhx3AAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAV0lEQVRIie2TsQ0AMQwCbSnjRNl/Okj739kSCU1Y4HQIcs7FMGSQFm4MAB4wqQBnHwwoqmZkky0yjuhORWT8T8VeZvxNxf7d6R74xLhK4Gd8DWxctafqDRmyNoDSkIo2AAAAAElFTkSuQmCC"/>
+ </g>
+ <g clip-path="url(#i)">
+  <image transform="matrix(.974347 0 0 .952014 3.3868302 20.25505)" width="29.23" height="16.184" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAARCAYAAADKZhx3AAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAxElEQVRIia1USRIDIQgUho/mq3lTqsY5mUPKKSY0ios3m6UFGun1/pRUkj0KI4AhPxcDuYQzuQmoYrOECvt/vHC2AbSBqNcx4fNpDpEGH9HKdbd6S5UBwnqEs3Yk13FHlfouhyeu4PyGCBWmZqyNBDD/bsQTa3WjvR1ser9LXSfk2Kl6iBT4CJ+Btips+RdLPz0IX70AsG6TVeoctuKFFfFsKN6fsQnw//Th0ZSq6kiVs4TID6m63dbYzxYR4GPGw4pdOF+/cH22sA2ZoAAAAABJRU5ErkJggg=="/>
+ </g>
+</svg>

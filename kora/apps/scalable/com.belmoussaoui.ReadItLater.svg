@@ -1,0 +1,60 @@
+<svg clip-rule="evenodd" fill-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="2" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+ <linearGradient id="a" x2="1" gradientTransform="matrix(0 -43.3373 43.3373 0 201.9 45.6687)" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#a47752" offset="0"/>
+  <stop stop-color="#c29875" offset="1"/>
+ </linearGradient>
+ <path d="m45.668 8.56c0-3.438-2.79-6.228-6.228-6.228h-30.88c-3.438 0-6.228 2.79-6.228 6.228v30.88c0 3.438 2.79 6.228 6.228 6.228h30.88c3.438 0 6.228-2.79 6.228-6.228z" fill="url(#a)"/>
+ <path d="m9 7h30v9.778h-30z" fill="#885e3d"/>
+ <path d="m9 14.11h30v8.889h-30z" fill="#bd916c"/>
+ <path d="m31.968 9c-.54.008-.968.208-.968.452v13.548h2v-13.548c0-.25-.448-.452-1-.452z" fill="#ff7800" fill-rule="nonzero"/>
+ <path d="m29.968 9c-.54.008-.968.208-.968.452v13.548h2v-13.548c0-.25-.448-.452-1-.452z" fill="#f9f06b" fill-rule="nonzero"/>
+ <path transform="scale(-1 1)" d="m-29 8h2v15h-2z" fill="#1a5fb4"/>
+ <path transform="scale(-1 1)" d="m-36 8h3v15h-3z" fill="#3584e4"/>
+ <path d="m33 10h3v3h-3z" fill="#1a5fb4"/>
+ <path d="m33 21h3v1h-3z" fill="#1a5fb4"/>
+ <path d="m33 19.5h3v.5h-3z" fill="#1a5fb4"/>
+ <path transform="scale(-1 1)" d="m-39 10h3v13h-3z" fill="#fff"/>
+ <path transform="scale(-1 1)" d="m-39 18h3v5h-3z" fill="#ff7800"/>
+ <path transform="scale(-1 1)" d="m-39 16h3v1h-3z" fill="#ff7800"/>
+ <path d="m24 8c-.518 0-1.036.021-1.5.061-.927.081-1.499.231-1.5.393v14.546h6v-14.546c-.001-.162-.573-.312-1.5-.393-.464-.04-.982-.061-1.5-.061z" fill="#ed333b" fill-rule="nonzero"/>
+ <circle transform="scale(-1 1)" cx="-24" cy="18" r="1" fill="#c01c28"/>
+ <path d="m24 11.027c-.518 0-1.036.021-1.5.061-.927.081-1.499.231-1.5.394v3.636c.001-.162.573-.312 1.5-.393.464-.041.982-.062 1.5-.062s1.036.021 1.5.062c.927.081 1.499.231 1.5.393v-3.636c-.001-.163-.573-.313-1.5-.394-.464-.04-.982-.061-1.5-.061z" fill="#c01c28" fill-rule="nonzero"/>
+ <path d="m24 20.727c-.518 0-1.036.021-1.5.061-.927.082-1.499.231-1.5.394v.909c.001-.162.573-.312 1.5-.393.464-.041.982-.062 1.5-.062s1.036.021 1.5.062c.927.081 1.499.231 1.5.393v-.909c-.001-.163-.573-.312-1.5-.394-.464-.04-.982-.061-1.5-.061z" fill="#c01c28" fill-rule="nonzero"/>
+ <path d="m16 11h1v12h-1z" fill="#e01b24"/>
+ <path d="m9 10h1v13h-1z" fill="#1a5fb4"/>
+ <path d="m10 9h3v14h-3z" fill="#ff7800"/>
+ <circle cx="11.55" cy="21.25" r=".75" fill="#c64600"/>
+ <g fill-rule="nonzero">
+  <path d="m14.5 8c.259 0 .518.019.75.058.464.076.75.218.75.37v14.572h-3v-14.572c0-.152.286-.294.75-.37.232-.038.491-.058.75-.058z" fill="#2ec27e"/>
+  <path d="m14.5 11c-.259 0-.518.02-.75.06-.464.079-.75.226-.75.384v7.111c0-.158.286-.305.75-.384.232-.04.491-.06.75-.06s.518.02.75.06c.464.079.75.226.75.384v-7.111c0-.158-.286-.305-.75-.384-.232-.04-.491-.06-.75-.06z" fill="#26a269"/>
+  <path d="m19 9c-1.105 0-2 .202-2 .452v13.548h4v-13.548c0-.25-.895-.452-2-.452z" fill="#deddda"/>
+  <path d="m19 10.055c-1.105 0-2 .202-2 .452v.903c0-.249.895-.452 2-.452s2 .203 2 .452v-.903c0-.25-.895-.452-2-.452z" fill="#5e5c64"/>
+  <path d="m19 19.987c-1.105 0-2 .202-2 .452v1.806c0-.249.895-.452 2-.452s2 .203 2 .452v-1.806c0-.25-.895-.452-2-.452z" fill="#5e5c64"/>
+ </g>
+ <path d="m18.6 13.06h.8v4.516h-.8z" fill="#5e5c64"/>
+ <path d="m18.6 13.06h.8v4.516h-.8z" fill="#9a9996"/>
+ <path d="m9 26h30v8.333h-30z" fill="#885e3d"/>
+ <path d="m9 32.67h30v8.333h-30z" fill="#bd916c"/>
+ <path d="m21.5 27c-.259 0-.518.019-.75.057-.464.076-.75.216-.75.367v13.576h3v-13.576c0-.151-.286-.291-.75-.367-.232-.038-.491-.057-.75-.057z" fill="#3d3846" fill-rule="nonzero"/>
+ <path transform="scale(-1 1)" d="m-27 28h4v13h-4z" fill="#f6d32d"/>
+ <path transform="scale(-1 1)" d="m-27 38h4v1h-4z" fill="#77767b"/>
+ <path transform="scale(-1 1)" d="m-27 39.5h4v.5h-4z" fill="#77767b"/>
+ <path transform="scale(-1 1)" d="m-20 27h5v14h-5z" fill="#3584e4"/>
+ <path transform="scale(-1 1)" d="m-19 29h3v1.5h-3z" fill="#1a5fb4"/>
+ <path d="m9 27h3v14h-3z" fill="#ed333b"/>
+ <path transform="scale(-1 1)" d="m-12 29h3v2h-3z" fill="#5e5c64"/>
+ <path transform="scale(-1 1)" d="m-12 39h3v1h-3z" fill="#5e5c64"/>
+ <path transform="scale(-1 1)" d="m-12 37.5h3v.5h-3z" fill="#5e5c64"/>
+ <path d="m12 29h3v12h-3z" fill="#fff"/>
+ <path d="m12 37h3v4h-3z" fill="#c061cb"/>
+ <path d="m12 35h3v1h-3z" fill="#c061cb"/>
+ <path d="m30 27h2v14h-2z" fill="#3584e4"/>
+ <path d="m30 28h2v2h-2z" fill="#1a5fb4"/>
+ <path d="m30 31h2v1h-2z" fill="#1a5fb4"/>
+ <path d="m34 28c-.345 0-.691.019-1 .058-.618.078-.999.221-1 .375v12.567h4v-12.567c0-.154-.382-.297-1-.375-.309-.038-.655-.058-1-.058z" fill="#57e389" fill-rule="nonzero"/>
+ <path d="m37.5 27c-.259 0-.518.019-.75.057-.464.076-.75.216-.75.367v13.576h3v-13.576c0-.151-.286-.291-.75-.367-.232-.038-.491-.057-.75-.057z" fill="#8c3ea6" fill-rule="nonzero"/>
+ <path d="m37 29h1v10h-1z" fill="#613583"/>
+ <path d="m27 29h3v12h-3z" fill="#ed333b"/>
+ <path d="m28 34h1v4h-1z" fill="#a51d2d"/>
+ <path d="m27 31h3v1h-3z" fill="#a51d2d"/>
+</svg>

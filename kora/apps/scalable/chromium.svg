@@ -1,0 +1,29 @@
+<svg clip-rule="evenodd" fill-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="2" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+ <linearGradient id="a" x2="1" gradientTransform="matrix(-22.7934 -27.329 27.329 -22.7934 307.692 -191.126)" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#546cb9" offset="0"/>
+  <stop stop-color="#83b7fa" offset="1"/>
+ </linearGradient>
+ <linearGradient id="b" x2="1" gradientTransform="matrix(-3.0655 29.981 -29.981 -3.0655 -373.971 -28.413)" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#8eafe1" offset="0"/>
+  <stop stop-color="#bbd4ff" offset="1"/>
+ </linearGradient>
+ <linearGradient id="c" x2="1" gradientTransform="matrix(25.7577 -8.68443 8.68443 25.7577 20.3583 47.9275)" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#2a52a9" offset="0"/>
+  <stop stop-color="#4270d5" offset="1"/>
+ </linearGradient>
+ <linearGradient id="d" x2="1" gradientTransform="matrix(0 -19.913 19.913 0 569.463 33.608)" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#f2f6f7" offset="0"/>
+  <stop stop-color="#ecf0f1" offset="1"/>
+ </linearGradient>
+ <linearGradient id="e" x2="1" gradientTransform="matrix(-.0455 -16.2919 16.2919 -.0455 286.198 31.6509)" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#3077ff" offset="0"/>
+  <stop stop-color="#80b3ff" offset="1"/>
+ </linearGradient>
+ <path d="m5.793 10.342c-2.85 3.801-4.557 8.591-4.557 13.729 0 12.611 10.153 22.693 22.764 22.693l7.967-16.319-14.796-3.03z" fill="url(#a)"/>
+ <path d="m25.138 13.756 6.829 16.618-7.967 16.39c12.611 0 22.764-10.153 22.764-22.764 0-3.694-.89-7.165-2.439-10.244z" fill="url(#b)"/>
+ <path d="m23.996 1.236c-7.473 0-14.062 3.581-18.207 9.11l11.377 17.069 14.797 2.959-6.829-16.618h19.187c-3.739-7.432-11.408-12.52-20.325-12.52z" fill="url(#c)"/>
+ <g fill-rule="nonzero">
+  <path d="m24.045 13.695c5.841 0 10.543 4.702 10.543 10.542s-4.702 10.542-10.543 10.542c-5.84 0-10.542-4.702-10.542-10.542s4.702-10.542 10.542-10.542z" fill="url(#d)"/>
+  <path d="m24.045 16.091c4.513 0 8.147 3.633 8.147 8.146s-3.634 8.146-8.147 8.146-8.146-3.633-8.146-8.146 3.633-8.146 8.146-8.146z" fill="url(#e)"/>
+ </g>
+</svg>

@@ -1,0 +1,10 @@
+<svg style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2" version="1.1" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+ <g transform="matrix(1.30403,0,0,1.30403,-2.23372,-2.24418)">
+  <path d="m7 3v5h-4v2.411h9.696v-7.411h-5.696z" style="fill-opacity:.3;fill-rule:nonzero;fill:rgb(223,223,223)"/>
+ </g>
+ <g transform="matrix(1.30403,0,0,1.30403,-2.23372,-2.24418)">
+  <path d="m6 3-3 4h3v-4z" style="fill-rule:nonzero;fill:rgb(223,223,223)"/>
+ </g>
+ <rect x="3" y="14.385" width="10" height="1.615" style="fill-opacity:.5;fill:rgb(223,223,223)"/>
+ <path d="m2 0c-2 0-2 2-2 2v9s0 2 2 2h12s2 0 2-2v-9s0-2-2-2h-12zm-1.026 0.834h14.052v11.332h-14.052v-11.332z" style="fill:rgb(223,223,223)"/>
+</svg>

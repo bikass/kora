@@ -1,0 +1,12 @@
+<svg clip-rule="evenodd" fill-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="2" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+ <linearGradient id="a" x2="1" gradientTransform="matrix(0 -16.4179 10.8829 0 314.519 41.457)" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#0b99ba" offset="0"/>
+  <stop stop-color="#13bee3" offset="1"/>
+ </linearGradient>
+ <linearGradient id="b" x2="1" gradientTransform="matrix(0 -20.703 21.7658 0 605.037 27.7933)" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#006783" offset="0"/>
+  <stop stop-color="#047a98" offset="1"/>
+ </linearGradient>
+ <path transform="translate(0 2)" d="m31 22.88h-14v16.846c0 2.359 1.915 4.274 4.274 4.274h5.452c2.359 0 4.274-1.915 4.274-4.274z" fill="url(#a)"/>
+ <path transform="translate(0 -2.08437)" d="m30 4.367v9.633l-6 5-6-5v-9.619c-4.864 2.309-6.859 4.349-6.868 12.619-.013 10.412 4.064 13.047 12.868 13.047 9.399 0 12.868-2.397 12.868-13.047 0-9.28-1.999-10.322-6.868-12.633z" fill="url(#b)" fill-rule="nonzero"/>
+</svg>

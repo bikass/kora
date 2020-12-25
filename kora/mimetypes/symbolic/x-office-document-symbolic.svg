@@ -1,0 +1,6 @@
+<svg style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2" version="1.1" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+ <path d="m3 1c-2 0-2 2-2 2v10c0 2 2 2 2 2h10s2 0 2-2v-10c0-2-2-2-2-2h-10zm0 1h10s1 0 1 1v10c0 1-1 1-1 1h-10s-1 0-1-1v-10s0-1 1-1z" style="fill:rgb(68,68,68)"/>
+ <g transform="translate(0 .524194)">
+  <path d="m4 10.5h6v1h-6v-1zm0-2.301h8v1h-8v-1zm0-2.425h8v1h-8v-1zm0-2.322h8v1h-8v-1z" style="fill:rgb(68,68,68)"/>
+ </g>
+</svg>

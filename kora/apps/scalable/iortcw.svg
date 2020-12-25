@@ -1,0 +1,12 @@
+<svg clip-rule="evenodd" fill-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="2" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+ <linearGradient id="a" x2="1" gradientTransform="matrix(0 -45.5294 45.5294 0 210.898 46.7647)" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#909090" offset="0"/>
+  <stop stop-color="#cbcbcb" offset="1"/>
+ </linearGradient>
+ <linearGradient id="b" x2="1" gradientTransform="matrix(0 -36.6147 36.6147 0 22.3769 41.2599)" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#ab1515" offset="0"/>
+  <stop stop-color="#be3539" offset="1"/>
+ </linearGradient>
+ <circle cx="24" cy="24" r="22.764" fill="url(#a)"/>
+ <path d="m16.967 6.74v7.579l-2.164-2e-3v-4.327h-14.067l2.164 2.165h9.739v2.164h-8.657l2.052 2.164h14.179v-6.239l1.082-0.757zm14.066 0-4.328 2.747 1.082 0.757v6.239h14.179l2.052-2.164h-8.657v-2.164h9.739l2.164-2.165h-14.067v4.327l-2.164 2e-3zm-7.033 6.497c-0.896 0-1.623 0.726-1.623 1.623 0 0.896 0.727 1.623 1.623 1.623s1.623-0.727 1.623-1.623c0-0.897-0.727-1.623-1.623-1.623zm-16.772 5.41 2.164 2.164h7.575v20.424l5.41-3.242v3.267l8.656-6.171v-14.278h7.575l2.164-2.164h-12.985v15.049l-2.101 1.575-0.063-16.624h-3.246v15.083l-2.092 1.538-0.072-16.621h-12.985z" fill="url(#b)" fill-rule="nonzero"/>
+</svg>

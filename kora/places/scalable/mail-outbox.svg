@@ -1,0 +1,46 @@
+<svg style="clip-rule:evenodd;fill-rule:evenodd;stroke-linecap:round;stroke-linejoin:round" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg" xmlns:serif="http://www.serif.com/">
+ <g id="Top" transform="matrix(.0446625 0 0 -.0502166 1.08816 47.958)">
+  <path d="m986.317 276.095-946.837 0.586v280.908c0 15.333 8.234 29.745 22.159 38.785 76.534 49.684 329.945 214.192 419.539 272.354 18.91 12.276 44.562 12.313 63.517 0.092 89.605-57.77 342.635-220.905 419.32-270.345 14.009-9.032 22.302-23.488 22.302-38.877v-283.503z" style="fill:url(#_Linear1)"/>
+ </g>
+ <g id="Top1" transform="matrix(.0446625 0 0 .0446625 1.08816 6.40695)" serif:id="Top">
+  <path d="m537.72 568.322c-15.261 9.237-34.387 9.246-49.657 0.022-97.478-58.879-448.583-270.957-448.583-270.957v517.461c0 32.53 26.37 58.901 58.9 58.901h831.144c15.063 0 29.508-5.984 40.159-16.635 10.651-10.65 16.634-25.096 16.634-40.158v-520.155s-351.138 212.532-448.597 271.521z" style="fill:url(#_Linear2)"/>
+ </g>
+ <g id="layer1" transform="matrix(.277536 0 0 -.277536 6.23768 13.3475)">
+  <path id="path3288" d="m96.457-20.5-32.539 38.847-32.375-38.847h13.957v-32h37v32h13.957z" style="fill-rule:nonzero;fill:url(#_Radial3);stroke-width:.99px;stroke:url(#_Linear4)"/>
+  <path id="path3290" d="m94.349-19.5-30.378 36.347-30.135-36.347h12.664v-32h35v32h12.849z" style="fill:none;stroke-linecap:butt;stroke-linejoin:miter;stroke-width:.99px;stroke:url(#_Linear5)"/>
+ </g>
+ <g transform="scale(.375)">
+  <path d="m10.403 118.957c-1.332-2.396-1.379-4.837 1.396-6.279 8.306-4.316 41.294-21.852 50.048-26.507 1.338-0.711 2.943-0.709 4.279 7e-3 8.678 4.652 41.199 22.084 49.45 26.5 3.285 1.759 3.725 4.758 2.306 6.279" style="fill:none;stroke-miterlimit:1.5;stroke-width:1px;stroke:url(#_Linear6)"/>
+ </g>
+ <defs>
+  <linearGradient id="_Linear1" x2="1" gradientTransform="matrix(3.76966e-14,-615.633,615.633,3.76966e-14,534.968,867.778)" gradientUnits="userSpaceOnUse">
+   <stop style="stop-color:rgb(11,124,212)" offset="0"/>
+   <stop style="stop-color:rgb(26,150,190)" offset="1"/>
+  </linearGradient>
+  <linearGradient id="_Linear2" x2="1" gradientTransform="matrix(3.76966e-14,-615.633,615.633,3.76966e-14,534.968,867.778)" gradientUnits="userSpaceOnUse">
+   <stop style="stop-color:rgb(16,117,246)" offset="0"/>
+   <stop style="stop-color:rgb(18,197,255)" offset="1"/>
+  </linearGradient>
+  <radialGradient id="_Radial3" cx="0" cy="0" r="1" gradientTransform="matrix(0,112.647,-97.5239,0,63.9644,-58.9208)" gradientUnits="userSpaceOnUse">
+   <stop style="stop-color:rgb(248,208,126)" offset="0"/>
+   <stop style="stop-color:rgb(227,135,79)" offset=".26"/>
+   <stop style="stop-color:rgb(183,104,35)" offset=".66"/>
+   <stop style="stop-color:rgb(126,51,13)" offset="1"/>
+  </radialGradient>
+  <linearGradient id="_Linear4" x2="1" gradientTransform="matrix(4.45015e-15,-72.6764,72.6764,4.45015e-15,51.8429,14.3217)" gradientUnits="userSpaceOnUse">
+   <stop style="stop-color:rgb(112,83,16)" offset="0"/>
+   <stop style="stop-color:rgb(167,122,24)" offset="1"/>
+  </linearGradient>
+  <linearGradient id="_Linear5" x2="1" gradientTransform="matrix(4.06738e-15,66.4253,-66.4253,4.06738e-15,65.7156,-50.9692)" gradientUnits="userSpaceOnUse">
+   <stop style="stop-color:white;stop-opacity:.5" offset="0"/>
+   <stop style="stop-color:white;stop-opacity:.11" offset=".01"/>
+   <stop style="stop-color:white;stop-opacity:.11" offset=".47"/>
+   <stop style="stop-color:white;stop-opacity:.5" offset=".47"/>
+   <stop style="stop-color:white;stop-opacity:0" offset="1"/>
+  </linearGradient>
+  <linearGradient id="_Linear6" x2="1" gradientTransform="matrix(2.10377e-15,34.3572,-34.3572,2.10377e-15,64.0825,86.7914)" gradientUnits="userSpaceOnUse">
+   <stop style="stop-color:rgb(170,210,255)" offset="0"/>
+   <stop style="stop-color:rgb(16,121,246)" offset="1"/>
+  </linearGradient>
+ </defs>
+</svg>

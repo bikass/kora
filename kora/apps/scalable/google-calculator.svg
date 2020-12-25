@@ -1,0 +1,29 @@
+<svg clip-rule="evenodd" fill-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="2" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <linearGradient id="a" x2="1" gradientTransform="matrix(0 -43.3373 43.3373 0 201.9 45.6687)" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#595959" offset="0"/>
+  <stop stop-color="#7a7a7a" offset="1"/>
+ </linearGradient>
+ <linearGradient id="b" x2="1" gradientTransform="matrix(0 -43.3373 43.3373 0 201.9 45.6687)" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#414141" offset="0"/>
+  <stop stop-color="#4b4b4b" offset="1"/>
+ </linearGradient>
+ <linearGradient id="c">
+  <stop stop-color="#dfe9f0" offset="0"/>
+  <stop stop-color="#ecf0f3" offset="1"/>
+ </linearGradient>
+ <linearGradient id="d" x2="1" gradientTransform="matrix(9.90082 0 0 9.90082 29.8019 12.7913)" gradientUnits="userSpaceOnUse" xlink:href="#c"/>
+ <linearGradient id="e" x2="1" gradientTransform="matrix(.261248 -7.29102 7.29102 .261248 12.9269 16.084)" gradientUnits="userSpaceOnUse" xlink:href="#c"/>
+ <linearGradient id="f" x2="1" gradientTransform="matrix(9.29843 0 0 9.29843 8.60849 34.1268)" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#cdd7dc" offset="0"/>
+  <stop stop-color="#ecf0f3" offset="1"/>
+ </linearGradient>
+ <path d="m45.668 8.56c0-3.438-2.79-6.228-6.228-6.228h-30.88c-3.438 0-6.228 2.79-6.228 6.228v30.88c0 3.438 2.79 6.228 6.228 6.228h30.88c3.438 0 6.228-2.79 6.228-6.228z" fill="url(#a)"/>
+ <path d="m45.668 24v15.44c0 3.438-2.79 6.228-6.228 6.228h-30.88c-3.438 0-6.228-2.79-6.228-6.228v-15.44z" fill="#009862"/>
+ <path d="m8.56 2.332h15.44v43.336h-15.44c-3.438 0-6.228-2.79-6.228-6.228v-30.88c0-3.438 2.79-6.228 6.228-6.228z" fill="url(#b)"/>
+ <g fill-rule="nonzero">
+  <path d="m35.671 7.833v4.047h4.032v1.823h-4.032v4.046h-1.838v-4.046h-4.031v-1.823h4.031v-4.047z" fill="url(#d)"/>
+  <path d="m8.458 11.795h9.669v1.992h-9.669z" fill="url(#e)"/>
+  <path d="m17.907 30.783-3.352 3.352 3.352 3.336-1.298 1.297-3.351-3.336-3.352 3.336-1.298-1.297 3.352-3.336-3.352-3.352 1.298-1.298 3.352 3.352 3.351-3.352z" fill="url(#f)"/>
+  <path d="m29.777 31.708h9.901v1.814h-9.901zm0 3.513h9.901v1.831h-9.901z" fill="#e5ecf1"/>
+ </g>
+</svg>

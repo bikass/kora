@@ -1,0 +1,8 @@
+<svg style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2" version="1.1" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+ <path d="M3.178,5L11.822,5C12.475,5 13,5.525 13,6.178L13,14.822C13,15.475 12.475,16 11.822,16L3.178,16C2.525,16 2,15.475 2,14.822L2,6.178C2,5.525 2.525,5 3.178,5Z" style="fill-opacity:.3;fill:rgb(223,223,223)"/>
+ <path d="m7.5 6.531-3 2.469h1.5v3h-1.5l3 2.5 3-2.5h-1.5v-3h1.5l-3-2.469z" style="fill:rgb(223,223,223)"/>
+ <path d="m4.5 0c-0.831 0-1.5 0.669-1.5 1.5s0.669 1.5 1.5 1.5h6c0.831 0 1.5-0.669 1.5-1.5s-0.669-1.5-1.5-1.5h-6z" style="fill:rgb(223,223,223)"/>
+ <g transform="matrix(1 9.52503e-17 -9.52503e-17 -.222222 -3.4018e-16 2.77778)">
+  <rect x="6" y="-10" width="3" height="9" style="fill-opacity:.5;fill:rgb(223,223,223)"/>
+ </g>
+</svg>

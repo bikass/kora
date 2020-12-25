@@ -1,0 +1,13 @@
+<svg clip-rule="evenodd" fill-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="2" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+ <g fill-rule="nonzero">
+  <path d="m45.668 39.44c0 3.438-2.79 6.228-6.228 6.228h-16.523v-21.668h22.751z" fill="#6aa22a"/>
+  <path d="m2.332 39.44v-16.523h21.668v22.751h-15.44c-3.438 0-6.228-2.79-6.228-6.228z" fill="#71c454"/>
+  <path d="m8.56 2.332h16.523v21.668h-22.751v-15.44c0-3.438 2.79-6.228 6.228-6.228z" fill="#86d478"/>
+  <path d="m39.44 2.332c3.438 0 6.228 2.79 6.228 6.228v15.44h-21.668v-21.668z" fill="#36862c"/>
+  <path d="m31.5838 13.166h8.6672v2.1668h-8.6672z" fill="#3f3f3f" stroke-width="1.0834"/>
+  <path transform="matrix(1.0834 0 0 1.0834 -2.0016 -2.0016)" d="m16 11v3h3v2h-3v3h-2v-3h-3v-2h3v-3z" fill="#3f3f3f"/>
+  <path transform="matrix(1.0834 0 0 1.0834 -2.0016 -2.0016)" d="m11 29.586-1.414 1.414 3 3-3 3 1.414 1.414 3-3 3 3 1.414-1.414-3-3 3-3-1.414-1.414-3 3z" fill="#3f3f3f"/>
+ </g>
+ <circle cx="35" cy="35" r="12" fill="#3f3f3f"/>
+ <path d="m31 32v2h8v-2zm0 4v2h8v-2z" fill="#fff" fill-rule="nonzero"/>
+</svg>

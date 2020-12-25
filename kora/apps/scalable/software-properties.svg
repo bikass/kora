@@ -1,0 +1,39 @@
+<svg clip-rule="evenodd" fill-rule="evenodd" stroke-linecap="round" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <linearGradient id="a" x2="1" gradientTransform="matrix(.131484 -10 10 .131484 81.8866 13.789)" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#727272" offset="0"/>
+  <stop stop-color="#eee" offset="1"/>
+ </linearGradient>
+ <linearGradient id="b">
+  <stop stop-color="#d9d9d9" offset="0"/>
+  <stop stop-color="#eee" offset="1"/>
+ </linearGradient>
+ <linearGradient id="c" x2="1" gradientTransform="translate(0 6)" gradientUnits="userSpaceOnUse" xlink:href="#b"/>
+ <linearGradient id="d" x2="1" gradientTransform="matrix(-1 0 0 -1 1 -6)" gradientUnits="userSpaceOnUse" xlink:href="#b"/>
+ <linearGradient id="e" x2="1" gradientTransform="matrix(0 -37 37 0 690 46)" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#d6d6d6" offset="0"/>
+  <stop stop-color="#fff" offset="1"/>
+ </linearGradient>
+ <linearGradient id="f">
+  <stop stop-color="#ececec" offset="0"/>
+  <stop stop-color="#fff" offset="1"/>
+ </linearGradient>
+ <linearGradient id="g" x2="1" gradientTransform="matrix(-1 0 0 -1 1 -11)" gradientUnits="userSpaceOnUse" xlink:href="#f"/>
+ <linearGradient id="h" x2="1" gradientTransform="translate(0 11)" gradientUnits="userSpaceOnUse" xlink:href="#f"/>
+ <linearGradient id="i" x2="1" gradientTransform="matrix(0 -2381.09 2381.09 0 -483.215 2383)" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#cdcdcd" offset="0"/>
+  <stop stop-color="#fff" offset="1"/>
+ </linearGradient>
+ <g transform="matrix(.984909 0 0 .984909 .362182 .369727)">
+  <path d="m4 3h40v10h-40z" fill="url(#a)"/>
+  <path d="m4 3v27l3.5-24.5z" fill="url(#c)" fill-rule="nonzero"/>
+  <path d="m44 3v5l-3.5-2.5z" fill="url(#d)" fill-rule="nonzero"/>
+  <path d="m7.5 5.5 7.7 5.5h-11.2z" fill-opacity=".08" fill-rule="nonzero"/>
+ </g>
+ <path d="m45.668 9.234v30.206c0 3.438-2.79 6.228-6.228 6.228h-30.88c-3.438 0-6.228-2.79-6.228-6.228v-30.206z" fill="url(#e)"/>
+ <path transform="matrix(.984909 0 0 .984909 .362182 .369727)" d="m46 9h-5.5v-3.5z" fill="url(#g)" fill-rule="nonzero"/>
+ <path transform="matrix(.984909 0 0 .984909 .362182 .369727)" d="m7.5 5.5-5.5 3.5h5.5z" fill="url(#h)" fill-rule="nonzero"/>
+ <circle cx="14.150908" cy="14.158453" r="1.969818" fill-opacity=".3" stroke-width=".984909"/>
+ <circle cx="33.849088" cy="14.158453" r="1.969818" fill-opacity=".3" stroke-width=".984909"/>
+ <path transform="matrix(.984909 0 0 .984909 .362182 .369727)" d="m34 13c0-5.486-4.514-10-10-10s-10 4.514-10 10" fill="none" stroke="url(#i)" stroke-width="2.4"/>
+ <path transform="matrix(.984909 0 0 .984909 .362182 .369727)" d="m32.555 27.586c-.027-.242-.31-.424-.554-.424-.789 0-1.489-.463-1.782-1.179-.3-.734-.107-1.59.481-2.129.185-.169.208-.452.053-.649-.404-.513-.863-.976-1.364-1.377-.197-.158-.484-.136-.655.052-.513.569-1.434.78-2.147.483-.741-.312-1.208-1.063-1.163-1.869.015-.254-.17-.474-.422-.503-.643-.075-1.292-.077-1.937-.005-.249.027-.434.242-.426.492.028.798-.445 1.536-1.179 1.837-.704.287-1.619.078-2.131-.485-.169-.186-.452-.209-.65-.055-.516.405-.985.868-1.392 1.377-.159.198-.136.484.051.654.599.543.793 1.406.481 2.148-.297.708-1.032 1.164-1.873 1.164-.273-.009-.467.174-.497.423-.076.646-.077 1.305-.004 1.957.027.243.318.424.565.424.749-.019 1.469.445 1.771 1.179.301.734.108 1.589-.481 2.129-.184.169-.208.452-.053.649.4.509.859.973 1.362 1.378.198.159.485.136.655-.052.516-.57 1.437-.781 2.147-.483.743.311 1.21 1.062 1.164 1.868-.015.254.171.474.423.503.329.039.66.058.992.058.315 0 .63-.017.945-.053.249-.027.434-.242.426-.493-.029-.797.445-1.535 1.178-1.835.708-.29 1.62-.078 2.132.485.17.185.451.207.65.054.515-.404.983-.867 1.392-1.377.159-.197.137-.484-.051-.654-.599-.543-.794-1.406-.482-2.148.292-.698 1-1.167 1.761-1.167l.106.003c.247.02.474-.17.504-.422.076-.647.077-1.306.004-1.958zm-8.541 3.846c-1.584 0-2.872-1.288-2.872-2.872 0-1.583 1.288-2.871 2.872-2.871 1.583 0 2.871 1.288 2.871 2.871 0 1.584-1.288 2.872-2.871 2.872z" fill-opacity=".8" fill-rule="nonzero"/>
+</svg>

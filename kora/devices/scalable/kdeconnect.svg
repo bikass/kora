@@ -1,0 +1,22 @@
+<svg style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+ <g transform="matrix(.0778555 0 0 .0597105 13.6621 3.05257)">
+  <rect x="-13.563" y="87.912" width="292.693" height="525.809" style="fill:url(#_Linear1)"/>
+ </g>
+ <g transform="matrix(3.28571,0,0,3.28571,-2.28571,-3407.48)">
+  <path d="m11.404 1037.36h-6.808c-0.31 0-0.561 0.25-0.561 0.56v12.88c0 0.31 0.251 0.56 0.561 0.56h6.808c0.31 0 0.561-0.25 0.561-0.56v-12.88c0-0.31-0.251-0.56-0.561-0.56zm-0.082 11.78h-6.644v-9.55h6.644v9.55z" style="fill-rule:nonzero;fill:url(#_Linear2)"/>
+ </g>
+ <path d="m21.847 26.861c1.188 0 2.153 0.962 2.153 2.146 0 1.185-0.965 2.146-2.153 2.146s-2.152-0.961-2.152-2.146c0-1.184 0.964-2.146 2.152-2.146zm4.306-10.014-2.041 2.034 3.139 3.129-3.251 3.689 2.153 1.878 5.023-5.723-5.023-5.007zm-7.535 5.007c0.99 0 1.794 0.801 1.794 1.788s-0.804 1.789-1.794 1.789-1.794-0.802-1.794-1.789 0.804-1.788 1.794-1.788zm1.435-5.007c0.594 0 1.077 0.48 1.077 1.073 0 0.592-0.483 1.073-1.077 1.073s-1.076-0.481-1.076-1.073c0-0.593 0.482-1.073 1.076-1.073z" style="fill-opacity:.84;fill:rgb(18,18,18)"/>
+ <g transform="matrix(.0961971 0 0 .0675199 11.2266 .58623)">
+  <ellipse cx="132.784" cy="637.424" rx="20.679" ry="29.856" style="fill:rgb(8,139,171)"/>
+ </g>
+ <defs>
+  <linearGradient id="_Linear1" x2="1" gradientTransform="matrix(2.50279e-14,-408.737,408.737,2.50279e-14,6206.55,550.412)" gradientUnits="userSpaceOnUse">
+   <stop style="stop-color:rgb(0,103,131)" offset="0"/>
+   <stop style="stop-color:rgb(19,190,227)" offset="1"/>
+  </linearGradient>
+  <linearGradient id="_Linear2" x2="1" gradientTransform="matrix(-.051729 -12.1132 12.1132 -.051729 8.16672 1050.47)" gradientUnits="userSpaceOnUse">
+   <stop style="stop-color:rgb(20,20,20)" offset="0"/>
+   <stop style="stop-color:rgb(45,45,47)" offset="1"/>
+  </linearGradient>
+ </defs>
+</svg>

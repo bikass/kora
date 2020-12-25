@@ -1,0 +1,14 @@
+<svg clip-rule="evenodd" fill-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="2" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+ <g stroke-width="2.1727">
+  <path d="m2.272948 19.654548h8.6908v8.6908h-8.6908z" fill="#0f0"/>
+  <path d="m19.654548 37.036148h8.6908v8.6908h-8.6908z" fill="#28acfe"/>
+  <path d="m2.272948 19.654548h8.6908v8.6908h-8.6908z" fill="#fed226"/>
+  <path d="m28.345348 28.345348h8.6908v8.6908h-8.6908z" fill="#9e4fe1"/>
+ </g>
+ <path transform="matrix(-2.1727 0 0 2.1727 .100248 .100248)" d="m-21 9h4v4h-4z" fill="#ff377f"/>
+ <path d="m10.963748 28.345348h8.6908v8.6908h-8.6908z" fill="#7bc311" stroke-width="2.1727"/>
+ <path d="m10.963748 10.963748h8.6908v8.6908h-8.6908z" fill="#fe8e00" stroke-width="2.1727"/>
+ <path d="m28.345348 10.963748h8.6908v8.6908h-8.6908z" fill="#fecba9" stroke-width="2.1727"/>
+ <path d="m19.654548 2.272948h8.6908v8.6908h-8.6908z" fill="#c40017" stroke-width="2.1727"/>
+ <path transform="matrix(2.1727 0 0 2.1727 .100248 .100248)" d="m9 5v4h-4v4h4v4h4v-4h4v-4h-4v-4z" fill="#fdf0e8" fill-rule="nonzero"/>
+</svg>

@@ -1,0 +1,8 @@
+<svg clip-rule="evenodd" fill-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="2" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+ <g fill-rule="nonzero">
+  <path d="m24 22c-11.08 0-20 4.906-20 11s8.92 11 20 11 20-4.906 20-11-8.92-11-20-11z" fill="#e4e4e4"/>
+  <path d="m24 25c-7.756 0-14 3.122-14 7s6.244 7 14 7 14-3.122 14-7-6.244-7-14-7z" fill-opacity=".1"/>
+  <path d="m32.055 6.17c-1.716-2.227-3.454-2.629-5.055-2.763v25.333l3.974 3.26v-20.251c2.151-.091 7.186 3.031 5.845 10.231 6.027-10.083-2.841-13.313-4.764-15.81z" fill="#1b7b34"/>
+ </g>
+ <ellipse cx="24" cy="32" rx="7" ry="4" fill="#529c0a"/>
+</svg>

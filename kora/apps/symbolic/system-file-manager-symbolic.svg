@@ -1,0 +1,10 @@
+<svg style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2" version="1.1" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+ <path d="m1 6c-0.554 0-1 0.446-1 1v8c0 0.554 0.446 1 1 1h14c0.554 0 1-0.446 1-1v-8c0-0.554-0.446-1-1-1h-14zm0 1v8h14v-8h-14z" style="fill:rgb(223,223,223)"/>
+ <path d="m6.25 10h3.5c0.139 0 0.25 0.111 0.25 0.25v0.5c0 0.139-0.112 0.25-0.25 0.25h-3.5c-0.139 0-0.25-0.111-0.25-0.25v-0.5c0-0.139 0.112-0.25 0.25-0.25z" style="fill:rgb(223,223,223)"/>
+ <g transform="translate(0 .456576)">
+  <path d="m3 3c-0.554 0-1 0.446-1 1v1h12v-1c0-0.554-0.446-1-1-1h-10z" style="fill-opacity:.5;fill:rgb(223,223,223)"/>
+ </g>
+ <g transform="translate(0 .456576)">
+  <path d="m3 0c-0.554 0-1 0.446-1 1v2c0-0.554 0.446-1 1-1h10c0.554 0 1 0.446 1 1v-2c0-0.554-0.446-1-1-1h-10z" style="fill-opacity:.5;fill:rgb(223,223,223)"/>
+ </g>
+</svg>

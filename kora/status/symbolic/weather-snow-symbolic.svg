@@ -1,0 +1,14 @@
+<svg style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2" version="1.1" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+ <g transform="matrix(1.28038,0,0,1.28038,-1.25814,-2.2698)">
+  <path d="m3.856 3.922c0.637-1.053 1.792-1.758 3.112-1.758 1.702 0 3.133 1.174 3.526 2.756 0.18-0.044 0.369-0.066 0.563-0.066 1.337 0 2.422 1.085 2.422 2.421 0 1.235-0.926 2.256-2.121 2.404h-1e-3c-0.098 0.012-0.198 0.018-0.3 0.018s-0.202-6e-3 -0.3-0.018h-6.896c-1.589 0-2.878-1.29-2.878-2.879 0-1.587 1.287-2.875 2.873-2.878z" style="fill-opacity:.5;fill:rgb(223,223,223)"/>
+ </g>
+ <g transform="translate(.476427 -1.48883)">
+  <path d="m5 14c0 1.097-0.903 2-2 2s-2-0.903-2-2 0.903-2 2-2 2 0.903 2 2z" style="fill-rule:nonzero;fill:rgb(223,223,223)"/>
+ </g>
+ <g transform="translate(3.55271e-15 -.853598)">
+  <path d="m10 12c0 1.097-0.903 2-2 2s-2-0.903-2-2 0.903-2 2-2 2 0.903 2 2z" style="fill-rule:nonzero;fill:rgb(223,223,223)"/>
+ </g>
+ <g transform="translate(-.35732 -.35732)">
+  <path d="m15 14c0 1.097-0.903 2-2 2s-2-0.903-2-2 0.903-2 2-2 2 0.903 2 2z" style="fill-rule:nonzero;fill:rgb(223,223,223)"/>
+ </g>
+</svg>

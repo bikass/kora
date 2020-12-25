@@ -1,0 +1,21 @@
+<svg clip-rule="evenodd" fill-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="2" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+ <linearGradient id="a" x2="1" gradientTransform="matrix(0 -34 34 0 23.6288 41)" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#262626" offset="0"/>
+  <stop stop-color="#3f3f3f" offset="1"/>
+ </linearGradient>
+ <linearGradient id="b" x2="1" gradientTransform="matrix(0 -20.7784 20.7784 0 24 31.8221)" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#0092c1" offset="0"/>
+  <stop stop-color="#009dff" offset="1"/>
+ </linearGradient>
+ <g transform="matrix(1.04364 0 0 1.04364 -1.0473 -1.0473)" fill-rule="nonzero">
+  <path d="m6.277 7c-1.815 0-3.277 1.579-3.277 3.539v26.922c0 1.96 1.462 3.539 3.277 3.539h35.446c1.815 0 3.277-1.579 3.277-3.539v-26.922c0-1.96-1.462-3.539-3.277-3.539zm8.723 12.5c2.469 0 4.5 2.031 4.5 4.5s-2.031 4.5-4.5 4.5-4.5-2.031-4.5-4.5 2.031-4.5 4.5-4.5zm18 0c2.469 0 4.5 2.031 4.5 4.5s-2.031 4.5-4.5 4.5-4.5-2.031-4.5-4.5 2.031-4.5 4.5-4.5z" fill="url(#a)"/>
+  <path d="m7 41 4-7h26l4 7z" fill="#4f4f4f"/>
+  <path d="m8.705 11c-.945 0-1.705.905-1.705 2.031v17.057c0 1.06.76 1.912 1.705 1.912h30.59c.945 0 1.705-.852 1.705-1.912v-17.057c0-1.126-.76-2.031-1.705-2.031zm6.295 9.5c1.92 0 3.5 1.58 3.5 3.5s-1.58 3.5-3.5 3.5-3.5-1.58-3.5-3.5 1.58-3.5 3.5-3.5zm18 0c1.92 0 3.5 1.58 3.5 3.5s-1.58 3.5-3.5 3.5-3.5-1.58-3.5-3.5 1.58-3.5 3.5-3.5z" fill="url(#b)"/>
+ </g>
+ <circle cx="14.6073" cy="37.56738" r="2.08728" fill="#303030" stroke-width="1.04364"/>
+ <circle cx="33.39282" cy="37.56738" r="2.08728" fill="#2f2f2f" stroke-width="1.04364"/>
+ <path transform="matrix(1.04364 0 0 1.04364 -1.0473 -1.0473)" d="m14.818 20c-2.115 0-3.818 1.782-3.818 3.994v.012c0 2.213 1.703 3.994 3.818 3.994h18.364c2.115 0 3.818-1.781 3.818-3.994v-.012c0-2.212-1.703-3.994-3.818-3.994zm.182 1c1.646 0 3 1.354 3 3s-1.354 3-3 3-3-1.354-3-3 1.354-3 3-3zm18 0c1.646 0 3 1.354 3 3s-1.354 3-3 3-3-1.354-3-3 1.354-3 3-3z" fill="#282828" fill-rule="nonzero"/>
+ <path d="m18.78186 21.91278h10.4364v4.17456h-10.4364z" fill="#cccccc" stroke-width="1.04364"/>
+ <path transform="matrix(1.04364 0 0 1.04364 -1.0473 -1.0473)" d="m19 22v4h3.65c.23-.642.348-1.318.35-2-.002-.682-.12-1.358-.35-2z" fill="#874f29" fill-rule="nonzero"/>
+ <path transform="matrix(1.04364 0 0 1.04364 -1.0473 -1.0473)" d="m11 34-4 7h.572l3.428-6h26l3.428 6h.572l-4-7z" fill="#ffffff" fill-opacity=".1" fill-rule="nonzero"/>
+</svg>

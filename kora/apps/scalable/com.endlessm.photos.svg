@@ -1,0 +1,26 @@
+<svg clip-rule="evenodd" fill-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="2" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <linearGradient id="a" x2="1" gradientTransform="matrix(-.0595533 -35.183 35.183 -.0595533 604.496 40.1042)" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#f086fb" offset="0"/>
+  <stop stop-color="#f6aa43" offset="1"/>
+ </linearGradient>
+ <linearGradient id="b" x2="1" gradientTransform="matrix(0 -17.5087 17.5087 0 24 38.9921)" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#513031" offset="0"/>
+  <stop stop-color="#603e3f" offset="1"/>
+ </linearGradient>
+ <linearGradient id="c" x1="58.8685" x2="58.868502" y1="24" y2="24" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#2a2a2a" offset="0"/>
+  <stop stop-color="#6e6e6e" offset="1"/>
+ </linearGradient>
+ <clipPath id="d">
+  <circle cx="29" cy="37" r="3" clip-rule="evenodd"/>
+ </clipPath>
+ <path d="m39.44 2.332c3.438 0 6.228 2.79 6.228 6.228v22.879c-.533.332-1.161.523-1.835.523h-39.666c-.674 0-1.302-.191-1.835-.523v-22.879c0-3.438 2.79-6.228 6.228-6.228z" fill="url(#a)"/>
+ <path transform="translate(0 -4.868)" d="m43.099 18.932 2.569 3.132v17.376c0 3.438-2.79 6.228-6.228 6.228h-30.88c-3.438 0-6.228-2.79-6.228-6.228v-15.15l3.788 1.921 6.259-.573 2.169 1.194 1.092-.329 2.679 2.405 5.231 2.879 3.585-.986 1.787-1.674 3.516.945 2.155-1.322 2.534-3.143.777.676z" fill="url(#b)"/>
+ <path d="m45.668 33.48v5.96c0 3.124-2.304 5.714-5.305 6.16h-32.726c-3.001-.446-5.305-3.036-5.305-6.16v-5.96z" fill="url(#c)" fill-rule="nonzero"/>
+ <g transform="matrix(1.2 0 0 1.2 -4.8 -4.8)">
+  <path d="m38 36.833c0-.46-.373-.833-.833-.833h-26.334c-.46 0-.833.373-.833.833v.334c0 .46.373.833.833.833h26.334c.46 0 .833-.373.833-.833z"/>
+  <g clip-path="url(#d)">
+   <image transform="matrix(.7499997 0 0 .7499997 25.999741 33.999988)" width="7.2" height="7.2" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAYAAADED76LAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAALUlEQVQYlWN0nvTtPwMewMKFV5qBgUXoPyMhBQgONqVYTWBE0sQi/I+absAGABzNC1sfUouiAAAAAElFTkSuQmCC"/>
+  </g>
+ </g>
+</svg>

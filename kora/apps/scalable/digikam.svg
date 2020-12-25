@@ -1,0 +1,31 @@
+<svg clip-rule="evenodd" fill-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="2" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+ <linearGradient id="a" x2="1" gradientTransform="matrix(0 -36.2165 36.2165 0 573.921 42.119)" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#71a9fa" offset="0"/>
+  <stop stop-color="#199acb" offset="1"/>
+ </linearGradient>
+ <linearGradient id="b" x2="1" gradientTransform="matrix(41.97 0 0 41.97 1.704 1634.09)" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#173964" offset="0"/>
+  <stop stop-color="#2767b9" offset="1"/>
+ </linearGradient>
+ <linearGradient id="c" x2="1" gradientTransform="matrix(.0380802 -19.4209 19.4209 .0380802 1434.07 49.2194)" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#333" offset="0"/>
+  <stop stop-color="#828282" offset="1"/>
+ </linearGradient>
+ <linearGradient id="d" x2="1" gradientTransform="matrix(1.6e-7 -12.4007 12.4007 1.6e-7 1124.89 42.4511)" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#a7a7a7" offset="0"/>
+  <stop stop-color="#3b3b3b" offset="1"/>
+ </linearGradient>
+ <linearGradient id="e" x2="1" gradientTransform="matrix(0 -8.67211 8.67211 0 260.589 40.4848)" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#006783" offset="0"/>
+  <stop stop-color="#13bee3" offset="1"/>
+ </linearGradient>
+ <path d="m39.44 2.332c3.438 0 6.228 2.79 6.228 6.228v30.88c0 3.438-2.79 6.228-6.228 6.228h-30.88c-3.438 0-6.228-2.79-6.228-6.228v-30.88c0-3.438 2.79-6.228 6.228-6.228z" fill="url(#a)"/>
+ <path d="m45.668 30.672v8.768c0 3.438-2.79 6.228-6.228 6.228h-30.88c-3.438 0-6.228-2.79-6.228-6.228v-3.111l7.273-2.104 3.058 1.958 7.054-2.22 8.098-3.291z" fill="url(#b)"/>
+ <path transform="matrix(1.49961 0 0 1.49961 -4.17704 -3.94167)" d="m13.017 9.078c2.102.003 3.806 1.716 3.802 3.823-.004 2.108-1.714 3.816-3.817 3.813-2.102-.003-3.806-1.716-3.802-3.823s1.714-3.815 3.817-3.813z" fill="#b6ebfc"/>
+ <path d="m46.716 31.224c0-1.003-.398-1.964-1.107-2.672-.708-.71-1.67-1.108-2.672-1.108h-23.096c-1.002 0-1.964.398-2.672 1.108-.709.708-1.108 1.669-1.108 2.672v11.862c0 1.002.399 1.964 1.108 2.672.708.709 1.67 1.108 2.672 1.108h23.096c1.002 0 1.964-.399 2.672-1.108.709-.708 1.107-1.67 1.107-2.672z"/>
+ <path d="m32.696 24c1.078.001 2.05.649 2.466 1.641l.589 1.406h7.186c1.002 0 1.964.398 2.672 1.107.709.709 1.107 1.67 1.107 2.672v11.862c0 1.002-.398 1.964-1.107 2.673-.708.709-1.67 1.107-2.672 1.107h-23.096c-1.002 0-1.964-.398-2.672-1.107-.709-.709-1.108-1.671-1.108-2.673v-11.862c0-1.002.399-1.963 1.108-2.672.708-.709 1.67-1.107 2.672-1.107h1.398l.71-1.511c.44-.936 1.383-1.535 2.418-1.536z" fill="url(#c)"/>
+ <circle cx="41.486" cy="30.205" r="1.527" fill="#00f47c"/>
+ <circle cx="29.087" cy="36.25" r="7.891" fill="#ebebeb"/>
+ <circle cx="29.087" cy="36.25" r="6.2" fill="url(#d)"/>
+ <circle cx="29.087" cy="36.25" r="5.578" fill="url(#e)"/>
+</svg>

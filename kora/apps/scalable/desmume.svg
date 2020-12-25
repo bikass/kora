@@ -1,0 +1,31 @@
+<svg clip-rule="evenodd" fill-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="2" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+ <path d="m39.44 2.332c3.438 0 6.228 2.79 6.228 6.228v30.88c0 3.438-2.79 6.228-6.228 6.228h-30.88c-3.438 0-6.228-2.79-6.228-6.228v-30.88c0-3.438 2.79-6.228 6.228-6.228z" fill="#7b60e5"/>
+ <g fill-rule="nonzero">
+  <path d="m45.668 39.44c0 3.438-2.789 6.227-6.227 6.228h-30.882c-3.438-.001-6.227-2.79-6.227-6.228v-16.523h43.336z" fill="#464ca9"/>
+  <path transform="matrix(1.0834 0 0 1.0834 -2.0016 -2.0016)" d="m12 7h24v13h-24" fill="#292929"/>
+  <path transform="matrix(1.0834 0 0 1.0834 -2.0016 -2.0016)" d="m16 28h16v13h-16" fill="#292929"/>
+ </g>
+ <g transform="matrix(1.0834 0 0 1.0834 -6.35687 16.492)" fill="#e4e4e4" opacity=".78">
+  <path d="m13.02 12.93h3v9h-3z"/>
+  <path transform="rotate(90)" d="m15.93-19.02h3v9h-3z"/>
+ </g>
+ <g transform="matrix(1.0834 0 0 1.0834 7.24628 -1.15423)" fill="#e4e4e4" opacity=".78">
+  <circle cx="31.964" cy="33.718" r="1.5"/>
+  <g transform="translate(-4.55598 16.2879)">
+   <circle cx="30.52" cy="17.43" r="1.5"/>
+   <circle transform="rotate(90)" cx="14.43" cy="-33.52" r="1.5"/>
+  </g>
+  <circle transform="rotate(90)" cx="36.718" cy="-28.964" r="1.5"/>
+ </g>
+ <g opacity=".2" stroke-width="1.0834">
+  <path d="m4.4988 14.2494h4.3336v1.0834h-4.3336z"/>
+  <path d="m4.4988 16.4162h4.3336v1.0834h-4.3336z"/>
+  <path d="m4.4988 18.583h4.3336v1.0834h-4.3336z"/>
+ </g>
+ <g opacity=".2" stroke-width="1.0834">
+  <path d="m39.1676 14.2494h4.3336v1.0834h-4.3336z"/>
+  <path d="m39.1676 16.4162h4.3336v1.0834h-4.3336z"/>
+  <path d="m39.1676 18.583h4.3336v1.0834h-4.3336z"/>
+ </g>
+ <path d="m2.332 22.9166h43.336v2.1668h-43.336z" fill-opacity=".2" stroke-width="1.0834"/>
+</svg>

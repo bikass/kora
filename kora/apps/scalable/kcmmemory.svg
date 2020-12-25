@@ -1,0 +1,35 @@
+<svg width="48" height="48" xmlns="http://www.w3.org/2000/svg">
+ <g fill="#8e8e8e">
+  <g transform="rotate(90)">
+   <path d="m27-40h2v32h-2z"/>
+   <path d="m23-40h2v32h-2z"/>
+   <path d="m19-40h2v32h-2z"/>
+   <path d="m15-40h2v32h-2z"/>
+   <path d="m31-40h2v32h-2z"/>
+   <path d="m35-40h2v32h-2z"/>
+   <path d="m39-40h2v32h-2z"/>
+   <path d="m11-40h2v32h-2z"/>
+   <path d="m7-40h2v32h-2z"/>
+  </g>
+  <path d="m23 4h2v40h-2z"/>
+  <path d="m19 4h2v40h-2z"/>
+  <path d="m15 4h2v40h-2z"/>
+  <path d="m11 4h2v40h-2z"/>
+  <path d="m27 4h2v40h-2z"/>
+  <path d="m31 4h2v40h-2z"/>
+  <path d="m35 4h2v40h-2z"/>
+ </g>
+ <rect transform="matrix(0 -1 -1 0 0 0)" x="-43" y="-38" width="36" height="28" rx="2" opacity=".2"/>
+ <rect transform="matrix(0 -1 -1 0 0 0)" x="-42" y="-38" width="36" height="28" rx="2" fill="#4f4f4f"/>
+ <g fill="#fff">
+  <path d="m12 6c-1.108 0-2 .892-2 2v1c0-1.108.892-2 2-2h24c1.108 0 2 .892 2 2v-1c0-1.108-.892-2-2-2z" opacity=".1"/>
+  <path transform="rotate(90)" d="m11-31h9v2h-9z" opacity=".4"/>
+  <path transform="rotate(90)" d="m22-31h4v2h-4z" opacity=".4"/>
+  <path transform="rotate(90)" d="m28-31h9v2h-9z" opacity=".4"/>
+  <path transform="rotate(90)" d="m11-25h11v2h-11z" opacity=".4"/>
+  <path transform="rotate(90)" d="m24-25h11v2h-11z" opacity=".4"/>
+  <path transform="rotate(90)" d="m11-19h4v2h-4z" opacity=".4"/>
+  <path transform="rotate(90)" d="m17-19h4v2h-4z" opacity=".4"/>
+  <path transform="rotate(90)" d="m23-19h8v2h-8z" opacity=".4"/>
+ </g>
+</svg>

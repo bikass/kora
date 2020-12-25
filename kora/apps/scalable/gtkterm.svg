@@ -1,0 +1,20 @@
+<svg clip-rule="evenodd" fill-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="2" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+ <linearGradient id="a" x2="1" gradientTransform="matrix(0 -33.6872 33.6872 0 923.28 40.4502)" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#3b3b3b" offset="0"/>
+  <stop stop-color="#2b2b2b" offset="1"/>
+ </linearGradient>
+ <linearGradient id="b" x2="1" gradientTransform="matrix(0 -24 21.2605 0 24 36)" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#8e8e8e" offset="0"/>
+  <stop stop-color="#d0d0d0" offset="1"/>
+ </linearGradient>
+ <path d="m39.44 45.668h-30.88c-3.438 0-6.228-2.79-6.228-6.228v-30.88c0-3.438 2.79-6.228 6.228-6.228h30.88c3.438 0 6.228 2.79 6.228 6.228v30.88c0 3.438-2.79 6.228-6.228 6.228z" fill="url(#a)"/>
+ <path transform="matrix(1 0 0 .885856 0 2.73945)" d="m44 14.822c0-1.557-1.12-2.822-2.5-2.822h-35c-1.38 0-2.5 1.265-2.5 2.822v18.356c0 1.557 1.12 2.822 2.5 2.822h35c1.38 0 2.5-1.265 2.5-2.822z" fill="url(#b)"/>
+ <path transform="translate(1.01241)" d="m10 21.818c0-1.003-.815-1.818-1.818-1.818h-4.364c-1.003 0-1.818.815-1.818 1.818v4.364c0 1.003.815 1.818 1.818 1.818h4.364c1.003 0 1.818-.815 1.818-1.818z" fill="#e0e0e0"/>
+ <path transform="translate(-1.07196)" d="m46 21.818c0-1.003-.815-1.818-1.818-1.818h-4.364c-1.003 0-1.818.815-1.818 1.818v4.364c0 1.003.815 1.818 1.818 1.818h4.364c1.003 0 1.818-.815 1.818-1.818z" fill="#e0e0e0"/>
+ <circle cx="7.01241" cy="24" r="2" fill-opacity=".5"/>
+ <circle cx="40.92804" cy="24" r="2" fill-opacity=".5"/>
+ <g transform="matrix(.888681 0 0 .888681 2.67165 2.67165)" fill-rule="nonzero">
+  <path d="m12.017 16h23.966c1.106 0 2.179.907 1.997 2l-1.997 12c-.182 1.093-.891 2-1.997 2h-19.972c-1.106 0-1.815-.907-1.997-2l-1.997-12c-.182-1.093.891-2 1.997-2z" fill="#007b37"/>
+  <path d="m15 19c-1.097 0-2 .903-2 2s.903 2 2 2 2-.903 2-2-.903-2-2-2zm6 0c-1.097 0-2 .903-2 2s.903 2 2 2 2-.903 2-2-.903-2-2-2zm6 0c-1.097 0-2 .903-2 2s.903 2 2 2 2-.903 2-2-.903-2-2-2zm6 0c-1.097 0-2 .903-2 2s.903 2 2 2 2-.903 2-2-.903-2-2-2zm-15 6c-1.097 0-2 .903-2 2s.903 2 2 2 2-.903 2-2-.903-2-2-2zm6 0c-1.097 0-2 .903-2 2s.903 2 2 2 2-.903 2-2-.903-2-2-2zm6 0c-1.097 0-2 .903-2 2s.903 2 2 2 2-.903 2-2-.903-2-2-2z" fill="#fff"/>
+ </g>
+</svg>

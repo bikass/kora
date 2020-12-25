@@ -1,0 +1,11 @@
+<svg clip-rule="evenodd" fill-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="2" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+ <linearGradient id="a" x2="1" gradientTransform="matrix(0 -43.3373 43.3373 0 201.9 45.6687)" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#2690b6" offset="0"/>
+  <stop stop-color="#3ea9d2" offset="1"/>
+ </linearGradient>
+ <path d="m5.019 12.264 34.798-5.272 4.683 31.146s-23.563 6.343-30.96 8.334c-.564.152-1.167.061-1.661-.252s-.835-.818-.939-1.393c-1.398-7.687-5.921-32.563-5.921-32.563z" fill="#7d7d7d" fill-rule="nonzero"/>
+ <path d="m3.965 11.21 36.907-3.164 3.628 30.092s-27.06 4.935-35.128 6.406c-.577.106-1.171-.036-1.638-.39s-.764-.888-.819-1.471c-.71-7.571-2.95-31.473-2.95-31.473z" fill="#a8a8a8" fill-rule="nonzero"/>
+ <path d="m45.668 8.56c0-3.438-2.79-6.228-6.228-6.228h-30.88c-3.438 0-6.228 2.79-6.228 6.228v26.376c0 3.438 2.79 6.228 6.228 6.228h30.88c3.438 0 6.228-2.79 6.228-6.228z" fill="url(#a)"/>
+ <circle cx="36.127" cy="34.936" r="9.541" fill="#fff"/>
+ <circle cx="36.127" cy="34.936" r="7.296" fill="#1383ff"/>
+</svg>

@@ -1,0 +1,10 @@
+<svg clip-rule="evenodd" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+ <linearGradient id="a" x2="1" gradientTransform="matrix(0 -43.336 43.336 0 25.3102 45.668)" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#ded4ae" offset="0"/>
+  <stop stop-color="#fff" offset="1"/>
+ </linearGradient>
+ <path d="m39.44 2.332c3.438 0 6.228 2.79 6.228 6.228v30.88c0 3.438-2.79 6.228-6.228 6.228h-30.88c-3.438 0-6.228-2.79-6.228-6.228v-30.88c0-3.438 2.79-6.228 6.228-6.228z" fill="url(#a)"/>
+ <path transform="matrix(1.0834 0 0 1.0834 -2.0016 -2.0016)" d="m6 4c-.741 0-1.379.404-1.725 1h1.725v4h-2v1h2v4h-2v1h2v4h-2v1h2v4h-2v1h2v4h-2v1h2v4h-2v1h2v4h-2v1h2v4h1v-4h4v4h1v-4h4v4h1v-4h4v4h1v-4h4v4h1v-4h4v4h1v-4h4v4h1v-4h4v4h1v-4h2v-1h-2v-4h2v-1h-2v-4h2v-1h-2v-4h2v-1h-2v-4h2v-1h-2v-4h2v-1h-2v-4h2v-1h-2v-4h1.725c-.346-.596-.984-1-1.725-1zm1 1h4v4h-4zm5 0h4v4h-4zm5 0h4v4h-4zm5 0h4v4h-4zm5 0h4v4h-4zm5 0h4v4h-4zm5 0h4v4h-4zm-30 5h4v4h-4zm5 0h4v4h-4zm5 0h4v4h-4zm5 0h4v4h-4zm5 0h4v4h-4zm5 0h4v4h-4zm5 0h4v4h-4zm-30 5h4v4h-4zm5 0h4v4h-4zm5 0h4v4h-4zm5 0h4v4h-4zm5 0h4v4h-4zm5 0h4v4h-4zm5 0h4v4h-4zm-30 5h4v4h-4zm5 0h4v4h-4zm5 0h4v4h-4zm5 0h4v4h-4zm5 0h4v4h-4zm5 0h4v4h-4zm5 0h4v4h-4zm-30 5h4v4h-4zm5 0h4v4h-4zm5 0h4v4h-4zm5 0h4v4h-4zm5 0h4v4h-4zm5 0h4v4h-4zm5 0h4v4h-4zm-30 5h4v4h-4zm5 0h4v4h-4zm5 0h4v4h-4zm5 0h4v4h-4zm5 0h4v4h-4zm5 0h4v4h-4zm5 0h4v4h-4zm-30 5h4v4h-4zm5 0h4v4h-4zm5 0h4v4h-4zm5 0h4v4h-4zm5 0h4v4h-4zm5 0h4v4h-4zm5 0h4v4h-4z" fill="#00008b" fill-opacity=".1" fill-rule="nonzero"/>
+ <path transform="matrix(1.0834 0 0 1.0834 -2.0016 -2.0016)" d="m8 24h-4v1h4zm6 0h-4v1h4zm6 0h-4v1h4zm6 0h-4v1h4zm6 0h-4v1h4zm6 0h-4v1h4zm6 0h-4v1h4z" fill="#ff2f2f"/>
+ <path transform="matrix(1.0834 0 0 1.0834 .1652 -1.87607)" d="m7 31.884s12.45 5.546 16 2.116c5.05-4.879-7.026-18.047-2-23.461 3.639-3.919 16 3.345 16 3.345" fill="none" stroke="#2e2e2e" stroke-width="2"/>
+</svg>

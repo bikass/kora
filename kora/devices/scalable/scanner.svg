@@ -1,0 +1,25 @@
+<svg style="clip-rule:evenodd;fill-rule:evenodd;stroke-linecap:round" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+ <path d="m41.589 6.57c0-1.097-0.444-2.483-1.22-3.259s-1.828-1.212-2.926-1.212h-26.011c-1.097 0-2.15 0.436-2.926 1.212s-1.204 2.162-1.204 3.259v34.86c0 1.097 0.445 2.485 1.221 3.261s1.829 1.212 2.926 1.212h30.149l-9e-3 -39.333z" style="fill:url(#_Linear1);stroke-width:.86px;stroke:url(#_Linear2)"/>
+ <rect x="11.449" y="6.798" width="25.994" height="34.404" style="fill:url(#_Linear3)"/>
+ <path d="m35.961 39.74h-23.425v-0.737h23.425v0.737zm0-2.1h-23.425v-0.763h23.425v0.763zm0-2.234h-23.425v-0.737h23.425v0.737zm0-2.279h-23.425v-0.737h23.425v0.737zm-13.232-3.576h-10.066v-0.737h10.066v0.737zm5.083-2.279h-15.149v-0.737h15.149v0.737zm-5.125-1.698h-9.947v-0.738h9.947v0.738zm5.088-1.653h-15.195v-0.764h15.195v0.764zm6.084-2.235h-21.279v-0.737h21.279v0.737zm2.146-2.278h-23.425v-0.737h23.425v0.737zm0.083-3.481h-23.425v-0.737h23.425v0.737zm0-2.1h-23.425v-0.764h23.425v0.764zm0-2.235h-23.425v-0.737h23.425v0.737zm0-2.278h-23.425v-0.738h23.425v0.738z" style="fill:#b0b0b0"/>
+ <rect x="7.751" y="16.243" width="33.39" height="3.494" style="fill:url(#_Linear4)"/>
+ <rect x="7.751" y="17.788" width="33.39" height=".395" style="fill-opacity:.8;fill:#fff"/>
+ <defs>
+  <linearGradient id="_Linear1" x2="1" gradientTransform="matrix(.152892 -40.826 40.826 .152892 124.649 43.9468)" gradientUnits="userSpaceOnUse">
+   <stop style="stop-color:#002956" offset="0"/>
+   <stop style="stop-color:#001628" offset="1"/>
+  </linearGradient>
+  <linearGradient id="_Linear2" x2="1" gradientTransform="matrix(-8.26673,-228.293,228.293,-8.26673,-74.0226,276.369)" gradientUnits="userSpaceOnUse">
+   <stop style="stop-color:#f4f4f4" offset="0"/>
+   <stop style="stop-color:#dbdbdb" offset="1"/>
+  </linearGradient>
+  <linearGradient id="_Linear3" x2="1" gradientTransform="matrix(-3.21103,-30.8871,30.8871,-3.21103,234.875,17.0033)" gradientUnits="userSpaceOnUse">
+   <stop style="stop-color:#dcdcdc" offset="0"/>
+   <stop style="stop-color:#f0f0f0" offset="1"/>
+  </linearGradient>
+  <linearGradient id="_Linear4" x2="1" gradientTransform="matrix(1.07309e-16,-1.75249,1.75249,1.07309e-16,50.8588,17.9955)" gradientUnits="userSpaceOnUse">
+   <stop style="stop-color:#00a5cc;stop-opacity:.8" offset="0"/>
+   <stop style="stop-color:#0086cc;stop-opacity:0" offset="1"/>
+  </linearGradient>
+ </defs>
+</svg>

@@ -1,0 +1,25 @@
+<svg clip-rule="evenodd" fill-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="2" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+ <linearGradient id="a" x2="1" gradientTransform="matrix(0 -43.3373 43.3373 0 201.9 45.6687)" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#c7c7c7" offset="0"/>
+  <stop stop-color="#f8f8f8" offset="1"/>
+ </linearGradient>
+ <linearGradient id="b" x2="1" gradientTransform="matrix(0 -21.6048 21.6048 0 15.1323 37.9027)" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#ac0009" offset="0"/>
+  <stop stop-color="#c00" offset="1"/>
+ </linearGradient>
+ <linearGradient id="c" x2="1" gradientTransform="matrix(-2.4e-7 -19.0064 19.0064 -2.4e-7 15.1323 36.466)" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#aeaeae" offset="0"/>
+  <stop stop-color="#d3d3d3" offset="1"/>
+ </linearGradient>
+ <path d="m45.668 8.56c0-3.438-2.79-6.228-6.228-6.228h-30.88c-3.438 0-6.228 2.79-6.228 6.228v30.88c0 3.438 2.79 6.228 6.228 6.228h30.88c3.438 0 6.228-2.79 6.228-6.228z" fill="url(#a)"/>
+ <path d="m39.44 2.332c3.438 0 6.228 2.79 6.228 6.228v3.684h-43.336v-3.684c0-3.438 2.79-6.228 6.228-6.228z" fill="#a4a4a4"/>
+ <g fill-rule="nonzero">
+  <path d="m25.224 26.963c0 5.852-4.521 10.606-10.092 10.606-5.57 0-10.092-4.754-10.092-10.606 0-5.853 4.522-10.607 10.092-10.607 5.571 0 10.092 4.754 10.092 10.607z" fill="url(#b)"/>
+  <path d="m24.215 26.963c0 5.244-4.071 9.503-9.083 9.503-5.011 0-9.082-4.259-9.082-9.503s4.071-9.503 9.082-9.503c5.012 0 9.083 4.259 9.083 9.503z" fill="url(#c)"/>
+  <path d="m14.949 20.532c.307 0 .549.252.549.554-.005 1.182-.014 4.165-.024 5.343 0 .006 0 .013-.001.02.078.057.147.125.205.202h4.169c.292 0 .529.238.529.529v.045c0 .292-.237.529-.529.529h-4.134c-.171.262-.467.436-.803.436-.535 0-.965-.431-.965-.96 0-.334.169-.628.426-.801-.001-.002-.001-.004-.001-.005.005-1.178.015-4.161.025-5.343 0-.301.246-.547.551-.549z" fill="#c6262e"/>
+  <path d="m28.257 20.963h10.5v3h-10.5z" fill="#a4a4a4"/>
+  <path d="m28.257 25.463h15v3h-15z" fill="#a4a4a4"/>
+  <path d="m28.257 29.963h15v3h-15z" fill="#a4a4a4"/>
+  <path d="m9.128 7.962h29.744v2.702h-29.744z" fill="#ddd"/>
+ </g>
+</svg>
