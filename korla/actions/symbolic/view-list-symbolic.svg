@@ -1,8 +1,0 @@
-<svg clip-rule="evenodd" fill-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="2" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
- <g fill="#dfdfdf">
-  <path transform="matrix(1.09264 0 0 .761787 -1.28888 1.19107)" d="m8 4h6v2h-6z"/>
-  <path transform="matrix(1.09264 0 0 .761787 -1.28888 7.19107)" d="m8 4h6v2h-6z"/>
-  <path transform="translate(-.269865)" d="m5.738 4.131c0-.48-.389-.869-.869-.869h-1.738c-.48 0-.869.389-.869.869v1.738c0 .48.389.869.869.869h1.738c.48 0 .869-.389.869-.869z"/>
-  <path transform="translate(-.269865 6)" d="m5.738 4.131c0-.48-.389-.869-.869-.869h-1.738c-.48 0-.869.389-.869.869v1.738c0 .48.389.869.869.869h1.738c.48 0 .869-.389.869-.869z"/>
- </g>
-</svg>
