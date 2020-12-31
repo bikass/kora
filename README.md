@@ -1,6 +1,6 @@
 # KORA
 
-**Kora** is an SVG icon theme with lots of new icons and other ones based on *Papirus*. 
+**Kora** is an SVG icon theme with lots of new icons and other ones based on *Papirus*.
 
 To make them display properly, you may need to update the icon cache. A script is included.
 
@@ -14,10 +14,10 @@ Different versions available:
 ## Installation
 
 Clone this repository on your system
-    
+
     git clone https://github.com/bikass/kora.git
 
-and copy ***kora***, ***kora-light***, ***kora-light-panel*** and ***kora-pgrey*** subfolders to one of the following folders: 
+and copy ***kora***, ***kora-light***, ***kora-light-panel*** and ***kora-pgrey*** subfolders to one of the following folders:
 
 * `/usr/share/icons/` - icons available system-wide
 * `$HOME/.local/share/icons/` - icons only available to local user
