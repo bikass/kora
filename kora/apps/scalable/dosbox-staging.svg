@@ -1,0 +1,10 @@
+<svg clip-rule="evenodd" fill-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="2" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+ <g fill-rule="nonzero">
+  <path d="m43.843 43.843c-1.127 1.127-2.684 1.825-4.403 1.825h-30.88c-1.719 0-3.276-.697-4.403-1.825l19.843-19.843z" fill="#248afd"/>
+  <path d="m43.843 4.157c1.127 1.127 1.825 2.684 1.825 4.403v30.88c0 1.719-.697 3.276-1.825 4.403l-19.843-19.843z" fill="#fecd38"/>
+  <path d="m24 24-19.843 19.843c-1.127-1.127-1.825-2.684-1.825-4.403v-30.88c0-1.719.697-3.276 1.825-4.403z" fill="#4bae4f"/>
+  <path d="m39.44 2.332c1.719 0 3.276.697 4.403 1.825l-19.843 19.843-19.843-19.843c1.127-1.127 2.684-1.825 4.403-1.825z" fill="#c2352a"/>
+ </g>
+ <path d="m41 8.7c0-.938-.762-1.7-1.7-1.7h-30.6c-.938 0-1.7.762-1.7 1.7v30.6c0 .938.762 1.7 1.7 1.7h30.6c.938 0 1.7-.762 1.7-1.7z" fill="#e4e4e4"/>
+ <path d="m11 12v1h1v8h-1v1h5v-1h1v-1h1v-6h-1v-1h-1v-1zm10 0v1h-1v8h1v1h5v-1h1v-8h-1v-1zm9 0v1h-1v2h1v1h1v1h2v1h1v3h-3v-2h-2v2h1v1h5v-1h1v-3h-1v-1h-1v-1h-2v-1h-1v-2h3v2h2v-2h-1v-1zm-16 1h1v1h1v6h-1v1h-1zm8 0h3v8h-3zm-11 13v1h1v8h-1v1h6v-1h1v-4h-1v-1h1v-3h-1v-1zm10 0v1h-1v8h1v1h5v-1h1v-8h-1v-1zm8 0v2h1v2h1v2h-1v2h-1v2h2v-2h1v-1h1v1h1v2h2v-2h-1v-2h-1v-2h1v-2h1v-2h-2v2h-1v1h-1v-1h-1v-2zm-15 1h2v3h-2zm8 0h3v8h-3zm-8 4h2v4h-2z" fill="#2f2f2f" fill-rule="nonzero"/>
+</svg>

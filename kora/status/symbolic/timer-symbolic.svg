@@ -1,3 +1,9 @@
-<svg clip-rule="evenodd" fill-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="2" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
- <path d="m6 13 1-1h2l1 1h2v-1.793l-2-2v-1.414l2-2v-2.793h-8v2.793l2 2v1.414l-2 2v1.793zm1-6h2l2-2h-6zm6-4v3.207l-2 2v.586l2 2v2.207h1v2h-12v-2h1v-2.207l2-2v-.586l-2-2v-3.207h-1v-2h12v2z" fill="#dfdfdf" fill-rule="nonzero"/>
+<svg xmlns="http://www.w3.org/2000/svg" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2" width="100%" height="100%" version="1.1" viewBox="0 0 16 16" xml:space="preserve">
+ <defs>
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
+  </style>
+ </defs>
+ <path style="fill:currentColor;" class="ColorScheme-Text" d="M12.5,2.3l0,2.738c-0,0.748 -0.297,1.466 -0.827,1.996c-0.55,0.55 -1.173,1.173 -1.173,1.173l0,0.586c0,0 0.623,0.623 1.173,1.173c0.53,0.53 0.827,1.248 0.827,1.996l0,1.738l1,0l0,1.3l-11,-0l0,-1.3l1,0l0,-1.738c0,-0.748 0.297,-1.466 0.827,-1.996c0.55,-0.55 1.173,-1.173 1.173,-1.173l0,-0.586c0,-0 -0.623,-0.623 -1.173,-1.173c-0.53,-0.53 -0.827,-1.248 -0.827,-1.996l0,-2.738l-1,-0l0,-1.3l11,-0l0,1.3l-1,-0Zm-8,11.4l7,0l0,-1.324c-0,-0.748 -0.297,-1.466 -0.827,-1.996c-0.55,-0.55 -1.173,-1.173 -1.173,-1.173l0,-1.414c0,0 0.623,-0.623 1.173,-1.173c0.53,-0.53 0.827,-1.248 0.827,-1.996c0,-0.765 0,-2.324 0,-2.324l-7,-0l0,2.324c-0,0.748 0.297,1.466 0.827,1.996c0.55,0.55 1.173,1.173 1.173,1.173l0,1.414c0,0 -0.623,0.623 -1.173,1.173c-0.53,0.53 -0.827,1.248 -0.827,1.996c0,0.341 0,1.324 0,1.324Z"/>
+ <path style="fill:currentColor;fill-opacity:0.3" class="ColorScheme-Text" d="M8.5,12.089c-0.347,-0.234 -0.678,-0.19 -1,-0c-1.035,0.523 -1.687,1.364 -2,2.485l5,0c-0.363,-1.145 -0.884,-1.903 -2,-2.485Zm-1.079,-4.419c0.402,0.271 0.785,0.22 1.158,0c1.2,-0.606 2.179,-1.551 2.318,-2.88l-5.794,0c0.098,1.204 1.219,2.217 2.318,2.88Z"/>
 </svg>
