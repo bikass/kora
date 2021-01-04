@@ -1,8 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1">
+<svg xmlns="http://www.w3.org/2000/svg" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2" width="100%" height="100%" version="1.1" viewBox="0 0 16 16" xml:space="preserve">
  <defs>
   <style id="current-color-scheme" type="text/css">
-   .ColorScheme-Text { color:#444444; } .ColorScheme-Highlight { color:#4285f4; }
+   .ColorScheme-Text { color:#444444; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
   </style>
  </defs>
- <path style="fill:currentColor" class="ColorScheme-Text" d="M 2,0 C 0.892,0 0,0.892 0,2 V 14 C 0,15.108 0.892,16 2,16 H 14 C 15.108,16 16,15.108 16,14 V 2 C 16,0.892 15.108,0 14,0 Z M 3,3 H 4 V 4.5 C 4,5.1944 4.1274,5.5772 4.2656,5.75 4.4039,5.9228 4.5833,6 5,6 5.4167,6 5.5961,5.9228 5.7344,5.75 5.8726,5.5772 6,5.1944 6,4.5 V 3 H 7 V 4.5 C 7,5.3056 6.8774,5.9228 6.5156,6.375 6.1539,6.8272 5.5833,7 5,7 4.4167,7 3.8461,6.8272 3.4844,6.375 3.1226,5.9228 3,5.3056 3,4.5 Z M 11,3 H 12 V 7 H 11 Z M 6,10 H 7 L 9,12.5 V 10 H 10 V 14 H 9 L 7,11.5 V 14 H 6 Z"/>
+ <path style="fill:currentColor;" class="ColorScheme-Text" d="M6,10l1,0l2,2.5l0,-2.5l1,0l0,4l-1,0l-2,-2.5l0,2.5l-1,0l0,-4Zm5,-7l1,0l0,4l-1,0l0,-4Zm-8,0l1,0l0,1.5c0,0.694 0.127,1.077 0.266,1.25c0.138,0.173 0.317,0.25 0.734,0.25c0.417,0 0.596,-0.077 0.734,-0.25c0.139,-0.173 0.266,-0.556 0.266,-1.25l0,-1.5l1,0l0,1.5c0,0.806 -0.123,1.423 -0.484,1.875c-0.362,0.452 -0.933,0.625 -1.516,0.625c-0.583,0 -1.154,-0.173 -1.516,-0.625c-0.361,-0.452 -0.484,-1.069 -0.484,-1.875l0,-1.5Z"/>
+ <path style="fill:currentColor;fill-opacity:0.3" class="ColorScheme-Text" d="M15.26,3.082c0,-1.293 -1.049,-2.342 -2.342,-2.342l-9.836,0c-1.293,0 -2.342,1.049 -2.342,2.342l0,9.836c0,1.293 1.049,2.342 2.342,2.342l9.836,0c1.293,0 2.342,-1.049 2.342,-2.342l0,-9.836Zm-0.895,0.08c0,-0.843 -0.684,-1.527 -1.527,-1.527l-9.676,0c-0.843,0 -1.527,0.684 -1.527,1.527l0,9.676c0,0.843 0.684,1.527 1.527,1.527l9.676,0c0.843,0 1.527,-0.684 1.527,-1.527l-0,-9.676Z"/>
 </svg>

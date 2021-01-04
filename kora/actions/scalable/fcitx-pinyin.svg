@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1">
+<svg xmlns="http://www.w3.org/2000/svg" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2" width="100%" height="100%" version="1.1" viewBox="0 0 16 16" xml:space="preserve">
  <defs>
   <style id="current-color-scheme" type="text/css">
-   .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#4285f4; }
+   .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
   </style>
  </defs>
- <path style="fill:currentColor" class="ColorScheme-Text" d="M 2 0 C 0.892 0 0 0.892 0 2 L 0 14 C 0 15.108 0.892 16 2 16 L 14 16 C 15.108 16 16 15.108 16 14 L 16 2 C 16 0.892 15.108 0 14 0 L 2 0 z M 7.9004 1.6992 L 9.4004 3.6992 L 9.002 4 L 10.998 4 L 10.6 3.6992 L 12.1 1.6992 L 12.9 2.3008 L 11.625 4 L 14 4 L 14 5 L 12 5 L 12 8 L 14 8 L 14 9 L 12 9 L 12 14 L 11 14 L 11 9 L 8.959 9 C 8.863 10.12 8.4822 11.031 8.0332 11.811 C 7.4122 12.881 6.3418 13.865 6.3418 13.865 L 5.6582 13.137 C 5.6582 13.137 6.6707 12.171 7.168 11.311 C 7.569 10.611 7.8719 9.9 7.9609 9 L 6 9 L 6 8.0605 L 5 8.5605 L 5 14 L 2 14 L 2 13 L 4 13 L 4 9.0605 L 2.2227 9.9492 L 1.7773 9.0508 L 4 7.9395 L 4 5 L 2 5 L 2 4 L 4 4 L 4 2 L 5 2 L 5 4 L 6 4 L 6 5 L 5 5 L 5 7.4395 L 5.7773 7.0508 L 6.2227 7.9492 L 6.1172 8 L 8 8 L 8 5 L 7 5 L 7 4 L 8.375 4 L 7.0996 2.3008 L 7.9004 1.6992 z M 9 5 L 9 8 L 11 8 L 11 5 L 9 5 z"/>
+ <path style="fill:currentColor;" class="ColorScheme-Text" d="M7.9,1.699l1.5,2l-0.398,0.301l1.996,0l-0.398,-0.301l1.5,-2l0.8,0.602l-1.275,1.699l2.375,0l-0,1l-2,0l-0,3l2,0l-0,1l-2,0l-0,5l-1,0l-0,-5l-2.041,0c-0.096,1.12 -0.477,2.031 -0.926,2.811c-0.621,1.07 -1.691,2.054 -1.691,2.054l-0.684,-0.728c0,0 1.013,-0.966 1.51,-1.826c0.401,-0.7 0.704,-1.411 0.793,-2.311l-1.961,0l-0,-0.94l-1,0.5l-0,5.44l-3,0l-0,-1l2,0l-0,-3.94l-1.777,0.889l-0.446,-0.898l2.223,-1.112l-0,-2.939l-2,0l-0,-1l2,0l-0,-2l1,0l-0,2l1,0l-0,1l-1,0l-0,2.439l0.777,-0.388l0.446,0.898l-0.106,0.051l1.883,0l0,-3l-1,0l0,-1l1.375,0l-1.275,-1.699l0.8,-0.602Zm1.1,3.301l0,3l2,0l0,-3l-2,0Z"/>
 </svg>

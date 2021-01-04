@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+<svg xmlns="http://www.w3.org/2000/svg" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2" width="100%" height="100%" version="1.1" viewBox="0 0 16 16" xml:space="preserve">
  <defs>
   <style id="current-color-scheme" type="text/css">
-   .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#4285f4; }
+   .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
   </style>
  </defs>
- <path style="fill:currentColor" class="ColorScheme-Text" d="M 0 0 L 0 7 L 8 7 L 8 0 L 0 0 z M 9 1.078125 L 9 5 L 10 5 L 10 2.3554688 C 12.393 3.2015187 13.9948 5.4619 14 8 L 15 8 C 14.997 4.5227 12.4416 1.574925 9 1.078125 z M 1 8 C 1.003 11.4773 3.5584 14.425075 7 14.921875 L 7 11 L 6 11 L 6 13.644531 C 3.607 12.798481 2.0052 10.5381 2 8 L 1 8 z M 8 9 L 8 16 L 16 16 L 16 9 L 8 9 z"/>
+ <path style="fill:currentColor;" class="ColorScheme-Text" d="M1.788,0c-0.265,0 -0.52,0.105 -0.707,0.293c-0.188,0.187 -0.293,0.442 -0.293,0.707c-0,1.331 -0,3.669 -0,5c-0,0.265 0.105,0.52 0.293,0.707c0.187,0.188 0.442,0.293 0.707,0.293c1.537,0 3.675,0 5.212,0c0.265,-0 0.52,-0.105 0.707,-0.293c0.188,-0.187 0.293,-0.442 0.293,-0.707c0,-1.331 0,-3.669 0,-5c0,-0.265 -0.105,-0.52 -0.293,-0.707c-0.187,-0.188 -0.442,-0.293 -0.707,-0.293c-1.537,-0 -3.675,-0 -5.212,-0Zm7.212,1.078l0,3.922l1,0l0,-2.645c2.393,0.847 3.995,3.107 4,5.645l1,0c-0.003,-3.477 -2.558,-6.425 -6,-6.922Zm-8,6.922c0.003,3.477 2.558,6.425 6,6.922l0,-3.922l-1,0l0,2.645c-2.393,-0.847 -3.995,-3.107 -4,-5.645l-1,0Zm8,1c-0.265,0 -0.52,0.105 -0.707,0.293c-0.188,0.187 -0.293,0.442 -0.293,0.707c0,1.331 0,3.669 0,5c-0,0.265 0.105,0.52 0.293,0.707c0.187,0.188 0.442,0.293 0.707,0.293c1.537,0 3.631,0 5.168,0c0.265,-0 0.52,-0.105 0.707,-0.293c0.188,-0.187 0.293,-0.442 0.293,-0.707c0,-1.331 0,-3.669 0,-5c0,-0.265 -0.105,-0.52 -0.293,-0.707c-0.187,-0.188 -0.442,-0.293 -0.707,-0.293c-1.537,0 -3.631,0 -5.168,0Z"/>
 </svg>

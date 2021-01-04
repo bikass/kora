@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1">
+<svg xmlns="http://www.w3.org/2000/svg" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2" width="100%" height="100%" version="1.1" viewBox="0 0 16 16" xml:space="preserve">
  <defs>
   <style id="current-color-scheme" type="text/css">
-   .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#4285f4; }
+   .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
   </style>
  </defs>
- <path style="fill:currentColor" class="ColorScheme-Text" d="M 8.5,13.5 A 0.5,0.5 0 0 1 8,14 0.5,0.5 0 0 1 7.5,13.5 0.5,0.5 0 0 1 8,13 0.5,0.5 0 0 1 8.5,13.5 Z M 1,1 V 6 H 3.5 C 5,6 5,4.5 5,4.5 5,3.5 4.312,3.2187 4.312,3.2187 4.312,3.2187 4.5,3 4.5,2.5 4.5,2.5 4.5,1 3,1 Z M 11,1 V 6 H 13.5 C 15,6 15,4.5 15,4.5 V 2.5 C 15,2.5 15,1 13.5,1 Z M 2,2 H 3 C 3.5,2 3.5,2.5 3.5,2.5 3.5,2.5 3.5,3 3,3 H 2 Z M 12,2 H 13.5 C 14,2 14,2.5 14,2.5 V 4.5 C 14,4.5 14,5 13.5,5 H 12 Z M 6,3 V 4 H 9 V 3 Z M 2,4 H 3.5 C 4,4 4,4.5 4,4.5 4,4.5 4,5 3.5,5 H 2 Z M 1,8 V 10 H 5 V 8 Z M 7,8 V 10 H 9 V 8 Z M 11,8 V 10 H 15 V 8 Z M 6,12 2,13.5 6,15 Z M 10,12 V 15 L 14,13.5 Z"/>
+ <path style="fill:currentColor;" class="ColorScheme-Text" d="M2,2l0,5l2.5,0c0.828,0 1.5,-0.672 1.5,-1.5c0,-0.533 -0.268,-1.015 -0.688,-1.281c0.116,-0.213 0.188,-0.46 0.188,-0.719c0,-0.828 -0.672,-1.5 -1.5,-1.5l-2,-0Zm8,-0l0,5l2.5,0c0.828,0 1.5,-0.672 1.5,-1.5l0,-2c0,-0.828 -0.672,-1.5 -1.5,-1.5l-2.5,0Zm-7,1l1,0c0.276,0 0.5,0.224 0.5,0.5c0,0.276 -0.224,0.5 -0.5,0.5l-1,0l0,-1Zm8,0l1.5,0c0.276,0 0.5,0.224 0.5,0.5l0,2c0,0.276 -0.224,0.5 -0.5,0.5l-1.5,0l0,-3Zm-4,1l0,1l2,0l0,-1l-2,0Zm-4,1l1.5,0c0.276,0 0.5,0.224 0.5,0.5c0,0.276 -0.224,0.5 -0.5,0.5l-1.5,0l0,-1Zm-1,4l0,1l3,0l0,-1l-3,0Zm5,0l0,1l2,0l0,-1l-2,0Zm4,0l0,1l3,0l0,-1l-3,0Zm-5,2l-4,1.5l4,1.5l0,-3Zm4,0l0,3l4,-1.5l-4,-1.5Zm-2,1c-0.276,0 -0.5,0.224 -0.5,0.5c0,0.276 0.224,0.5 0.5,0.5c0.276,0 0.5,-0.224 0.5,-0.5c0,-0.276 -0.224,-0.5 -0.5,-0.5Z"/>
 </svg>
