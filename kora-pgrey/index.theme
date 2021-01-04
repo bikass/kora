@@ -1,6 +1,6 @@
 [Icon Theme]
-Name=Kora PGray
-Comment=Light icon theme for Linux desktops. Mix of the following icon sets: Kora, Papirus.
+Name=Kora Gray
+Comment=Kora Gray icon theme for GNU/Linux
 Inherits=breeze,gnome,hicolor
 
 Example=folder
@@ -25,7 +25,7 @@ DialogSizes=16,22,24,32,48,64
 ########## DIRECTORY LIST
 ########## ordered by category and alphabetically
 
-Directories=actions/scalable,actions/scalable@2,actions/symbolic,animations,animations@2,apps/scalable,apps/scalable@2,apps/symbolic,appsgray/scalable,categories/scalable,categories/scalable@2,categories/symbolic,devices/scalable,devices/scalable@2,devices/symbolic,emblems/scalable,emblems/scalable@2,emblems/symbolic,emotes/scalable,emotes/scalable@2,emotes/symbolic,mimetypes/scalable,mimetypes/scalable@2,mimetypes/symbolic,panel/16,places/scalable,places/scalable@2,places/symbolic,status/scalable,status/scalable@2,status/symbolic,
+Directories=actions/scalable,actions/scalable@2,actions/symbolic,animations,animations@2,apps/scalable,apps/scalable@2,apps/symbolic,appsgray/scalable,categories/scalable,categories/scalable@2,categories/symbolic,devices/scalable,devices/scalable@2,devices/symbolic,emblems/scalable,emblems/scalable@2,emblems/symbolic,emotes/scalable,emotes/scalable@2,emotes/symbolic,mimetypes/scalable,mimetypes/scalable@2,mimetypes/symbolic,panel/16,panel/16@2,panel/22,panel/22@2,panel/24,panel/24@2,places/scalable,places/scalable@2,places/symbolic,status/scalable,status/scalable@2,status/symbolic,
 
 
 
@@ -234,29 +234,29 @@ Context=Status
 Size=16
 Type=Fixed
 
-[panel/16]
+[panel/16@2]
 Context=Status
 Size=16
 Scale=2
 Type=Fixed
 
-[panel/16]
+[panel/22]
 Context=Status
 Size=22
 Type=Fixed
 
-[panel/16]
+[panel/22@2]
 Context=Status
 Size=22
 Scale=2
 Type=Fixed
 
-[panel/16]
+[panel/24]
 Context=Status
 Size=24
 Type=Fixed
 
-[panel/16]
+[panel/24@2]
 Context=Status
 Size=24
 Scale=2

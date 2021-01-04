@@ -1,0 +1,24 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="22px" height="22px" viewBox="0 0 22 22" version="1.1">
+<defs>
+<filter id="alpha" filterUnits="objectBoundingBox" x="0%" y="0%" width="100%" height="100%">
+  <feColorMatrix type="matrix" in="SourceGraphic" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
+</filter>
+<mask id="mask0">
+  <g filter="url(#alpha)">
+<rect x="0" y="0" width="22" height="22" style="fill:rgb(0%,0%,0%);fill-opacity:0.3;stroke:none;"/>
+  </g>
+</mask>
+<clipPath id="clip1">
+  <rect x="0" y="0" width="22" height="22"/>
+</clipPath>
+<g id="surface5" clip-path="url(#clip1)">
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(26.666668%,26.666668%,26.666668%);fill-opacity:1;" d="M 11 1.375 C 5.683594 1.375 1.375 5.683594 1.375 11 C 1.375 16.316406 5.683594 20.625 11 20.625 C 16.316406 20.625 20.625 16.316406 20.625 11 L 17.875 11 C 17.875 14.796875 14.796875 17.875 11 17.875 C 7.203125 17.875 4.125 14.796875 4.125 11 C 4.125 7.203125 7.203125 4.125 11 4.125 Z M 11 5.5 C 7.960938 5.5 5.5 7.960938 5.5 11 C 5.5 14.039062 7.960938 16.5 11 16.5 C 14.039062 16.5 16.5 14.039062 16.5 11 L 13.75 11 C 13.75 12.519531 12.519531 13.75 11 13.75 C 9.480469 13.75 8.25 12.519531 8.25 11 C 8.25 9.480469 9.480469 8.25 11 8.25 Z M 11 5.5 "/>
+</g>
+</defs>
+<g id="surface1">
+<use xlink:href="#surface5" mask="url(#mask0)"/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(26.666668%,26.666668%,26.666668%);fill-opacity:1;" d="M 12.375 11 C 12.375 11.757812 11.757812 12.375 11 12.375 C 10.242188 12.375 9.625 11.757812 9.625 11 C 9.625 10.242188 10.242188 9.625 11 9.625 C 11.757812 9.625 12.375 10.242188 12.375 11 Z M 12.375 11 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(26.666668%,26.666668%,26.666668%);fill-opacity:1;" d="M 11 1.375 L 11 4.125 C 14.796875 4.125 17.875 7.203125 17.875 11 L 20.625 11 C 20.625 5.683594 16.316406 1.375 11 1.375 Z M 11 5.5 L 11 8.25 C 12.519531 8.25 13.75 9.480469 13.75 11 L 16.5 11 C 16.5 7.960938 14.039062 5.5 11 5.5 Z M 11 5.5 "/>
+</g>
+</svg>
