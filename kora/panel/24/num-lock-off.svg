@@ -1,22 +1,11 @@
-
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px" viewBox="0 0 24 24" version="1.1">
-<defs>
-<filter id="alpha" filterUnits="objectBoundingBox" x="0%" y="0%" width="100%" height="100%">
-  <feColorMatrix type="matrix" in="SourceGraphic" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
-</filter>
-<mask id="mask0">
-  <g filter="url(#alpha)">
-<rect x="0" y="0" width="24" height="24" style="fill:rgb(0%,0%,0%);fill-opacity:0.3;stroke:none;"/>
-  </g>
-</mask>
-<clipPath id="clip1">
-  <rect x="0" y="0" width="24" height="24"/>
-</clipPath>
-<g id="surface5" clip-path="url(#clip1)">
-<path style=" stroke:none;fill-rule:nonzero;fill:rgb(87.450981%,87.450981%,87.450981%);fill-opacity:1;" d="M 0 19.097656 L 0 19.921875 C 0.00390625 21.738281 1.558594 23.296875 3.375 23.296875 L 20.625 23.296875 C 22.441406 23.296875 24 21.738281 24 19.921875 L 24 19.097656 C 23.203125 19.828125 22.164062 20.296875 21 20.296875 L 3 20.296875 C 1.839844 20.296875 0.796875 19.828125 0 19.097656 Z M 1.5 19.097656 C 0.507812 18.523438 -0.117188 17.398438 0.0195312 16.167969 L 1.519531 2.667969 C 1.6875 1.148438 2.972656 0 4.5 0 L 19.5 0 C 21.027344 0 22.3125 1.148438 22.480469 2.667969 L 23.980469 16.167969 C 24.117188 17.398438 23.492188 18.523438 22.5 19.097656 L 22.5 16.5 C 22.5 16.449219 22.496094 16.390625 22.492188 16.335938 L 20.992188 2.835938 C 20.90625 2.074219 20.265625 1.5 19.5 1.5 L 4.5 1.5 C 3.734375 1.5 3.09375 2.074219 3.007812 2.835938 L 1.507812 16.332031 C 1.5 16.390625 1.5 16.445312 1.5 16.5 Z M 11.523438 17.199219 C 11.453125 17.199219 11.417969 17.164062 11.417969 17.09375 L 11.417969 6.652344 C 11.148438 6.851562 10.878906 7.050781 10.609375 7.253906 C 10.339844 7.457031 10.070312 7.652344 9.800781 7.847656 C 9.761719 7.875 9.722656 7.882812 9.6875 7.859375 C 9.652344 7.839844 9.632812 7.804688 9.632812 7.757812 L 9.632812 5.851562 C 9.632812 5.839844 9.640625 5.824219 9.648438 5.808594 C 9.65625 5.789062 9.667969 5.773438 9.679688 5.765625 L 11.488281 4.453125 L 13.324219 4.453125 C 13.398438 4.453125 13.433594 4.488281 13.433594 4.558594 L 13.433594 17.09375 C 13.433594 17.164062 13.398438 17.199219 13.324219 17.199219 Z M 11.523438 17.199219 "/>
-</g>
-</defs>
-<g id="surface1">
-<use xlink:href="#surface5" mask="url(#mask0)"/>
-</g>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" version="1.1">
+ <defs>
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
+  </style>
+ </defs>
+ <g opacity=".3" transform="matrix(.99995 0 0 1 .00071135 -1028.4)">
+  <path fill-rule="evenodd" style="fill:currentColor" class="ColorScheme-Text" d="m7 4a2.0002 2.0002 0 0 0 -1.9883 1.7793l-1 8.9997a2.0002 2.0002 0 0 0 1.9883 2.221h12a2.0002 2.0002 0 0 0 1.988 -2.221l-1-8.9997a2.0002 2.0002 0 0 0 -1.988 -1.7793h-10zm6 2v2 5h2v2h-6v-2h2v-4.5l-2 0.5v-2l4-1z" transform="translate(0,1028.4)"/>
+  <path style="fill:currentColor" class="ColorScheme-Text" d="m4 17.203v0.547c0 1.212 1.0381 2.25 2.25 2.25h11.5c1.212 0 2.25-1.038 2.25-2.25v-0.547c-0.532 0.485-1.225 0.797-2 0.797h-12c-0.7746 0-1.4684-0.312-2-0.797z" transform="translate(0,1028.4)"/>
+ </g>
 </svg>

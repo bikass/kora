@@ -1,6 +1,10 @@
-
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="22px" height="22px" viewBox="0 0 22 22" version="1.1">
-<g id="surface1">
-<path style=" stroke:none;fill-rule:nonzero;fill:rgb(87.450981%,87.450981%,87.450981%);fill-opacity:1;" d="M 6.871094 1.375 L 6.871094 12.375 L 2.746094 12.375 L 10.996094 20.625 L 19.246094 12.375 L 15.121094 12.375 L 15.121094 1.375 Z M 8.246094 2.75 L 13.746094 2.75 L 13.746094 4.125 L 9.621094 4.125 L 9.621094 6.875 L 12.371094 6.875 L 12.371094 8.25 L 9.621094 8.25 L 9.621094 12.375 L 8.246094 12.375 Z M 8.246094 2.75 "/>
-</g>
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" version="1.1">
+ <defs>
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
+  </style>
+ </defs>
+ <g transform="matrix(1.2 0 0 1.3333 -608.2 -58.333)">
+  <path style="fill:currentColor" class="ColorScheme-Text" d="m8 3v9h-3l6 7 6-7h-3v-9h-6zm1 1h1 3v1h-3v2h2v1h-2v4h-1v-4-1-2-1z" transform="matrix(.83333 0 0 0.75 506.83 43.75)"/>
+ </g>
 </svg>

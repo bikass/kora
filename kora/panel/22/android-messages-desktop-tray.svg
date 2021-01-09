@@ -1,23 +1,9 @@
-
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="22px" height="22px" viewBox="0 0 22 22" version="1.1">
-<defs>
-<filter id="alpha" filterUnits="objectBoundingBox" x="0%" y="0%" width="100%" height="100%">
-  <feColorMatrix type="matrix" in="SourceGraphic" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
-</filter>
-<mask id="mask0">
-  <g filter="url(#alpha)">
-<rect x="0" y="0" width="22" height="22" style="fill:rgb(0%,0%,0%);fill-opacity:0.3;stroke:none;"/>
-  </g>
-</mask>
-<clipPath id="clip1">
-  <rect x="0" y="0" width="22" height="22"/>
-</clipPath>
-<g id="surface5" clip-path="url(#clip1)">
-<path style=" stroke:none;fill-rule:nonzero;fill:rgb(87.450981%,87.450981%,87.450981%);fill-opacity:1;" d="M 1.148438 2.75 C 0.265625 2.75 -0.285156 3.578125 0.15625 4.242188 C 0.15625 4.242188 2.753906 6.070312 2.753906 8.960938 L 2.753906 14.3125 C 2.753906 16.285156 4.339844 17.875 6.3125 17.875 L 18.4375 17.875 C 20.410156 17.875 22 16.285156 22 14.3125 L 22 6.3125 C 22 4.339844 20.410156 2.75 18.4375 2.75 Z M 1.148438 2.75 "/>
-</g>
-</defs>
-<g id="surface1">
-<use xlink:href="#surface5" mask="url(#mask0)"/>
-<path style=" stroke:none;fill-rule:nonzero;fill:rgb(87.450981%,87.450981%,87.450981%);fill-opacity:1;" d="M 7.464844 13.75 L 14.535156 13.75 C 14.863281 13.75 15.125 14.054688 15.125 14.4375 C 15.125 14.820312 14.863281 15.125 14.535156 15.125 L 7.464844 15.125 C 7.140625 15.125 6.875 14.820312 6.875 14.4375 C 6.875 14.054688 7.140625 13.75 7.464844 13.75 Z M 7.328125 9.625 L 17.332031 9.625 C 17.605469 9.625 17.828125 9.929688 17.828125 10.3125 C 17.828125 10.695312 17.605469 11 17.332031 11 L 7.328125 11 C 7.050781 11 6.828125 10.695312 6.828125 10.3125 C 6.828125 9.929688 7.050781 9.625 7.328125 9.625 Z M 7.328125 5.5 L 17.332031 5.5 C 17.605469 5.5 17.828125 5.804688 17.828125 6.1875 C 17.828125 6.570312 17.605469 6.875 17.332031 6.875 L 7.328125 6.875 C 7.050781 6.875 6.828125 6.570312 6.828125 6.1875 C 6.828125 5.804688 7.050781 5.5 7.328125 5.5 Z M 7.328125 5.5 "/>
-</g>
+<svg xmlns="http://www.w3.org/2000/svg" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2" width="100%" height="100%" version="1.1" viewBox="0 0 22 22" xml:space="preserve">
+ <defs>
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
+  </style>
+ </defs>
+ <path style="fill:currentColor;fill-opacity:0.3;" class="ColorScheme-Text" d="M2.627,3.884c-0.751,-0.001 -1.219,0.704 -0.845,1.267c-0,0 2.208,1.557 2.208,4.014l-0,4.549c-0,1.676 1.35,3.027 3.027,3.027l10.306,-0c1.677,-0 3.027,-1.351 3.027,-3.027l0,-6.803c0,-1.676 -1.35,-3.027 -3.027,-3.027l-14.696,0Z"/>
+ <path style="fill:currentColor;" class="ColorScheme-Text" d="M7.996,13.234l6.01,0c0.278,0 0.5,0.261 0.5,0.585c0,0.324 -0.222,0.584 -0.5,0.584l-6.01,0c-0.278,0 -0.502,-0.26 -0.502,-0.584c-0,-0.324 0.224,-0.585 0.502,-0.585Zm-0.117,-3.506l8.502,0c0.235,0 0.424,0.261 0.424,0.584c0,0.324 -0.189,0.585 -0.424,0.585l-8.502,-0c-0.235,-0 -0.424,-0.261 -0.424,-0.585c0,-0.323 0.189,-0.584 0.424,-0.584Zm0,-3.506l8.502,-0c0.235,-0 0.424,0.26 0.424,0.584c0,0.324 -0.189,0.585 -0.424,0.585l-8.502,-0c-0.235,-0 -0.424,-0.261 -0.424,-0.585c0,-0.324 0.189,-0.584 0.424,-0.584Z"/>
 </svg>

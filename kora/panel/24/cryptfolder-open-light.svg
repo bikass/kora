@@ -1,23 +1,8 @@
-
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px" viewBox="0 0 24 24" version="1.1">
-<defs>
-<filter id="alpha" filterUnits="objectBoundingBox" x="0%" y="0%" width="100%" height="100%">
-  <feColorMatrix type="matrix" in="SourceGraphic" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
-</filter>
-<mask id="mask0">
-  <g filter="url(#alpha)">
-<rect x="0" y="0" width="24" height="24" style="fill:rgb(0%,0%,0%);fill-opacity:0.3;stroke:none;"/>
-  </g>
-</mask>
-<clipPath id="clip1">
-  <rect x="0" y="0" width="24" height="24"/>
-</clipPath>
-<g id="surface5" clip-path="url(#clip1)">
-<path style=" stroke:none;fill-rule:nonzero;fill:rgb(87.450981%,87.450981%,87.450981%);fill-opacity:1;" d="M 4.453125 12 L 19.546875 12 L 19.546875 21.09375 L 4.453125 21.09375 Z M 4.453125 12 "/>
-</g>
-</defs>
-<g id="surface1">
-<use xlink:href="#surface5" mask="url(#mask0)"/>
-<path style=" stroke:none;fill-rule:nonzero;fill:rgb(87.450981%,87.450981%,87.450981%);fill-opacity:1;" d="M 9.058594 6.722656 C 8.164062 6.496094 7.074219 6.15625 6.214844 5.902344 C 6.910156 3.359375 9.230469 1.5 12 1.5 C 15.324219 1.5 18 4.175781 18 7.5 L 18 10.5 L 19.5 10.5 C 20.332031 10.5 21 11.167969 21 12 L 21 21 C 21 21.832031 20.332031 22.5 19.5 22.5 L 4.5 22.5 C 3.667969 22.5 3 21.832031 3 21 L 3 12 C 3 11.167969 3.667969 10.5 4.5 10.5 L 15 10.5 L 15 7.316406 C 15 5.652344 13.660156 4.316406 12 4.316406 C 10.539062 4.316406 9.332031 5.347656 9.058594 6.722656 Z M 19.546875 12.386719 C 19.546875 12.175781 19.375 12 19.160156 12 L 4.839844 12 C 4.625 12 4.453125 12.175781 4.453125 12.386719 L 4.453125 20.703125 C 4.453125 20.917969 4.625 21.09375 4.839844 21.09375 L 19.160156 21.09375 C 19.375 21.09375 19.546875 20.917969 19.546875 20.703125 Z M 19.546875 12.386719 "/>
-</g>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" version="1.1">
+ <defs>
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
+  </style>
+ </defs>
+ <path style="fill:currentColor" class="ColorScheme-Text" d="m12 4c-2.195 0-3.9666 1.7884-4 4v1h1 1v-1c0-1.108 0.892-2 2-2s2 0.892 2 2v4h-2-3-1-1c-0.554 0-1 0.446-1 1v6c0 0.554 0.446 1 1 1h10c0.554 0 1-0.446 1-1v-6c0-0.554-0.446-1-1-1h-1v-3.9375c0-2.24-1.784-4.0625-4-4.0625z"/>
 </svg>

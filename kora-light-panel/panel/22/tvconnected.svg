@@ -1,23 +1,8 @@
-
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="22px" height="22px" viewBox="0 0 22 22" version="1.1">
-<defs>
-<filter id="alpha" filterUnits="objectBoundingBox" x="0%" y="0%" width="100%" height="100%">
-  <feColorMatrix type="matrix" in="SourceGraphic" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
-</filter>
-<mask id="mask0">
-  <g filter="url(#alpha)">
-<rect x="0" y="0" width="22" height="22" style="fill:rgb(0%,0%,0%);fill-opacity:0.3;stroke:none;"/>
-  </g>
-</mask>
-<clipPath id="clip1">
-  <rect x="0" y="0" width="22" height="22"/>
-</clipPath>
-<g id="surface5" clip-path="url(#clip1)">
-<path style=" stroke:none;fill-rule:nonzero;fill:rgb(26.666668%,26.666668%,26.666668%);fill-opacity:1;" d="M 2.75 1.375 C 0 1.375 0 4.125 0 4.125 L 0 15.125 C 0 15.125 0 17.875 2.75 17.875 L 19.25 17.875 C 19.25 17.875 22 17.875 22 15.125 L 22 4.125 C 22 4.125 22 1.375 19.25 1.375 Z M 2.75 1.375 "/>
-</g>
-</defs>
-<g id="surface1">
-<use xlink:href="#surface5" mask="url(#mask0)"/>
-<path style=" stroke:none;fill-rule:nonzero;fill:rgb(26.666668%,26.666668%,26.666668%);fill-opacity:1;" d="M 17.875 18.742188 L 4.125 18.742188 L 4.125 20.609375 L 17.875 20.609375 Z M 2.75 1.375 C 0 1.375 0 4.125 0 4.125 L 0 15.125 C 0 15.125 0 17.875 2.75 17.875 L 19.25 17.875 C 19.25 17.875 22 17.875 22 15.125 L 22 4.125 C 22 4.125 22 1.375 19.25 1.375 Z M 2.75 2.75 L 19.25 2.75 C 20.625 2.75 20.625 4.125 20.625 4.125 L 20.625 15.125 C 20.625 16.5 19.25 16.5 19.25 16.5 L 2.75 16.5 C 1.375 16.5 1.375 15.125 1.375 15.125 L 1.375 4.125 C 1.375 4.125 1.375 2.75 2.75 2.75 Z M 2.75 2.75 "/>
-</g>
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" version="1.1">
+ <defs>
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#444444; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
+  </style>
+ </defs>
+ <path style="fill:currentColor" class="ColorScheme-Text" d="M 3.800781,4.9999999 C 3.357581,4.9999999 3,5.3575809 3,5.8007809 V 16.199219 C 3,16.642419 3.357581,17 3.800781,17 H 7 v 0.199219 C 7,17.642419 7.357581,18 7.800781,18 h 6.398438 C 14.642419,18 15,17.642419 15,17.199219 V 17 h 3.199219 C 18.642419,17 19,16.642419 19,16.199219 V 5.8007809 C 19,5.357581 18.642419,4.9999999 18.199219,4.9999999 Z M 5,7 h 12 v 8 H 5 Z"/>
 </svg>

@@ -1,6 +1,10 @@
-
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px" viewBox="0 0 24 24" version="1.1">
-<g id="surface1">
-<path style=" stroke:none;fill-rule:nonzero;fill:rgb(26.666668%,26.666668%,26.666668%);fill-opacity:1;" d="M 15 0 L 9 6 L 4.5 6 L 4.5 21 L 9 21 L 9 25.5 L 15 19.5 L 19.5 19.5 L 19.5 4.5 L 15 4.5 Z M 6 7.5 L 9 7.5 L 15 13.5 L 15 9 L 18 9 L 18 18 L 15 18 L 9 12 L 9 16.5 L 6 16.5 Z M 6 7.5 "/>
-</g>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" version="1">
+ <defs>
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#444444; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
+  </style>
+ </defs>
+ <g transform="matrix(1,0,0,1,1,1)">
+  <path style="fill:currentColor" class="ColorScheme-Text" d="M 13,3 9,7 H 6 V 17 H 9 V 20 L 13,16 H 16 V 6 H 13 Z M 7,8 H 9 L 13,12 V 9 H 15 V 15 H 13 L 9,11 V 14 H 7 Z"/>
+ </g>
 </svg>

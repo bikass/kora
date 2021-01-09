@@ -1,23 +1,10 @@
-
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px" viewBox="0 0 24 24" version="1.1">
-<defs>
-<filter id="alpha" filterUnits="objectBoundingBox" x="0%" y="0%" width="100%" height="100%">
-  <feColorMatrix type="matrix" in="SourceGraphic" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
-</filter>
-<mask id="mask0">
-  <g filter="url(#alpha)">
-<rect x="0" y="0" width="24" height="24" style="fill:rgb(0%,0%,0%);fill-opacity:0.3;stroke:none;"/>
-  </g>
-</mask>
-<clipPath id="clip1">
-  <rect x="0" y="0" width="24" height="24"/>
-</clipPath>
-<g id="surface5" clip-path="url(#clip1)">
-<path style=" stroke:none;fill-rule:evenodd;fill:rgb(87.450981%,87.450981%,87.450981%);fill-opacity:1;" d="M 23.515625 6.242188 C 23.515625 3.066406 20.933594 0.484375 17.757812 0.484375 L 8.289062 0.484375 L 8.289062 23.515625 L 17.757812 23.515625 C 20.933594 23.515625 23.515625 20.933594 23.515625 17.757812 Z M 23.515625 6.242188 "/>
-</g>
-</defs>
-<g id="surface1">
-<use xlink:href="#surface5" mask="url(#mask0)"/>
-<path style=" stroke:none;fill-rule:evenodd;fill:rgb(87.450981%,87.450981%,87.450981%);fill-opacity:1;" d="M 23.515625 6.242188 C 23.515625 3.066406 20.933594 0.484375 17.757812 0.484375 L 6.242188 0.484375 C 3.066406 0.484375 0.484375 3.066406 0.484375 6.242188 L 0.484375 17.757812 C 0.484375 20.933594 3.066406 23.515625 6.242188 23.515625 L 17.757812 23.515625 C 20.933594 23.515625 23.515625 20.933594 23.515625 17.757812 Z M 7.484375 1.984375 L 6.242188 1.984375 C 3.890625 1.984375 1.984375 3.890625 1.984375 6.242188 L 1.984375 17.757812 C 1.984375 20.109375 3.890625 22.015625 6.242188 22.015625 L 7.484375 22.015625 Z M 9.121094 1.984375 L 9.121094 22.015625 L 17.757812 22.015625 C 20.109375 22.015625 22.015625 20.109375 22.015625 17.757812 L 22.015625 6.242188 C 22.015625 3.890625 20.109375 1.984375 17.757812 1.984375 Z M 15.511719 8.503906 C 17.449219 8.503906 19.023438 10.078125 19.023438 12.011719 C 19.023438 13.953125 17.449219 15.523438 15.511719 15.523438 C 13.574219 15.523438 12 13.953125 12 12.011719 C 12 10.078125 13.574219 8.503906 15.511719 8.503906 Z M 15.511719 8.503906 "/>
-</g>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" version="1.1">
+ <defs>
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
+  </style>
+ </defs>
+ <g transform="translate(4,4)">
+  <path style="fill:#dfdfdf" d="M 1,0 V 2 H 0 V 14 H 1 V 16 H 3 V 14 H 5 V 16 H 7 V 14 H 9 V 16 H 11 V 14 H 13 V 16 H 15 V 14 H 16 V 2 H 15 V 0 H 13 V 2 H 11 V 0 H 9 V 2 H 7 V 0 H 5 V 2 H 3 V 0 Z M 2,4 H 7 V 6 H 6 V 5 H 3 V 8 H 4 V 11 H 6 V 10 H 7 V 12 H 2 Z M 9,4 H 14 V 6 H 13 V 5 H 10 V 8 H 11 V 11 H 13 V 10 H 14 V 12 H 9 Z"/>
+ </g>
 </svg>

@@ -1,6 +1,10 @@
-
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px" viewBox="0 0 24 24" version="1.1">
-<g id="surface1">
-<path style=" stroke:none;fill-rule:nonzero;fill:rgb(100%,59.607846%,0%);fill-opacity:1;" d="M 3 1.5 L 3 12.789062 C 3 19.285156 12 22.5 12 22.5 C 12 22.5 21 19.285156 21 12.789062 L 21 1.5 Z M 4.648438 2.921875 L 12 2.921875 L 12 9.9375 L 19.351562 9.9375 L 19.351562 13.445312 C 19.253906 18.234375 12 20.828125 12 20.828125 L 12 9.9375 L 4.648438 9.9375 Z M 4.648438 2.921875 "/>
-</g>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" version="1.1">
+ <defs>
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
+  </style>
+ </defs>
+ <g transform="translate(-544,402.01)">
+  <path style="fill:currentColor" class="ColorScheme-NeutralText" d="m 4,3 0,8.604 c -2e-4,4.947 7,7.396 7,7.396 0,0 7,-2.449 7,-7.396 L 18,3 4,3 Z m 2,2 5,0 0,5 5,0 0,2.199 C 16,15.812 11,17 11,17 l 0,-7 -5,0 0,-5 z" transform="translate(545,-401.01)"/>
+ </g>
 </svg>

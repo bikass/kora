@@ -1,23 +1,8 @@
-
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px" viewBox="0 0 24 24" version="1.1">
-<defs>
-<filter id="alpha" filterUnits="objectBoundingBox" x="0%" y="0%" width="100%" height="100%">
-  <feColorMatrix type="matrix" in="SourceGraphic" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
-</filter>
-<mask id="mask0">
-  <g filter="url(#alpha)">
-<rect x="0" y="0" width="24" height="24" style="fill:rgb(0%,0%,0%);fill-opacity:0.3;stroke:none;"/>
-  </g>
-</mask>
-<clipPath id="clip1">
-  <rect x="0" y="0" width="24" height="24"/>
-</clipPath>
-<g id="surface5" clip-path="url(#clip1)">
-<path style=" stroke:none;fill-rule:nonzero;fill:rgb(26.666668%,26.666668%,26.666668%);fill-opacity:1;" d="M 12 1.5 C 6.238281 1.5 1.5 6.238281 1.5 12 C 1.5 17.761719 6.238281 22.5 12 22.5 C 17.761719 22.5 22.5 17.761719 22.5 12 C 22.5 6.238281 17.761719 1.5 12 1.5 Z M 8.25 6 L 15.75 6 C 16.996094 6 18 7.003906 18 8.25 L 18 15.75 C 18 16.996094 16.996094 18 15.75 18 L 8.25 18 C 7.003906 18 6 16.996094 6 15.75 L 6 8.25 C 6 7.003906 7.003906 6 8.25 6 Z M 8.25 6 "/>
-</g>
-</defs>
-<g id="surface1">
-<use xlink:href="#surface5" mask="url(#mask0)"/>
-<path style=" stroke:none;fill-rule:nonzero;fill:rgb(26.666668%,26.666668%,26.666668%);fill-opacity:1;" d="M 9.898438 9 C 9.402344 9 9 9.402344 9 9.898438 L 9 14.101562 C 9 14.597656 9.402344 15 9.898438 15 L 14.101562 15 C 14.597656 15 15 14.597656 15 14.101562 L 15 9.898438 C 15 9.402344 14.597656 9 14.101562 9 Z M 9.898438 9 "/>
-</g>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" version="1.1">
+ <defs>
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#444444; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
+  </style>
+ </defs>
+ <path style="fill:currentColor" class="ColorScheme-Text" d="M 12,3.9999999 A 8,8 0 0 0 3.9999999,12 8,8 0 0 0 12,20 8,8 0 0 0 20,12 8,8 0 0 0 12,3.9999999 Z m -2.5,4 h 5 c 0.831,0 1.5,0.669 1.5,1.5000002 V 14.5 c 0,0.831 -0.669,1.5 -1.5,1.5 h -5 C 8.669,16 7.9999999,15.331 7.9999999,14.5 V 9.5000001 C 7.9999999,8.6689999 8.669,7.9999999 9.5,7.9999999 Z M 10.59961,10 C 10.26721,10 10,10.267209 10,10.599609 V 13.40039 C 10,13.73279 10.26721,14 10.59961,14 h 2.800781 C 13.732791,14 14,13.73279 14,13.40039 V 10.599609 C 14,10.267209 13.732791,10 13.400391,10 Z"/>
 </svg>

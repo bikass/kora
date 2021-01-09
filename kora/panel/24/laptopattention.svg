@@ -1,7 +1,11 @@
-
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px" viewBox="0 0 24 24" version="1.1">
-<g id="surface1">
-<path style=" stroke:none;fill-rule:nonzero;fill:rgb(87.450981%,87.450981%,87.450981%);fill-opacity:1;" d="M 3.683594 3.628906 C 2.914062 3.628906 2.296875 4.246094 2.296875 5.011719 L 2.296875 17.488281 C 2.296875 18.253906 2.914062 18.871094 3.683594 18.871094 L 2.828125 18.871094 L 0 21 L 0 22.5 L 24 22.5 L 24 21 L 21.171875 18.871094 L 20.316406 18.871094 C 21.085938 18.871094 21.703125 18.253906 21.703125 17.488281 L 21.703125 5.011719 C 21.703125 4.246094 21.085938 3.628906 20.316406 3.628906 Z M 3.226562 4.390625 L 20.773438 4.390625 L 20.773438 17.933594 L 3.226562 17.933594 Z M 8.582031 20.453125 L 15.417969 20.453125 L 15.417969 21.953125 L 8.582031 21.953125 Z M 8.582031 20.453125 "/>
-<path style=" stroke:none;fill-rule:nonzero;fill:rgb(100%,59.607846%,0%);fill-opacity:1;" d="M 21 10.5 L 21 16.5 L 21.375 19.5 L 23.625 19.5 L 24 16.5 L 24 10.5 Z M 22.359375 21 C 21.609375 21 21 21.609375 21 22.359375 L 21 22.640625 C 21 23.390625 21.609375 24 22.359375 24 L 22.640625 24 C 23.390625 24 24 23.390625 24 22.640625 L 24 22.359375 C 24 21.609375 23.390625 21 22.640625 21 Z M 22.359375 21 "/>
-</g>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" version="1.1">
+ <defs>
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
+  </style>
+ </defs>
+ <g transform="translate(1,1)">
+  <path style="fill:currentColor" class="ColorScheme-Text" d="M 4,4 C 3.446,4 3,4.446 3,5 V 15 C 3,15.554 3.446,16 4,16 H 2 V 17 C 2,17.554 2.892,18 4,18 H 17 V 15 H 5 V 6 H 17 V 9 H 19 V 5 C 19,4.446 18.554,4 18,4 Z M 9,16 H 13 V 17 H 9 Z"/>
+  <path style="fill:currentColor" class="ColorScheme-NeutralText" d="M 18,10 V 14 L 18.25,16 H 19.75 L 20,14 V 10 Z M 18,17 V 19 H 20 V 17 Z"/>
+ </g>
 </svg>

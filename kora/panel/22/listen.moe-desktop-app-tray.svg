@@ -1,23 +1,9 @@
-
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="22px" height="22px" viewBox="0 0 22 22" version="1.1">
-<defs>
-<filter id="alpha" filterUnits="objectBoundingBox" x="0%" y="0%" width="100%" height="100%">
-  <feColorMatrix type="matrix" in="SourceGraphic" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
-</filter>
-<mask id="mask0">
-  <g filter="url(#alpha)">
-<rect x="0" y="0" width="22" height="22" style="fill:rgb(0%,0%,0%);fill-opacity:0.3;stroke:none;"/>
-  </g>
-</mask>
-<clipPath id="clip1">
-  <rect x="0" y="0" width="22" height="22"/>
-</clipPath>
-<g id="surface5" clip-path="url(#clip1)">
-<path style=" stroke:none;fill-rule:nonzero;fill:rgb(87.450981%,87.450981%,87.450981%);fill-opacity:1;" d="M 20.144531 20.625 C 20.410156 20.625 20.625 20.414062 20.625 20.148438 L 20.625 8.726562 C 20.625 8.460938 20.410156 8.25 20.144531 8.25 L 18.359375 8.25 C 18.089844 8.25 17.875 8.460938 17.875 8.726562 L 17.875 17.875 L 12.855469 17.875 C 12.589844 17.875 12.375 18.117188 12.375 18.382812 L 12.375 20.148438 C 12.375 20.414062 12.589844 20.625 12.855469 20.625 Z M 20.144531 20.625 "/>
-</g>
-</defs>
-<g id="surface1">
-<path style=" stroke:none;fill-rule:nonzero;fill:rgb(87.450981%,87.450981%,87.450981%);fill-opacity:1;" d="M 1.855469 1.375 C 1.589844 1.375 1.375 1.585938 1.375 1.851562 L 1.375 13.273438 C 1.375 13.539062 1.589844 13.75 1.855469 13.75 L 3.640625 13.75 C 3.910156 13.75 4.125 13.539062 4.125 13.273438 L 4.125 4.125 L 9.144531 4.125 C 9.410156 4.125 9.625 3.882812 9.625 3.617188 L 9.625 1.851562 C 9.625 1.585938 9.410156 1.375 9.144531 1.375 Z M 1.855469 1.375 "/>
-<use xlink:href="#surface5" mask="url(#mask0)"/>
-</g>
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" version="1.1">
+ <defs>
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
+  </style>
+ </defs>
+ <path style="fill:currentColor" class="ColorScheme-Text" d="M 3.3497635,3 C 3.1559945,3 3,3.1543846 3,3.3461538 V 4.730769 11.653846 C 3,11.845615 3.1559945,12 3.3497635,12 H 4.649119 C 4.842887,12 5.000032,11.845615 5,11.653846 V 5 H 8.650236 C 8.844005,5 9,4.822692 9,4.630923 V 3.3461538 C 9,3.1543846 8.844005,3 8.650236,3 H 4.748818 Z"/>
+ <path style="fill:currentColor;opacity:0.3" class="ColorScheme-Text" d="M 18.650237,19 C 18.844006,19 19,18.845615 19,18.653846 V 17.269231 10.346154 C 19,10.154385 18.844006,10 18.650237,10 H 17.350881 C 17.157113,10 16.999968,10.154385 17,10.346154 V 17 H 13.349764 C 13.155995,17 13,17.177308 13,17.369077 v 1.284769 C 13,18.845615 13.155995,19 13.349764,19 h 3.901418 z"/>
 </svg>

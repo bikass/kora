@@ -1,23 +1,8 @@
-
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="22px" height="22px" viewBox="0 0 22 22" version="1.1">
-<defs>
-<filter id="alpha" filterUnits="objectBoundingBox" x="0%" y="0%" width="100%" height="100%">
-  <feColorMatrix type="matrix" in="SourceGraphic" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
-</filter>
-<mask id="mask0">
-  <g filter="url(#alpha)">
-<rect x="0" y="0" width="22" height="22" style="fill:rgb(0%,0%,0%);fill-opacity:0.3;stroke:none;"/>
-  </g>
-</mask>
-<clipPath id="clip1">
-  <rect x="0" y="0" width="22" height="22"/>
-</clipPath>
-<g id="surface5" clip-path="url(#clip1)">
-<path style=" stroke:none;fill-rule:nonzero;fill:rgb(87.450981%,87.450981%,87.450981%);fill-opacity:1;" d="M 11 1.375 C 5.71875 1.375 1.375 5.71875 1.375 11 C 1.375 16.28125 5.71875 20.625 11 20.625 C 16.28125 20.625 20.625 16.28125 20.625 11 C 20.625 5.71875 16.28125 1.375 11 1.375 Z M 11 2.75 C 15.527344 2.75 19.25 6.472656 19.25 11 C 19.25 15.527344 15.527344 19.25 11 19.25 C 6.472656 19.25 2.75 15.527344 2.75 11 C 2.75 6.472656 6.472656 2.75 11 2.75 Z M 11 2.75 "/>
-</g>
-</defs>
-<g id="surface1">
-<use xlink:href="#surface5" mask="url(#mask0)"/>
-<path style=" stroke:none;fill-rule:nonzero;fill:rgb(87.450981%,87.450981%,87.450981%);fill-opacity:1;" d="M 6.875 6.875 L 9.625 6.875 L 9.625 15.125 L 6.875 15.125 Z M 12.375 6.875 L 15.125 6.875 L 15.125 15.125 L 12.375 15.125 Z M 12.375 6.875 "/>
-</g>
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" version="1.1">
+ <defs>
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
+  </style>
+ </defs>
+ <path style="fill:currentColor" class="ColorScheme-Text" d="M 11 3 C 6.568 3 3 6.568 3 11 C 3 15.432 6.568 19 11 19 C 15.432 19 19 15.432 19 11 C 19 6.568 15.432 3 11 3 z M 11 5 A 6 6 0 0 1 17 11 A 6 6 0 0 1 11 17 A 6 6 0 0 1 5 11 A 6 6 0 0 1 11 5 z M 8 8 L 8 14 L 10 14 L 10 8 L 8 8 z M 12 8 L 12 14 L 14 14 L 14 8 L 12 8 z"/>
 </svg>

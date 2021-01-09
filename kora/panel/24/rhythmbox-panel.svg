@@ -1,23 +1,8 @@
-
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px" viewBox="0 0 24 24" version="1.1">
-<defs>
-<filter id="alpha" filterUnits="objectBoundingBox" x="0%" y="0%" width="100%" height="100%">
-  <feColorMatrix type="matrix" in="SourceGraphic" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
-</filter>
-<mask id="mask0">
-  <g filter="url(#alpha)">
-<rect x="0" y="0" width="24" height="24" style="fill:rgb(0%,0%,0%);fill-opacity:0.3;stroke:none;"/>
-  </g>
-</mask>
-<clipPath id="clip1">
-  <rect x="0" y="0" width="24" height="24"/>
-</clipPath>
-<g id="surface5" clip-path="url(#clip1)">
-<path style=" stroke:none;fill-rule:nonzero;fill:rgb(87.450981%,87.450981%,87.450981%);fill-opacity:1;" d="M 6 22.5 C 4.753906 22.5 3.75 21.496094 3.75 20.25 L 3.75 3.75 C 3.75 2.503906 4.753906 1.5 6 1.5 L 18 1.5 C 19.246094 1.5 20.25 2.503906 20.25 3.75 L 20.25 20.25 C 20.25 21.496094 19.246094 22.5 18 22.5 Z M 12 19.5 C 14.898438 19.5 17.25 17.148438 17.25 14.25 C 17.25 11.351562 14.898438 9 12 9 C 9.101562 9 6.75 11.351562 6.75 14.25 C 6.75 17.148438 9.101562 19.5 12 19.5 Z M 8.25 7.5 C 9.078125 7.5 9.75 6.828125 9.75 6 C 9.75 5.171875 9.078125 4.5 8.25 4.5 C 7.421875 4.5 6.75 5.171875 6.75 6 C 6.75 6.828125 7.421875 7.5 8.25 7.5 Z M 15.75 7.5 C 16.578125 7.5 17.25 6.828125 17.25 6 C 17.25 5.171875 16.578125 4.5 15.75 4.5 C 14.921875 4.5 14.25 5.171875 14.25 6 C 14.25 6.828125 14.921875 7.5 15.75 7.5 Z M 15.75 7.5 "/>
-</g>
-</defs>
-<g id="surface1">
-<path style=" stroke:none;fill-rule:nonzero;fill:rgb(87.450981%,87.450981%,87.450981%);fill-opacity:1;" d="M 12 18.175781 C 9.835938 18.175781 8.074219 16.414062 8.074219 14.25 C 8.074219 12.085938 9.835938 10.324219 12 10.324219 C 14.164062 10.324219 15.925781 12.085938 15.925781 14.25 C 15.925781 16.414062 14.164062 18.175781 12 18.175781 Z M 12 18.175781 "/>
-<use xlink:href="#surface5" mask="url(#mask0)"/>
-</g>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" version="1">
+ <defs>
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
+  </style>
+ </defs>
+ <path fill-rule="evenodd" class="ColorScheme-Text" d="m7.5 20c-0.831 0-1.5-0.669-1.5-1.5v-13c0-0.831 0.669-1.5 1.5-1.5h8c0.831 0 1.5 0.669 1.5 1.5v13c0 0.831-0.669 1.5-1.5 1.5h-8zm4-2c1.933 0 3.5-1.567 3.5-3.5s-1.567-3.5-3.5-3.5c-1.9334 0-3.5005 1.567-3.5 3.5-0.0005 1.933 1.5666 3.5 3.5 3.5zm0-2c-0.828 0-1.5-0.672-1.5-1.5s0.672-1.5 1.5-1.5 1.5 0.672 1.5 1.5-0.672 1.5-1.5 1.5zm-2.5-8c0.5524 0 1-0.4478 1-1s-0.4476-1-1-1-1.0002 0.4478-1 1c-0.0002 0.5522 0.4476 1 1 1zm5 0c0.55243 0 1.0002-0.44778 1-1 0.000202-0.55222-0.44757-1-1-1s-1.0002 0.44778-1 1c-0.000202 0.55222 0.44757 1 1 1z" style="fill:currentColor"/>
 </svg>

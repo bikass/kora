@@ -1,6 +1,8 @@
-
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="22px" height="22px" viewBox="0 0 22 22" version="1.1">
-<g id="surface1">
-<path style=" stroke:none;fill-rule:nonzero;fill:rgb(26.666668%,26.666668%,26.666668%);fill-opacity:1;" d="M 1.375 4.125 L 11 13.75 L 20.625 4.125 Z M 20.625 6.214844 L 14.792969 12.042969 L 20.625 17.875 Z M 1.375 6.21875 L 1.375 17.875 L 7.207031 12.042969 Z M 8.175781 13.015625 L 3.320312 17.875 L 18.679688 17.875 L 13.824219 13.015625 L 12.570312 14.269531 C 11.871094 14.96875 10.132812 14.96875 9.433594 14.269531 Z M 8.175781 13.015625 "/>
-</g>
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" version="1.1">
+ <defs>
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#444444; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
+  </style>
+ </defs>
+ <path style="fill:currentColor" class="ColorScheme-Text" d="M 11,2.9999999 A 8,8 0 0 0 3,11 a 8,8 0 0 0 8,8 8,8 0 0 0 8,-8 8,8 0 0 0 -8,-8.0000001 z m -5,4 10,0 L 11,12 6,6.9999999 Z M 6,8.4140621 9.2929688,11.707031 6,15 6,8.4140621 Z m 10,0 L 16,15 12.707031,11.707031 16,8.4140621 Z m -6,3.9999999 0.292969,0.292969 a 1.0001,1.0001 0 0 0 1.414062,0 L 12,12.414062 14.585938,15 7.4140625,15 10,12.414062 Z"/>
 </svg>

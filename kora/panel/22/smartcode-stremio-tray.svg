@@ -1,23 +1,9 @@
-
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="22px" height="22px" viewBox="0 0 22 22" version="1.1">
-<defs>
-<filter id="alpha" filterUnits="objectBoundingBox" x="0%" y="0%" width="100%" height="100%">
-  <feColorMatrix type="matrix" in="SourceGraphic" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
-</filter>
-<mask id="mask0">
-  <g filter="url(#alpha)">
-<rect x="0" y="0" width="22" height="22" style="fill:rgb(0%,0%,0%);fill-opacity:0.3;stroke:none;"/>
-  </g>
-</mask>
-<clipPath id="clip1">
-  <rect x="0" y="0" width="22" height="22"/>
-</clipPath>
-<g id="surface5" clip-path="url(#clip1)">
-<path style=" stroke:none;fill-rule:nonzero;fill:rgb(87.450981%,87.450981%,87.450981%);fill-opacity:1;" d="M 11 1.375 C 10.496094 1.375 9.992188 1.5625 9.613281 1.9375 L 1.9375 9.617188 C 1.5625 9.992188 1.375 10.496094 1.375 11 L 9.625 11 L 9.625 7.390625 L 14.4375 11 L 20.625 11 C 20.625 10.496094 20.4375 9.992188 20.058594 9.617188 L 12.386719 1.9375 C 12.007812 1.5625 11.503906 1.375 11 1.375 Z M 11 1.375 "/>
-</g>
-</defs>
-<g id="surface1">
-<use xlink:href="#surface5" mask="url(#mask0)"/>
-<path style=" stroke:none;fill-rule:nonzero;fill:rgb(87.450981%,87.450981%,87.450981%);fill-opacity:1;" d="M 1.375 11 C 1.375 11.503906 1.566406 12.007812 1.941406 12.382812 L 9.617188 20.058594 C 10.371094 20.8125 11.632812 20.816406 12.386719 20.0625 L 20.058594 12.382812 C 20.4375 12.007812 20.625 11.503906 20.625 11 L 14.4375 11 L 9.625 14.609375 L 9.625 11 Z M 1.375 11 "/>
-</g>
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" version="1.1">
+ <defs>
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
+  </style>
+ </defs>
+ <path style="fill:currentColor;opacity:0.3" class="ColorScheme-Text" d="m 11,2.9999267 c -0.419066,0 -0.839081,0.155495 -1.1523434,0.46875 L 3.4687504,9.8495361 C 3.1553029,10.162975 2.99959,10.580935 3.0000004,10.999927 H 10 V 7.9999267 l 4,3.0000003 h 5 C 19,10.580958 18.842559,10.162791 18.529297,9.8495361 L 12.152344,3.4686767 C 11.839082,3.1554218 11.419067,2.9999267 11,2.9999267 Z"/>
+ <path style="fill:currentColor" class="ColorScheme-Text" d="m 3.0000004,10.999927 c 4.114e-4,0.418498 0.1576125,0.83732 0.4707031,1.15039 l 6.3789063,6.378907 c 0.6265252,0.62651 1.6762082,0.628419 2.3027342,0.002 l 6.376953,-6.380907 C 18.842559,11.837063 19,11.418896 19,10.999927 h -5 l -4,3 v -3 z"/>
 </svg>

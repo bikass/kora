@@ -1,6 +1,8 @@
-
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px" viewBox="0 0 24 24" version="1.1">
-<g id="surface1">
-<path style=" stroke:none;fill-rule:nonzero;fill:rgb(87.450981%,87.450981%,87.450981%);fill-opacity:1;" d="M 2.128906 21.871094 C -0.316406 19.425781 4.90625 2.683594 8.457031 1.574219 C 12.007812 0.464844 23.535156 11.992188 22.425781 15.542969 C 21.316406 19.09375 4.574219 24.316406 2.128906 21.871094 Z M 2.128906 21.871094 "/>
-</g>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" version="1.1">
+ <defs>
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
+  </style>
+ </defs>
+ <path stroke-linejoin="round" stroke-opacity=".347" stroke-width="2" style="fill:currentColor" class="ColorScheme-Text" d="m4.4793 19.521c-1.8624-1.863 2.1153-14.62 4.8217-15.464 2.706-0.8443 11.488 7.937 10.642 10.642-0.844 2.706-13.601 6.684-15.464 4.822z"/>
 </svg>

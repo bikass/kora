@@ -1,24 +1,14 @@
-
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px" viewBox="0 0 24 24" version="1.1">
-<defs>
-<filter id="alpha" filterUnits="objectBoundingBox" x="0%" y="0%" width="100%" height="100%">
-  <feColorMatrix type="matrix" in="SourceGraphic" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
-</filter>
-<mask id="mask0">
-  <g filter="url(#alpha)">
-<rect x="0" y="0" width="24" height="24" style="fill:rgb(0%,0%,0%);fill-opacity:0.3;stroke:none;"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" version="1.1">
+ <defs>
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
+  </style>
+ </defs>
+ <g transform="translate(.011128 -40.004)">
+  <g transform="translate(1,-1)">
+   <path style="fill:currentColor" class="ColorScheme-Text" d="m13.989 45.004 6 10h-6.5l-5.5-10z"/>
+   <path style="fill:currentColor" class="ColorScheme-Text" d="m8.9889 56.014 11-0.01055-3 5-11-0.000003z"/>
+   <path opacity=".3" style="fill:currentColor" class="ColorScheme-Text" d="m1.9889 56.004 5.5-10 3 5.5-5.5 9.5z"/>
   </g>
-</mask>
-<clipPath id="clip1">
-  <rect x="0" y="0" width="24" height="24"/>
-</clipPath>
-<g id="surface5" clip-path="url(#clip1)">
-<path style=" stroke:none;fill-rule:nonzero;fill:rgb(87.450981%,87.450981%,87.450981%);fill-opacity:1;" d="M 7.269531 2.925781 L 0 15.9375 L 4 22.5 L 11.230469 10.207031 Z M 7.269531 2.925781 "/>
-</g>
-</defs>
-<g id="surface1">
-<path style=" stroke:none;fill-rule:nonzero;fill:rgb(87.450981%,87.450981%,87.450981%);fill-opacity:1;" d="M 16 1.5 L 24 15 L 15.332031 15 L 8 1.5 Z M 16 1.5 "/>
-<path style=" stroke:none;fill-rule:nonzero;fill:rgb(87.450981%,87.450981%,87.450981%);fill-opacity:1;" d="M 9 16.511719 L 24 16.5 L 20 22.5 L 5.332031 22.5 Z M 9 16.511719 "/>
-<use xlink:href="#surface5" mask="url(#mask0)"/>
-</g>
+ </g>
 </svg>

@@ -1,22 +1,8 @@
-
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="22px" height="22px" viewBox="0 0 22 22" version="1.1">
-<defs>
-<filter id="alpha" filterUnits="objectBoundingBox" x="0%" y="0%" width="100%" height="100%">
-  <feColorMatrix type="matrix" in="SourceGraphic" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
-</filter>
-<mask id="mask0">
-  <g filter="url(#alpha)">
-<rect x="0" y="0" width="22" height="22" style="fill:rgb(0%,0%,0%);fill-opacity:0.3;stroke:none;"/>
-  </g>
-</mask>
-<clipPath id="clip1">
-  <rect x="0" y="0" width="22" height="22"/>
-</clipPath>
-<g id="surface5" clip-path="url(#clip1)">
-<path style=" stroke:none;fill-rule:nonzero;fill:rgb(87.450981%,87.450981%,87.450981%);fill-opacity:1;" d="M 11.675781 20.84375 L 14.015625 20.84375 L 14.015625 22 L 7.984375 22 L 7.984375 20.84375 L 10.324219 20.84375 L 10.324219 17.15625 C 7.898438 17.085938 4.851562 15.082031 4.851562 11 L 4.851562 8.640625 L 5.96875 8.640625 L 5.96875 11 C 5.96875 14.066406 7.933594 15.953125 11 15.953125 C 14.066406 15.953125 16.03125 14.066406 16.03125 11 L 16.03125 8.640625 L 17.148438 8.640625 L 17.148438 11 C 17.148438 15.082031 14.050781 17.132812 11.675781 17.15625 Z M 11.027344 0 C 13.296875 0.015625 15.125 1.851562 15.125 4.125 L 15.125 11 C 15.125 13.273438 13.296875 15.109375 11.027344 15.125 L 11 15.125 C 8.71875 15.125 6.875 13.28125 6.875 11 L 6.875 4.125 C 6.875 1.84375 8.71875 0 11 0 Z M 11.027344 0 "/>
-</g>
-</defs>
-<g id="surface1">
-<use xlink:href="#surface5" mask="url(#mask0)"/>
-</g>
+<svg xmlns="http://www.w3.org/2000/svg" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2" width="100%" height="100%" version="1.1" viewBox="0 0 22 22" xml:space="preserve">
+ <defs>
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
+  </style>
+ </defs>
+ <path style="fill:currentColor;fill-opacity:0.3;" class="ColorScheme-Text" d="M11.501,18.285l1.732,0l-0,0.856l-4.466,0l0,-0.856l1.732,0l0,-2.73c-1.796,-0.05 -4.049,-1.533 -4.049,-4.555l-0,-1.745l0.826,-0l0,1.745c0,2.269 1.455,3.667 3.724,3.667c2.269,-0 3.724,-1.398 3.724,-3.667l-0,-1.745l0.826,-0l0,1.745c0,3.022 -2.292,4.538 -4.049,4.555l-0,2.73Zm-0.482,-15.426c1.681,0.01 3.034,1.369 3.034,3.053l0,5.088c0,1.683 -1.353,3.043 -3.034,3.053l-0.019,0c-1.689,0 -3.053,-1.364 -3.053,-3.053l-0,-5.088c-0,-1.69 1.364,-3.053 3.053,-3.053l0.019,-0Z"/>
 </svg>

@@ -1,23 +1,11 @@
-
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px" viewBox="0 0 24 24" version="1.1">
-<defs>
-<filter id="alpha" filterUnits="objectBoundingBox" x="0%" y="0%" width="100%" height="100%">
-  <feColorMatrix type="matrix" in="SourceGraphic" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
-</filter>
-<mask id="mask0">
-  <g filter="url(#alpha)">
-<rect x="0" y="0" width="24" height="24" style="fill:rgb(0%,0%,0%);fill-opacity:0.3;stroke:none;"/>
-  </g>
-</mask>
-<clipPath id="clip1">
-  <rect x="0" y="0" width="24" height="24"/>
-</clipPath>
-<g id="surface5" clip-path="url(#clip1)">
-<path style=" stroke:none;fill-rule:nonzero;fill:rgb(87.450981%,87.450981%,87.450981%);fill-opacity:1;" d="M 18.230469 12 C 18.230469 15.441406 15.441406 18.230469 12 18.230469 C 8.558594 18.230469 5.769531 15.441406 5.769531 12 C 5.769531 8.558594 8.558594 5.769531 12 5.769531 C 15.441406 5.769531 18.230469 8.558594 18.230469 12 Z M 18.230469 12 "/>
-</g>
-</defs>
-<g id="surface1">
-<path style=" stroke:none;fill-rule:nonzero;fill:rgb(87.450981%,87.450981%,87.450981%);fill-opacity:1;" d="M 12 1.5 C 6.238281 1.5 1.5 6.238281 1.5 12 C 1.5 17.761719 6.238281 22.5 12 22.5 C 17.761719 22.5 22.5 17.761719 22.5 12 C 22.5 6.238281 17.761719 1.5 12 1.5 Z M 12 3.898438 C 16.445312 3.898438 20.101562 7.554688 20.101562 12 C 20.101562 16.445312 16.445312 20.101562 12 20.101562 C 7.554688 20.101562 3.898438 16.445312 3.898438 12 C 3.898438 7.554688 7.554688 3.898438 12 3.898438 Z M 12 3.898438 "/>
-<use xlink:href="#surface5" mask="url(#mask0)"/>
-</g>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" version="1.1">
+ <defs>
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
+  </style>
+ </defs>
+ <g transform="translate(1,1)">
+  <path style="fill:currentColor" class="ColorScheme-Text" d="m11 3a8 8 0 0 0 -8 8 8 8 0 0 0 8 8 8 8 0 0 0 8 -8 8 8 0 0 0 -8 -8zm0 4a4 4 0 0 1 4 4 4 4 0 0 1 -4 4 4 4 0 0 1 -4 -4 4 4 0 0 1 4 -4z"/>
+  <circle opacity=".3" style="fill:currentColor" class="ColorScheme-Text" cx="11" cy="11" r="3"/>
+ </g>
 </svg>

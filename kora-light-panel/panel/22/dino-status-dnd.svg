@@ -1,6 +1,8 @@
-
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="22px" height="22px" viewBox="0 0 22 22" version="1.1">
-<g id="surface1">
-<path style=" stroke:none;fill-rule:nonzero;fill:rgb(26.666668%,26.666668%,26.666668%);fill-opacity:1;" d="M 11 1.375 C 5.683594 1.375 1.375 5.683594 1.375 11 C 1.375 16.316406 5.683594 20.625 11 20.625 C 16.316406 20.625 20.625 16.316406 20.625 11 C 20.625 5.683594 16.316406 1.375 11 1.375 Z M 5.328125 9.625 L 16.671875 9.625 C 17.339844 9.625 17.875 10.160156 17.875 10.828125 L 17.875 11.171875 C 17.875 11.839844 17.339844 12.375 16.671875 12.375 L 5.328125 12.375 C 4.660156 12.375 4.125 11.839844 4.125 11.171875 L 4.125 10.828125 C 4.125 10.160156 4.660156 9.625 5.328125 9.625 Z M 5.328125 9.625 "/>
-</g>
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" version="1.1">
+ <defs>
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#444444; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
+  </style>
+ </defs>
+ <path style="fill:currentColor" class="ColorScheme-Text" d="M 11 3 A 8 8 0 0 0 3 11 A 8 8 0 0 0 11 19 A 8 8 0 0 0 19 11 A 8 8 0 0 0 11 3 z M 7 10 L 15 10 C 15.554 10 16 10.446 16 11 C 16 11.554 15.554 12 15 12 L 7 12 C 6.446 12 6 11.554 6 11 C 6 10.446 6.446 10 7 10 z"/>
 </svg>

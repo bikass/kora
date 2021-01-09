@@ -1,6 +1,8 @@
-
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="22px" height="22px" viewBox="0 0 22 22" version="1.1">
-<g id="surface1">
-<path style=" stroke:none;fill-rule:nonzero;fill:rgb(87.450981%,87.450981%,87.450981%);fill-opacity:1;" d="M 2.6875 1.375 C 1.960938 1.375 1.375 1.960938 1.375 2.6875 L 1.375 19.3125 C 1.375 20.039062 1.960938 20.625 2.6875 20.625 L 19.3125 20.625 C 20.039062 20.625 20.625 20.039062 20.625 19.3125 L 20.625 2.6875 C 20.625 1.960938 20.039062 1.375 19.3125 1.375 Z M 5.5 5.5 L 16.5 5.5 L 16.5 8.25 L 12.375 8.25 L 12.375 16.5 L 9.625 16.5 L 9.625 8.25 L 5.5 8.25 Z M 5.5 5.5 "/>
-</g>
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" version="1.1">
+ <defs>
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
+  </style>
+ </defs>
+ <path style="fill:currentColor" class="ColorScheme-Text" d="M 4.0234375 3 C 3.4566955 3 3 3.4566955 3 4.0234375 L 3 16.976562 C 3 17.543305 3.4566955 18 4.0234375 18 L 16.976562 18 C 17.543305 18 18 17.543305 18 16.976562 L 18 4.0234375 C 18 3.4566955 17.543305 3 16.976562 3 L 4.0234375 3 z M 6 6 L 15 6 L 15 9 L 12 9 L 12 15 L 9 15 L 9 9 L 6 9 L 6 6 z"/>
 </svg>

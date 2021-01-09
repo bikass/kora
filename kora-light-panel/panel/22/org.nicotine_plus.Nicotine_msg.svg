@@ -1,7 +1,9 @@
-
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="22px" height="22px" viewBox="0 0 22 22" version="1.1">
-<g id="surface1">
-<path style=" stroke:none;fill-rule:nonzero;fill:rgb(26.666668%,26.666668%,26.666668%);fill-opacity:1;" d="M 0 1.375 L 0 20.625 L 2.75 20.625 L 2.75 4.160156 C 7.640625 4.160156 6.875 13.40625 6.875 20.625 L 9.640625 20.625 C 9.640625 19.257812 9.648438 17.65625 9.652344 16.5 L 13.75 16.5 L 13.75 20.625 L 16.5 20.625 L 16.5 16.5 L 20.625 16.5 L 20.625 13.75 L 16.5 13.75 L 16.5 9.625 L 13.75 9.625 L 13.75 13.75 L 9.632812 13.75 C 9.597656 9.792969 9.410156 6.789062 8.503906 4.757812 C 7.816406 3.21875 6.328125 2.082031 4.816406 1.707031 C 4.003906 1.507812 3.171875 1.429688 2.292969 1.398438 L 2.292969 1.375 Z M 0 1.375 "/>
-<path style=" stroke:none;fill-rule:nonzero;fill:rgb(25.882354%,52.156866%,95.686275%);fill-opacity:1;" d="M 16.5 3.4375 C 16.5 4.578125 15.578125 5.5 14.4375 5.5 C 13.296875 5.5 12.375 4.578125 12.375 3.4375 C 12.375 2.296875 13.296875 1.375 14.4375 1.375 C 15.578125 1.375 16.5 2.296875 16.5 3.4375 Z M 16.5 3.4375 "/>
-</g>
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" version="1.1">
+ <defs>
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#444444; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
+  </style>
+ </defs>
+ <circle style="fill:currentColor" class="ColorScheme-Highlight" cx="15" cy="5" r="2"/>
+ <path style="fill:currentColor" class="ColorScheme-Text" d="M 2 3 L 2 19 L 5 19 L 5 6 C 9 6 7.9863281 13.00016 7.9863281 19 L 11.013672 19 C 11.013672 17.863861 11.017785 16.962267 11.021484 16 L 14 16 L 14 19 L 17 19 L 17 16 L 20 16 L 20 13 L 17 13 L 17 10 L 14 10 L 14 13 L 11.005859 13 C 10.977576 9.711277 10.825347 7.4999007 10.082031 5.8105469 C 9.5195476 4.5321746 8.3009598 3.5890994 7.0664062 3.2773438 C 6.4015163 3.1094422 5.7209314 3.0456154 5 3.0195312 L 5 3 L 2 3 z"/>
 </svg>

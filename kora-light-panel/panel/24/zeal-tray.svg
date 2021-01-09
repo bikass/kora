@@ -1,23 +1,9 @@
-
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px" viewBox="0 0 24 24" version="1.1">
-<defs>
-<filter id="alpha" filterUnits="objectBoundingBox" x="0%" y="0%" width="100%" height="100%">
-  <feColorMatrix type="matrix" in="SourceGraphic" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
-</filter>
-<mask id="mask0">
-  <g filter="url(#alpha)">
-<rect x="0" y="0" width="24" height="24" style="fill:rgb(0%,0%,0%);fill-opacity:0.3;stroke:none;"/>
-  </g>
-</mask>
-<clipPath id="clip1">
-  <rect x="0" y="0" width="24" height="24"/>
-</clipPath>
-<g id="surface5" clip-path="url(#clip1)">
-<path style=" stroke:none;fill-rule:nonzero;fill:rgb(26.666668%,26.666668%,26.666668%);fill-opacity:1;" d="M 7.5 1.5 L 7.5 22.5 L 19.875 22.5 C 20.5 22.5 21 22.027344 21 21.449219 L 21 2.550781 C 21 1.96875 20.5 1.5 19.875 1.5 Z M 11.25 6 L 17.25 6 C 17.847656 6 18.207031 6.667969 17.875 7.164062 L 12.652344 16.5 L 17.25 16.5 C 18.265625 16.484375 18.265625 18.015625 17.25 18 L 11.25 18 C 10.652344 18 10.292969 17.332031 10.625 16.835938 L 15.847656 7.5 L 11.25 7.5 C 10.234375 7.515625 10.234375 5.984375 11.25 6 Z M 11.25 6 "/>
-</g>
-</defs>
-<g id="surface1">
-<path style=" stroke:none;fill-rule:nonzero;fill:rgb(26.666668%,26.666668%,26.666668%);fill-opacity:1;" d="M 4.136719 1.5 C 3.507812 1.5 3 1.96875 3 2.550781 L 3 21.449219 C 3 22.03125 3.507812 22.5 4.136719 22.5 L 7.5 22.5 L 7.5 1.5 Z M 4.136719 1.5 "/>
-<use xlink:href="#surface5" mask="url(#mask0)"/>
-</g>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" version="1.1">
+ <defs>
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#444444; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
+  </style>
+ </defs>
+ <path style="opacity:0.3;fill:currentColor" class="ColorScheme-Text" d="M 5.8854167,4.0000003 C 5.3948958,4.0000003 5,4.3568003 5,4.8000003 L 5,19.200001 C 5,19.6432 5.3948958,20 5.8854167,20 l 2.1145831,0 0,-15.9999997 z"/>
+ <path style="fill:currentColor" class="ColorScheme-Text" d="M 7.9999998,4.0000002 7.9999998,20 18.125,20 C 18.60975,20 19,19.642418 19,19.199219 L 19,4.8007815 c 0,-0.4432 -0.39025,-0.8007813 -0.875,-0.8007813 l -6.134765,0 -3.9902352,0 z m 2.5000002,3 6,0 A 0.50005,0.50005 0 0 1 16.916016,7.777344 L 11.433594,16 16.5,16 a 0.50005,0.50005 0 1 1 0,1 l -6,0 a 0.50005,0.50005 0 0 1 -0.416015,-0.777344 l 5.482421,-8.2226558 -5.066406,0 a 0.50005,0.50005 0 1 1 0,-1 z"/>
 </svg>

@@ -1,23 +1,9 @@
-
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="22px" height="22px" viewBox="0 0 22 22" version="1.1">
-<defs>
-<filter id="alpha" filterUnits="objectBoundingBox" x="0%" y="0%" width="100%" height="100%">
-  <feColorMatrix type="matrix" in="SourceGraphic" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
-</filter>
-<mask id="mask0">
-  <g filter="url(#alpha)">
-<rect x="0" y="0" width="22" height="22" style="fill:rgb(0%,0%,0%);fill-opacity:0.3;stroke:none;"/>
-  </g>
-</mask>
-<clipPath id="clip1">
-  <rect x="0" y="0" width="22" height="22"/>
-</clipPath>
-<g id="surface5" clip-path="url(#clip1)">
-<path style=" stroke:none;fill-rule:nonzero;fill:rgb(87.450981%,87.450981%,87.450981%);fill-opacity:1;" d="M 9.625 13.75 L 12.375 13.75 L 12.375 2.75 L 9.625 2.75 Z M 9.625 13.75 "/>
-</g>
-</defs>
-<g id="surface1">
-<path style=" stroke:none;fill-rule:nonzero;fill:rgb(87.450981%,87.450981%,87.450981%);fill-opacity:1;" d="M 8.25 1.375 C 7.488281 1.375 6.875 1.988281 6.875 2.75 C 6.875 3.511719 7.488281 4.125 8.25 4.125 L 13.75 4.125 C 14.511719 4.125 15.125 3.511719 15.125 2.75 C 15.125 1.988281 14.511719 1.375 13.75 1.375 Z M 6.679688 8.25 C 6.027344 8.25 5.5 8.777344 5.5 9.429688 L 5.5 18.070312 C 5.5 18.722656 6.027344 19.25 6.679688 19.25 L 15.320312 19.25 C 15.972656 19.25 16.5 18.722656 16.5 18.070312 L 16.5 9.429688 C 16.5 8.777344 15.972656 8.25 15.320312 8.25 L 12.375 8.25 L 12.375 11 L 14 12.375 L 12.375 12.375 L 12.375 15.125 L 14 15.125 L 11 17.75 L 8 15.125 L 9.625 15.125 L 9.625 12.375 L 8 12.375 L 9.625 11 L 9.625 8.25 Z M 6.679688 8.25 "/>
-<use xlink:href="#surface5" mask="url(#mask0)"/>
-</g>
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" version="1.1">
+ <defs>
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
+  </style>
+ </defs>
+ <path style="fill:currentColor" class="ColorScheme-Text" d="M 7.5 3 C 6.669 3 6 3.669 6 4.5 C 6 5.331 6.669 6 7.5 6 L 13.5 6 C 14.331 6 15 5.331 15 4.5 C 15 3.669 14.331 3 13.5 3 L 7.5 3 z M 6.1777344 8 C 5.5248058 8 5 8.5248058 5 9.1777344 L 5 17.822266 C 5 18.475194 5.5248058 19 6.1777344 19 L 14.822266 19 C 15.475194 19 16 18.475194 16 17.822266 L 16 9.1777344 C 16 8.5248058 15.475194 8 14.822266 8 L 12 8 L 12 10.75 L 13.5 12 L 12 12 L 12 13 L 12 15 L 13.5 15 L 10.5 17.5 L 7.5 15 L 9 15 L 9 13 L 9 12 L 7.5 12 L 9 10.75 L 9 8 L 6.1777344 8 z"/>
+ <rect width="3" height="9" x="9" y="-13" transform="scale(1,-1)" style="opacity:0.3;fill:currentColor" class="ColorScheme-Text"/>
 </svg>

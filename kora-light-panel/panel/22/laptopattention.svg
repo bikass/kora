@@ -1,7 +1,9 @@
-
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="22px" height="22px" viewBox="0 0 22 22" version="1.1">
-<g id="surface1">
-<path style=" stroke:none;fill-rule:nonzero;fill:rgb(26.666668%,26.666668%,26.666668%);fill-opacity:1;" d="M 3.378906 3.324219 C 2.671875 3.324219 2.105469 3.890625 2.105469 4.59375 L 2.105469 16.03125 C 2.105469 16.734375 2.671875 17.300781 3.378906 17.300781 L 2.59375 17.300781 L 0 19.25 L 0 20.625 L 22 20.625 L 22 19.25 L 19.40625 17.300781 L 18.621094 17.300781 C 19.328125 17.300781 19.894531 16.734375 19.894531 16.03125 L 19.894531 4.59375 C 19.894531 3.890625 19.328125 3.324219 18.621094 3.324219 Z M 2.957031 4.023438 L 19.042969 4.023438 L 19.042969 16.441406 L 2.957031 16.441406 Z M 7.867188 18.75 L 14.132812 18.75 L 14.132812 20.125 L 7.867188 20.125 Z M 7.867188 18.75 "/>
-<path style=" stroke:none;fill-rule:nonzero;fill:rgb(100%,59.607846%,0%);fill-opacity:1;" d="M 19.25 9.625 L 19.25 15.125 L 19.59375 17.875 L 21.65625 17.875 L 22 15.125 L 22 9.625 Z M 20.496094 19.25 C 19.808594 19.25 19.25 19.808594 19.25 20.496094 L 19.25 20.753906 C 19.25 21.441406 19.808594 22 20.496094 22 L 20.753906 22 C 21.441406 22 22 21.441406 22 20.753906 L 22 20.496094 C 22 19.808594 21.441406 19.25 20.753906 19.25 Z M 20.496094 19.25 "/>
-</g>
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" version="1.1">
+ <defs>
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#444444; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
+  </style>
+ </defs>
+ <path style="fill:currentColor" class="ColorScheme-Text" d="M 4 4 C 3.446 4 3 4.446 3 5 L 3 15 C 3 15.554 3.446 16 4 16 L 2 16 L 2 17 C 2 17.554 2.892 18 4 18 L 17 18 L 17 15 L 5 15 L 5 6 L 17 6 L 17 9 L 19 9 L 19 5 C 19 4.446 18.554 4 18 4 L 4 4 z M 9 16 L 13 16 L 13 17 L 9 17 L 9 16 z"/>
+ <path style="fill:currentColor" class="ColorScheme-NeutralText" d="M 18,10 V 14 L 18.25,16 H 19.75 L 20,14 V 10 Z M 18,17 V 19 H 20 V 17 Z"/>
 </svg>

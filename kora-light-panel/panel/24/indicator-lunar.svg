@@ -1,23 +1,9 @@
-
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px" viewBox="0 0 24 24" version="1.1">
-<defs>
-<filter id="alpha" filterUnits="objectBoundingBox" x="0%" y="0%" width="100%" height="100%">
-  <feColorMatrix type="matrix" in="SourceGraphic" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
-</filter>
-<mask id="mask0">
-  <g filter="url(#alpha)">
-<rect x="0" y="0" width="24" height="24" style="fill:rgb(0%,0%,0%);fill-opacity:0.3;stroke:none;"/>
-  </g>
-</mask>
-<clipPath id="clip1">
-  <rect x="0" y="0" width="24" height="24"/>
-</clipPath>
-<g id="surface5" clip-path="url(#clip1)">
-<path style=" stroke:none;fill-rule:nonzero;fill:rgb(26.666668%,26.666668%,26.666668%);fill-opacity:1;" d="M 15.003906 1.898438 C 11.628906 3.996094 9 7.671875 9 12.003906 C 9 16.261719 11.628906 19.976562 15.003906 22.054688 C 19.46875 20.722656 22.519531 16.605469 22.5 11.949219 C 22.5 7.3125 19.449219 3.222656 15.003906 1.894531 Z M 15.003906 1.898438 "/>
-</g>
-</defs>
-<g id="surface1">
-<path style=" stroke:none;fill-rule:nonzero;fill:rgb(26.666668%,26.666668%,26.666668%);fill-opacity:1;" d="M 12 1.503906 C 6.199219 1.503906 1.5 6.203125 1.5 12.003906 C 1.5 17.800781 6.199219 22.5 12 22.5 C 12.410156 22.496094 12.824219 22.46875 13.230469 22.414062 C 10.09375 20.054688 7.5 16.246094 7.5 12.050781 C 7.5 7.800781 10.097656 4.03125 13.234375 1.632812 C 12.828125 1.5625 12.414062 1.519531 12 1.5 Z M 12 1.503906 "/>
-<use xlink:href="#surface5" mask="url(#mask0)"/>
-</g>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" version="1.1">
+ <defs>
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#444444; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
+  </style>
+ </defs>
+ <path style="fill:currentColor" class="ColorScheme-Text" d="m12 4a8 8 0 0 0 -8 8 8 8 0 0 0 8 8 8 8 0 0 0 0.9375 -0.064c-2.389-1.8-3.938-4.7-3.938-7.9 0-3.2377 1.5505-6.1111 3.9414-7.9395a8 8 0 0 0 -0.941 -0.1z"/>
+ <path opacity=".3" style="fill:currentColor" class="ColorScheme-Text" d="m14.289 4.3c-2.572 1.6-4.289 4.4-4.289 7.7 0 3.2462 1.7173 6.0772 4.2891 7.6602a8 8 0 0 0 5.711 -7.7 8 8 0 0 0 -5.7109 -7.6621z"/>
 </svg>

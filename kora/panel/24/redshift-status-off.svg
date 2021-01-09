@@ -1,22 +1,10 @@
-
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px" viewBox="0 0 24 24" version="1.1">
-<defs>
-<filter id="alpha" filterUnits="objectBoundingBox" x="0%" y="0%" width="100%" height="100%">
-  <feColorMatrix type="matrix" in="SourceGraphic" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
-</filter>
-<mask id="mask0">
-  <g filter="url(#alpha)">
-<rect x="0" y="0" width="24" height="24" style="fill:rgb(0%,0%,0%);fill-opacity:0.3;stroke:none;"/>
-  </g>
-</mask>
-<clipPath id="clip1">
-  <rect x="0" y="0" width="24" height="24"/>
-</clipPath>
-<g id="surface5" clip-path="url(#clip1)">
-<path style=" stroke:none;fill-rule:nonzero;fill:rgb(87.450981%,87.450981%,87.450981%);fill-opacity:1;" d="M 12 -0.0898438 C 7.738281 -0.0898438 4.289062 3.375 4.289062 7.648438 C 4.289062 10.171875 5.476562 12.390625 7.351562 13.800781 C 8.203125 14.445312 8.925781 15.285156 8.925781 16.441406 L 9 17.910156 L 15 17.910156 L 15.089844 16.441406 C 15.148438 15.285156 15.796875 14.445312 16.648438 13.800781 C 18.523438 12.390625 19.710938 10.171875 19.710938 7.648438 C 19.710938 3.375 16.261719 -0.0898438 12 -0.0898438 Z M 12 3 C 14.550781 3 16.636719 5.085938 16.636719 7.648438 C 16.636719 9.105469 15.960938 10.453125 14.789062 11.324219 C 13.050781 12.644531 12.390625 14.113281 12.148438 15.34375 L 11.851562 15.34375 C 11.609375 14.113281 10.949219 12.644531 9.210938 11.324219 C 8.039062 10.453125 7.363281 9.105469 7.363281 7.648438 C 7.363281 5.085938 9.449219 3 12 3 Z M 9 19.410156 L 9 20.910156 L 15 20.910156 L 15 19.410156 Z M 10.5 22.410156 L 10.5 23.910156 L 13.5 23.910156 L 13.5 22.410156 Z M 10.5 22.410156 "/>
-</g>
-</defs>
-<g id="surface1">
-<use xlink:href="#surface5" mask="url(#mask0)"/>
-</g>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" version="1.1">
+ <defs>
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
+  </style>
+ </defs>
+ <g transform="translate(-564 -940.36)">
+  <path opacity=".35" style="fill:currentColor" class="ColorScheme-Text" d="m576 944.3c-2.8404 0-5.1429 2.3091-5.1429 5.1557 0 1.6879 0.79443 3.1613 2.0411 4.1014 0.57344 0.43406 1.0479 0.99321 1.0479 1.7646l0.0539 0.97822h4l0.0571-0.97822c0.045-0.77013 0.4722-1.3306 1.0446-1.7646 1.2477-0.94012 2.0411-2.4135 2.0411-4.1014 0-2.8466-2.3024-5.1557-5.1429-5.1557zm0 2.0604c1.7033 0 3.0857 1.3895 3.0857 3.0954 0 0.97457-0.4438 1.8715-1.2214 2.4557-1.1602 0.87789-1.5999 1.8586-1.7614 2.6743h-0.2057c-0.16047-0.81566-0.60069-1.7964-1.7614-2.6743-0.77554-0.58474-1.2214-1.4816-1.2214-2.4557 0-1.7059 1.3829-3.0954 3.0857-3.0954zm-2 10.94v1h4v-1zm1 2v1h2v-1z"/>
+ </g>
 </svg>

@@ -1,22 +1,10 @@
-
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="22px" height="22px" viewBox="0 0 22 22" version="1.1">
-<defs>
-<filter id="alpha" filterUnits="objectBoundingBox" x="0%" y="0%" width="100%" height="100%">
-  <feColorMatrix type="matrix" in="SourceGraphic" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
-</filter>
-<mask id="mask0">
-  <g filter="url(#alpha)">
-<rect x="0" y="0" width="22" height="22" style="fill:rgb(0%,0%,0%);fill-opacity:0.3;stroke:none;"/>
-  </g>
-</mask>
-<clipPath id="clip1">
-  <rect x="0" y="0" width="22" height="22"/>
-</clipPath>
-<g id="surface5" clip-path="url(#clip1)">
-<path style=" stroke:none;fill-rule:nonzero;fill:rgb(26.666668%,26.666668%,26.666668%);fill-opacity:1;" d="M 11.148438 2.75 C 8.578125 2.75 4.785156 2.921875 3.648438 2.960938 C 2.410156 3.078125 1.957031 3.144531 1.28125 3.757812 C 0.242188 4.738281 0 6.660156 0 9.597656 L 0 12.394531 C 0 15.746094 0.417969 17.449219 1.113281 18.070312 C 1.90625 18.796875 2.429688 18.855469 2.953125 18.941406 C 3.160156 18.972656 4.613281 19.25 11.054688 19.25 C 15.066406 19.25 18.519531 19.046875 18.875 19 C 19.449219 18.921875 20.265625 18.808594 20.894531 18.070312 C 21.820312 16.953125 22 15.097656 22 12.410156 L 22 9.15625 C 22 7.414062 21.910156 4.960938 20.894531 3.929688 C 20.125 3.234375 19.847656 3.039062 18.257812 2.953125 C 17.808594 2.933594 13.886719 2.75 11.148438 2.75 Z M 9.625 6.875 L 15.125 11 L 9.625 15.125 Z M 9.625 6.875 "/>
-</g>
-</defs>
-<g id="surface1">
-<use xlink:href="#surface5" mask="url(#mask0)"/>
-</g>
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" version="1.1">
+ <defs>
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#444444; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
+  </style>
+ </defs>
+ <g transform="translate(0 -1030.4)">
+  <path opacity=".3" style="fill:currentColor" class="ColorScheme-Text" d="m10.998 1034.4s-3.7785 0.0006-6.2969 0.1895c-0.35178 0.044-1.1182 0.048-1.8027 0.791-0.53956 0.5664-0.71484 1.8515-0.71484 1.8515s-0.17709 1.511-0.17969 3.0215l-0.0039 2.2871c-0.0026 1.5106 0.17969 3.0215 0.17969 3.0215s0.17528 1.2851 0.71484 1.8516c0.68457 0.7435 1.5839 0.7209 1.9844 0.7988 1.4397 0.1432 6.1191 0.1875 6.1191 0.1875s3.7805-0.01 6.2988-0.1953c0.35176-0.044 1.1204-0.048 1.8047-0.791 0.53961-0.5665 0.71484-1.8516 0.71484-1.8516s0.17709-1.5109 0.17969-3.0215l0.0039-2.2871c0.0026-1.5105-0.17969-3.0215-0.17969-3.0215s-0.17524-1.2851-0.71484-1.8515c-0.68432-0.7435-1.4529-0.7475-1.8047-0.791-2.5183-0.1889-6.2949-0.1895-6.2949-0.1895h-0.0078zm-2.998 3 6 4.0137-6 3.9863v-8z"/>
+ </g>
 </svg>

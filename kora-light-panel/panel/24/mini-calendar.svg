@@ -1,23 +1,8 @@
-
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px" viewBox="0 0 24 24" version="1.1">
-<defs>
-<filter id="alpha" filterUnits="objectBoundingBox" x="0%" y="0%" width="100%" height="100%">
-  <feColorMatrix type="matrix" in="SourceGraphic" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
-</filter>
-<mask id="mask0">
-  <g filter="url(#alpha)">
-<rect x="0" y="0" width="24" height="24" style="fill:rgb(0%,0%,0%);fill-opacity:0.3;stroke:none;"/>
-  </g>
-</mask>
-<clipPath id="clip1">
-  <rect x="0" y="0" width="24" height="24"/>
-</clipPath>
-<g id="surface5" clip-path="url(#clip1)">
-<path style=" stroke:none;fill-rule:nonzero;fill:rgb(26.666668%,26.666668%,26.666668%);fill-opacity:1;" d="M 4.5 1.5 C 1.5 1.5 1.5 4.5 1.5 4.5 L 1.5 22.5 L 22.5 22.5 L 22.5 4.5 C 22.5 1.5 19.5 1.5 19.5 1.5 Z M 3.457031 3.457031 L 20.542969 3.457031 L 20.542969 20.542969 L 3.457031 20.542969 Z M 3.457031 3.457031 "/>
-</g>
-</defs>
-<g id="surface1">
-<use xlink:href="#surface5" mask="url(#mask0)"/>
-<path style=" stroke:none;fill-rule:nonzero;fill:rgb(26.666668%,26.666668%,26.666668%);fill-opacity:1;" d="M 6 15 L 6 18 L 9 18 L 9 15 Z M 10.5 15 L 10.5 18 L 13.5 18 L 13.5 15 Z M 15 15 L 15 18 L 18 18 L 18 15 Z M 6 10.5 L 6 13.5 L 9 13.5 L 9 10.5 Z M 10.5 10.5 L 10.5 13.5 L 13.5 13.5 L 13.5 10.5 Z M 15 10.5 L 15 13.5 L 18 13.5 L 18 10.5 Z M 6 6 L 6 9 L 9 9 L 9 6 Z M 10.5 6 L 10.5 9 L 13.5 9 L 13.5 6 Z M 15 6 L 15 9 L 18 9 L 18 6 Z M 15 6 "/>
-</g>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" version="1.1">
+ <defs>
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#444444; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
+  </style>
+ </defs>
+ <path style="fill:currentColor" class="ColorScheme-Text" d="M 7,5 C 4.9997355,5 5,7 5,7 L 5,19 18.999736,19 19,7 c 4.4e-5,-2 -2,-2 -2,-2 z m 0,2 10,0 0,10 -10,0 z m 1,1 0,2 2,0 0,-2 z m 3.0001,0 0,2 2,0 0,-2 z m 3,0 0,2 2,0 0,-2 z M 8,11 l 0,2 2,0 0,-2 z m 3.0001,0 0,2 2,0 0,-2 z m 3,0 0,2 2,0 0,-2 z M 8,14 l 0,2 2,0 0,-2 z m 3.0001,0 0,2 2,0 0,-2 z m 3,0 0,2 2,0 0,-2 z"/>
 </svg>

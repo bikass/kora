@@ -1,23 +1,8 @@
-
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="22px" height="22px" viewBox="0 0 22 22" version="1.1">
-<defs>
-<filter id="alpha" filterUnits="objectBoundingBox" x="0%" y="0%" width="100%" height="100%">
-  <feColorMatrix type="matrix" in="SourceGraphic" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
-</filter>
-<mask id="mask0">
-  <g filter="url(#alpha)">
-<rect x="0" y="0" width="22" height="22" style="fill:rgb(0%,0%,0%);fill-opacity:0.3;stroke:none;"/>
-  </g>
-</mask>
-<clipPath id="clip1">
-  <rect x="0" y="0" width="22" height="22"/>
-</clipPath>
-<g id="surface5" clip-path="url(#clip1)">
-<path style=" stroke:none;fill-rule:nonzero;fill:rgb(87.450981%,87.450981%,87.450981%);fill-opacity:1;" d="M 1.515625 3.550781 L 20.566406 3.550781 L 20.566406 18.753906 L 1.515625 18.753906 Z M 1.515625 3.550781 "/>
-</g>
-</defs>
-<g id="surface1">
-<use xlink:href="#surface5" mask="url(#mask0)"/>
-<path style=" stroke:none;fill-rule:nonzero;fill:rgb(87.450981%,87.450981%,87.450981%);fill-opacity:1;" d="M 2.0625 2.0625 C 0.6875 2.0625 0.6875 3.4375 0.6875 3.4375 L 0.6875 18.5625 C 0.6875 18.5625 0.6875 19.9375 2.0625 19.9375 L 19.9375 19.9375 C 19.9375 19.9375 21.3125 19.9375 21.3125 18.5625 L 21.3125 3.4375 C 21.3125 2.0625 19.9375 2.0625 19.9375 2.0625 Z M 20.070312 17.957031 L 1.929688 17.957031 L 1.929688 8.0625 L 20.070312 8.0625 Z M 20.070312 7.339844 L 11.332031 7.339844 L 11.332031 4.042969 L 20.070312 4.042969 Z M 10.667969 7.339844 L 1.929688 7.339844 L 1.929688 4.042969 L 10.667969 4.042969 Z M 10.667969 7.339844 "/>
-</g>
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" version="1.1">
+ <defs>
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
+  </style>
+ </defs>
+ <path style="fill:currentColor" class="ColorScheme-Text" d="M 3,3 C 2.446,3 2,3.446 2,4 V 18 C 2,18.554 2.446,19 3,19 H 19 C 19.554,19 20,18.554 20,18 V 4 C 20,3.446 19.554,3 19,3 Z M 16,5 H 18 V 6 H 16 Z M 16,7 H 18 V 8 H 16 Z M 16,9 H 18 V 10 H 16 Z M 16,11 H 18 V 12 H 16 Z M 4,14 H 10 V 17 H 4 Z M 12,14 H 18 V 17 H 12 Z"/>
 </svg>

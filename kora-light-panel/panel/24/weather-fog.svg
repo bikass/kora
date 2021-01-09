@@ -1,22 +1,13 @@
-
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px" viewBox="0 0 24 24" version="1.1">
-<defs>
-<filter id="alpha" filterUnits="objectBoundingBox" x="0%" y="0%" width="100%" height="100%">
-  <feColorMatrix type="matrix" in="SourceGraphic" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
-</filter>
-<mask id="mask0">
-  <g filter="url(#alpha)">
-<rect x="0" y="0" width="24" height="24" style="fill:rgb(0%,0%,0%);fill-opacity:0.3;stroke:none;"/>
-  </g>
-</mask>
-<clipPath id="clip1">
-  <rect x="0" y="0" width="24" height="24"/>
-</clipPath>
-<g id="surface5" clip-path="url(#clip1)">
-<path style=" stroke:none;fill-rule:nonzero;fill:rgb(26.666668%,26.666668%,26.666668%);fill-opacity:1;" d="M 3 4.886719 C 2.167969 4.886719 1.5 5.390625 1.5 6.019531 C 1.5 6.648438 2.167969 7.15625 3 7.15625 L 10.539062 7.15625 C 11.371094 7.15625 12.039062 6.648438 12.039062 6.019531 C 12.039062 5.390625 11.371094 4.886719 10.539062 4.886719 Z M 8.363281 8.597656 C 7.53125 8.597656 6.863281 9.101562 6.863281 9.730469 C 6.863281 10.359375 7.53125 10.867188 8.363281 10.867188 L 22.5 10.867188 C 23.332031 10.867188 24 10.359375 24 9.730469 C 24 9.101562 23.332031 8.597656 22.5 8.597656 Z M 1.5 13.132812 C 0.667969 13.132812 0 13.640625 0 14.269531 C 0 14.898438 0.667969 15.402344 1.5 15.402344 L 18 15.402344 C 18.832031 15.402344 19.5 14.898438 19.5 14.269531 C 19.5 13.640625 18.832031 13.132812 18 13.132812 Z M 4.5 17.257812 C 3.667969 17.257812 3 17.765625 3 18.390625 C 3 19.019531 3.667969 19.527344 4.5 19.527344 L 21.308594 19.527344 C 22.140625 19.527344 22.808594 19.019531 22.808594 18.390625 C 22.808594 17.765625 22.140625 17.257812 21.308594 17.257812 Z M 4.5 17.257812 "/>
-</g>
-</defs>
-<g id="surface1">
-<use xlink:href="#surface5" mask="url(#mask0)"/>
-</g>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" version="1.1">
+ <defs>
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#444444; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
+  </style>
+ </defs>
+ <g transform="translate(4,-4)">
+  <rect style="opacity:0.3;fill:currentColor" class="ColorScheme-Text" width="14" height="2" x="2" y="21" rx="1" ry="1"/>
+  <rect style="opacity:0.3;fill:currentColor" class="ColorScheme-Text" width="13" height="2" x="0" y="17" rx="1" ry="1"/>
+  <rect style="opacity:0.3;fill:currentColor" class="ColorScheme-Text" width="12" height="2" x="4" y="13" rx="1" ry="1"/>
+  <rect style="opacity:0.3;fill:currentColor" class="ColorScheme-Text" width="8" height="2" x="1" y="9" rx="1" ry="1"/>
+ </g>
 </svg>

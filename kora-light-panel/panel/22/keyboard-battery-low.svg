@@ -1,24 +1,12 @@
-
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="22px" height="22px" viewBox="0 0 22 22" version="1.1">
-<defs>
-<filter id="alpha" filterUnits="objectBoundingBox" x="0%" y="0%" width="100%" height="100%">
-  <feColorMatrix type="matrix" in="SourceGraphic" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
-</filter>
-<mask id="mask0">
-  <g filter="url(#alpha)">
-<rect x="0" y="0" width="22" height="22" style="fill:rgb(0%,0%,0%);fill-opacity:0.3;stroke:none;"/>
-  </g>
-</mask>
-<clipPath id="clip1">
-  <rect x="0" y="0" width="22" height="22"/>
-</clipPath>
-<g id="surface5" clip-path="url(#clip1)">
-<path style=" stroke:none;fill-rule:evenodd;fill:rgb(100%,59.607846%,0%);fill-opacity:1;" d="M 0.785156 14.796875 L 0.785156 19.460938 C 0.785156 20.101562 1.398438 20.90625 2.160156 20.90625 L 9.679688 20.90625 C 10.441406 20.90625 11.054688 20.101562 11.054688 19.460938 L 11.054688 14.796875 Z M 0.785156 14.796875 "/>
-</g>
-</defs>
-<g id="surface1">
-<use xlink:href="#surface5" mask="url(#mask0)"/>
-<path style=" stroke:none;fill-rule:evenodd;fill:rgb(100%,59.607846%,0%);fill-opacity:1;" d="M 3.921875 2.507812 L 3.921875 1.945312 C 3.921875 1.082031 4.621094 0.382812 5.480469 0.382812 L 6.425781 0.382812 C 7.289062 0.382812 7.988281 1.082031 7.988281 1.945312 L 7.988281 2.507812 L 9.097656 2.507812 C 10.644531 2.507812 11.898438 3.761719 11.898438 5.308594 L 11.898438 18.816406 C 11.898438 20.363281 10.644531 21.617188 9.097656 21.617188 L 2.8125 21.617188 C 1.265625 21.617188 0.0117188 20.363281 0.0117188 18.816406 L 0.0117188 5.308594 C 0.0117188 3.761719 1.265625 2.507812 2.8125 2.507812 Z M 2.8125 3.472656 L 9.097656 3.472656 C 10.113281 3.472656 10.933594 4.292969 10.933594 5.308594 L 10.933594 18.816406 C 10.933594 19.832031 10.113281 20.65625 9.097656 20.65625 L 2.8125 20.65625 C 1.796875 20.65625 0.972656 19.832031 0.972656 18.816406 L 0.972656 5.308594 C 0.972656 4.292969 1.796875 3.472656 2.8125 3.472656 Z M 2.8125 3.472656 "/>
-<path style=" stroke:none;fill-rule:evenodd;fill:rgb(26.666668%,26.666668%,26.666668%);fill-opacity:1;" d="M 12.605469 6.5 L 12.605469 3.472656 L 15.054688 3.472656 L 15.054688 6.5 Z M 12.605469 15.722656 L 12.605469 12.691406 L 15.054688 12.691406 L 15.054688 15.722656 Z M 12.605469 11.082031 L 12.605469 8.054688 L 15.054688 8.054688 L 15.054688 11.082031 Z M 12.605469 20.378906 L 12.605469 17.347656 L 15.054688 17.347656 L 15.054688 20.378906 Z M 16.070312 11.105469 L 16.070312 8.074219 L 18.523438 8.074219 L 18.523438 11.105469 Z M 16.070312 6.5 L 16.070312 3.472656 L 18.523438 3.472656 L 18.523438 6.5 Z M 16.070312 15.722656 L 16.070312 12.691406 L 18.523438 12.691406 L 18.523438 15.722656 Z M 16.070312 20.378906 L 16.070312 17.347656 L 18.523438 17.347656 L 18.523438 20.378906 Z M 19.691406 20.378906 L 19.691406 3.472656 L 22 3.472656 L 22 20.378906 Z M 19.691406 20.378906 "/>
-</g>
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" version="1.1">
+ <defs>
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#444444; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
+  </style>
+ </defs>
+ <g transform="translate(-105 -719.36)">
+  <path opacity=".3" style="fill:currentColor" class="ColorScheme-NeutralText" d="m108.5 722.36c-0.27701 0-0.5 0.22301-0.5 0.50001v0.5l-2-0.002v-0.00026l-0.00001 14.502c0 0.277 0.22299 0.5 0.5 0.5h6c0.27699 0 0.5-0.223 0.5-0.5l0.00001-14.501-0.50001 0.002h-1.5v-0.5c0-0.277-0.22301-0.50001-0.5-0.50001z"/>
+  <path style="fill:currentColor" class="ColorScheme-NeutralText" d="m106 732.36-0.00001 5.5017c-0.00001 0.277 0.22299 0.5 0.5 0.5h6c0.27699 0 0.5-0.223 0.5-0.5l0.00001-5.5017z"/>
+  <path fill-rule="evenodd" style="fill:currentColor" class="ColorScheme-NeutralText" d="m116 723.36c-0.554 0-1 0.446-1 1v13c0 0.554 0.446 1 1 1h5c0.554 0 1-0.446 1-1v-13c0-0.554-0.446-1-1-1h-5zm0 3h1v1h-1v-1zm2 0h1v1h-1v-1zm2 1h1v7h-1v-7zm-4 1h1v1h-1v-1zm2 0h1v1h-1v-1zm-2 2h1v1h-1v-1zm2 0h1v1h-1v-1zm-2 2h1v1h-1v-1zm2 0h1v1h-1v-1zm-2 2h1v1h-1v-1zm2 0h1v1h-1v-1z"/>
+ </g>
 </svg>
