@@ -1,9 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2" width="100%" height="100%" version="1.1" viewBox="0 0 24 24" xml:space="preserve">
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="-4 -4 24 24">
  <defs>
   <style id="current-color-scheme" type="text/css">
    .ColorScheme-Text { color:#444444; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
   </style>
  </defs>
- <path style="fill:currentColor;fill-opacity:0.3;" class="ColorScheme-Text" d="M3.537,4.753c-0.758,-0.001 -1.232,0.711 -0.854,1.28c0,0 2.232,1.574 2.232,4.057l-0,4.598c-0,1.694 1.364,3.059 3.059,3.059l10.417,0c1.695,0 3.059,-1.365 3.059,-3.059l0,-6.876c0,-1.694 -1.364,-3.059 -3.059,-3.059l-14.854,-0Z"/>
- <path style="fill:currentColor;" class="ColorScheme-Text" d="M8.964,14.203l6.074,0c0.282,0 0.506,0.264 0.506,0.591c-0,0.327 -0.224,0.591 -0.506,0.591l-6.074,-0c-0.281,-0 -0.508,-0.264 -0.508,-0.591c0,-0.327 0.227,-0.591 0.508,-0.591Zm-0.118,-3.544l8.593,0c0.237,0 0.429,0.264 0.429,0.591c-0,0.327 -0.192,0.591 -0.429,0.591l-8.593,-0c-0.237,-0 -0.429,-0.264 -0.429,-0.591c0,-0.327 0.192,-0.591 0.429,-0.591Zm0,-3.544l8.593,0c0.237,0 0.429,0.264 0.429,0.591c-0,0.327 -0.192,0.591 -0.429,0.591l-8.593,-0c-0.237,-0 -0.429,-0.264 -0.429,-0.591c0,-0.327 0.192,-0.591 0.429,-0.591Z"/>
+ <path style="fill:currentColor;opacity:0.3" class="ColorScheme-Text" d="m.836 2c-.642-.001-1.043.602-.723 1.084 0 0 1.889 1.332 1.889 3.434v3.892c0 1.434 1.155 2.59 2.59 2.59h8.818c1.435 0 2.59-1.156 2.59-2.59v-5.82c0-1.434-1.155-2.59-2.59-2.59z"/>
+  <path style="fill:currentColor" class="ColorScheme-Text" d="m5.43 10h5.142c.238 0 .428.223.428.5s-.19.5-.428.5h-5.142c-.238 0-.43-.223-.43-.5s.192-.5.43-.5zm-.1-3h7.274c.201 0 .363.223.363.5s-.162.5-.363.5h-7.274c-.201 0-.363-.223-.363-.5s.162-.5.363-.5zm0-3h7.274c.201 0 .363.223.363.5s-.162.5-.363.5h-7.274c-.201 0-.363-.223-.363-.5s.162-.5.363-.5z"/>
 </svg>

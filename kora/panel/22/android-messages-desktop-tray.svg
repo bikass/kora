@@ -1,9 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2" width="100%" height="100%" version="1.1" viewBox="0 0 22 22" xml:space="preserve">
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="-3 -3 22 22">
  <defs>
   <style id="current-color-scheme" type="text/css">
    .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
   </style>
  </defs>
- <path style="fill:currentColor;fill-opacity:0.3;" class="ColorScheme-Text" d="M2.627,3.884c-0.751,-0.001 -1.219,0.704 -0.845,1.267c-0,0 2.208,1.557 2.208,4.014l-0,4.549c-0,1.676 1.35,3.027 3.027,3.027l10.306,-0c1.677,-0 3.027,-1.351 3.027,-3.027l0,-6.803c0,-1.676 -1.35,-3.027 -3.027,-3.027l-14.696,0Z"/>
- <path style="fill:currentColor;" class="ColorScheme-Text" d="M7.996,13.234l6.01,0c0.278,0 0.5,0.261 0.5,0.585c0,0.324 -0.222,0.584 -0.5,0.584l-6.01,0c-0.278,0 -0.502,-0.26 -0.502,-0.584c-0,-0.324 0.224,-0.585 0.502,-0.585Zm-0.117,-3.506l8.502,0c0.235,0 0.424,0.261 0.424,0.584c0,0.324 -0.189,0.585 -0.424,0.585l-8.502,-0c-0.235,-0 -0.424,-0.261 -0.424,-0.585c0,-0.323 0.189,-0.584 0.424,-0.584Zm0,-3.506l8.502,-0c0.235,-0 0.424,0.26 0.424,0.584c0,0.324 -0.189,0.585 -0.424,0.585l-8.502,-0c-0.235,-0 -0.424,-0.261 -0.424,-0.585c0,-0.324 0.189,-0.584 0.424,-0.584Z"/>
+ <path style="fill:currentColor;opacity:0.3" class="ColorScheme-Text" d="m.836 2c-.642-.001-1.043.602-.723 1.084 0 0 1.889 1.332 1.889 3.434v3.892c0 1.434 1.155 2.59 2.59 2.59h8.818c1.435 0 2.59-1.156 2.59-2.59v-5.82c0-1.434-1.155-2.59-2.59-2.59z"/>
+  <path style="fill:currentColor" class="ColorScheme-Text" d="m5.43 10h5.142c.238 0 .428.223.428.5s-.19.5-.428.5h-5.142c-.238 0-.43-.223-.43-.5s.192-.5.43-.5zm-.1-3h7.274c.201 0 .363.223.363.5s-.162.5-.363.5h-7.274c-.201 0-.363-.223-.363-.5s.162-.5.363-.5zm0-3h7.274c.201 0 .363.223.363.5s-.162.5-.363.5h-7.274c-.201 0-.363-.223-.363-.5s.162-.5.363-.5z"/>
 </svg>

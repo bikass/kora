@@ -1,10 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" version="1.1">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-4 -4 24 24" width="100%" height="100%" version="1.1">
  <defs>
   <style id="current-color-scheme" type="text/css">
    .ColorScheme-Text { color:#444444; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
   </style>
  </defs>
- <g transform="matrix(1,0,0,1,1,1)">
-  <path style="fill:currentColor" class="ColorScheme-PositiveText" d="M 4,4 C 3.446,4 3,4.446 3,5 V 15 C 3,15.554 3.446,16 4,16 H 9 C 8.446,16 8,16.446 8,17 V 18 H 14 V 17 C 14,16.446 13.554,16 13,16 H 18 C 18.554,16 19,15.554 19,15 V 5 C 19,4.446 18.554,4 18,4 Z M 5,6 H 17 V 14 H 5 Z"/>
- </g>
+ <path style="opacity:0.3;fill:currentColor" class="ColorScheme-PositiveText" d="m2 1c-2 0-2 2-2 2v8s0 2 2 2h12s2 0 2-2v-8s0-2-2-2z"/>
+ <path style="fill:currentColor" class="ColorScheme-PositiveText" d="m5.671 13.395h4.658v1.899h-4.658zm-3.671-12.395c-2 0-2 2-2 2v8s0 2 2 2h12s2 0 2-2v-8s0-2-2-2zm0 1h12c1 0 1 1 1 1v8c0 1-1 1-1 1h-12c-1 0-1-1-1-1v-8s0-1 1-1z"/>
 </svg>

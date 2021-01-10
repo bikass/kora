@@ -1,9 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" version="1.1">
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="-4 -4 24 24">
  <defs>
   <style id="current-color-scheme" type="text/css">
    .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
   </style>
  </defs>
- <path style="fill:currentColor" class="ColorScheme-Text" d="M 8.6152344,5 C 7.7475164,5 7.3800613,5.0133915 7.0976562,5.5 L 3.0117188,11.775391 C 3.5436227,11.298911 4.237417,11 5,11 h 7 7 c 0.762583,0 1.456377,0.298911 1.988281,0.775391 L 16.902344,5.5 C 16.619939,5.0133915 16.252484,5 15.384766,5 H 12 Z M 5,12 c -1.108,0 -2,0.892 -2,2 v 2 c 0,1.108 0.892,2 2,2 h 14 c 1.108,0 2,-0.892 2,-2 v -2 c 0,-1.108 -0.892,-2 -2,-2 z m 10,1 A 2,2 0 0 1 16.5,13.679688 2,2 0 0 1 18,13 2,2 0 0 1 20,15 2,2 0 0 1 18,17 2,2 0 0 1 16.5,16.320312 2,2 0 0 1 15,17 2,2 0 0 1 13,15 2,2 0 0 1 15,13 Z"/>
- <path style="fill:currentColor" class="ColorScheme-Highlight" d="m 15,14 a 1,1 0 0 0 -1,1 1,1 0 0 0 1,1 1,1 0 0 0 1,-1 1,1 0 0 0 -1,-1 z m 3,0 a 1,1 0 0 0 -1,1 1,1 0 0 0 1,1 1,1 0 0 0 1,-1 1,1 0 0 0 -1,-1 z"/>
+ <path style="fill:currentColor" class="ColorScheme-Text" d="m2 8c-1.108 0-2 .892-2 2v2c0 1.108.892 2 2 2h12c1.108 0 2-.892 2-2v-2c0-1.108-.892-2-2-2zm8 1c.574.001 1.12.248 1.5.68.379-.432.925-.679 1.5-.68 1.104 0 2 .895 2 2s-.896 2-2 2c-.575-.001-1.121-.248-1.5-.68-.38.432-.926.679-1.5.68-1.105 0-2-.895-2-2s.895-2 2-2z" />
+ <path style="opacity:0.3;fill:currentColor" class="ColorScheme-Text" d="m5.615 2c-.867 0-1.235.013-1.517.5l-4.086 5.275c.532-.476 1.225-.775 1.988-.775h12c.762 0 1.456.299 1.988.775l-4.086-5.275c-.282-.487-.65-.5-1.518-.5z" />
+ <path style="fill:currentColor" class="ColorScheme-Highlight" d="m10 10c-.549 0-1 .451-1 1s.451 1 1 1c.548 0 1-.451 1-1s-.452-1-1-1zm3 0c-.549 0-1 .451-1 1s.451 1 1 1c.548 0 1-.451 1-1s-.452-1-1-1z" />
 </svg>
