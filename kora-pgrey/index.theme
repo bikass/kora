@@ -1,6 +1,6 @@
 [Icon Theme]
-Name=Kora Gray
-Comment=Kora Gray icon theme for GNU/Linux
+Name=Kora Grey
+Comment=Kora Grey icon theme for GNU/Linux
 Inherits=breeze,gnome,hicolor
 
 Example=folder
