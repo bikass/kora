@@ -1,31 +1,39 @@
 [Icon Theme]
 Name=Kora Light
 Comment=Kora Light icon theme for GNU/Linux
-Inherits=breeze,gnome,hicolor
+
+Inherits=breeze,Adwaita,hicolor
 
 Example=folder
 
 FollowsColorScheme=true
 
+# KDE Specific Stuff
+DisplayDepth=32
+LinkOverlay=link_overlay
+LockOverlay=lock_overlay
+ZipOverlay=zip_overlay
 DesktopDefault=48
-DesktopSizes=16,22,24,32,48,64
+DesktopSizes=16,22,32,48,64,128,256
 ToolbarDefault=22
-ToolbarSizes=16,22,24,32,48
+ToolbarSizes=16,22,32,48
 MainToolbarDefault=22
-MainToolbarSizes=16,22,24,32,48
+MainToolbarSizes=16,22,32,48
 SmallDefault=16
-SmallSizes=16,22,24,32,48
+SmallSizes=16,22,32,48
 PanelDefault=48
-PanelSizes=16,22,24,32,48,64
-DialogDefault=48
-DialogSizes=16,22,24,32,48,64
+PanelSizes=16,22,32,48,64,128,256
+DialogDefault=32
+DialogSizes=16,22,32,48,64,128,256
+
 
 
 
 ########## DIRECTORY LIST
 ########## ordered by category and alphabetically
 
-Directories=actions/scalable,actions/scalable@2,actions/symbolic,animations,animations@2,apps/scalable,apps/scalable@2,apps/symbolic,categories/scalable,categories/scalable@2,categories/symbolic,devices/scalable,devices/scalable@2,devices/symbolic,emblems/scalable,emblems/scalable@2,emblems/symbolic,emotes/scalable,emotes/scalable@2,emotes/symbolic,mimetypes/scalable,mimetypes/scalable@2,mimetypes/symbolic,panel/16,panel/16@2,panel/22,panel/22@2,panel/24,panel/24@2,places/scalable,places/scalable@2,places/symbolic,status/scalable,status/scalable@2,status/symbolic,
+Directories=actions/scalable,actions/scalable@2,actions/symbolic,animations/scalable,animations/scalable@2,apps/scalable,apps/scalable@2,apps/symbolic,categories/scalable,categories/scalable@2,categories/symbolic,devices/scalable,devices/scalable@2,devices/symbolic,emblems/scalable,emblems/scalable@2,emblems/symbolic,emotes/scalable,emotes/symbolic,mimetypes/scalable,mimetypes/scalable@2,mimetypes/symbolic,panel/16,panel/16@2,panel/22,panel/22@2,panel/24,panel/24@2,places/scalable,places/scalable@2,places/symbolic,status/scalable,status/scalable@2,status/symbolic
+
 
 
 
@@ -35,16 +43,20 @@ Directories=actions/scalable,actions/scalable@2,actions/symbolic,animations,anim
 [actions/scalable]
 Context=Actions
 Size=16
-Type=Fixed
+MinSize=16
+MaxSize=512
+Type=Scalable
 
 [actions/scalable@2]
 Context=Actions
 Size=16
 Scale=2
-Type=Fixed
+MinSize=16
+MaxSize=512
+Type=Scalable
 
 [actions/symbolic]
-SContext=Actions
+Context=Actions
 Size=16
 MinSize=16
 MaxSize=512
@@ -54,14 +66,14 @@ Type=Scalable
 
 ########## Animations
 
-[animations]
+[animations/scalable]
 Context=Animations
 Size=16
 MinSize=16
 MaxSize=512
 Type=Scalable
 
-[animations@2]
+[animations/scalable@2]
 Context=Animations
 Size=16
 Scale=2
@@ -94,6 +106,7 @@ Size=16
 MinSize=16
 MaxSize=512
 Type=Scalable
+
 
 
 ########## Categories
@@ -183,13 +196,6 @@ MinSize=16
 MaxSize=512
 Type=Scalable
 
-[emotes/scalable@2]
-Context=Emotes
-Size=16
-MinSize=16
-MaxSize=512
-Type=Scalable
-
 [emotes/symbolic]
 Context=Emotes
 Size=16
@@ -222,7 +228,6 @@ Size=16
 MinSize=16
 MaxSize=512
 Type=Scalable
-
 
 
 
@@ -294,46 +299,17 @@ Type=Scalable
 [status/scalable]
 Context=Status
 Size=16
-Type=Fixed
+MinSize=16
+MaxSize=512
+Type=Scalable
 
 [status/scalable@2]
 Context=Status
 Size=16
 Scale=2
-Type=Fixed
-
-[status/scalable]
-Context=Status
-Size=22
-Type=Fixed
-
-[status/scalable@2]
-Context=Status
-Size=22
-Scale=2
-Type=Fixed
-
-[status/scalable]
-Context=Status
-Size=24
-Type=Fixed
-
-[status/scalable@2]
-Context=Status
-Size=24
-Scale=2
-Type=Fixed
-
-[status/scalable]
-Context=Status
-Size=32
-Type=Fixed
-
-[status/scalable@2]
-Context=Status
-Size=32
-Scale=2
-Type=Fixed
+MinSize=16
+MaxSize=512
+Type=Scalable
 
 [status/symbolic]
 Context=Status
