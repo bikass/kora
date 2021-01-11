@@ -1,4 +1,4 @@
-<svg style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2" version="1.1" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+<svg style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
  <g transform="matrix(-1 0 0 1 15.9998 -.002)">
   <path d="m2 6.769v-3.298c0-1.365 1.108-2.473 2.473-2.473h7.044c1.365 0 2.473 1.108 2.473 2.473v9.058c0 1.365-1.108 2.473-2.473 2.473h-7.044c-1.365 0-2.473-1.108-2.473-2.473v-2.544h1v2.544c0 0.813 0.66 1.473 1.473 1.473h7.044c0.813 0 1.473-0.66 1.473-1.473v-9.058c0-0.813-0.66-1.473-1.473-1.473h-7.044c-0.813 0-1.473 0.66-1.473 1.473v3.298h-1z" style="fill:rgb(223,223,223)"/>
  </g>
