@@ -25,7 +25,7 @@ and copy ***kora***, ***kora-light***, ***kora-light-panel*** and ***kora-pgrey*
 
 ### Specific Linux distributions
 
-* **Arch Linux**: [stable](https://aur.archlinux.org/packages/korla-icon-theme/) and [git](https://aur.archlinux.org/packages/korla-icon-theme-git/)
+* **Arch**: [stable](https://aur.archlinux.org/packages/kora-icon-theme/) and [git](https://aur.archlinux.org/packages/kora-icon-theme-git/)
 * **Solus**: sudo eopkg it korla-icon-theme
 
 
