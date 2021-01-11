@@ -1,15 +1,8 @@
-<svg width="48" height="48" xmlns="http://www.w3.org/2000/svg">
- <rect x="4" y="4" width="40" height="40" rx="2" fill="#e11966"/>
- <path d="m6 4c-1.108 0-2 .892-2 2v1c0-1.108.892-2 2-2h36c1.108 0 2 .892 2 2v-1c0-1.108-.892-2-2-2z" fill="#fff" opacity=".2"/>
- <path d="m6 45c-1.108 0-2-.892-2-2v-1c0 1.108.892 2 2 2h36c1.108 0 2-.892 2-2v1c0 1.108-.892 2-2 2z" opacity=".2"/>
- <path d="m13 10h4v19h-4z" opacity=".2"/>
- <path d="m19 16h4v24h-4z" opacity=".2"/>
- <path d="m25 16h4v24h-4z" opacity=".2"/>
- <path d="m31 16h4v14h-4z" opacity=".2"/>
- <g fill="#fff">
-  <path d="m13 9h4v19h-4z"/>
-  <path d="m19 15h4v24h-4z"/>
-  <path d="m25 15h4v24h-4z"/>
-  <path d="m31 15h4v14h-4z"/>
- </g>
+<svg clip-rule="evenodd" fill-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="2" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+ <linearGradient id="a" x2="1" gradientTransform="matrix(0 -33.6872 33.6872 0 923.28 40.4502)" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#a1003e" offset="0"/>
+  <stop stop-color="#e11966" offset="1"/>
+ </linearGradient>
+ <path d="m39.44 45.668h-30.88c-3.438 0-6.228-2.79-6.228-6.228v-30.88c0-3.438 2.79-6.228 6.228-6.228h30.88c3.438 0 6.228 2.79 6.228 6.228v30.88c0 3.438-2.79 6.228-6.228 6.228z" fill="url(#a)"/>
+ <path d="m18.473 14.051h4.422v26.53h-4.422zm6.632 0h4.422v26.53h-4.422zm6.633 0h4.422v15.476h-4.422zm-19.898-6.632h4.422v21.003h-4.422z" fill="#ffffff" fill-rule="nonzero"/>
 </svg>
