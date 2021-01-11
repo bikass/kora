@@ -3,7 +3,7 @@
   <style id="current-color-scheme" type="text/css">
    .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
   </style>
- </defs> 
+ </defs>
  <path style="opacity:0.3;fill:currentColor" class="ColorScheme-Text" d="M1.011,0.989l-0,14l1.009,-0l-0,-14l-1.009,-0Z"/>
  <path style="fill:currentColor" class="ColorScheme-Text"  d="M1.011,11.994l-0,-3.263l12,-0l0,3.263l-12,0Zm1.978,-4.747l0,-3.263l8.042,-0l0,3.263l-8.042,0Z"/>
 </svg>
