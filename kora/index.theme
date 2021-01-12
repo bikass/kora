@@ -1,6 +1,6 @@
 [Icon Theme]
 Name=Kora
-Comment=Korla icon theme for GNU/Linux
+Comment=Kora icon theme for GNU/Linux
 
 Inherits=breeze,Adwaita,hicolor
 
