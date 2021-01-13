@@ -43,17 +43,13 @@ Directories=actions/scalable,actions/scalable@2,actions/symbolic,animations/scal
 [actions/scalable]
 Context=Actions
 Size=16
-MinSize=16
-MaxSize=512
-Type=Scalable
+Type=Fixed
 
 [actions/scalable@2]
 Context=Actions
 Size=16
 Scale=2
-MinSize=16
-MaxSize=512
-Type=Scalable
+Type=Fixed
 
 [actions/symbolic]
 Context=Actions
