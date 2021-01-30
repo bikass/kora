@@ -1,0 +1,26 @@
+<svg clip-rule="evenodd" fill-rule="evenodd" viewBox="0 0 128 128" xmlns="http://www.w3.org/2000/svg">
+ <linearGradient id="a" x2="1" gradientTransform="matrix(0 -82.564 82.564 0 64 87)" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#8a1f24" offset="0"/>
+  <stop stop-color="#fa463b" offset="1"/>
+ </linearGradient>
+ <linearGradient id="b" x2="1" gradientTransform="matrix(0 -85.7542 85.7542 0 66.1337 89.7778)" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#cecece" offset="0"/>
+  <stop stop-color="#ffffff" offset="1"/>
+ </linearGradient>
+ <linearGradient id="c" x1="38" x2="88.377" y1="86" y2="86" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#9a9996" offset="0"/>
+  <stop stop-color="#c0bfbc" offset=".28"/>
+  <stop stop-color="#9f9e9b" offset=".77"/>
+  <stop stop-color="#77767b" offset="1"/>
+ </linearGradient>
+ <path d="m77 88-5 22" fill="none" stroke="#77767b" stroke-width="2"/>
+ <path d="m64 4c-12.355.09-24.879 4.074-34.176 12.215-4.652 4.066-8.449 9.133-10.898 14.805-2.446 5.675-3.524 11.957-2.926 18.105.695 7.16 3.594 13.941 7.207 20.16 3.964 6.834 8.805 13.12 14.398 18.7l6.79 12.015h37.96l8.645-13c4.933-5.447 9.328-11.357 13.125-17.648 3.766-6.243 6.977-12.993 7.875-20.227.766-6.168-.207-12.52-2.613-18.254-2.403-5.734-6.219-10.848-10.907-14.93-9.375-8.168-22.046-12.03-34.48-11.941z" fill="url(#a)" fill-rule="nonzero"/>
+ <path d="m65.262 4.016c-17.219 2.597-33.532 8.3-40.848 28.23-6.604 24.704 3.66 36.617 16.676 55.754l5.851 12.008h7.922c-4.925-14.512-17.086-39.668-17.086-52.305 0-37.058 27.282-43.558 27.485-43.687zm.004 0c.07.187 8.511 17.238 8.507 43.687 0 13.957-1.949 38.047-3.847 52.305h10.074c24.254-43.512 32.934-82.988-14.734-95.992z" fill="url(#b)" fill-rule="nonzero"/>
+ <path d="m83 100 8-13h-54l8.004 13z" fill="#2b2b2b"/>
+ <path d="m52 86 5 23" fill="none" stroke="#c0bfbc" stroke-width="2"/>
+ <path d="m37.457 86.395 12.105 22.605" fill="none" stroke="#9a9996" stroke-width="2"/>
+ <path d="m36 84v2s0 2 1.871 2h52.259c1.87 0 1.87-2 1.87-2v-2z" fill="url(#c)" fill-rule="nonzero"/>
+ <path d="m33.845 84h59.778l-1.623 2h-56.325z" fill="#ffffff" fill-rule="nonzero"/>
+ <path d="m90.5 87-12.063 22" fill="none" stroke="#77767b" stroke-width="2"/>
+ <path d="m48 119.326v-11.326h32v13.326c0 2.56-2.106 4.666-4.666 4.666h-22.668c-2.56 0-4.666-2.106-4.666-4.666z" fill="#e05d00" fill-rule="nonzero"/>
+</svg>
