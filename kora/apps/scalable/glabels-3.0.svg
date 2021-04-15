@@ -1,1 +1,11 @@
-easytag.svg
+<svg clip-rule="evenodd" fill-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="2" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+ <linearGradient id="a" x2="1" gradientTransform="matrix(-.506203 -42 42 -.506203 387.569 40.6128)" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#d56700" offset="0"/>
+  <stop stop-color="#e48a26" offset="1"/>
+ </linearGradient>
+ <path d="m36.575 1.667c2.782 0 5.038 2.257 5.038 5.04l1e-3 34.586c0 2.783-2.256 5.04-5.039 5.04h-25.149c-2.783 0-5.039-2.257-5.039-5.04v-34.586c0-2.783 2.256-5.04 5.039-5.04z" fill="url(#a)" fill-rule="nonzero"/>
+ <path d="m22.918 7.873h-12.985v8.656h12.985zm15.149 0h-12.985v8.656h12.985z" fill="#ffebb7"/>
+ <path d="m22.918 18.693h-12.985v8.657h12.985zm15.149 0h-12.985v8.657h12.985z" fill="#ffd774"/>
+ <path d="m22.918 29.514h-12.985v8.656h12.985zm15.149 0h-12.985v8.656h12.985z" fill="#ffb84a"/>
+ <path d="m12.097 36.006v1.082h8.657v-1.082zm15.149 0v1.082h8.657v-1.082zm-15.149-2.164v1.082h5.411v-1.082zm15.149 0v1.082h5.41v-1.082zm-14.067-3.246v1.082h6.493v-1.082zm15.149 0v1.082h6.493v-1.082zm-16.231-5.41v1.082h8.657v-1.082zm15.149 0v1.082h8.657v-1.082zm-15.149-2.165v1.083h5.411v-1.083zm15.149 0v1.083h5.41v-1.083zm-14.067-3.246v1.082h6.493v-1.082zm15.149 0v1.082h6.493v-1.082zm-16.231-5.41v1.082h8.657v-1.082zm15.149 0v1.082h8.657v-1.082zm-15.149-2.164v1.082h5.411v-1.082zm15.149 0v1.082h5.41v-1.082zm-14.067-3.246v1.082h6.493v-1.082zm15.149 0v1.082h6.493v-1.082z" fill-opacity=".2" fill-rule="nonzero"/>
+</svg>

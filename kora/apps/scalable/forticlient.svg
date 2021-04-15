@@ -1,0 +1,10 @@
+<svg clip-rule="evenodd" fill-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="2" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+ <linearGradient id="a" x2="1" gradientTransform="matrix(.0219096 -44.2485 44.2485 .0219096 23.9999 46.1242)" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#0046a8" offset="0"/>
+  <stop stop-color="#1c7fce" offset="1"/>
+ </linearGradient>
+ <g fill-rule="nonzero">
+  <path d="m24.022 1.876c-10.47 0-18.828 3.356-18.828 3.356l.726 22.629s-.022 11.143 18.08 18.263c18.124-7.12 18.08-18.263 18.08-18.263l.725-22.629c.044 0-8.314-3.356-18.783-3.356z" fill="url(#a)"/>
+  <path d="m14.852 12.938c-1.978 0-3.02 1.331-3.02 3.401v1.024h6.637v-4.425zm5.829 0v4.425h6.638v-4.425zm8.85 0v4.425h6.637v-1.024c0-2.07-1.042-3.401-3.02-3.401zm-17.699 6.637v4.425h6.637v-4.425zm17.699 0v4.425h6.637v-4.425zm-17.699 6.637v1.025c0 2.069 1.042 3.4 3.02 3.4h3.617v-4.425zm8.849 0v4.425h6.638v-4.425zm8.85 0v4.425h3.617c1.978 0 3.02-1.331 3.02-3.4v-1.025z" fill="#ffffff"/>
+ </g>
+</svg>
