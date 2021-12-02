@@ -1,0 +1,21 @@
+<svg clip-rule="evenodd" fill-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="2" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <linearGradient id="a">
+  <stop stop-color="#dfdfdf" offset="0"/>
+  <stop stop-color="#ffffff" offset="1"/>
+ </linearGradient>
+ <linearGradient id="b" x2="1" gradientTransform="matrix(0 -33.6872 33.6872 0 923.28 40.4502)" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+ <linearGradient id="c" x2="1" gradientTransform="matrix(0 -50 6 0 36 42.3879)" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+ <linearGradient id="d" x2="1" gradientTransform="matrix(50 0 0 6 -36 42.3879)" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+ <path d="m39.44 45.668h-30.88c-3.438 0-6.228-2.79-6.228-6.228v-30.88c0-3.438 2.79-6.228 6.228-6.228h30.88c3.438 0 6.228 2.79 6.228 6.228v30.88c0 3.438-2.79 6.228-6.228 6.228z" fill="url(#b)"/>
+ <path d="m41.483 29.984c0 1.611-1.308 2.919-2.92 2.919h-29.126c-1.612 0-2.92-1.308-2.92-2.919v-20.968c0-1.611 1.308-2.919 2.92-2.919h29.126c1.612 0 2.92 1.308 2.92 2.919z" fill="#4f4f4f"/>
+ <g fill-rule="nonzero">
+  <path d="m9.524 29.99c0 .322.304.582.683.582h7.761v-22.144h-7.761c-.379 0-.683.26-.683.582z" fill="#68c7ff"/>
+  <path d="m17.968 30.572h4.826v-22.144h-4.826z" fill="#248afd"/>
+  <path d="m22.794 30.572h4.825v-22.144h-4.825z" fill="#7767c0"/>
+  <path d="m27.619 30.572h6.032v-22.144h-6.032z" fill="#248afd"/>
+  <path d="m33.651 30.572h4.136c.382 0 .689-.26.689-.582v-20.98c0-.322-.307-.582-.689-.582h-4.136z" fill="#50beee"/>
+ </g>
+ <path d="m45.668 37.459v1.981c0 3.438-2.79 6.228-6.228 6.228h-30.88c-3.438 0-6.228-2.79-6.228-6.228v-1.981z" fill="#879194"/>
+ <path d="m35 40.388c0-1.104.896-2 2-2s2 .896 2 2-.896 2-2 2-2-.896-2-2z" fill="url(#c)"/>
+ <path d="m11 40.121c0-.405-.328-.733-.733-.733h-.534c-.405 0-.733.328-.733.733v.534c0 .404.328.733.733.733h.534c.405 0 .733-.329.733-.733zm3 0c0-.405-.328-.733-.733-.733h-.534c-.405 0-.733.328-.733.733v.534c0 .404.328.733.733.733h.534c.405 0 .733-.329.733-.733z" fill="url(#d)"/>
+</svg>

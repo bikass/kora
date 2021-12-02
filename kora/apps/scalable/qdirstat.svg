@@ -1,1 +1,11 @@
-disk-usage-analyzer.svg
+<svg clip-rule="evenodd" fill-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="2" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+ <linearGradient id="a" x2="1" gradientTransform="matrix(0 -33.6872 33.6872 0 923.28 40.4502)" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#d1dbde" offset="0"/>
+  <stop stop-color="#ffffff" offset="1"/>
+ </linearGradient>
+ <path d="m39.44 45.668h-30.88c-3.438 0-6.228-2.79-6.228-6.228v-30.88c0-3.438 2.79-6.228 6.228-6.228h30.88c3.438 0 6.228 2.79 6.228 6.228v30.88c0 3.438-2.79 6.228-6.228 6.228z" fill="url(#a)"/>
+ <path d="m20.75 28.334v7.583h6.5v-2.166h-4.333v-5.417zm-10.834-11.918v7.584h6.5v-2.167h-4.333v-5.417z" fill="#2d2d2d" fill-rule="nonzero"/>
+ <path d="m24 7.666c0-.552-.448-1-1-1h-15.334c-.552 0-1 .448-1 1v6.667c0 .552.448 1 1 1h15.334c.552 0 1-.448 1-1z" fill="#058aff"/>
+ <path d="m37.001 19.583c0-.552-.448-1-1-1h-17.501c-.552 0-1 .448-1 1v6.667c0 .552.448 1 1 1h17.501c.552 0 1-.448 1-1z" fill="#cb45ff"/>
+ <path d="m41.334 31.5c0-.552-.448-1-1-1h-11c-.552 0-1 .448-1 1v6.668c0 .552.448 1 1 1h11c.552 0 1-.448 1-1z" fill="#ff971e"/>
+</svg>
