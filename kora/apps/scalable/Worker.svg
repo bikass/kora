@@ -1,0 +1,25 @@
+<svg clip-rule="evenodd" fill-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="2" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+ <linearGradient id="a" x2="1" gradientTransform="matrix(0 -33.6872 33.6872 0 923.28 40.4502)" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#006783" offset="0"/>
+  <stop stop-color="#13bee3" offset="1"/>
+ </linearGradient>
+ <linearGradient id="b" x2="1" gradientTransform="matrix(0 -36.8356 36.8356 0 24 45.668)" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#878787" offset="0"/>
+  <stop stop-color="#999999" offset="1"/>
+ </linearGradient>
+ <path d="m39.44 45.668h-30.88c-3.438 0-6.228-2.79-6.228-6.228v-30.88c0-3.438 2.79-6.228 6.228-6.228h30.88c3.438 0 6.228 2.79 6.228 6.228v30.88c0 3.438-2.79 6.228-6.228 6.228z" fill="url(#a)"/>
+ <path d="m45.668 39.44c0 3.438-2.79 6.228-6.228 6.228h-30.88c-3.438 0-6.228-2.79-6.228-6.228v-30.716h43.336z" fill="url(#b)" fill-rule="nonzero"/>
+ <path d="m39.44 2.332c3.438 0 6.228 2.79 6.228 6.228v.272h-43.336v-.272c0-3.438 2.79-6.228 6.228-6.228z" fill="#0062e9" fill-rule="nonzero"/>
+ <path d="m4.499 10.999h39.002v23.835h-39.002z" fill="#ffffff"/>
+ <g fill="#e6e6e6">
+  <path d="m24 10.999h19.501v23.835h-19.501z"/>
+  <path d="m4.499 37.001h13.001v2.167h-13.001z"/>
+  <path d="m19.666 37.001h6.5v2.167h-6.5z"/>
+ </g>
+ <path d="m28.334 37.001h6.5v2.167h-6.5z" fill="#eb3f3f"/>
+ <path d="m37.001 37.001h6.5v2.167h-6.5z" fill="#e6e6e6"/>
+ <path d="m4.499 39.962h13.001v2.167h-13.001z" fill="#bf46e4"/>
+ <path d="m19.666 39.962h6.5v2.167h-6.5z" fill="#e6e6e6"/>
+ <path d="m28.334 39.962h6.5v2.167h-6.5z" fill="#e6e6e6"/>
+ <path d="m37.001 39.962h6.5v2.167h-6.5z" fill="#157ae9"/>
+</svg>

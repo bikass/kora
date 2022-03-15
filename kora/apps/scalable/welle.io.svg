@@ -1,0 +1,22 @@
+<svg clip-rule="evenodd" fill-rule="evenodd" stroke-linecap="round" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+ <linearGradient id="a" x2="1" gradientTransform="matrix(0 -26 26 0 24 36.6272)" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#523431" offset="0"/>
+  <stop stop-color="#654c4a" offset="1"/>
+ </linearGradient>
+ <path d="m12 10.627 22.509-.048" fill="none" stroke="#bdb0b2" stroke-width="2"/>
+ <circle cx="12" cy="10.627" r="2" fill="#9b8688"/>
+ <path d="m44 15.874c0-2.898-2.349-5.247-5.247-5.247h-29.506c-2.898 0-5.247 2.349-5.247 5.247v18.252c0 2.898 2.349 5.247 5.247 5.247h29.506c2.898 0 5.247-2.349 5.247-5.247v-18.252z" fill="url(#a)"/>
+ <circle cx="30" cy="26" r="2" fill="#9b8688"/>
+ <circle cx="38" cy="26" r="2" fill="#9b8688"/>
+ <circle cx="17" cy="25" r="9" fill="#ffffff"/>
+ <circle cx="17" cy="25" r="7" fill="#9b8688"/>
+ <path d="m28 30h12v4h-12z" fill="#9b8688"/>
+ <path d="m28 16h12v3.987h-12z" fill="#ffffff"/>
+ <g fill="none" stroke-width="2">
+  <path d="m32 20v-4" stroke="#df574d" stroke-linejoin="bevel"/>
+  <path d="m17 29v-8" stroke="#654c4a"/>
+  <path d="m20 27v-4" stroke="#654c4a"/>
+  <path d="m14 27v-4" stroke="#654c4a"/>
+ </g>
+ <path d="m32 30h4v4h-4z" fill="#bdb0b2"/>
+</svg>
