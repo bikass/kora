@@ -1,16 +1,15 @@
 <svg clip-rule="evenodd" fill-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="2" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
- <linearGradient id="a" x2="1" gradientTransform="matrix(0 -33.6872 33.6872 0 923.28 40.4502)" gradientUnits="userSpaceOnUse">
-  <stop stop-color="#ffffff" offset="0"/>
+ <linearGradient id="a" x2="1" gradientTransform="matrix(0 -43.336 43.336 0 24 45.668)" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#d6d6d6" offset="0"/>
   <stop stop-color="#ffffff" offset="1"/>
  </linearGradient>
- <linearGradient id="b" x2="1" gradientTransform="matrix(14.1957 25.2406 -25.2406 14.1957 10.6748 10.8664)" gradientUnits="userSpaceOnUse">
-  <stop stop-color="#9e75ff" offset="0"/>
-  <stop stop-color="#9d9bf6" offset=".42"/>
-  <stop stop-color="#9bede3" offset="1"/>
+ <linearGradient id="b" x2="1" gradientTransform="matrix(14.1957 25.2406 -25.2406 14.1957 -258.905 162.482)" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#8b3fff" offset="0"/>
+  <stop stop-color="#51d9e0" offset="1"/>
  </linearGradient>
- <linearGradient id="c" x2="1" gradientTransform="matrix(-7.35106 16.6254 -16.6254 -7.35106 27.0587 17.3839)" gradientUnits="userSpaceOnUse">
-  <stop stop-color="#6854fc" offset="0"/>
-  <stop stop-color="#2fdbcd" offset="1"/>
+ <linearGradient id="c" x2="1" gradientTransform="matrix(-7.35106 16.6254 -16.6254 -7.35106 -227.859 -95.3299)" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#3317ff" offset="0"/>
+  <stop stop-color="#1bccbe" offset="1"/>
  </linearGradient>
  <path d="m39.44 45.668h-30.88c-3.438 0-6.228-2.79-6.228-6.228v-30.88c0-3.438 2.79-6.228 6.228-6.228h30.88c3.438 0 6.228 2.79 6.228 6.228v30.88c0 3.438-2.79 6.228-6.228 6.228z" fill="url(#a)"/>
  <path d="m8.954 15.56c-.618-1.06-.585-2.378.085-3.406s1.863-1.591 3.082-1.453c6.819.767 17.459 1.964 23.722 2.669 1.105.124 2.069.805 2.555 1.805.487 1 .428 2.179-.156 3.125-3.115 5.046-8.223 13.322-11.4 18.47-.599.97-1.663 1.555-2.803 1.541-1.14-.015-2.189-.626-2.763-1.611-3.289-5.642-8.813-15.12-12.322-21.14z" fill="url(#b)"/>

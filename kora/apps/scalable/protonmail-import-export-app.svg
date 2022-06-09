@@ -1,20 +1,19 @@
 <svg clip-rule="evenodd" fill-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="2" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
- <linearGradient id="a" x2="1" gradientTransform="matrix(0 -33.6872 33.6872 0 1001.84 40.4502)" gradientUnits="userSpaceOnUse">
-  <stop stop-color="#e4e9eb" offset="0"/>
+ <linearGradient id="a" x2="1" gradientTransform="matrix(0 -43.336 43.336 0 24 45.668)" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#d6d6d6" offset="0"/>
   <stop stop-color="#ffffff" offset="1"/>
  </linearGradient>
  <linearGradient id="b" x2="1" gradientTransform="matrix(-2.41646 22.5536 -22.5536 -2.41646 -233.145 -12.5338)" gradientUnits="userSpaceOnUse">
-  <stop stop-color="#9b83ff" offset="0"/>
-  <stop stop-color="#a995ff" offset=".49"/>
-  <stop stop-color="#d2c7ff" offset="1"/>
+  <stop stop-color="#8d59ff" offset="0"/>
+  <stop stop-color="#a48eff" offset="1"/>
  </linearGradient>
- <linearGradient id="c" x2="1" gradientTransform="matrix(2.28598 21.5879 -21.5879 2.28598 -340.103 56.8634)" gradientUnits="userSpaceOnUse">
-  <stop stop-color="#6d4aff" offset="0"/>
-  <stop stop-color="#6d4aff" offset="1"/>
+ <linearGradient id="c" x2="1" gradientTransform="matrix(5.7995 15.7084 -15.7084 5.7995 12.7547 20.9006)" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#3e10ff" offset="0"/>
+  <stop stop-color="#6946ff" offset="1"/>
  </linearGradient>
  <path d="m39.44 45.668h-30.88c-3.438 0-6.228-2.79-6.228-6.228v-30.88c0-3.438 2.79-6.228 6.228-6.228h30.88c3.438 0 6.228 2.79 6.228 6.228v30.88c0 3.438-2.79 6.228-6.228 6.228z" fill="url(#a)"/>
  <path d="m39.561 11.989s-9.513 7.343-13.663 10.546c-1.113.859-2.669.841-3.761-.043-3.985-3.226-12.974-10.503-12.974-10.503v21.311c0 1.828 1.482 3.309 3.31 3.309h23.779c1.828 0 3.309-1.481 3.309-3.309z" fill="url(#b)"/>
  <path d="m32.73 17.262s-7.933 6.212-11.039 8.61c-.833.642-1.998.629-2.816-.033-2.983-2.415-9.712-7.862-9.712-7.862v15.323c0 1.828 1.482 3.309 3.31 3.309h20.366z" fill="url(#c)"/>
  <circle cx="36.849" cy="36.983" r="10.047" fill="#ffffff"/>
- <path d="m40.101 41.483h2.748l-4 4-4-4h2.748v-7h2.504zm-6.496-9h-2.756l4-4 4 4h-2.756v7h-2.488z" fill="#6d4aff"/>
+ <path d="m40.101 41.483h2.748l-4 4-4-4h2.748v-7h2.504zm-6.496-9h-2.756l4-4 4 4h-2.756v7h-2.488z" fill="#3e10ff"/>
 </svg>
