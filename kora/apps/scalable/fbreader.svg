@@ -1,16 +1,21 @@
 <svg clip-rule="evenodd" fill-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="2" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
- <linearGradient id="a" x1="4.09429" x2="43.90569" y1="186.988" y2="186.988" gradientUnits="userSpaceOnUse">
-  <stop stop-color="#fd4369" offset="0"/>
-  <stop stop-color="#d45e5f" offset="1"/>
+ <linearGradient id="a" x2="1" gradientTransform="matrix(0 -42.2226 42.2226 0 201.312 44.4258)" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#e4e4e4" offset="0"/>
+  <stop stop-color="#ffffff" offset="1"/>
  </linearGradient>
- <path d="m43.906 6.636c0-1.403-1.139-2.542-2.542-2.542h-34.728c-1.403 0-2.542 1.139-2.542 2.542v34.728c0 1.403 1.139 2.542 2.542 2.542h34.728c1.403 0 2.542-1.139 2.542-2.542z" fill="url(#a)"/>
- <path d="m7.571 4.306 16.396-.06.585 39.591-16.799.062c-1.275.004-2.306-1.081-2.312-2.434l-.159-34.708c-.006-1.353 1.015-2.446 2.289-2.451z" fill="#fff" fill-rule="nonzero"/>
- <path d="m23.81 4.27.143 39.583 16.043 1.001s2.623.469 2.621-2.36l-.023-36.622c.047-3.121-2.767-2.633-2.767-2.633z" fill="#b3b3b3"/>
- <path d="m23.53 4.27.157 39.583 14.643 2.115s2.392.504 2.379-2.484l-.158-38.666c.031-3.295-2.532-2.79-2.532-2.79z" fill="#fff"/>
- <path d="m23.53 4.27.157 39.583 14.643 2.115s2.392.504 2.379-2.484l-.158-38.666c.031-3.295-2.532-2.79-2.532-2.79z" fill-opacity=".07"/>
+ <linearGradient id="b" x2="1" gradientTransform="matrix(.400858 -43.2676 43.2676 .400858 39.5911 45.6861)" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#e33520" offset="0"/>
+  <stop stop-color="#fd4369" offset="1"/>
+ </linearGradient>
+ <linearGradient id="c" x2="1" gradientTransform="matrix(0 -45.5289 45.5289 0 89.7337 46.2514)" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#cac9c9" offset="0"/>
+  <stop stop-color="#f4f4f4" offset="1"/>
+ </linearGradient>
+ <path d="m26.009 45.69h-17.794c-3.013-.435-5.331-3.03-5.331-6.163v-30.88c0-3.438 2.79-6.228 6.228-6.228h16.896z" fill="url(#a)"/>
+ <path d="m30.934 2.419h9.058c3.438 0 6.228 2.79 6.228 6.228v30.88c0 3.126-2.308 5.717-5.312 6.161l-9.974-.012v-43.257z" fill="url(#b)"/>
+ <path d="m43.39 43.232c-.04 2.642-1.222 4.026-3.552 4.123l-16.083-1.667-.001-43.269 16.299-1.603c2.209-.223 3.46.99 3.477 3.365z" fill="url(#c)"/>
  <g fill-rule="nonzero">
-  <path transform="translate(.552 -3.78869)" d="m24 8s0-1 3-1 3 1 3 1v15l-3-1.5-3 1.5z" fill="#dc4a3d"/>
-  <path d="m9 13v2h13v-2zm0 4v2h13v-2zm0 4v2h13v-2zm0 4v2h13v-2zm0 4v2h13v-2zm0 4v2h13v-2z" fill-opacity=".2"/>
-  <path transform="translate(16.6195)" d="m9 13v2h13v-2zm0 4v2h13v-2zm0 4v2h13v-2zm0 4v2h13v-2zm0 4v2h13v-2zm0 4v2h13v-2z" fill-opacity=".2"/>
+  <path d="m9 33v2h13v-2zm16.62 0-1e-3 2h13.001v-2zm-16.62-4v2h13v-2zm16.62 0v2h13v-2zm-16.62-4v2h13v-2zm16.62 0v2h13v-2zm-16.62-4v2h13v-2zm16.62 0v2h13v-2zm-16.62-4v2h13v-2zm16.62 0v2h13v-2zm-16.62-4v2h13v-2zm16.62 0v2h13v-2z" fill-opacity=".2"/>
+  <path d="m24.934 1.79s0-1 3-1 3 1 3 1v15l-3-1.5-3 1.5z" fill="#dc4a3d"/>
  </g>
 </svg>
