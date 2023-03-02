@@ -1,1 +1,13 @@
-accessories-media-converter.svg
+<svg clip-rule="evenodd" fill-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="2" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+ <linearGradient id="a" x2="1" gradientTransform="matrix(.778203 -31.8314 31.8314 .778203 24.2218 38.9782)" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#363636" offset="0"/>
+  <stop stop-color="#4f4f4f" offset="1"/>
+ </linearGradient>
+ <g transform="matrix(1.11069 0 0 1.11069 -3.7673 -2.6566)">
+  <ellipse cx="25" cy="24" rx="16" ry="15" fill="url(#a)"/>
+  <g fill-rule="nonzero">
+   <path d="m22 4v3c-9.389 0-17 7.611-17 17 0 5.643 2.75 10.644 6.982 13.736 1.99 1.289 4.362-3.076 2.04-4.771-2.468-2.197-4.022-5.399-4.022-8.964 0-6.627 5.372-12 11.999-12v3l11.001-5.5-11.001-5.5z" fill="#9ccd44"/>
+   <path d="m37.264 10.029c-1.755-.005-3.317 3.523-1.285 5.006 2.467 2.198 4.021 5.4 4.021 8.965 0 6.627-5.373 12-12 12v-3l-11 5.5 11 5.5v-3c9.389 0 17-7.611 17-17 0-5.643-2.75-10.644-6.982-13.736-.249-.161-.504-.234-.754-.234z" fill="#5db43e"/>
+  </g>
+ </g>
+</svg>
