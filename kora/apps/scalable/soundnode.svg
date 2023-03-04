@@ -1,30 +1,17 @@
-<svg width="48" height="48" xmlns="http://www.w3.org/2000/svg">
- <rect x="4" y="4" width="40" height="40" rx="20" fill="#86316b"/>
- <path d="m24 4c-11.08 0-20 8.92-20 20 0 .168.008.333.0117.5.2647-10.846 9.0763-19.5 19.988-19.5s19.724 8.6539 19.988 19.5c.004-.16686.0117-.33213.0117-.5 0-11.08-8.92-20-20-20z" fill="#fff" opacity=".1"/>
- <path d="m4.0117 24.5c-.0041.167-.0117.332-.0117.5 0 11.08 8.92 20 20 20s20-8.92 20-20c0-.168-.008-.333-.012-.5-.264 10.846-9.076 19.5-19.988 19.5s-19.724-8.654-19.988-19.5z" opacity=".2"/>
- <path d="m18 18 12-5 4 8-4 12-9 2-8-6z" fill="none" opacity=".6" stroke="#fff"/>
- <path d="m25 28 5-15" fill="none" opacity=".6" stroke="#fff"/>
- <path d="m25 28-7-10" fill="none" opacity=".6" stroke="#fff"/>
- <path d="m25 28-12 1" fill="none" opacity=".6" stroke="#fff"/>
- <path d="m25 28 5 5" fill="none" opacity=".5" stroke="#fff"/>
- <path d="m25 28-4 7" fill="none" opacity=".6" stroke="#fff"/>
- <path d="m25 28 9-7" fill="none" opacity=".6" stroke="#fff"/>
- <g opacity=".2">
-  <circle cx="30" cy="14" r="2"/>
-  <circle cx="34" cy="22" r="2"/>
-  <circle cx="30" cy="34" r="2"/>
-  <circle cx="21" cy="36" r="2"/>
-  <circle cx="13" cy="30" r="2"/>
-  <circle cx="18" cy="19" r="2"/>
-  <circle cx="25" cy="29" r="2"/>
- </g>
+<svg clip-rule="evenodd" fill-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="2" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+ <linearGradient id="a" x2="1" gradientTransform="matrix(0 -40 40 0 24 44)" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#5d0040" offset="0"/>
+  <stop stop-color="#86316b" offset="1"/>
+ </linearGradient>
+ <path transform="matrix(1.1382 0 0 1.1382 -3.3168 -3.3168)" d="m44 24c0-11.038-8.962-20-20-20s-20 8.962-20 20 8.962 20 20 20 20-8.962 20-20z" fill="url(#a)"/>
  <g fill="#fff">
-  <circle cx="30" cy="13" r="2"/>
-  <circle cx="34" cy="21" r="2"/>
-  <circle cx="30" cy="33" r="2"/>
-  <circle cx="21" cy="35" r="2"/>
-  <circle cx="13" cy="29" r="2"/>
-  <circle cx="18" cy="18" r="2"/>
-  <circle cx="25" cy="28" r="2"/>
+  <path transform="matrix(1.1382 0 0 1.1382 -3.3168 -3.3168)" d="m30.238 12.359 4.302 8.603-4.155 12.465-9.501 2.111-8.505-6.379 5.247-11.545zm-12.145 6.645-4.285 9.427 10.283-.857zm11.085-5.12-10.412 4.338 6.074 8.677zm4.191 6.973c-.452-.904-2.473-4.946-3.276-6.554l-4.096 12.288zm-3.588 11.217 3.222-9.665-7.249 5.638zm-7.786 2.193 7.007-1.558-3.893-3.893zm-7.643-4.878 6.495 4.871 3.247-5.683z" fill-opacity=".6"/>
+  <circle cx="30.8292" cy="11.4798" r="2.2764" stroke-width="1.1382"/>
+  <circle cx="35.382" cy="20.5854" r="2.2764" stroke-width="1.1382"/>
+  <circle cx="30.8292" cy="34.2438" r="2.2764" stroke-width="1.1382"/>
+  <circle cx="20.5854" cy="36.5202" r="2.2764" stroke-width="1.1382"/>
+  <circle cx="11.4798" cy="29.691" r="2.2764" stroke-width="1.1382"/>
+  <circle cx="17.1708" cy="17.1708" r="2.2764" stroke-width="1.1382"/>
+  <circle cx="25.1382" cy="28.5528" r="2.2764" stroke-width="1.1382"/>
  </g>
 </svg>

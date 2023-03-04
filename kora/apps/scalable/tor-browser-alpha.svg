@@ -1,10 +1,8 @@
-<svg width="48" height="48" xmlns="http://www.w3.org/2000/svg">
- <circle cx="24" cy="25" r="20" opacity=".2"/>
- <circle cx="24" cy="24" r="20" fill="#06f1ba"/>
- <path d="m24 8c-9.371074 0-17 7.628926-17 17s7.628926 17 17 17 17-7.628926 17-17-7.628926-17-17-17zm0 3c7.749753 0 14 6.250247 14 14s-6.250247 14-14 14-14-6.250247-14-14 6.250247-14 14-14zm0 3c-6.057365 0-11 4.942635-11 11s4.942635 11 11 11 11-4.942635 11-11-4.942635-11-11-11zm0 3c4.436045 0 8 3.563955 8 8s-3.563955 8-8 8-8-3.563955-8-8 3.563955-8 8-8zm0 3a5 5 0 0 0-5 5 5 5 0 0 0 5 5 5 5 0 0 0 5-5 5 5 0 0 0-5-5z" opacity=".1"/>
- <circle cx="24" cy="24" r="15.5" fill="none" stroke="#3f3f3f" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
- <circle cx="24" cy="24" r="9.5" fill="none" stroke="#3f3f3f" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
- <circle cx="24" cy="24" r="5" fill="#3f3f3f"/>
- <path d="m24 43c-11.045695 0-19-7.954305-19-19s7.954305-19 19-19z" fill="#06f1ba"/>
- <path d="m24 4a20 20 0 0 0 -20 20 20 20 0 0 0 .0214844.582031 20 20 0 0 1 19.9785156-19.582031 20 20 0 0 1 19.978516 19.417969 20 20 0 0 0 .021484-.417969 20 20 0 0 0 -20-20z" fill="#fff" opacity=".2"/>
+<svg clip-rule="evenodd" fill-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="2" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+ <linearGradient id="a" x2="1" gradientTransform="matrix(0 -35.3911 35.3911 0 968.766 41.2823)" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#008868" offset="0"/>
+  <stop stop-color="#06f1ba" offset="1"/>
+ </linearGradient>
+ <circle cx="24" cy="24" r="22.764" fill="url(#a)"/>
+ <path d="m24 4.651c10.679 0 19.349 8.67 19.349 19.349s-8.67 19.349-19.349 19.349v-3.414c8.795 0 15.935-7.14 15.935-15.935s-7.14-15.935-15.935-15.935zm0 6.829c6.91 0 12.52 5.61 12.52 12.52s-5.61 12.52-12.52 12.52v-3.414c5.026 0 9.106-4.08 9.106-9.106s-4.08-9.106-9.106-9.106zm0 6.829c3.141 0 5.691 2.55 5.691 5.691s-2.55 5.691-5.691 5.691z" fill="#2d2d2d"/>
 </svg>
