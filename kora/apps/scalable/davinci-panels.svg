@@ -1,0 +1,16 @@
+<svg clip-rule="evenodd" fill-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="2" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <clipPath id="a">
+  <path d="m39.44 45.668h-30.88c-3.438 0-6.228-2.79-6.228-6.228v-30.88c0-3.438 2.79-6.228 6.228-6.228h30.88c3.438 0 6.228 2.79 6.228 6.228v30.88c0 3.438-2.79 6.228-6.228 6.228z" clip-rule="evenodd"/>
+ </clipPath>
+ <g clip-path="url(#a)">
+  <image transform="translate(2.332 2.332)" width="44" height="44" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAYAAAAehFoBAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAzUlEQVRYhe2Z4Q2EMAhGPcM4N8gt4v4j1H/GmGqpBeFdfAPAxyupafx8f0uZQMzRAXqRUlCCgYYnQ8NPnJXEL0RfAlPDGka7XRiOd1/jccMtWmmkJDV5hsDyvobdeQ1fM96MapgTmmiYFtgJEw2VIrgXh5vhFndF/YvhwSEMHJyVIBq+EThwRoEJrhhOPkASw/oQ/TscPKDCcIoj2CDucPKEB3iPUO8dsK6e5FrT425YQ0+CAMNjDVMYbrFPeDCcPzzC8B7chwP32wsXeAWz2FslPWzG5QAAAABJRU5ErkJggg=="/>
+ </g>
+ <g transform="matrix(1.13933 0 0 1.13933 -3.34397 -3.34397)" fill-rule="nonzero">
+  <path d="m24 24h-13c0-7.18 5.82-13 13-13z" fill="#1ac63a"/>
+  <path d="m24 24h-13c0 7.18 5.82 13 13 13z" fill="#2186ff"/>
+  <path d="m24 24h13c0 7.18-5.82 13-13 13z" fill="#d52727"/>
+  <path d="m24 24h13c0-7.18-5.82-13-13-13z" fill="#ffeb23"/>
+ </g>
+ <circle cx="23.99995" cy="23.99995" r="12.53263" fill="#3e658e" stroke-width="1.13933"/>
+ <circle cx="23.99995" cy="23.99995" r="6.83598" fill="#243c56" stroke-width="1.13933"/>
+</svg>

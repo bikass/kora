@@ -1,0 +1,8 @@
+<svg clip-rule="evenodd" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+ <linearGradient id="a" x2="1" gradientTransform="matrix(0 -43.2385 43.2385 0 24 45.5705)" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#6b2455" offset="0"/>
+  <stop stop-color="#97407c" offset="1"/>
+ </linearGradient>
+ <path d="m2.332 8.56c0-3.438 2.79-6.228 6.228-6.228h30.88c3.438 0 6.228 2.79 6.228 6.228v30.88c0 3.438-2.79 6.228-6.228 6.228h-30.88c-3.438 0-6.228-2.79-6.228-6.228z" fill="url(#a)"/>
+ <path transform="matrix(1.0834 0 0 1.0834 -2.0016 -2.0016)" d="m11 13 6 22 7-16.486 7 16.486 6-22" fill="none" stroke="#fff" stroke-opacity=".99" stroke-width="4"/>
+</svg>

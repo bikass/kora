@@ -1,14 +1,13 @@
-<svg width="48" height="48" xmlns="http://www.w3.org/2000/svg">
- <circle cx="24" cy="25" r="20" opacity=".2"/>
- <path d="m24 4a20 20 0 0 1 20 20h-20z" fill="#196260"/>
- <path d="m24 44a20 20 0 0 1-20-20h20z" fill="#97c33d"/>
- <path d="m4 24 4.0000002 3 3.9999998-3z" fill="#5d7dbd"/>
- <path d="m24 4a20 20 0 0 0-20 20h20z" fill="#5d7dbd"/>
- <path d="m44 24-4.000001-3-3.999999 3z" fill="#3f96b9"/>
- <path d="m24 44a20 20 0 0 0 20-20h-20z" fill="#3f96b9"/>
- <path d="m24 44 3-4.000001-3-3.999999z" fill="#97c33d"/>
- <path d="m24 4-3 4.0000002 3 3.9999998z" fill="#196260"/>
- <circle cx="24" cy="25" r="12" opacity=".2"/>
- <circle cx="24" cy="24" r="12" fill="#f9f9f9"/>
- <path d="m24 4a20 20 0 0 0 -20 20 20 20 0 0 0 .0214844.582031 20 20 0 0 1 19.9785156-19.582031 20 20 0 0 1 19.978516 19.417969 20 20 0 0 0 .021484-.417969 20 20 0 0 0 -20-20z" fill="#fff" opacity=".1"/>
+<svg clip-rule="evenodd" fill-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="2" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+ <g transform="matrix(1.1382 0 0 1.1382 -3.3168 -3.3168)" fill-rule="nonzero">
+  <path d="m24 4c10.972 0 20 9.028 20 20h-20z" fill="#196260"/>
+  <path d="m24 44c-10.972 0-20-9.028-20-20h20z" fill="#97c33d"/>
+  <path d="m4 24 4 3 4-3z" fill="#5d7dbd"/>
+  <path d="m24 4c-10.972 0-20 9.028-20 20h20z" fill="#5d7dbd"/>
+  <path d="m44 24-4-3-4 3z" fill="#3f96b9"/>
+  <path d="m24 44c10.972 0 20-9.028 20-20h-20z" fill="#3f96b9"/>
+  <path d="m24 44 3-4-3-4z" fill="#97c33d"/>
+  <path d="m24 4-3 4 3 4z" fill="#196260"/>
+ </g>
+ <circle cx="24" cy="24" r="13.6584" fill="#f9f9f9" stroke-width="1.1382"/>
 </svg>
