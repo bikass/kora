@@ -1,1 +1,20 @@
-org.gnome.IconPreview.svg
+<svg clip-rule="evenodd" fill-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="2" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+ <path d="m8.377 45.665c-3.353-.097-6.045-2.848-6.045-6.225v-14.41h21.998v20.635z" fill="#87b8ed"/>
+ <path d="m39.623 45.665h-15.293v-20.635h21.338v14.41c0 3.377-2.692 6.128-6.045 6.225z" fill="#1a5fb4"/>
+ <path d="m8.56 2.332h15.77v22.698h-21.998v-16.47c0-3.438 2.79-6.228 6.228-6.228z" fill="#f5f5f5"/>
+ <path transform="matrix(-1 0 0 1 48 0)" d="m8.56 2.332h15.11v22.698h-21.338v-16.47c0-3.438 2.79-6.228 6.228-6.228z" fill="#8e8e8e"/>
+ <path transform="scale(.375)" d="m60 16 2 4v2h4v-2l2-4z" fill="#575757" fill-rule="nonzero"/>
+ <path d="m13.995 24h20.505v2.221h-20.505z" fill="#e0e0e0"/>
+ <path transform="scale(.375)" d="m55.359 36.387-1.183 3.824-18.176 55.789v8l8-4 17.82-57.426 1.184-3.824z" fill="#b4b4b1" fill-rule="nonzero"/>
+ <path d="m22.5 1.5h3v4.5h-3z" fill="#77767a" stroke-width=".375"/>
+ <g fill-rule="nonzero">
+  <path transform="scale(.375)" d="m72.641 36.387 1.183 3.824 18.176 55.789v8l-8-4-17.824-57.426-1.18-3.824z" fill="#c0bfbc"/>
+  <path transform="matrix(.375 0 0 .375 -3 -6)" d="m80.641 52.387 1.183 3.824 18.176 55.789v8l-4-7-19.18-59.43z" fill="#deddda"/>
+  <path transform="scale(.375)" d="m55.359 36.387-1.183 3.824-18.176 55.789v8l4-7 19.18-59.43z" fill="#cdcccb"/>
+  <path transform="scale(.375)" d="m76 32c0 6.629-5.371 12-12 12s-12-5.371-12-12 5.371-12 12-12 12 5.371 12 12z" fill="#5e5c64"/>
+  <path transform="scale(.375)" d="m72 32c0 4.418-3.582 8-8 8s-8-3.582-8-8 3.582-8 8-8 8 3.582 8 8z" fill="#c0bfbc"/>
+ </g>
+ <path d="m33 36.346 1.5-.375v3.058l-3-1.529zm-18 .029 1.5 1.125-3 1.56v-3.06z" fill="#3c3c3c"/>
+ <path transform="scale(.375)" d="m64 36c-2.211 0-4-1.789-4-4s1.789-4 4-4 4 1.789 4 4-1.789 4-4 4z" fill="#888" fill-rule="nonzero"/>
+ <path transform="scale(.375)" d="m62 58h4c1.105 0 2 .895 2 2v12c0 1.105-.895 2-2 2h-4c-1.105 0-2-.895-2-2v-12c0-1.105.895-2 2-2z" fill="#9a9996" fill-rule="nonzero"/>
+</svg>

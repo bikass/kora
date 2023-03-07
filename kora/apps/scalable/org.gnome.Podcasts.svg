@@ -1,1 +1,17 @@
-gnome-podcasts.svg
+<svg clip-rule="evenodd" fill-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="2" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+ <linearGradient id="a" x2="1" gradientTransform="matrix(-35.227 -.528935 .528935 -35.227 42.059 24)" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#7d0c00" offset="0"/>
+  <stop stop-color="#bf3128" offset="1"/>
+ </linearGradient>
+ <path transform="matrix(0 1 -1 0 48 -.4455)" d="m37.02 1.667c2.783 0 5.039 2.257 5.039 5.04v34.586c0 2.783-2.256 5.04-5.039 5.04h-25.149c-2.783 0-5.039-2.257-5.039-5.04v-34.586c0-2.783 2.256-5.04 5.039-5.04z" fill="url(#a)" fill-rule="nonzero"/>
+ <path transform="matrix(1.06348 0 0 1.06348 -1.52343 -1.49169)" d="m15 32-3 6.532v2h24v-2l-3-6.532z" fill="#949390" fill-rule="nonzero"/>
+ <path transform="matrix(1.06348 0 0 1.06348 -1.52343 -1.49169)" d="m9 12h30l3 3v17h-36v-17z" fill="#c4c9b8" fill-rule="nonzero"/>
+ <g stroke-width="1.06348">
+  <path d="m4.85745 17.65095h38.28528v10.6348h-38.28528z" fill="#242424"/>
+  <circle cx="13.36529" cy="22.96835" r="2.12696" fill="#f6f5f4"/>
+  <circle cx="33.57141" cy="22.96835" r="2.12696" fill="#f6f5f4"/>
+  <path d="m18.68269 20.84139h10.6348v4.25392h-10.6348z" fill="#949390"/>
+ </g>
+ <path transform="matrix(1.06348 0 0 1.06348 -1.52343 -1.49169)" d="m19 21v4h4.797c.135-.658.203-1.328.203-2-.004-.672-.075-1.342-.213-2z" fill="#424048" fill-opacity=".5" fill-rule="nonzero"/>
+ <path d="m11.23833 39.486689h25.52352v2.12696h-25.52352z" fill-opacity=".3" stroke-width="1.06348"/>
+</svg>
