@@ -1,9 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22">
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="-3 -3 22 22">
  <defs>
   <style id="current-color-scheme" type="text/css">
-   .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
+   .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#4285f4; }
   </style>
  </defs>
- <circle style="fill:currentColor" class="ColorScheme-Highlight" cx="17" cy="17" r="2"/>
- <path style="fill:currentColor" class="ColorScheme-Text" d="M 4.0234375 3 C 3.4566955 3 3 3.4566955 3 4.0234375 L 3 16.976562 C 3 17.543305 3.4566955 18 4.0234375 18 L 14.173828 18 A 3 3 0 0 1 14 17 A 3 3 0 0 1 17 14 A 3 3 0 0 1 18 14.175781 L 18 4.0234375 C 18 3.4566955 17.543305 3 16.976562 3 L 4.0234375 3 z M 6 6 L 15 6 L 15 9 L 12 9 L 12 15 L 9 15 L 9 9 L 6 9 L 6 6 z"/>
+ <path style="fill:currentColor" class="ColorScheme-Text" d="M 1.9550781 1 C 1.4261189 1 1 1.4261189 1 1.9550781 L 1 14.044922 C 1 14.573882 1.4261189 15 1.9550781 15 L 12.054688 15 A 2.5 2.5 0 0 1 12 14.5 A 2.5 2.5 0 0 1 14.5 12 A 2.5 2.5 0 0 1 15 12.050781 L 15 1.9550781 C 15 1.4261189 14.573882 1 14.044922 1 L 1.9550781 1 z M 4 4 L 12 4 L 12 6 L 9 6 L 9 12 L 7 12 L 7 6 L 4 6 L 4 4 z"/>
+ <circle style="fill:currentColor" class="ColorScheme-Highlight" cx="14.5" cy="14.5" r="1.5"/>
 </svg>

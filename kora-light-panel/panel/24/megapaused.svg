@@ -1,11 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24">
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="-4 -4 24 24">
  <defs>
   <style id="current-color-scheme" type="text/css">
-   .ColorScheme-Text { color:#444444; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
+   .ColorScheme-Text { color:#444444; } .ColorScheme-Highlight { color:#4285f4; }
   </style>
  </defs>
- <g transform="translate(1,1.0002371)" style="fill:currentColor;opacity:0.3" class="ColorScheme-Text">
-  <path style="fill:currentColor" class="ColorScheme-Text" d="m 11,3 c -4.4177135,0 -8,3.578744 -8,8 0,4.417713 3.5787438,8 8,8 0.326401,0 0.646718,-0.02453 0.962891,-0.0625 A 5,5 0 0 1 11,16 5,5 0 0 1 13,12.007812 L 13,11.5 12,13 10,13 9,11.5 9,14 7,14 7,8 l 2,0 2,3 2,-3 2,0 0,3.105469 A 5,5 0 0 1 16,11 5,5 0 0 1 18.9375,11.960938 C 18.975324,11.645309 19,11.325879 19,11 19,6.5822866 15.421256,3 11,3 Z"/>
+ <g transform="translate(-3,-3)">
+  <path style="fill:currentColor;opacity:0.3" class="ColorScheme-Text" d="M 8 1 A 7 7 0 0 0 1 8 A 7 7 0 0 0 8 15 A 7 7 0 0 0 8.0058594 15 A 5 5 0 0 1 7 12 A 5 5 0 0 1 7.4199219 10 L 7 10 L 6 8.5 L 6 11 L 4 11 L 4 5 L 6 5 L 8 8 L 10 5 L 12 5 L 12 7 A 5 5 0 0 1 15 8.0078125 A 7 7 0 0 0 15 8 A 7 7 0 0 0 8 1 z" transform="translate(3,3)"/>
  </g>
- <path style="fill:currentColor" class="ColorScheme-Text" d="M 17.279297,13.008049 C 16.510764,12.953728 15.717412,13.121168 15,13.535393 c -1.9132,1.1046 -2.567391,3.551644 -1.462891,5.464844 1.1045,1.9131 3.549791,2.567491 5.462891,1.462891 1.9132,-1.1046 2.569344,-3.549691 1.464844,-5.462891 -0.690313,-1.195688 -1.904658,-1.901651 -3.185547,-1.992188 z M 15,15.000237 l 1,0 0,4 -1,0 0,-4 z m 3,0 1,0 0,4 -1,0 0,-4 z"/>
+ <path style="fill:currentColor" class="ColorScheme-Text" d="m 12.279038,8.0080488 c -0.768533,-0.054321 -1.561885,0.113119 -2.2792976,0.527344 -1.9132001,1.1046001 -2.5673911,3.5516442 -1.4628911,5.4648442 1.1045001,1.9131 3.5497917,2.567491 5.4628917,1.462891 1.9132,-1.1046 2.569344,-3.549691 1.464844,-5.462891 C 14.774272,8.8045488 13.559927,8.0985858 12.279038,8.0080488 Z m -2.2792976,1.9921882 1.0000006,0 0,4 -1.0000006,0 0,-4 z m 3.0000006,0 1,0 0,4 -1,0 0,-4 z"/>
 </svg>

@@ -1,16 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22">
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="-3 -3 22 22">
  <defs>
   <style id="current-color-scheme" type="text/css">
-   .ColorScheme-Text { color:#444444; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
+   .ColorScheme-Text { color:#444444; } .ColorScheme-Highlight { color:#4285f4; }
   </style>
  </defs>
- <g transform="matrix(.546 0 0 .54523 -2.527 -549.36)">
-  <path style="fill:currentColor" class="ColorScheme-Text" d="m31.043 1019.7c-3.179 0.2271-8.7671 5.5822-7.9813 5.5551 6.4993-0.2244 10.559 0.146 15.63 1.7055 0.75087 0.231-0.81026-6.7379-7.6487-7.2606z" xml:space="default"/>
-  <path style="fill:currentColor" class="ColorScheme-Text" d="m21.375 1015.3c-1.8074 2.6003-2.0343 12.777-1.5677 12.15 3.8452-5.1661 13.062-11.546 18.558-14.115 6.7943-3.1757-12.967-2.7882-16.99 1.9653z" xml:space="default"/>
-  <path style="fill:currentColor" class="ColorScheme-Text" d="m13.191 1026.3c1.0415 2.9837 7.7064 6.9501 7.4773 6.2052-1.8951-6.1617-2.5807-10.142-2.3673-15.397 0.0316-0.7781-6.3637 2.5131-5.11 9.192z" xml:space="default"/>
-  <path style="fill:currentColor" class="ColorScheme-Text" d="m14.061 1036.1c2.9518 1.191 10.357-1.1587 9.6399-1.4791-5.9273-2.6501-9.4014-4.7632-13.251-8.3861-0.56994-0.5364-2.2867 6.3965 3.6106 9.8652z" xml:space="default"/>
-  <path style="fill:currentColor" class="ColorScheme-Text" d="m22.601 1041.7c2.8222-1.4672 5.7825-8.5885 5.0733-8.2525-5.8667 2.7794-9.7372 4.0475-15.015 4.6262-0.78146 0.086 3.4625 5.8552 9.9416 3.6263z" xml:space="default"/>
-  <path style="fill:currentColor" class="ColorScheme-Text" d="m32.554 1038.7c0.6894-3.0822-2.8932-9.9173-3.0917-9.1638-1.6417 6.2326-3.1611 9.9796-6.1202 14.347-0.43814 0.6466 6.7504 1.158 9.2119-5.1828z" xml:space="default"/>
-  <path style="fill:currentColor" class="ColorScheme-Text" d="m36.472 1029c-1.9176-2.5217-9.4911-4.2654-9.0418-3.6263 3.7167 5.2856 5.6052 8.8642 7.0341 13.93 0.21158 0.75 5.2747-4.3301 2.0076-10.303z" xml:space="default"/>
- </g>
+ <path style="fill:currentColor" class="ColorScheme-Text" d="M 10.925,4.0902 C 9.4422,4.1873 6.8342,6.8086 7.2012,6.8086 10.234,6.663 12.129,6.8572 14.495,7.6337 14.846,7.7308 14.117,4.3329 10.925,4.0902 Z" xml:space="default"/>
+ <path style="fill:currentColor" class="ColorScheme-Text" d="M 6.4138,1.9542 C 5.5705,3.2164 5.4646,8.1679 5.682,7.8768 7.4772,5.3523 11.777,2.2456 14.342,0.98342 17.513,-0.52153 8.2909,-0.37587 6.4138,1.9542 Z" xml:space="default"/>
+ <path style="fill:currentColor" class="ColorScheme-Text" d="M 2.5946,7.2945 C 3.0808,8.7502 6.1907,10.692 6.0838,10.304 5.1995,7.2945 4.8798,5.4009 4.9792,2.828 4.9941,2.4397 2.0094,4.0416 2.5946,7.2945 Z" xml:space="default"/>
+ <path style="fill:currentColor" class="ColorScheme-Text" d="M 3.0006,12.052 C 4.3782,12.634 7.8336,11.469 7.4994,11.323 4.7333,10.061 3.1121,9.0413 1.3154,7.2455 1.0495,7.0028 0.24826,10.352 3.0006,12.052 Z" xml:space="default"/>
+ <path style="fill:currentColor" class="ColorScheme-Text" d="M 6.9859,14.77 C 8.3029,14.041 9.6841,10.595 9.3533,10.741 6.6159,12.1 4.8094,12.731 2.3463,13.022 1.9818,13.071 3.9624,15.838 6.9859,14.77 Z" xml:space="default"/>
+ <path style="fill:currentColor" class="ColorScheme-Text" d="M 11.63,13.313 C 11.952,11.809 10.281,8.508 10.187,8.8473 9.4217,11.906 8.7123,13.702 7.3319,15.838 7.1273,16.129 10.481,16.372 11.63,13.313 Z" xml:space="default"/>
+ <path style="fill:currentColor" class="ColorScheme-Text" d="M 13.459,8.6051 C 12.564,7.3915 9.0302,6.5174 9.2396,6.8572 10.974,9.4304 11.855,11.129 12.522,13.605 12.621,13.993 14.983,11.517 13.459,8.6051 Z" xml:space="default"/>
 </svg>
