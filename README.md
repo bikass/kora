@@ -28,7 +28,7 @@ and copy ***kora***, ***kora-light***, ***kora-light-panel*** and ***kora-pgrey*
 * **Arch**: [stable](https://aur.archlinux.org/packages/kora-icon-theme/) and [git](https://aur.archlinux.org/packages/kora-icon-theme-git/)
 * **Solus**: sudo eopkg it korla-icon-theme
 
-
+"https://www.paypal.me/todumas"
 
 ## Preview
 
