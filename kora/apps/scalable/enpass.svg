@@ -1,1 +1,8 @@
-stock_keyring.svg
+<svg clip-rule="evenodd" fill-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="2" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+ <linearGradient id="a" x2="1" gradientTransform="matrix(0 -35.3911 35.3911 0 968.766 41.2823)" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#001e83" offset="0"/>
+  <stop stop-color="#135de3" offset="1"/>
+ </linearGradient>
+ <circle cx="24" cy="24" r="22.764" fill="url(#a)"/>
+ <path d="m14.925 12.618c-2.513 0-4.96 2.067-4.535 4.553l2.721 15.935c.425 2.486 2.024 4.552 4.537 4.552h12.704c2.513 0 4.112-2.066 4.537-4.552l2.721-15.935c.425-2.486-2.022-4.553-4.535-4.553zm9.075 5.691c2.498 0 4.553 2.055 4.553 4.553-.002 1.622-.871 3.126-2.277 3.937v5.168c0 .631-.507 1.139-1.138 1.139h-2.276c-.631 0-1.138-.508-1.138-1.139v-5.168c-1.406-.811-2.275-2.315-2.277-3.937 0-2.498 2.055-4.553 4.553-4.553z" fill="#fff" fill-opacity=".9" fill-rule="nonzero"/>
+</svg>
