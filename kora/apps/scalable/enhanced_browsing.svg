@@ -1,9 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" version="1">
- <rect style="opacity:0.2" width="40" height="40" x="4" y="5" rx="12" ry="12"/>
- <rect style="fill:#6943b5" width="40" height="40" x="4" y="4" rx="12" ry="12"/>
- <path style="fill:#ffffff;opacity:0.1" d="M 16 4 C 9.352 4 4 9.352 4 16 L 4 17 C 4 10.352 9.352 5 16 5 L 32 5 C 38.648 5 44 10.352 44 17 L 44 16 C 44 9.352 38.648 4 32 4 L 16 4 z"/>
- <path style="opacity:0.2" d="m 32.908203,11.975701 a 2.0002,2.0002 0 0 0 -1.777344,1.310547 l -8,21 a 2.0004754,2.0004754 0 1 0 3.738282,1.425782 l 8,-21 A 2.0002,2.0002 0 0 0 32.908203,11.975701 Z M 17,18.999139 a 3,3 0 0 0 -3,3 3,3 0 0 0 3,3 3,3 0 0 0 3,-3 3,3 0 0 0 -3,-3 z m 0,12 a 3,3 0 0 0 -3,3 3,3 0 0 0 3,3 3,3 0 0 0 3,-3 3,3 0 0 0 -3,-3 z"/>
- <circle style="fill:#67d0ff" cx="17" cy="21" r="3"/>
- <circle style="fill:#67d0ff" cx="17" cy="33" r="3"/>
- <path style="fill:none;stroke:#67d0ff;stroke-width:4;stroke-linecap:round;stroke-linejoin:round" d="M 25,34 33,13"/>
+<svg clip-rule="evenodd" fill-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="2" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+ <linearGradient id="a" x2="1" gradientTransform="matrix(0 -43.336 43.336 0 24 45.668)" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#481f9a" offset="0"/>
+  <stop stop-color="#6943b5" offset="1"/>
+ </linearGradient>
+ <path d="m39.44 45.668h-30.88c-3.438 0-6.228-2.79-6.228-6.228v-30.88c0-3.438 2.79-6.228 6.228-6.228h30.88c3.438 0 6.228 2.79 6.228 6.228v30.88c0 3.438-2.79 6.228-6.228 6.228z" fill="url(#a)"/>
+ <path transform="matrix(1.12854 0 0 1.12854 -3.14928 -3.02071)" d="m17 18c1.656 0 3 1.344 3 3s-1.344 3-3 3-3-1.344-3-3 1.344-3 3-3zm0 12c1.656 0 3 1.344 3 3s-1.344 3-3 3-3-1.344-3-3 1.344-3 3-3zm9.869 4.712c-.393 1.032-1.549 1.55-2.581 1.157s-1.55-1.549-1.157-2.581l8-21c.393-1.032 1.549-1.55 2.581-1.157s1.55 1.549 1.157 2.581z" fill="#6db6ff"/>
 </svg>
