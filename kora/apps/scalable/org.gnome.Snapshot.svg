@@ -1,0 +1,28 @@
+<svg clip-rule="evenodd" fill-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="2" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+ <radialGradient id="a" cx="0" cy="0" r="1" gradientTransform="matrix(-10.3314 18.9283 -18.9283 -10.3314 30.2045 13.5233)" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#1b70e1" offset="0"/>
+  <stop stop-color="#c2298f" offset="1"/>
+ </radialGradient>
+ <linearGradient id="b" x2="1" gradientTransform="matrix(-12.7043 23.1243 -23.1243 -12.7043 25.6825 17.563)" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#619bf4" stop-opacity="0" offset="0"/>
+  <stop stop-color="#001fb3" offset="1"/>
+ </linearGradient>
+ <linearGradient id="c" x2="1" gradientTransform="matrix(6.9143 -16.5732 16.5732 6.9143 20.0857 32.0936)" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#b640b7" offset="0"/>
+  <stop stop-color="#687add" offset="1"/>
+ </linearGradient>
+ <linearGradient id="d" x2="1" gradientTransform="matrix(0 -28 28 0 24 38)" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#97bcee" stop-opacity="0" offset="0"/>
+  <stop stop-color="#9bc6ff" stop-opacity=".75" offset="1"/>
+ </linearGradient>
+ <path transform="matrix(1.1382 0 0 1.1382 -3.3168 -3.3168)" d="m44 24c0-11.038-8.962-20-20-20s-20 8.962-20 20 8.962 20 20 20 20-8.962 20-20z" fill="#e8e8e8"/>
+ <circle cx="24" cy="24" r="20.487375" fill="#1b1b1b" stroke-width="1.125"/>
+ <path transform="matrix(.986458 0 0 .986458 .325007 .325007)" d="m42 24c0-9.934-8.066-18-18-18s-18 8.066-18 18 8.066 18 18 18 18-8.066 18-18z" fill="none" stroke="#585858" stroke-width="1.01"/>
+ <circle transform="matrix(1.1382 0 0 1.1382 -3.3168 -3.3168)" cx="24" cy="24" r="14" fill="url(#a)"/>
+ <path transform="matrix(.339458 0 0 .339458 15.853 15.853)" d="m44 24c0-11.038-8.962-20-20-20s-20 8.962-20 20 8.962 20 20 20 20-8.962 20-20z" fill="url(#b)"/>
+ <path transform="matrix(1.1382 0 0 1.1382 -3.3168 -3.3168)" d="m24 15c-4.937 0-9 4.063-9 9s4.063 9 9 9 9-4.063 9-9-4.063-9-9-9zm0 3c3.292 0 6 2.708 6 6s-2.708 6-6 6-6-2.708-6-6 2.708-6 6-6z" fill="url(#c)" fill-rule="nonzero"/>
+ <circle cx="31.36813" cy="31.44001" r="2.8899779" fill="#b58fd8" stroke-width=".84626"/>
+ <circle cx="26.814086" cy="27.38911" r="2.275" fill="#9099d5"/>
+ <circle cx="18.309" cy="19.42311" r="5.69125" fill="#fff" stroke-width="1.25"/>
+ <circle transform="matrix(1.1382 0 0 1.1382 -3.3168 -3.3168)" cx="24" cy="24" r="14" fill="url(#d)"/>
+</svg>

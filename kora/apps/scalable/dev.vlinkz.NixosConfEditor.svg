@@ -1,0 +1,18 @@
+<svg clip-rule="evenodd" fill-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="2" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+ <linearGradient id="a" x2="1" gradientTransform="matrix(0 -33.6872 33.6872 0 923.28 40.4502)" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#006783" offset="0"/>
+  <stop stop-color="#13bee3" offset="1"/>
+ </linearGradient>
+ <linearGradient id="b" x2="1" gradientTransform="matrix(0 -40 40 0 24 44)" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#b7b7b7" offset="0"/>
+  <stop stop-color="#d9d9d9" offset="1"/>
+ </linearGradient>
+ <linearGradient id="c" x2="1" gradientTransform="matrix(0 -35.8214 35.8214 0 23.4718 41.863)" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#222" offset="0"/>
+  <stop stop-color="#3f3f3f" offset="1"/>
+ </linearGradient>
+ <path d="m39.44 45.668h-30.88c-3.438 0-6.228-2.79-6.228-6.228v-30.88c0-3.438 2.79-6.228 6.228-6.228h30.88c3.438 0 6.228 2.79 6.228 6.228v30.88c0 3.438-2.79 6.228-6.228 6.228z" fill="url(#a)"/>
+ <path transform="matrix(1.0834 0 0 1.0834 -2.0016 -2.0016)" d="m4 9.749c0-3.174 2.575-5.749 5.749-5.749h28.502c3.174 0 5.749 2.575 5.749 5.749v28.502c0 3.174-2.575 5.749-5.749 5.749h-28.502c-3.174 0-5.749-2.575-5.749-5.749z" fill="url(#b)"/>
+ <path transform="matrix(1.05465 0 0 1.05465 -1.31157 -1.31157)" d="m42 9.793c0-2.094-1.699-3.793-3.793-3.793h-28.414c-2.094 0-3.793 1.699-3.793 3.793v28.414c0 2.094 1.699 3.793 3.793 3.793h28.414c2.094 0 3.793-1.699 3.793-3.793z" fill="url(#c)"/>
+ <path transform="matrix(1.0834 0 0 1.0834 -2.0016 -2.0016)" d="m19.383 20h-3.16l1.111-2h2.049l-1.045-1.809.662-1.191h.957l1.733 3h3.466l-1.732-3h2.306l1.157 2.002 1.156-2.002h.957l.662 1.191-1.621 2.809 1.732 3.002 1.588-2.752 1.133 2.037-.99 1.713h1.941l.555 1-.555 1h-3.095l-1.733 3h3.16l-1.111 2h-2.049l1.045 1.809-.662 1.191h-.957l-1.732-3h-3.467l1.732 3h-2.306l-1.157-2.002-1.156 2.002h-.957l-.662-1.191 1.621-2.809-1.732-3.002-1.588 2.752-1.133-2.037.99-1.713h-1.941l-.555-1 .555-1h3.095zm-.002 4 2.309 4h4.621l2.308-4-2.308-4h-4.621zm-9.145 0 1.764.882v7.112c.084 1.99 2 2.006 2 2.006v2s-3.867.016-4-3.983v-5.899l-2-1v-2.236s2-1 2-1v-5.882c0-4 4-4 4-4v2s-2 0-2 2v7.118zm27.528 0-1.764-.882v-7.118c0-2-2-2-2-2v-2s4 0 4 4v5.882l2 1v2.236s-2 1-2 1v5.899l-.001.016c-.132 3.983-3.999 3.967-3.999 3.967v-2s1.924-.016 2-2.018v-7.1z" fill="#54f8b6"/>
+</svg>

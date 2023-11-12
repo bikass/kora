@@ -1,1 +1,9 @@
-accessories-image-viewer.svg
+<svg clip-rule="evenodd" fill-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="2" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+ <g transform="matrix(1.0834 0 0 1.0834 -2.0016 -2.0016)">
+  <path d="m9.749 4h18.251v14h-24v-8.251c0-3.174 2.575-5.749 5.749-5.749z" fill="#ffc900"/>
+  <path d="m28 4h10.251c3.174 0 5.749 2.575 5.749 5.749v8.251h-16z" fill="#57bf00"/>
+  <path d="m44 19v19.251c0 3.174-2.575 5.749-5.749 5.749h-18.251v-25z" fill="#c61d1e"/>
+  <path d="m19 44h-9.251c-3.174 0-5.749-2.575-5.749-5.749v-19.251h15z" fill="#007cfb"/>
+ </g>
+ <path transform="matrix(0 1.0834 -1.0834 0 -2.0016 -2.0016)" d="m16-26h-12v-4h12v-14h4v22h24v4h-24v14h-4z" fill="#fff"/>
+</svg>
