@@ -1,1 +1,18 @@
-github.svg
+<svg clip-rule="evenodd" fill-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="2" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <linearGradient id="a" x2="1" gradientTransform="matrix(0 -43.3115 43.3115 0 119.412 45.0855)" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#cdb7d7" offset="0"/>
+  <stop stop-color="#fcf9f9" offset="1"/>
+ </linearGradient>
+ <linearGradient id="b" x2="1" gradientTransform="matrix(-.65819 -33.3018 33.3018 -.65819 457.931 37.4854)" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#47003a" offset="0"/>
+  <stop stop-color="#6f0083" offset="1"/>
+ </linearGradient>
+ <clipPath id="c">
+  <path d="m24 1.279c12.54 0 22.721 10.181 22.721 22.721s-10.181 22.721-22.721 22.721-22.721-10.181-22.721-22.721 10.181-22.721 22.721-22.721zm0 3.383c-10.673 0-19.338 8.665-19.338 19.338s8.665 19.338 19.338 19.338 19.338-8.665 19.338-19.338-8.665-19.338-19.338-19.338z" clip-rule="evenodd"/>
+ </clipPath>
+ <circle cx="24" cy="24" r="21.811" fill="url(#a)"/>
+ <path transform="matrix(.954438 0 0 .954438 1.10192 -.32877)" d="m19.162 46.807c0-.513-.093-3.495-.104-5.302-6.025 1.308-7.297-2.905-7.297-2.905-.985-2.501-2.406-3.168-2.406-3.168-1.966-1.344.149-1.317.149-1.317 2.175.154 3.318 2.232 3.318 2.232 1.933 3.31 5.071 2.354 6.305 1.801.197-1.4.756-2.355 1.375-2.896-4.81-.547-9.867-2.406-9.867-10.707 0-2.365.844-4.298 2.23-5.813-.223-.548-.967-2.75.211-5.733 0 0 1.82-.582 5.958 2.221 1.728-.48 3.581-.721 5.423-.729 1.839.008 3.693.249 5.423.729 4.136-2.803 5.952-2.221 5.952-2.221 1.182 2.983.438 5.185.215 5.733 1.388 1.515 2.227 3.448 2.227 5.813 0 8.322-5.065 10.153-9.891 10.689.778.669 1.471 1.991 1.471 4.012 0 2.896.048 6.851.048 7.561" fill="url(#b)"/>
+ <g clip-path="url(#c)">
+  <image transform="translate(1.279 1.279)" width="46" height="46" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAC4AAAAuCAYAAABXuSs3AAAACXBIWXMAAA7EAAAOxAGVKw4bAAABC0lEQVRoge2XWxLCIAxFcab7dQ8uXPzojMWWxxVCbqKcXzUvMwe43cMjBhD4izD9EbdY/TEWWL6hNlsMzymB6wMZpzHxvQQGrbqmTTwtYUY0hcJHyTe+5T7AZ8RZoxDeO86yx5AOx1dltkFy0He8t2nDOqzjWYdIYJ49Kjq8TtySPUqQdYhyzSyw45zjKtlxm5epEoJWmWOPEvQD6OC7xh3oMI93HaLpWZOfokM0tWzTS4fajS8davMPOmS+/ZcO5ej9Hz3rME1o50hvIbzjeo1ndYjC1Ka4DrVm/gs6xEtgcK6TcMmSadyIDlGO+jzr8JzM1mWqhPiOaz2oDb2AdtDGHenwE+WJyzX9AmchsN4MWXPOAAAAAElFTkSuQmCC"/>
+ </g>
+</svg>
