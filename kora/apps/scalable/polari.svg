@@ -1,1 +1,15 @@
-irc-chat.svg
+<svg clip-rule="evenodd" fill-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="2" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+ <linearGradient id="a" x2="1" gradientTransform="matrix(-.32994 -29.894 29.894 -.32994 41.0823 45.3529)" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#cecbcb" offset="0"/>
+  <stop stop-color="#dfdfdf" offset="1"/>
+ </linearGradient>
+ <linearGradient id="b" x2="1" gradientTransform="matrix(0 -29.894 29.894 0 14.1915 32.5412)" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#199f29" offset="0"/>
+  <stop stop-color="#5ac289" offset="1"/>
+ </linearGradient>
+ <g fill-rule="nonzero">
+  <path d="m21.865 15.459c-2.366 0-4.271 1.905-4.271 4.27v14.947c0 2.366 1.905 4.271 4.271 4.271h12.811l6.406 6.406v-6.406c2.366 0 4.271-1.905 4.271-4.271v-14.947c0-2.365-1.905-4.27-4.271-4.27z" fill="url(#a)"/>
+  <path d="m6.918 2.647c-2.366 0-4.271 1.905-4.271 4.271v14.947c0 2.366 1.905 4.27 4.271 4.27v6.406l6.406-6.406h12.811c2.366 0 4.271-1.904 4.271-4.27v-14.947c0-2.366-1.905-4.271-4.271-4.271z" fill="url(#b)"/>
+  <path d="m12.256 6.393v3.203h-3.203v2.135h3.203v4.271h-3.203v2.135h3.203v3.203h2.135v-3.203h4.271v3.203h2.135v-3.203h3.203v-2.135h-3.203v-4.271h3.203v-2.135h-3.203v-3.203h-2.135v3.203h-4.271v-3.203zm2.135 5.338h4.271v4.271h-4.271z" fill="#fff"/>
+ </g>
+</svg>

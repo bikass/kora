@@ -1,16 +1,8 @@
-<svg clip-rule="evenodd" fill-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="2" viewBox="0 0 128 128" xmlns="http://www.w3.org/2000/svg">
- <linearGradient id="a" x2="1" gradientTransform="matrix(-29.5434 68.9307 -68.9307 -29.5434 83.6996 22.6127)" gradientUnits="userSpaceOnUse">
-  <stop stop-color="#37aee2" offset="0"/>
-  <stop stop-color="#09739f" offset="1"/>
+<svg clip-rule="evenodd" fill-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="2" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+ <linearGradient id="a" x2="1" gradientTransform="matrix(0 -35.3911 35.3911 0 968.766 41.2823)" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#006783" offset="0"/>
+  <stop stop-color="#13bee3" offset="1"/>
  </linearGradient>
- <linearGradient id="b" x2="1" gradientTransform="matrix(12.9122 20.67 -20.67 12.9122 72.1422 61.5389)" gradientUnits="userSpaceOnUse">
-  <stop stop-color="#eff7fc" offset="0"/>
-  <stop stop-color="#fff" offset="1"/>
- </linearGradient>
- <circle cx="64" cy="62" r="59.087" fill="url(#a)"/>
- <g fill-rule="nonzero">
-  <path d="m53.022 89.958c-2.009 0-1.668-.758-2.361-2.671l-5.907-19.441 45.471-26.975" fill="#c8daea"/>
-  <path d="m53.022 89.958c1.55 0 2.235-.709 3.1-1.55l8.267-8.039-10.312-6.218" fill="#a9c9dd"/>
-  <path d="m54.076 74.152 24.988 18.462c2.851 1.573 4.909.758 5.619-2.648l10.172-47.931c1.041-4.175-1.592-6.069-4.32-4.83l-59.726 23.03c-4.077 1.635-4.053 3.91-.743 4.923l15.327 4.784 35.484-22.386c1.675-1.016 3.213-.47 1.951.65" fill="url(#b)"/>
- </g>
+ <circle cx="24" cy="24" r="22.764" fill="url(#a)"/>
+ <path d="m32.057 34.392c.433-.84 2.921-15.197 3.277-18.908.385-3.679-1.622-2.995-3.468-2.373-4.529 1.53-18.851 7.729-22.771 9.775-.964.4-1.382 1.079-.679 1.667.604.498 2.817 1.183 4.6 1.53 1.522.46 2.704.019 3.794-.597 2.62-1.553 10.429-6.495 10.85-6.771.42-.275.88.237.646.484-.236.247-5.766 5.207-7.583 7.45-.962 1.232-.932 1.891.056 2.669 2.217 1.738 8.14 5.701 9.021 5.941 1.125.305 1.783.052 2.257-.867z" fill="#e1f5fe" fill-rule="nonzero"/>
 </svg>
