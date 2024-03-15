@@ -32,7 +32,9 @@ DialogSizes=16,22,32,48,64,128,256
 ########## DIRECTORY LIST
 ########## ordered by category and alphabetically
 
-Directories=actions/16,actions/16@2,actions/symbolic,animations/scalable,animations/scalable@2,apps/scalable,apps/scalable@2,apps/symbolic,categories/scalable,categories/scalable@2,categories/symbolic,devices/scalable,devices/scalable@2,devices/symbolic,emblems/scalable,emblems/scalable@2,emblems/symbolic,emotes/scalable,emotes/symbolic,mimetypes/scalable,mimetypes/scalable@2,mimetypes/symbolic,panel/16,panel/16@2,panel/22,panel/22@2,panel/24,panel/24@2,places/scalable,places/scalable@2,places/symbolic,status/scalable,status/scalable@2,status/symbolic
+Directories=actions/16,actions/symbolic,animations/scalable,apps/scalable,apps/symbolic,categories/scalable,categories/symbolic,devices/scalable,devices/symbolic,emblems/scalable,emblems/symbolic,emotes/scalable,emotes/symbolic,mimetypes/scalable,mimetypes/symbolic,panel/16,panel/22,panel/24,places/scalable,places/symbolic,status/scalable,status/symbolic
+
+ScaledDirectories=actions/16@2,animations/scalable@2,apps/scalable@2,categories/scalable@2,devices/scalable@2,emblems/scalable@2,mimetypes/scalable@2,panel/16@2,panel/22@2,panel/24@2,places/scalable@2,status/scalable@2
 
 
 
