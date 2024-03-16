@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2" width="100%" height="100%" viewBox="0 0 16 16" xml:space="preserve">
+ <defs id="defs1">
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }</style>
+ </defs>
+ <rect id="rect1" class="ColorScheme-Text" x="1.9" y="1.893" width="12.73" height="3.05" style="clip-rule:evenodd;color:#dfdfdf;fill-opacity:.3;fill-rule:evenodd;fill:currentColor;stroke-linejoin:round;stroke-miterlimit:2"/>
+ <path id="path1-5" class="ColorScheme-Text" d="m15.512376 15.52h-12.170376c-1.293 0-2.342-1.049-2.342-2.342v-9.836c0-1.293 1.049-2.342 2.342-2.342h9.836c1.293 0 2.342 1.049 2.342 2.342v11.283h-0.895v-11.203c0-0.843-0.684-1.527-1.527-1.527h-9.676c-0.843 0-1.527 0.684-1.527 1.527v9.676c0 0.843 0.684 1.527 1.527 1.527h12.098z" style="clip-rule:evenodd;color:#dfdfdf;fill-rule:evenodd;fill:currentColor;stroke-linejoin:round;stroke-miterlimit:2"/>
+</svg>
