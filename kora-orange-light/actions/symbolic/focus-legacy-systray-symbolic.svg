@@ -1,0 +1,6 @@
+<svg style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+ <path d="m0 2v12h10v-10c0-2-2-2-2-2h-8zm1 1v10h8v-9c0-1-1-1-1-1h-7z" fill="#444444"/>
+ <path d="m3 5 4.5 3-4.5 3v-6z" fill="#444444"/>
+ <path d="m10 2s1 0 1 2v10h1v-10c0-2-2-2-2-2z" fill="#444444"/>
+ <path d="m12 2s1 0 1 2v10h1v-10c0-2-2-2-2-2z" fill="#444444"/>
+</svg>

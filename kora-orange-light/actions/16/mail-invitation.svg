@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2" width="100%" height="100%" viewBox="0 0 16 16" xml:space="preserve">
+ <defs>
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#444444; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
+  </style>
+ </defs>
+ <path style="fill:currentColor;fill-opacity:0.3" class="ColorScheme-Text" d="M15.2,3.6l-5.878,5.831l-1.342,0.541l-1.242,-0.483l-5.938,-5.889l-0,8.97l14.4,0l-0,-8.97Z"/>
+ <path style="fill:currentColor;" class="ColorScheme-Text" d="M1.786,2.8c-0.986,-0 -1.786,0.8 -1.786,1.786l0,6.828c0,0.986 0.8,1.786 1.786,1.786l12.428,0c0.986,0 1.786,-0.8 1.786,-1.786l0,-6.828c0,-0.986 -0.8,-1.786 -1.786,-1.786l-12.428,0Zm7.574,6.36c-0.36,0.36 -0.84,0.56 -1.36,0.56c-0.52,-0 -1,-0.2 -1.36,-0.56l-5.56,-5.56l13.8,-0l-5.52,5.56Zm-4.44,-1.16l-4.12,4.12l0,-8.24l4.12,4.12Zm0.28,0.28l1.16,1.16c0.44,0.44 1.04,0.68 1.64,0.68c0.64,0 1.2,-0.24 1.64,-0.68l1.16,-1.16l4.12,4.12l-13.84,0l4.12,-4.12Zm5.88,-0.28l4.12,-4.12l-0,8.28l-4.12,-4.16Z"/>
+ <path style="fill:currentColor;" class="ColorScheme-Text" d="M12.782,5.714l-3.422,3.446c-0.36,0.36 -0.84,0.56 -1.36,0.56c-0.52,0 -1,-0.2 -1.36,-0.56l-3.422,-3.422l0,-4.524l9.564,0l0,4.5Z"/>
+ <path style="fill:currentColor;" class="ColorScheme-Highlight" d="M7.989,5.691c-0,-0 0.33,-0.712 0.392,-0.876c0.632,0.033 1.115,0.166 1.468,0.317c0.405,0.173 0.635,1.001 0.746,1.564c0.035,0.122 0.011,0.254 -0.065,0.355c-0.077,0.101 -0.196,0.161 -0.323,0.161c-1.008,0.018 -3.353,0.018 -4.396,0.018c-0.137,-0 -0.266,-0.067 -0.345,-0.179c-0.079,-0.112 -0.099,-0.255 -0.052,-0.385c0.161,-0.542 0.43,-1.322 0.803,-1.516c0.327,-0.172 0.771,-0.284 1.347,-0.325l0.425,0.866Zm0.012,-3.74c0.601,0 1.165,0.56 1.086,1.241c-0.079,0.682 -0.485,1.24 -1.086,1.24c-0.6,0 -0.985,-0.533 -1.085,-1.24c-0.097,-0.678 0.485,-1.241 1.085,-1.241Z"/>
+</svg>

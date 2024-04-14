@@ -1,0 +1,8 @@
+<svg style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg" xmlns:serif="http://www.serif.com/">
+ <g transform="matrix(-.7343 0 0 1 14.7172 2.13163e-14)">
+  <path d="m9.5 1.5 6.5 4.5-6.5 4.5v-1.039l5-3.461-5-3.461v-1.039z" fill="#444444"/>
+ </g>
+ <g id="Reply--small-" transform="matrix(.398773 1.47458e-32 0 .398773 -169.507 -79.0521)" serif:id="Reply (small)">
+  <path d="m450 208.5v-6.5l-11.5 11 11.5 11v-6.5c5.5 0 10 4.5 10 10 0 2.8-1.1 5.3-2.9 7.1 4.1-2.4 6.9-6.9 6.9-12.1 0-7.8-6.3-14-14-14z" fill="#444444"/>
+ </g>
+</svg>

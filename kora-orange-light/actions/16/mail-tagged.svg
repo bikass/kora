@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2" width="100%" height="100%" viewBox="0 0 16 16" xml:space="preserve">
+ <defs>
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#444444; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
+  </style>
+ </defs>
+ <path style="fill:currentColor;" class="ColorScheme-Text" d="M10.207,13.856l-0.707,1.925l2.003,-0.622l4.497,-4.497l-1.296,-1.303l-4.497,4.497Z"/>
+ <path style="fill:currentColor;" class="ColorScheme-Text" d="M10.157,13.2l-8.371,-0c-0.986,-0 -1.786,-0.8 -1.786,-1.786l0,-6.828c0,-0.986 0.8,-1.786 1.786,-1.786l12.428,-0c0.986,-0 1.786,0.8 1.786,1.786l0,5.367l-0.8,-0.804l-0,-5.269l-4.12,4.12l2.128,2.149l-0.27,0.269l-2.138,-2.138l-1.16,1.16c-0.44,0.44 -1,0.68 -1.64,0.68c-0.6,-0 -1.2,-0.24 -1.64,-0.68l-1.16,-1.16l-4.12,4.12l9.877,-0l-0.8,0.8Zm5.843,-1.831l0,0.045c0,0.986 -0.8,1.786 -1.786,1.786l-0.045,-0l1.831,-1.831Zm-11.08,-3.369l-4.12,4.12l-0,-8.24l4.12,4.12Zm4.44,1.16l5.52,-5.56l-13.8,-0l5.56,5.56c0.36,0.36 0.84,0.56 1.36,0.56c0.52,-0 1,-0.2 1.36,-0.56Z"/>
+ <path style="fill:currentColor;fill-opacity:0.3" class="ColorScheme-Text" d="M10.787,12.57l-9.987,-0l-0,-8.97l5.938,5.889l1.242,0.483l1.342,-0.541l5.878,-5.831l-0,5.549l-0.141,-0.142c-0.094,-0.094 -0.221,-0.147 -0.354,-0.148c-0.133,0 -0.26,0.053 -0.354,0.147l-3.564,3.564Zm4.413,-0l-0.401,-0l0.401,-0.401l-0,0.401Z"/>
+</svg>

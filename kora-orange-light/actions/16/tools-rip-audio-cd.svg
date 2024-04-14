@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2" width="100%" height="100%" viewBox="0 0 16 16" xml:space="preserve">
+ <defs>
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#444444; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
+  </style>
+ </defs>
+ <path id="Musical-Note" style="fill:currentColor;" class="ColorScheme-Text" d="M11.837,0.853l-5.769,1.295c-0.309,0.07 -0.562,0.388 -0.562,0.706l-0,0.854l-0.01,7.215c0,0.314 -0.251,0.629 -0.557,0.699l-1.583,0.359c-0.71,0.162 -1.291,0.891 -1.291,1.621l-0,0.128c-0,0.794 0.641,1.438 1.433,1.438l0.55,-0c1.096,-0 1.984,-0.891 1.984,-1.99l-0,-4.98l0.01,-0l0,-2.987l6.088,-1.287l0,5.275c0,0.315 -0.251,0.629 -0.557,0.698l-1.632,0.366c-0.705,0.158 -1.282,0.881 -1.282,1.607l0,0.133c0,0.796 0.643,1.441 1.438,1.441l0.571,0c1.108,0 2.004,-0.899 2.004,-2.009l0,-9.451l-0.001,-0l0,-0.46c0,-0.409 -0.282,-0.692 -0.658,-0.692c-0.056,0 -0.116,0.008 -0.176,0.021Zm0.342,0.682l-6.13,1.31l-0,1.004l6.13,-1.309l0,-1.005Z"/>
+</svg>

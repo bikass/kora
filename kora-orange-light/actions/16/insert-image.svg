@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2" width="100%" height="100%" viewBox="0 0 16 16" xml:space="preserve">
+ <defs>
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#444444; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
+  </style>
+ </defs>
+ <path style="fill:currentColor;" class="ColorScheme-Text" d="M5,12l3,4l3,-4l-6,0Zm6.704,-12c0.61,0 1.194,0.242 1.625,0.673c0.43,0.431 0.672,1.015 0.672,1.624l0,6.746c0,0.608 -0.242,1.192 -0.672,1.624c-0.431,0.43 -1.016,0.673 -1.625,0.673l-7.407,-0c-0.609,-0 -1.193,-0.243 -1.624,-0.673c-0.431,-0.432 -0.673,-1.016 -0.673,-1.624l0,-6.746c0,-0.609 0.242,-1.193 0.673,-1.624c0.431,-0.431 1.015,-0.673 1.624,-0.673l7.407,0Zm1.594,9.049c-0.004,-1.612 -0.013,-4.781 -0.017,-6.714c-0.004,-0.901 -0.732,-1.63 -1.631,-1.633c-1.986,-0.006 -5.324,-0.017 -7.314,-0.022c-0.434,-0.002 -0.851,0.169 -1.159,0.476c-0.308,0.306 -0.481,0.722 -0.482,1.156c-0.004,1.515 -0.009,3.783 -0.013,5.483l2.675,-4.545l3.279,5.821l2.528,-2.814l2.134,2.792Z"/>
+</svg>

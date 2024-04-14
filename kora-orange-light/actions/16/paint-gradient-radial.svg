@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2" width="100%" height="100%" viewBox="0 0 16 16" xml:space="preserve">
+ <defs>
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#444444; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
+  </style>
+ </defs>
+ <g>
+  <path style="fill:url(#_Radial1);" d="M2,2l0,12l12,-0l0,-12l-12,-0Z"/>
+ </g>
+ <defs>
+  <radialGradient id="_Radial1" cx="0" cy="0" r="1" gradientTransform="matrix(6.00146,0,0,6.00146,8,8)" gradientUnits="userSpaceOnUse">
+   <stop style="stop-color:#fff;stop-opacity:0" offset="0"/>
+   <stop style="stop-color:#dedede;stop-opacity:1" offset="1"/>
+  </radialGradient>
+ </defs>
+</svg>

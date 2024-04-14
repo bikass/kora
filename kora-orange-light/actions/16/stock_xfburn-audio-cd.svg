@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2" width="100%" height="100%" viewBox="0 0 16 16" xml:space="preserve">
+ <defs>
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#444444; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
+  </style>
+ </defs>
+ <path style="fill:currentColor;fill-opacity:0.3" class="ColorScheme-Text" d="M8,0c-4.389,0 -8,3.611 -8,8c0,4.389 3.611,8 8,8c4.389,0 8,-3.611 8,-8c0,-4.389 -3.611,-8 -8,-8Z"/>
+ <path style="fill:currentColor;" class="ColorScheme-Text" d="M8,0c-4.389,0 -8,3.611 -8,8c0,4.389 3.611,8 8,8c4.389,0 8,-3.611 8,-8c0,-4.389 -3.611,-8 -8,-8Zm0,1c3.84,0 7,3.16 7,7c0,3.84 -3.16,7 -7,7c-3.84,0 -7,-3.16 -7,-7c-0,-3.84 3.16,-7 7,-7Z"/>
+ <path id="Musical-Note" style="fill:currentColor;" class="ColorScheme-Text" d="M10.129,3l-3.719,0.835c-0.199,0.045 -0.362,0.25 -0.362,0.455l-0,0.55l-0.006,4.651c-0,0.203 -0.162,0.406 -0.36,0.451l-1.02,0.231c-0.458,0.104 -0.832,0.574 -0.832,1.045l-0,0.083c-0,0.511 0.413,0.926 0.924,0.926l0.354,0c0.707,0 1.279,-0.574 1.279,-1.282l0,-3.211l0.007,0l-0,-1.925l3.924,-0.829l-0,3.4c-0,0.203 -0.162,0.405 -0.36,0.449l-1.051,0.237c-0.455,0.102 -0.826,0.568 -0.826,1.035l-0,0.086c-0,0.513 0.414,0.929 0.926,0.929l0.368,0c0.715,0 1.292,-0.579 1.292,-1.295l0,-6.092l-0,-0l-0,-0.296c-0,-0.264 -0.182,-0.446 -0.424,-0.446c-0.037,-0 -0.075,0.005 -0.114,0.013Zm0.22,0.44l-3.951,0.844l-0,0.647l3.951,-0.843l0,-0.648Z"/>
+</svg>
