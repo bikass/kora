@@ -1,0 +1,6 @@
+<svg style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+ <rect x="2" y="14" width="12" height="2" fill-opacity=".3" fill="#444444"/>
+ <g id="Down" transform="matrix(7.75799e-17 1.26698 -1.20811 7.39757e-17 18.8978 .220208)">
+  <path d="m8.199 8.503-2.892-2.973 1.005-0.399 3.775 3.889-3.775 3.89-1.005-0.399 2.892-2.973h-8.373v-1.035h8.373z" fill="#444444"/>
+ </g>
+</svg>

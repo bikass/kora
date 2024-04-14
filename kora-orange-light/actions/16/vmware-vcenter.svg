@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
+ <defs>
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#444444; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
+  </style>
+ </defs>
+ <g fill="#444444">
+  <path d="m6.666 0c-1.46 0-2.666 1.206-2.666 2.666v1.334h-1.334c-1.46 0-2.666 1.206-2.666 2.666v6.668c0 1.46 1.206 2.666 2.666 2.666h6.668c1.46 0 2.666-1.206 2.666-2.666v-1.334h1.334c1.46 0 2.666-1.206 2.666-2.666v-6.668c0-1.46-1.206-2.666-2.666-2.666h-6.668zm-.666 1.275h8.524v8.725h-3.971v4.725h-9.106v-9.45h4.553z"/>
+  <path fill-opacity=".25" d="m7 3v4h-4v6h6v-4h4v-6z"/>
+ </g>
+</svg>
