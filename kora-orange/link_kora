@@ -1,0 +1,22 @@
+rm -R actions
+rm -R animations
+rm -R apps
+rm -R categories
+rm -R devices
+rm -R emblems
+rm -R emotes
+rm -R mimetypes
+rm -R panel
+rm -R status
+
+ln -s ../kora/actions .
+ln -s ../kora/animations .
+ln -s ../kora/apps .
+ln -s ../kora/categories .
+ln -s ../kora/devices .
+ln -s ../kora/emblems .
+ln -s ../kora/emotes .
+ln -s ../kora/mimetypes .
+ln -s ../kora/panel .
+ln -s ../kora/status .
+

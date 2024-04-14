@@ -1,0 +1,5 @@
+<svg style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41421" version="1.1" viewBox="0 0 36 36" xmlns="http://www.w3.org/2000/svg">
+ <path d="m31.896 4c2.274 0 4.104 1.83 4.104 4.104v19.792c0 2.274-1.83 4.104-4.104 4.104h-27.792c-2.274 0-4.104-1.83-4.104-4.104v-19.792c0-2.274 1.83-4.104 4.104-4.104h27.792zm2.104 4v-0.014c0-1.1-0.886-1.986-1.986-1.986h-28.028c-1.1 0-1.986 0.886-1.986 1.986v20.028c0 1.1 0.886 1.986 1.986 1.986h28.028c1.1 0 1.986-0.886 1.986-1.986v-20.014z" style="fill-opacity:.81;fill-rule:nonzero"/>
+ <path d="m2 7.856v17.144h32v-17.144c-0.178-1.184-0.872-1.765-1.986-1.856h-28.028c-1.125 0.097-1.797 0.705-1.986 1.856z" style="fill-opacity:.18;fill-rule:nonzero"/>
+ <path d="m34 25h-32v3.014c0.093 1.335 0.783 1.968 1.997 1.986v-4h4v4h2v-4h4v4h2v-4h4v4h12.017c1.312-0.087 1.942-0.778 1.986-1.986v-3.014z" style="fill-opacity:.5;fill-rule:nonzero"/>
+</svg>
