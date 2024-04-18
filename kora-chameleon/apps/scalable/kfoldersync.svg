@@ -1,0 +1,60 @@
+<svg 
+    style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2"
+    viewBox="0 0 48 48"
+    xmlns="http://www.w3.org/2000/svg" 
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs id="defs1">
+        <style type="text/css" id="current-color-scheme">
+            .ColorScheme-Text {
+                color:#232629;
+            }
+            .ColorScheme-Highlight {
+                color:#3daee9;
+            }
+        </style>
+    </defs>
+    <linearGradient 
+        id="a" 
+        gradientTransform="matrix(0 -41.6338 37.8697 0 33.3576 52.7218)" 
+        gradientUnits="userSpaceOnUse" 
+        x2="1">
+        <stop offset="0" stop-color="#000000"/>
+        <stop offset="1" stop-color="#ffffff"/>
+    </linearGradient>
+    <linearGradient 
+        id="b" 
+        x2="1" 
+        gradientTransform="matrix(0 -17.8231 17.8231 0 512.323 39.432)" 
+        gradientUnits="userSpaceOnUse">
+        <stop stop-color="#13bee3" offset="0"/>
+        <stop stop-color="#7ee3ff" offset="1"/>
+    </linearGradient>
+    <path 
+        d="m45.841 11.91c0-2.072-1.679-3.75-3.75-3.75h-36.183c-2.07 0-3.75 1.678-3.75 3.75v24.185c0 2.07 1.68 3.75 3.75 3.75h36.183c2.071 0 3.75-1.68 3.75-3.75z" 
+        ffill="#111111"
+        id="path1"/>
+    <path 
+        d="m45.841 15.489c0-.995-.395-1.948-1.098-2.652-.704-.703-1.657-1.098-2.652-1.098h-19.185c-.924 0-1.815-.341-2.502-.958-.576-.516-1.285-1.151-1.861-1.668-.688-.616-1.579-.957-2.503-.957h-10.131c-.995 0-1.948.395-2.652 1.098-.703.703-1.098 1.657-1.098 2.652v24.189c0 2.07 1.679 3.75 3.75 3.75h36.182c2.071 0 3.75-1.68 3.75-3.75z" 
+        fill="url(#a)"
+        id="path2"/>
+    <path
+        d="m 45.882497,11.958718 c 0,-2.0714999 -1.67925,-3.7500009 -3.75,-3.7500009 H 5.9494973 c -2.07075,0 -3.75,1.678501 -3.75,3.7500009 v 24.1845 c 0,2.07075 1.67925,3.75 3.75,3.75 H 42.132497 c 2.07075,0 3.75,-1.67925 3.75,-3.75 z"
+        style="opacity:0.75;
+                fill:currentColor"
+        class="ColorScheme-Highlight"
+        id="colour_path"/>
+    <g id="group1">
+        <circle 
+            transform="translate(-1.202 4.73794)" 
+            cx="36.536" 
+            cy="30.729" 
+            r="11.464" 
+            fill="url(#b)"
+            id="circle1"/>
+        <path 
+            transform="matrix(1.2263 0 0 1.2263 -8.81292 -8.68038)" 
+            d="m36 28 4 3-.343.257c1.421 1.101 2.343 2.823 2.343 4.743 0 3.292-2.708 6-6 6v2l-4-3 .343-.257c-1.421-1.101-2.343-2.823-2.343-4.743 0-3.292 2.708-6 6-6zm0 4c-2.194 0-4 1.806-4 4 0 1.481.822 2.785 2.032 3.476l1.968-1.476v2c2.194 0 4-1.806 4-4 0-1.481-.822-2.785-2.032-3.476l-1.968 1.476z" 
+            fill="#fff"
+            id="path3"/>
+    </g>
+</svg>

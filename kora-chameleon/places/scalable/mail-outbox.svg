@@ -1,0 +1,103 @@
+<svg 
+    clip-rule="evenodd" 
+    fill-rule="evenodd" 
+    stroke-linecap="round" 
+    stroke-linejoin="round" 
+    stroke-miterlimit="1.5" 
+    viewBox="0 0 48 48" 
+    xmlns="http://www.w3.org/2000/svg" 
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs id="defs1">
+        <style type="text/css" id="current-color-scheme">
+            .ColorScheme-Text {
+                color:#232629;
+            }
+            .ColorScheme-Highlight {
+                color:#3daee9;
+            }
+        </style>
+    </defs>
+    <linearGradient 
+        id="a" 
+        gradientTransform="matrix(0 -41.6338 37.8697 0 33.3576 52.7218)" 
+        gradientUnits="userSpaceOnUse" 
+        x2="1">
+        <stop offset="0" stop-color="#000000"/>
+        <stop offset="1" stop-color="#ffffff"/>
+    </linearGradient>
+    <linearGradient 
+        id="b" 
+        gradientTransform="matrix(0 12.8839 -12.8839 0 -1493.1 32.5468)" 
+        gradientUnits="userSpaceOnUse" 
+        x2="1">
+        <stop offset="0" stop-color="#ffffff"/>
+        <stop offset="1" stop-color="#5f5f5f"/>
+    </linearGradient>
+    <linearGradient 
+        id="c"  
+        gradientTransform="matrix(0 -72.676 72.676 0 51.843 14.322)" 
+        gradientUnits="userSpaceOnUse"
+        x2="1">
+        <stop stop-color="#1f7010" offset="0"/>
+        <stop stop-color="#26a718" offset="1"/>
+    </linearGradient>
+    <linearGradient 
+        id="d"  
+        gradientTransform="matrix(0 66.425 -66.425 0 65.716 -50.969)" 
+        gradientUnits="userSpaceOnUse"
+        x2="1">
+        <stop offset="0" stop-color="#fff" stop-opacity=".5"/>
+        <stop offset=".01" stop-color="#fff" stop-opacity=".11"/>
+        <stop offset=".47" stop-color="#fff" stop-opacity=".5"/>
+        <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient 
+        id="e" 
+        cx="0" 
+        cy="0" 
+        r="1" 
+        gradientTransform="matrix(0 112.65 -97.524 0 63.964 -58.921)" 
+        gradientUnits="userSpaceOnUse">
+        <stop stop-color="#cef87e" offset="0"/>
+        <stop stop-color="#7de34f" offset=".26"/>
+        <stop stop-color="#38b723" offset=".66"/>
+        <stop stop-color="#2e7e0d" offset="1"/>
+    </radialGradient>
+    <path 
+        d="m45.14 34.093-42.289-.029v-14.106c0-.77.368-1.494.99-1.948 3.418-2.495 14.736-10.756 18.738-13.677.844-.616 1.99-.618 2.837-.004 4.002 2.901 15.303 11.093 18.727 13.576.626.453.997 1.179.997 1.952z" 
+        fill="#000000"
+        id="path1"/>
+    <path 
+        d="m25.104 31.79c-.682.412-1.536.413-2.218.001-4.353-2.63-20.035-12.102-20.035-12.102v23.111c0 1.453 1.178 2.631 2.631 2.631h37.121c.673 0 1.318-.267 1.794-.743.475-.476.743-1.121.743-1.794v-23.231s-15.683 9.492-20.036 12.127z" 
+        fill="url(#a)"
+        id="path2"/>
+    <path 
+        d="m3.901 44.609c-.499-.899-.517-1.814.524-2.355 3.114-1.618 15.485-8.194 18.768-9.94.501-.267 1.103-.266 1.604.003 3.255 1.744 15.45 8.281 18.544 9.937 1.232.66 1.397 1.784.865 2.355" 
+        fill="none" 
+        stroke="url(#b)" 
+        stroke-width=".38"
+        id="path3"/>
+    <path
+        d="M 23.995531,3.870487 C 23.497657,3.871237 23.001515,4.0253779 22.579516,4.3333776 18.57752,7.2543747 7.2592311,15.516114 3.841234,18.011112 3.290055,18.413419 2.939574,19.02814 2.866625,19.698612 L 2.851,19.688812 v 0.269532 14.105468 8.736329 c 0,1.452998 1.177861,2.630859 2.6308591,2.630859 H 42.602953 c 0.672999,0 1.318922,-0.266188 1.794922,-0.742188 0.475,-0.475999 0.742187,-1.121922 0.742187,-1.794921 V 34.093143 19.856815 19.663456 l -0.01172,0.0078 C 45.073936,18.969058 44.719392,18.322044 44.143969,17.905643 40.719972,15.422646 29.417449,7.2304685 25.415453,4.3294714 24.991954,4.0224717 24.493406,3.869737 23.995531,3.870487 Z"
+        style="opacity:0.75;
+                fill:currentColor"
+        class="ColorScheme-Highlight"
+        id="colour_path"/>
+    <g 
+        transform="matrix(.27754 0 0 -.27754 6.2377 13.348)" 
+        stroke-width=".99px">
+        <path 
+            d="m96.457-20.5-32.539 38.847-32.375-38.847h13.957v-32h37v32z" 
+            fill="url(#e)" 
+            fill-rule="nonzero" 
+            stroke="url(#c)"
+            id="path4"/>
+        <path 
+            d="m94.349-19.5-30.378 36.347-30.135-36.347h12.664v-32h35v32z" 
+            fill="none" 
+            stroke="url(#d)" 
+            stroke-linecap="butt" 
+            stroke-linejoin="miter"
+            id="path5"/>
+    </g>
+</svg>

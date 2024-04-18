@@ -1,0 +1,43 @@
+<svg 
+    style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2"
+    viewBox="0 0 48 48" 
+    xmlns="http://www.w3.org/2000/svg" 
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs id="defs1">
+        <style type="text/css" id="current-color-scheme">
+            .ColorScheme-Text {
+                color:#232629;
+            }
+            .ColorScheme-Highlight {
+                color:#3daee9;
+            }
+        </style>
+    </defs>
+    <linearGradient 
+        id="a" 
+        gradientTransform="matrix(0 -41.6338 37.8697 0 33.3576 52.7218)" 
+        gradientUnits="userSpaceOnUse" 
+        x2="1">
+        <stop offset="0" stop-color="#000000"/>
+        <stop offset="1" stop-color="#ffffff"/>
+    </linearGradient>
+    <path 
+        d="m45.841 11.91c0-2.072-1.679-3.75-3.75-3.75h-36.183c-2.07 0-3.75 1.678-3.75 3.75v24.185c0 2.07 1.68 3.75 3.75 3.75h36.183c2.071 0 3.75-1.68 3.75-3.75z"  
+        ffill="#111111"
+        id="path1"/>
+    <path 
+        d="m45.841 15.489c0-.995-.395-1.948-1.098-2.652-.704-.703-1.657-1.098-2.652-1.098h-19.185c-.924 0-1.815-.341-2.502-.958-.576-.516-1.285-1.151-1.861-1.668-.688-.616-1.579-.957-2.503-.957h-10.131c-.995 0-1.948.395-2.652 1.098-.703.703-1.098 1.657-1.098 2.652v24.189c0 2.07 1.679 3.75 3.75 3.75h36.182c2.071 0 3.75-1.68 3.75-3.75z" 
+        fill="url(#a)"
+        id="path2"/>
+    <path 
+        d="m24 16.509c-2.529 0-4.571 1.981-4.571 4.571h1.524c0-1.676 1.356-3.048 3.047-3.048s3.047 1.372 3.047 3.048v3.048h-8.38c-.422 0-.761.339-.761.761v7.619c0 .422.339.761.761.761h10.666c.422 0 .762-.34.762-.761v-7.618c0-.423-.34-.762-.762-.762h-.762v-3.048c0-2.59-2.042-4.571-4.571-4.571z" 
+        fill="#000000"
+        style="stroke:#ffffff;stroke-width:0.1"
+        id="path3"/>
+    <path
+        d="m 45.882497,11.958718 c 0,-2.0714999 -1.67925,-3.7500009 -3.75,-3.7500009 H 5.9494973 c -2.07075,0 -3.75,1.678501 -3.75,3.7500009 v 24.1845 c 0,2.07075 1.67925,3.75 3.75,3.75 H 42.132497 c 2.07075,0 3.75,-1.67925 3.75,-3.75 z"
+        style="opacity:0.75;
+                fill:currentColor"
+        class="ColorScheme-Highlight"
+        id="colour_path"/>
+</svg>
