@@ -1,35 +1,15 @@
 <svg style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
  <g transform="scale(.75)">
   <path d="m61.122 15.88c0-2.762-2.239-5-5-5h-48.244c-2.761 0-5 2.238-5 5v32.246c0 2.761 2.239 5 5 5h48.244c2.761 0 5-2.239 5-5v-32.246z" style="fill:rgb(88,105,115)"/>
- </g>
- <g transform="scale(.75)">
   <path d="m61.122 20.652c0-1.326-0.527-2.598-1.465-3.536-0.938-0.937-2.209-1.464-3.535-1.464h-25.58c-1.232 0-2.42-0.455-3.337-1.277-0.768-0.689-1.713-1.535-2.481-2.224-0.917-0.822-2.105-1.277-3.337-1.277h-13.509c-1.326 0-2.597 0.527-3.535 1.465-0.938 0.937-1.465 2.209-1.465 3.535v32.252c0 2.761 2.239 5 5 5h48.244c2.761 0 5-2.239 5-5v-27.474z" style="fill:url(#_Linear1)"/>
- </g>
- <g transform="scale(.75)">
   <circle cx="36.391" cy="30.353" r="4.94" style="fill:url(#_Linear2);stroke-width:1px;stroke:url(#_Linear3)"/>
- </g>
- <g transform="scale(.75)">
   <circle cx="46.27" cy="39.135" r="2.744" style="fill:url(#_Linear4);stroke-width:1px;stroke:url(#_Linear5)"/>
- </g>
- <g transform="scale(.75)">
   <circle cx="40.233" cy="36.391" r="5.488" style="fill:url(#_Linear6);stroke-width:1px;stroke:url(#_Linear7)"/>
- </g>
- <g transform="scale(.75)">
   <circle cx="19.925" cy="36.94" r="4.94" style="fill:url(#_Linear8);stroke-width:1px;stroke:url(#_Linear9)"/>
- </g>
- <g transform="scale(.75)">
   <circle cx="24.865" cy="26.512" r="3.293" style="fill:url(#_Linear10);stroke-width:1px;stroke:url(#_Linear11)"/>
- </g>
- <g transform="scale(.75)">
   <circle cx="25.414" cy="32.549" r="6.037" style="fill:url(#_Linear12);stroke-width:1px;stroke:url(#_Linear13)"/>
- </g>
- <g transform="scale(.75)">
   <circle cx="24.865" cy="39.135" r="2.744" style="fill:url(#_Linear14);stroke-width:1px;stroke:url(#_Linear15)"/>
- </g>
- <g transform="scale(.75)">
   <circle cx="30.353" cy="27.609" r="5.488" style="fill:url(#_Linear16);stroke-width:1px;stroke:url(#_Linear17)"/>
- </g>
- <g transform="scale(.75)">
   <circle cx="32" cy="34.744" r="7.135" style="fill:url(#_Linear18);stroke-width:1px;stroke:url(#_Linear19)"/>
  </g>
  <defs>
