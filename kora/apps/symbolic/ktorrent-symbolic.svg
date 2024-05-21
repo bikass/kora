@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
+ <defs>
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
+  </style>
+ </defs>
+ <g fill="#dfdfdf">
+  <path transform="matrix(0 -.9786 .9786 0 -3082.69 420.481)" d="m412.542 3160.59-7.906 7.9 7.906 7.91c.593.59.593 1.55 0 2.14-.593.6-1.554.6-2.147 0l-8.953-8.94c-.304-.31-.45-.71-.442-1.11-.008-.4.138-.8.442-1.1l8.953-8.95c.593-.59 1.554-.59 2.147 0s.593 1.56 0 2.15z"/>
+  <path transform="matrix(1.14677 0 0 1.14677 -4.03655 .124458)" d="m14.24 14.133v-8.097c0-1.883 1.529-3.412 3.413-3.412h3.127c1.883 0 3.412 1.529 3.412 3.412v8.097h-2v-8.097c0-.779-.632-1.412-1.412-1.412h-3.127c-.78 0-1.413.633-1.413 1.412v8.097z"/>
+  <path fill-opacity=".5" transform="matrix(1 0 0 4.8631 -1.20844 -124.091)" d="m31.689 31.389v.563c0 .113-.448.205-1 .205h-22.961c-.552 0-1-.092-1-.205v-.563h2v.357h20.961v-.357z"/>
+ </g>
+</svg>
