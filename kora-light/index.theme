@@ -2,7 +2,7 @@
 Name=Kora Light
 Comment=Kora Light icon theme for GNU/Linux
 
-Inherits=breeze,Adwaita,hicolor
+Inherits=breeze,hicolor
 
 Example=folder
 

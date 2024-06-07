@@ -2,7 +2,7 @@
 Name=Kora Grey
 Comment=Kora Grey icon theme for GNU/Linux
 
-Inherits=breeze,Adwaita,hicolor
+Inherits=breeze,hicolor
 
 Example=folder
 
