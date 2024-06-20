@@ -26,7 +26,7 @@ and copy ***kora***, ***kora-light***, ***kora-light-panel*** and ***kora-pgrey*
 ### Specific Linux distributions
 
 * **Arch**: [stable](https://aur.archlinux.org/packages/kora-icon-theme/)
-* **Fedora**: [repository](https://copr.fedorainfracloud.org/coprs/hazel-bunny/ricing/packages/kora-icon-theme)
+* **Fedora**: [repository](https://copr.fedorainfracloud.org/coprs/hazel-bunny/ricing/package/kora-icon-theme)
 * **openSuse**: [repository](https://build.opensuse.org/package/show/home:guinuxbr/kora-icon-theme)
 * **Solus**: sudo eopkg it korla-icon-theme
 
