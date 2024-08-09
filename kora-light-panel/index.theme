@@ -2,7 +2,7 @@
 Name=Kora Light Panel
 Comment=Kora Light Panel icon theme for GNU/Linux
 
-Inherits=breeze,hicolor
+Inherits=kora,breeze,hicolor
 
 Example=folder
 
