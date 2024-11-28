@@ -9,8 +9,8 @@
  </g>
  <defs>
   <radialGradient id="_Radial1" cx="0" cy="0" r="1" gradientTransform="matrix(6.00146,0,0,6.00146,8,8)" gradientUnits="userSpaceOnUse">
-   <stop style="stop-color:#fff;stop-opacity:0" offset="0"/>
-   <stop style="stop-color:#dedede;stop-opacity:1" offset="1"/>
+   <stop style="stop-color:#444444;stop-opacity:0" offset="0"/>
+   <stop style="stop-color:#444444;stop-opacity:1" offset="1"/>
   </radialGradient>
  </defs>
 </svg>
