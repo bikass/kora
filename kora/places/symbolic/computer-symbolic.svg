@@ -4,11 +4,11 @@
    .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
   </style>
  </defs>
-  <path style="fill:currentColor" class="ColorScheme-Text" fill-opacity=".81" d="m4.104 1c-2.274 0-4.104 1.83-4.104 4.104v18.896h35.934v1.551c.034-.215.066-.43.066-.655v-19.792c0-2.274-1.83-4.104-4.104-4.104zm-1.104 3h30v17h-30z"/>
+  <path style="fill:currentColor" class="ColorScheme-Text" fill-opacity=".71" d="m4.104 1c-2.274 0-4.104 1.83-4.104 4.104v18.896h35.934v1.551c.034-.215.066-.43.066-.655v-19.792c0-2.274-1.83-4.104-4.104-4.104zm-1.104 3h30v17h-30z"/>
   <path style="fill:currentColor" class="ColorScheme-Text" fill-opacity=".2" d="m3 4h30v17h-30z"/>
   <path style="fill:currentColor" class="ColorScheme-Text" fill-opacity=".71" d="m0 24v.896c0 2.274 1.83 4.104 4.104 4.104h27.792c2.049 0 3.724-1.491 4.038-3.449v-1.551h-1.934v1.014c0 1.1-.886 1.986-1.986 1.986h-28.028c-1.1 0-1.986-.886-1.986-1.986v-1.014z"/>
   <circle fill-opacity=".2" cx="18" cy="25.5" r=".75"/>
-  <path style="fill:currentColor" class="ColorScheme-Text" fill-opacity=".84" d="m11 33.5h14v1.5h-14z"/>
+  <path style="fill:currentColor" class="ColorScheme-Text" fill-opacity=".71" d="m11 33.5h14v1.5h-14z"/>
   <g fill-opacity=".3">
    <path style="fill:currentColor" class="ColorScheme-Text" d="m14.25 29v1.5c0 2.08-2.207 2.748-3.25 3h14c-1.043-.252-3.25-.92-3.25-3v-1.5z"/>
    <path style="fill:currentColor" class="ColorScheme-Text" d="m14.25 29h7.5v1.5h-7.5z"/>

@@ -4,7 +4,7 @@
    .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
   </style>
  </defs>
-  <path style="fill:currentColor" class="ColorScheme-Text" fill-opacity=".75" transform="translate(-40.1592 .208008)" d="m74.334 2.854-32.35 14.32 10.961 3.976v9.635l5.922-5.746 8.75 7.691zm-2.209 2.83-5.568 23.509-8.575-7.248zm-3.447 1.148-15.026 12.551-7.248-2.387zm-6.453 7.514-5.442 6.816-2.07 5.424v-5.877z"/>
+  <path style="fill:currentColor" class="ColorScheme-Text" fill-opacity=".71" transform="translate(-40.1592 .208008)" d="m74.334 2.854-32.35 14.32 10.961 3.976v9.635l5.922-5.746 8.75 7.691zm-2.209 2.83-5.568 23.509-8.575-7.248zm-3.447 1.148-15.026 12.551-7.248-2.387zm-6.453 7.514-5.442 6.816-2.07 5.424v-5.877z"/>
   <g transform="translate(-482.159 -155.792)">
    <path style="fill:currentColor" class="ColorScheme-Text" fill-opacity=".1" d="m488.404 172.997 22.274-10.165-15.026 12.551zm11.579 4.949 14.142-16.263-5.569 23.511z"/>
    <path style="fill:currentColor" class="ColorScheme-Text" fill-opacity=".4" d="m496.712 176.709v5.878l2.071-5.424 5.442-6.818z"/>
