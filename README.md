@@ -1,6 +1,6 @@
 # KORA
 
-**Kora** is an SVG icon theme with lots of new icons for GNU/Linux operating systems.
+**Kora** is an SVG icon theme for GNU/Linux operating systems.
 
 To make them display properly, you may need to update the icon cache. A script is included.
 
