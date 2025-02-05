@@ -1,0 +1,15 @@
+<svg clip-rule="evenodd" fill-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="2" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+ <path transform="matrix(1.08159 0 0 1.08159 -1.95805 -2.60515)" d="m7 13h34c-1.985 10.29-2.014 20.623 0 31h-34c1.991-10.307 2.009-20.64 0-31z" fill="#b5835a" fill-rule="nonzero"/>
+ <path transform="matrix(1.08159 0 0 1.08159 -1.95805 -2.60515)" d="m24 7v6h17l-5-6z" fill="#8d6646" fill-rule="nonzero"/>
+ <path transform="matrix(1.08159 0 0 1.08159 -1.95805 -2.60515)" d="m12 7h12v6h-17z" fill="#d4a782" fill-rule="nonzero"/>
+ <path transform="matrix(1.08159 0 0 1.08159 -1.95805 -2.60515)" d="m41 13-16-3-1-6 12 3z" fill="#d4a782" fill-rule="nonzero"/>
+ <path transform="matrix(1.08159 0 0 1.08159 -1.95805 -2.60515)" d="m18 31c.034 2.373 2.772 3.999 6 4 3.228-.001 5.966-1.627 6-4-1.764 1.177-3.917 1.493-6 1.5-2.083-.007-4.236-.323-6-1.5z" fill="#232323" fill-rule="nonzero"/>
+ <g stroke-width="1.08159">
+  <circle cx="12.10262" cy="29.84255" r="2.16318" fill="#f9548f"/>
+  <circle cx="35.8976" cy="29.84255" r="2.16318" fill="#f9548f"/>
+  <circle cx="15.888185" cy="23.893805" r="3.785565" fill="#232323"/>
+  <circle cx="14.806595" cy="22.812215" r="1.08159" fill="#f9f9f9"/>
+  <circle cx="32.112035" cy="23.893805" r="3.785565" fill="#232323"/>
+  <circle cx="31.030445" cy="22.812215" r="1.08159" fill="#f9f9f9"/>
+ </g>
+</svg>
