@@ -1,18 +1,17 @@
-<svg clip-rule="evenodd" fill-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="2" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
- <linearGradient id="a" x2="1" gradientTransform="matrix(0 -43.3115 43.3115 0 119.412 45.0855)" gradientUnits="userSpaceOnUse">
+<svg clip-rule="evenodd" fill-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="2" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+ <linearGradient id="a" x2="1" gradientTransform="matrix(0 -35.3911 35.3911 0 968.766 41.2823)" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#47003a" offset="0"/>
+  <stop stop-color="#6d0080" offset="1"/>
+ </linearGradient>
+ <linearGradient id="b" x2="1" gradientTransform="matrix(0 -39.501 39.501 0 197.486 43.2304)" gradientUnits="userSpaceOnUse">
   <stop stop-color="#cdb7d7" offset="0"/>
   <stop stop-color="#fcf9f9" offset="1"/>
  </linearGradient>
- <linearGradient id="b" x2="1" gradientTransform="matrix(-.65819 -33.3018 33.3018 -.65819 457.931 37.4854)" gradientUnits="userSpaceOnUse">
+ <linearGradient id="c" x2="1" gradientTransform="matrix(-.628202 -31.7845 31.7845 -.628202 849.743 27.3142)" gradientUnits="userSpaceOnUse">
   <stop stop-color="#47003a" offset="0"/>
   <stop stop-color="#6f0083" offset="1"/>
  </linearGradient>
- <clipPath id="c">
-  <path d="m24 1.279c12.54 0 22.721 10.181 22.721 22.721s-10.181 22.721-22.721 22.721-22.721-10.181-22.721-22.721 10.181-22.721 22.721-22.721zm0 3.383c-10.673 0-19.338 8.665-19.338 19.338s8.665 19.338 19.338 19.338 19.338-8.665 19.338-19.338-8.665-19.338-19.338-19.338z" clip-rule="evenodd"/>
- </clipPath>
- <circle cx="24" cy="24" r="21.811" fill="url(#a)"/>
- <path transform="matrix(.954438 0 0 .954438 1.10192 -.32877)" d="m19.162 46.807c0-.513-.093-3.495-.104-5.302-6.025 1.308-7.297-2.905-7.297-2.905-.985-2.501-2.406-3.168-2.406-3.168-1.966-1.344.149-1.317.149-1.317 2.175.154 3.318 2.232 3.318 2.232 1.933 3.31 5.071 2.354 6.305 1.801.197-1.4.756-2.355 1.375-2.896-4.81-.547-9.867-2.406-9.867-10.707 0-2.365.844-4.298 2.23-5.813-.223-.548-.967-2.75.211-5.733 0 0 1.82-.582 5.958 2.221 1.728-.48 3.581-.721 5.423-.729 1.839.008 3.693.249 5.423.729 4.136-2.803 5.952-2.221 5.952-2.221 1.182 2.983.438 5.185.215 5.733 1.388 1.515 2.227 3.448 2.227 5.813 0 8.322-5.065 10.153-9.891 10.689.778.669 1.471 1.991 1.471 4.012 0 2.896.048 6.851.048 7.561" fill="url(#b)"/>
- <g clip-path="url(#c)">
-  <image transform="translate(1.279 1.279)" width="46" height="46" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAC4AAAAuCAYAAABXuSs3AAAACXBIWXMAAA7EAAAOxAGVKw4bAAABC0lEQVRoge2XWxLCIAxFcab7dQ8uXPzojMWWxxVCbqKcXzUvMwe43cMjBhD4izD9EbdY/TEWWL6hNlsMzymB6wMZpzHxvQQGrbqmTTwtYUY0hcJHyTe+5T7AZ8RZoxDeO86yx5AOx1dltkFy0He8t2nDOqzjWYdIYJ49Kjq8TtySPUqQdYhyzSyw45zjKtlxm5epEoJWmWOPEvQD6OC7xh3oMI93HaLpWZOfokM0tWzTS4fajS8davMPOmS+/ZcO5ej9Hz3rME1o50hvIbzjeo1ndYjC1Ka4DrVm/gs6xEtgcK6TcMmSadyIDlGO+jzr8JzM1mWqhPiOaz2oDb2AdtDGHenwE+WJyzX9AmchsN4MWXPOAAAAAElFTkSuQmCC"/>
- </g>
+ <circle cx="24" cy="24" r="22.764" fill="url(#a)"/>
+ <circle cx="24" cy="24" r="19.892" fill="url(#b)"/>
+ <path d="m19.391 44.346c0-.49-.089-3.336-.099-5.061-5.751 1.249-6.965-2.772-6.965-2.772-.94-2.388-2.296-3.024-2.296-3.024-1.877-1.283.142-1.257.142-1.257 2.076.147 3.167 2.13 3.167 2.13 1.845 3.159 4.84 2.247 6.017 1.719.188-1.336.722-2.248 1.313-2.764-4.591-.522-9.418-2.296-9.418-10.219 0-2.257.806-4.102 2.129-5.548-.213-.523-.923-2.625.201-5.472 0 0 1.737-.556 5.687 2.12 1.649-.458 3.418-.688 5.176-.696 1.755.008 3.524.238 5.176.696 3.947-2.676 5.68-2.12 5.68-2.12 1.128 2.847.418 4.949.206 5.472 1.324 1.446 2.125 3.291 2.125 5.548 0 7.943-4.834 9.69-9.44 10.202.742.638 1.404 1.9 1.404 3.829 0 2.764.046 6.539.046 7.217" fill="url(#c)"/>
 </svg>
