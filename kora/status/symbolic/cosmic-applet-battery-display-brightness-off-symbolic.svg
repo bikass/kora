@@ -1,4 +1,4 @@
-<svg clip-rule="evenodd" fill-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="2" viewBox="0 0 16 17" xmlns="http://www.w3.org/2000/svg">
+<svg clip-rule="evenodd" fill-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="2" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
  <g fill="#dfdfdf">
   <path d="m16 3.081c0-1.425-1.156-2.581-2.581-2.581h-10.838c-1.425 0-2.581 1.156-2.581 2.581v10.838c0 1.425 1.156 2.581 2.581 2.581h10.838c1.425 0 2.581-1.156 2.581-2.581zm-.986.088c0-.929-.754-1.683-1.683-1.683h-10.662c-.929 0-1.683.754-1.683 1.683v10.662c0 .929.754 1.683 1.683 1.683h10.662c.929 0 1.683-.754 1.683-1.683z" fill-opacity=".2"/>
   <g fill-opacity=".5">
