@@ -1,4 +1,9 @@
-<svg style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
- <path d="m5 1-4 4v6l4 4h6l4-4v-6l-4-4h-6zm0.539 0.849h4.922l3.69 3.69v4.922l-3.69 3.69h-4.922l-3.69-3.69v-4.922l3.69-3.69z" fill="#dfdfdf"/>
- <path d="m6.5 4-2.5 2.5v3l2.5 2.5h3l2.5-2.5v-3l-2.5-2.5h-3z" fill-opacity=".3" fill="#dfdfdf"/>
+<svg xmlns="http://www.w3.org/2000/svg" style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2" viewBox="0 0 16 16">
+ <defs>
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
+  </style>
+ </defs>
+ <path style="fill:currentColor" class="ColorScheme-Text" d="m5 1-4 4v6l4 4h6l4-4v-6l-4-4h-6zm0.539 0.849h4.922l3.69 3.69v4.922l-3.69 3.69h-4.922l-3.69-3.69v-4.922l3.69-3.69z"/>
+ <path style="fill:currentColor" class="ColorScheme-Text" fill-opacity=".3" d="m6.5 4-2.5 2.5v3l2.5 2.5h3l2.5-2.5v-3l-2.5-2.5h-3z"/>
 </svg>

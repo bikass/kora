@@ -1,20 +1,25 @@
-<svg style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
- <rect x="1" y="1" width="2" height="2" fill="#dfdfdf"/>
- <rect x="3" y="1" width="2" height="2" fill="#dfdfdf"/>
- <rect x="5" y="1" width="2" height="2" fill="#dfdfdf"/>
- <rect x="5" y="3" width="2" height="2" fill="#dfdfdf"/>
- <rect x="3" y="5" width="2" height="2" fill-opacity=".3" fill="#dfdfdf"/>
- <rect x="1" y="7" width="2" height="2" fill="#dfdfdf"/>
- <rect x="3" y="9" width="2" height="2" fill="#dfdfdf"/>
- <rect x="5" y="7" width="2" height="2" fill-opacity=".3" fill="#dfdfdf"/>
- <rect x="7" y="5" width="2" height="2" fill="#dfdfdf"/>
- <rect x="9" y="5" width="2" height="2" fill="#dfdfdf"/>
- <rect x="9" y="1" width="2" height="2" fill-opacity=".3" fill="#dfdfdf"/>
- <rect x="11" y="3" width="2" height="2" fill-opacity=".3" fill="#dfdfdf"/>
- <rect x="11" y="9" width="2" height="2" fill="#dfdfdf"/>
- <rect x="7" y="11" width="2" height="2" fill-opacity=".3" fill="#dfdfdf"/>
- <rect x="9" y="13" width="2" height="2" fill="#dfdfdf"/>
- <rect x="3" y="13" width="2" height="2" fill-opacity=".3" fill="#dfdfdf"/>
- <rect x="13" y="11" width="2" height="2" fill-opacity=".3" fill="#dfdfdf"/>
- <rect x="13" y="13" width="2" height="2" fill-opacity=".3" fill="#dfdfdf"/>
+<svg xmlns="http://www.w3.org/2000/svg" style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2" viewBox="0 0 16 16">
+ <defs>
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
+  </style>
+ </defs>
+ <rect style="fill:currentColor" class="ColorScheme-Text" width="2" height="2" x="1" y="1"/>
+ <rect style="fill:currentColor" class="ColorScheme-Text" width="2" height="2" x="3" y="1"/>
+ <rect style="fill:currentColor" class="ColorScheme-Text" width="2" height="2" x="5" y="1"/>
+ <rect style="fill:currentColor" class="ColorScheme-Text" width="2" height="2" x="5" y="3"/>
+ <rect style="fill:currentColor" class="ColorScheme-Text" fill-opacity=".3" width="2" height="2" x="3" y="5"/>
+ <rect style="fill:currentColor" class="ColorScheme-Text" width="2" height="2" x="1" y="7"/>
+ <rect style="fill:currentColor" class="ColorScheme-Text" width="2" height="2" x="3" y="9"/>
+ <rect style="fill:currentColor" class="ColorScheme-Text" fill-opacity=".3" width="2" height="2" x="5" y="7"/>
+ <rect style="fill:currentColor" class="ColorScheme-Text" width="2" height="2" x="7" y="5"/>
+ <rect style="fill:currentColor" class="ColorScheme-Text" width="2" height="2" x="9" y="5"/>
+ <rect style="fill:currentColor" class="ColorScheme-Text" fill-opacity=".3" width="2" height="2" x="9" y="1"/>
+ <rect style="fill:currentColor" class="ColorScheme-Text" fill-opacity=".3" width="2" height="2" x="11" y="3"/>
+ <rect style="fill:currentColor" class="ColorScheme-Text" width="2" height="2" x="11" y="9"/>
+ <rect style="fill:currentColor" class="ColorScheme-Text" fill-opacity=".3" width="2" height="2" x="7" y="11"/>
+ <rect style="fill:currentColor" class="ColorScheme-Text" width="2" height="2" x="9" y="13"/>
+ <rect style="fill:currentColor" class="ColorScheme-Text" fill-opacity=".3" width="2" height="2" x="3" y="13"/>
+ <rect style="fill:currentColor" class="ColorScheme-Text" fill-opacity=".3" width="2" height="2" x="13" y="11"/>
+ <rect style="fill:currentColor" class="ColorScheme-Text" fill-opacity=".3" width="2" height="2" x="13" y="13"/>
 </svg>

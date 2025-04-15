@@ -1,3 +1,8 @@
-<svg style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
- <path d="m3 0v2h1.067v-2h-1.067zm-3 3v1.067h11.953v11.933h1.047v-13h-13zm3 2.087v7.913h7.834v-0.988h-6.767v-6.925h-1.067zm11 6.925v0.988h2v-0.988h-2z" fill="#dfdfdf"/>
+<svg xmlns="http://www.w3.org/2000/svg" style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2" viewBox="0 0 16 16">
+ <defs>
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
+  </style>
+ </defs>
+ <path style="fill:currentColor" class="ColorScheme-Text" d="m3 0v2h1.067v-2h-1.067zm-3 3v1.067h11.953v11.933h1.047v-13h-13zm3 2.087v7.913h7.834v-0.988h-6.767v-6.925h-1.067zm11 6.925v0.988h2v-0.988h-2z"/>
 </svg>

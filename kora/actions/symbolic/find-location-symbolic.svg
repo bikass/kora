@@ -1,3 +1,8 @@
-<svg style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
- <path d="m7 1v2.09c-1.95 0.4-3.51 1.96-3.91 3.91h-2.09v2h2.09c0.4 1.95 1.96 3.51 3.91 3.91v2.09h2v-2.09c1.95-0.4 3.51-1.96 3.91-3.91h2.09v-2h-2.09c-0.4-1.95-1.96-3.51-3.91-3.91v-2.09h-2zm1 2.985c2.208 0 4.015 1.807 4.015 4.015s-1.807 4.015-4.015 4.015-4.015-1.807-4.015-4.015 1.807-4.015 4.015-4.015z" fill="#dfdfdf"/>
+<svg xmlns="http://www.w3.org/2000/svg" style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2" viewBox="0 0 16 16">
+ <defs>
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
+  </style>
+ </defs>
+ <path style="fill:currentColor" class="ColorScheme-Text" d="m7 1v2.09c-1.95 0.4-3.51 1.96-3.91 3.91h-2.09v2h2.09c0.4 1.95 1.96 3.51 3.91 3.91v2.09h2v-2.09c1.95-0.4 3.51-1.96 3.91-3.91h2.09v-2h-2.09c-0.4-1.95-1.96-3.51-3.91-3.91v-2.09h-2zm1 2.985c2.208 0 4.015 1.807 4.015 4.015s-1.807 4.015-4.015 4.015-4.015-1.807-4.015-4.015 1.807-4.015 4.015-4.015z"/>
 </svg>

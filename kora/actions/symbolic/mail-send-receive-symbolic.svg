@@ -1,14 +1,19 @@
-<svg style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+<svg xmlns="http://www.w3.org/2000/svg" style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2" viewBox="0 0 16 16">
+ <defs>
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
+  </style>
+ </defs>
  <g transform="matrix(.672457 0 0 1 3.27543 .337469)">
-  <rect x="9" y="6" width="4" height="6" fill="#dfdfdf"/>
+  <rect style="fill:currentColor" class="ColorScheme-Text" width="4" height="6" x="9" y="6"/>
  </g>
  <g transform="translate(-.327543 .337469)">
-  <path d="m15 11h-8l4 4 4-4z" fill="#dfdfdf"/>
+  <path style="fill:currentColor" class="ColorScheme-Text" d="m15 11h-8l4 4 4-4z"/>
  </g>
  <g transform="matrix(.672457 0 0 1 -2.06948 -2.33747)">
-  <rect x="9" y="6" width="4" height="6" fill="#dfdfdf"/>
+  <rect style="fill:currentColor" class="ColorScheme-Text" width="4" height="6" x="9" y="6"/>
  </g>
  <g transform="translate(.327543 -.337469)">
-  <path d="m1 5h8l-4-4-4 4z" fill="#dfdfdf"/>
+  <path style="fill:currentColor" class="ColorScheme-Text" d="m1 5h8l-4-4-4 4z"/>
  </g>
 </svg>

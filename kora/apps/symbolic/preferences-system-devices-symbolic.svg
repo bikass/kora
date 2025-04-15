@@ -1,6 +1,11 @@
-<svg clip-rule="evenodd" fill-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="2" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
- <g fill="#dfdfdf" fill-rule="nonzero">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
+ <defs>
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
+  </style>
+ </defs>
+ <g style="fill:currentColor" class="ColorScheme-Text">
   <path d="m2 3c-.554 0-1 .446-1 1v2c0 .554.446 1 1 1v-1h3.538c.148-.385.318-.664 1.087-.68h2.375v-1.32c0-.554-.446-1-1-1zm4.625 3c-.625 0-.625.666-.625.666v6.668c0 .667.625.666.625.666h3.014c-.128.007-.639.063-.639.5v.5h4v-.5c0-.437-.511-.493-.639-.5h3.014c.625 0 .625-.666.625-.666v-6.668s0-.666-.625-.666zm.35.998h8.05v6.004h-8.05z"/>
-  <path d="m3 1v1.727h4v-1.727zm-.405 5.521v3.479h2.405v-3.479z" fill-opacity=".3"/>
+  <path fill-opacity=".3" d="m3 1v1.727h4v-1.727zm-.405 5.521v3.479h2.405v-3.479z"/>
  </g>
 </svg>

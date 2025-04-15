@@ -1,6 +1,11 @@
-<svg style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
- <path d="m8 2c-3.292 0-6 2.708-6 6s2.708 6 6 6 6-2.708 6-6-2.708-6-6-6zm0 1.087c2.695 0 4.913 2.218 4.913 4.913s-2.218 4.913-4.913 4.913-4.913-2.218-4.913-4.913 2.218-4.913 4.913-4.913z" fill="#dfdfdf"/>
+<svg xmlns="http://www.w3.org/2000/svg" style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2" viewBox="0 0 16 16">
+ <defs>
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
+  </style>
+ </defs>
+ <path style="fill:currentColor" class="ColorScheme-Text" d="m8 2c-3.292 0-6 2.708-6 6s2.708 6 6 6 6-2.708 6-6-2.708-6-6-6zm0 1.087c2.695 0 4.913 2.218 4.913 4.913s-2.218 4.913-4.913 4.913-4.913-2.218-4.913-4.913 2.218-4.913 4.913-4.913z"/>
  <g transform="matrix(.7664 0 0 .7664 1.8688 1.8688)">
-  <path d="m11.102 8c0 1.702-1.4 3.102-3.102 3.102s-3.102-1.4-3.102-3.102 1.4-3.102 3.102-3.102 3.102 1.4 3.102 3.102z" fill-opacity=".3" fill="#dfdfdf"/>
+  <path style="fill:currentColor" class="ColorScheme-Text" fill-opacity=".3" d="m11.102 8c0 1.702-1.4 3.102-3.102 3.102s-3.102-1.4-3.102-3.102 1.4-3.102 3.102-3.102 3.102 1.4 3.102 3.102z"/>
  </g>
 </svg>

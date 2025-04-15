@@ -1,5 +1,10 @@
-<svg clip-rule="evenodd" fill-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="2" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
- <g fill="#dfdfdf" fill-rule="nonzero">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
+ <defs>
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
+  </style>
+ </defs>
+ <g style="fill:currentColor" class="ColorScheme-Text">
   <path transform="matrix(.546153 0 0 .546153 -3.37527 -.713871)" d="m12.962 1.955c-0.831 0-1.628 0.33-2.216 0.918s-0.918 1.385-0.918 2.216v21.732c0 1.731 1.403 3.134 3.134 3.134h15.732c1.731 0 3.134-1.403 3.134-3.134v-17.379l-6.329-7.487zm-1.134 3.085c0-0.599 0.486-1.085 1.085-1.085h11.751v6.032l5.164 0.052v16.831c0 0.288-0.114 0.564-0.318 0.767-0.203 0.204-0.479 0.318-0.767 0.318h-15.83c-0.599 0-1.085-0.486-1.085-1.085v-21.83z"/>
   <path transform="matrix(.574483 0 0 .574483 3.40414 4.42089)" d="m8 12.799c.627 0 1.136.509 1.136 1.136 0 .628-.509 1.137-1.136 1.137s-1.136-.509-1.136-1.137c0-.627.509-1.136 1.136-1.136zm3.07-5.549-.9.92c-.72.73-1.18 1.342-1.17 2.528.01 1.194-1.973 1.104-2 0-.027-1.11.45-2.298 1.17-3.028l1.24-1.26c.37-.36.59-.86.59-1.41 0-1.1-.9-2-2-2s-2 .9-2 2c-.646.873-1.311.948-2 0 0-2.21 1.79-4 4-4s4 1.79 4 4c0 .88-.36 1.68-.93 2.25z"/>
  </g>

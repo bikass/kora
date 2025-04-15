@@ -1,6 +1,11 @@
-<svg clip-rule="evenodd" fill-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="2" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
- <g fill="#dfdfdf">
-  <path d="m8 0c-4.41 0-8 3.594-8 8s3.59 8 8 8 8-3.594 8-8-3.59-8-8-8zm0 1c3.859 0 7 3.145 7 7s-3.141 7-7 7-7-3.145-7-7 3.141-7 7-7z" fill-opacity=".3"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
+ <defs>
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
+  </style>
+ </defs>
+ <g style="fill:currentColor" class="ColorScheme-Text">
+  <path fill-opacity=".3" d="m8 0c-4.41 0-8 3.594-8 8s3.59 8 8 8 8-3.594 8-8-3.59-8-8-8zm0 1c3.859 0 7 3.145 7 7s-3.141 7-7 7-7-3.145-7-7 3.141-7 7-7z"/>
   <path d="m8 10.494 3.124-3.942c.305-.383.864-.448 1.248-.144.384.305.449.864.144 1.247l-3.816 4.814c-.176.222-.437.337-.7.336-.264.001-.524-.114-.701-.336l-3.815-4.813c-.305-.384-.24-.943.144-1.247.384-.305.943-.24 1.248.143zm0-4.431 1.583-1.997c.227-.286.642-.334.928-.108.286.227.334.643.107.928l-2.097 2.646c-.131.165-.325.25-.521.25s-.391-.085-.521-.25l-2.097-2.646c-.227-.285-.179-.701.107-.928.285-.226.701-.178.928.108z"/>
  </g>
 </svg>

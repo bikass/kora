@@ -1,4 +1,9 @@
-<svg style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
- <rect x=".943" y="4.983" width="14.134" height="2.422" fill-opacity=".3" fill="#dfdfdf"/>
- <path d="m1 4c-1 0-1 1-1 1v7h0.948v-7.025h14.104v7.025h0.948v-7c0-1-1-1-1-1h-14z" fill="#dfdfdf"/>
+<svg xmlns="http://www.w3.org/2000/svg" style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2" viewBox="0 0 16 16">
+ <defs>
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
+  </style>
+ </defs>
+ <rect style="fill:currentColor" class="ColorScheme-Text" fill-opacity=".3" width="14.134" height="2.422" x=".94" y="4.98"/>
+ <path style="fill:currentColor" class="ColorScheme-Text" d="m1 4c-1 0-1 1-1 1v7h0.948v-7.025h14.104v7.025h0.948v-7c0-1-1-1-1-1h-14z"/>
 </svg>

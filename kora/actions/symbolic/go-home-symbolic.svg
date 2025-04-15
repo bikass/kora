@@ -4,7 +4,7 @@
    .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
   </style>
  </defs>
-  <path style="fill:currentColor;" class="ColorScheme-Text" d="m7.997.598 7.841 6.114-.995 1.277-.477-.371v6.014c0 .978-.793 1.771-1.771 1.771h-9.192c-.47 0-.92-.187-1.253-.519-.332-.332-.518-.783-.518-1.252v-5.997l-.467.364-1.003-1.284zm.003 1.836-5.497 4.331v6.656c0 .613.498 1.111 1.111 1.111h8.769c.295 0 .578-.117.786-.326.208-.208.325-.49.325-.785v-6.673zm3.595-.946h2.011c.085 0 .154.067.154.152v2.347l-2.317-1.807v-.54c0-.085.068-.152.152-.152z"/>
-  <path style="fill:currentColor;" class="ColorScheme-Text" fill-opacity=".3" d="m8 2.435-5.497 4.329v6.657c0 .295.118.578.326.786s.491.325.786.325h8.769c.294 0 .577-.117.785-.325.209-.208.326-.491.326-.786v-6.674zm-2.191 5.321h4.382v4.38h-4.382z"/>
-  <path style="fill:currentColor;" class="ColorScheme-Text" d="m5.809 7.756v4.38h4.382v-4.38zm.893.892h2.596v2.597h-2.596z"/>
+ <path style="fill:currentColor" class="ColorScheme-Text" d="m7.997.598 7.841 6.114-.995 1.277-.477-.371v6.014c0 .978-.793 1.771-1.771 1.771h-9.192c-.47 0-.92-.187-1.253-.519-.332-.332-.518-.783-.518-1.252v-5.997l-.467.364-1.003-1.284zm.003 1.836-5.497 4.331v6.656c0 .613.498 1.111 1.111 1.111h8.769c.295 0 .578-.117.786-.326.208-.208.325-.49.325-.785v-6.673zm3.595-.946h2.011c.085 0 .154.067.154.152v2.347l-2.317-1.807v-.54c0-.085.068-.152.152-.152z"/>
+ <path fill-opacity=".3" style="fill:currentColor" class="ColorScheme-Text" d="m8 2.435-5.497 4.329v6.657c0 .295.118.578.326.786s.491.325.786.325h8.769c.294 0 .577-.117.785-.325.209-.208.326-.491.326-.786v-6.674zm-2.191 5.321h4.382v4.38h-4.382z"/>
+ <path style="fill:currentColor" class="ColorScheme-Text" d="m5.809 7.756v4.38h4.382v-4.38zm.893.892h2.596v2.597h-2.596z"/>
 </svg>

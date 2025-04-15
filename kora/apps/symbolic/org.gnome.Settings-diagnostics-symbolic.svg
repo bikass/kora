@@ -1,5 +1,10 @@
-<svg clip-rule="evenodd" fill-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="2" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
- <g fill="#dfdfdf" fill-rule="nonzero">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
+ <defs>
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
+  </style>
+ </defs>
+ <g style="fill:currentColor" class="ColorScheme-Text">
   <path d="m2 0c-2 0-2 2-2 2v9s0 2 2 2h2l.011-1.217h-2.684v-10.566h13.346v2.77l1.327.013v-2s0-2-2-2zm2 14s-1 0-1 1v1h10v-1c0-1-1-1-1-1z"/>
   <path transform="matrix(.88461 0 0 .88461 2.73084 1.92312)" d="m6.5 1c-3.017 0-5.5 2.483-5.5 5.5s2.483 5.5 5.5 5.5c1.113 0 2.485-.573 3.241-1.093l3.538 3.786c.188.196.449.307.721.307.549 0 1-.451 1-1 0-.27-.109-.529-.303-.717l-3.794-3.545c.521-.755 1.095-2.126 1.097-3.238 0-3.017-2.483-5.5-5.5-5.5zm0 1.097c2.416 0 4.403 1.987 4.403 4.403s-1.987 4.403-4.403 4.403-4.403-1.987-4.403-4.403 1.987-4.403 4.403-4.403z"/>
  </g>

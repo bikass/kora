@@ -1,5 +1,10 @@
-<svg width="16" height="16" xmlns="http://www.w3.org/2000/svg">
- <path d="m2 2v1h3.46l-3.46 4.32v0.68h5v-1h-3.46l3.46-4.32v-0.68z" style="fill:#dfdfdf"/>
- <path d="m6 5v1h3.46l-3.46 4.32v0.68h5v-1h-3.46l3.46-4.32v-0.68z" style="fill:#dfdfdf"/>
- <path d="m10 8v1h3.46l-3.46 4.32v0.68h5v-1h-3.46l3.46-4.32v-0.68z" style="fill:#dfdfdf"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16">
+ <defs>
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
+  </style>
+ </defs>
+ <path style="fill:currentColor;" class="ColorScheme-Text" d="m2 2v1h3.46l-3.46 4.32v0.68h5v-1h-3.46l3.46-4.32v-0.68z"/>
+ <path style="fill:currentColor;" class="ColorScheme-Text" d="m6 5v1h3.46l-3.46 4.32v0.68h5v-1h-3.46l3.46-4.32v-0.68z"/>
+ <path style="fill:currentColor;" class="ColorScheme-Text" d="m10 8v1h3.46l-3.46 4.32v0.68h5v-1h-3.46l3.46-4.32v-0.68z"/>
 </svg>

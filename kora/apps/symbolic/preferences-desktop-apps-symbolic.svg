@@ -1,3 +1,8 @@
-<svg clip-rule="evenodd" fill-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="2" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
- <path d="m1 0c-.554 0-1 .446-1 1v5c0 .554.446 1 1 1h5c.554 0 1-.446 1-1v-5c0-.554-.446-1-1-1zm-.099 2.496h4.979v3.319h-4.979zm8.099-2.496c-.554 0-1 .446-1 1v5c0 .554.446 1 1 1h5c.554 0 1-.446 1-1v-5c0-.554-.446-1-1-1zm.149 2.496h4.978v3.319h-4.978zm-8.149 5.504c-.554 0-1 .446-1 1v5c0 .554.446 1 1 1h5c.554 0 1-.446 1-1v-5c0-.554-.446-1-1-1zm-.099 2.722h4.979v3.319h-4.979zm8.099-2.722c-.554 0-1 .446-1 1v5c0 .554.446 1 1 1h5c.554 0 1-.446 1-1v-5c0-.554-.446-1-1-1zm.149 2.722h4.978v3.319h-4.978z" fill="#dfdfdf" fill-rule="nonzero"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
+ <defs>
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
+  </style>
+ </defs>
+ <path style="fill:currentColor" class="ColorScheme-Text" d="m1 0c-.554 0-1 .446-1 1v5c0 .554.446 1 1 1h5c.554 0 1-.446 1-1v-5c0-.554-.446-1-1-1zm-.099 2.496h4.979v3.319h-4.979zm8.099-2.496c-.554 0-1 .446-1 1v5c0 .554.446 1 1 1h5c.554 0 1-.446 1-1v-5c0-.554-.446-1-1-1zm.149 2.496h4.978v3.319h-4.978zm-8.149 5.504c-.554 0-1 .446-1 1v5c0 .554.446 1 1 1h5c.554 0 1-.446 1-1v-5c0-.554-.446-1-1-1zm-.099 2.722h4.979v3.319h-4.979zm8.099-2.722c-.554 0-1 .446-1 1v5c0 .554.446 1 1 1h5c.554 0 1-.446 1-1v-5c0-.554-.446-1-1-1zm.149 2.722h4.978v3.319h-4.978z"/>
 </svg>

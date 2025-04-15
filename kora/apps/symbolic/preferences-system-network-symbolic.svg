@@ -1,5 +1,10 @@
-<svg style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+<svg xmlns="http://www.w3.org/2000/svg" style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2" viewBox="0 0 16 16">
+ <defs>
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
+  </style>
+ </defs>
  <g transform="matrix(6.12323e-17,-1,1,6.12323e-17,0,16)">
-  <path d="m12.017 11.337h2.655l-4 4-4-4h2.656v-5h2.689v5zm-8.034-6.674h-2.655l4-4 4 4h-2.656v5h-2.689v-5z" fill="#dfdfdf"/>
+  <path style="fill:currentColor" class="ColorScheme-Text" d="m12.017 11.337h2.655l-4 4-4-4h2.656v-5h2.689v5zm-8.034-6.674h-2.655l4-4 4 4h-2.656v5h-2.689v-5z"/>
  </g>
 </svg>
