@@ -1,7 +1,12 @@
-<svg style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
- <rect x=".705" y="2" width="4.407" height="11.241" fill-opacity=".3" fill="#dfdfdf"/>
+<svg xmlns="http://www.w3.org/2000/svg" style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2" viewBox="0 0 16 16">
+ <defs>
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
+  </style>
+ </defs>
+ <rect style="fill:currentColor" class="ColorScheme-Text" fill-opacity=".3" width="4.407" height="11.241" x=".7" y="2"/>
  <g transform="translate(-.148883 .148883)">
-  <path d="m16 3c0-0.552-0.448-1-1-1-0.265 0-0.52 0.106-0.707 0.293l-6 6c-0.39 0.391-0.293 1.707-0.293 1.707s1.317 0.098 1.707-0.293l6-6c0.193-0.192 0.293-0.442 0.293-0.707z" fill="#dfdfdf"/>
+  <path style="fill:currentColor" class="ColorScheme-Text" d="m16 3c0-0.552-0.448-1-1-1-0.265 0-0.52 0.106-0.707 0.293l-6 6c-0.39 0.391-0.293 1.707-0.293 1.707s1.317 0.098 1.707-0.293l6-6c0.193-0.192 0.293-0.442 0.293-0.707z"/>
  </g>
- <path d="m14 5.768v6.293c0 0.47-0.187 0.921-0.519 1.253-0.333 0.332-0.784 0.519-1.254 0.519h-10.42c-0.47 0-0.921-0.187-1.253-0.519-0.333-0.332-0.519-0.783-0.519-1.253v-9.273c0-0.47 0.186-0.921 0.519-1.253 0.332-0.333 0.783-0.52 1.253-0.52h10.42c0.47 0 0.921 0.187 1.254 0.52 0.215 0.214 0.369 0.479 0.451 0.766l-1.033 1.033v-1.133h-11.763v10.605h11.763v-5.937l1.101-1.101z" fill="#dfdfdf"/>
+ <path style="fill:currentColor" class="ColorScheme-Text" d="m14 5.768v6.293c0 0.47-0.187 0.921-0.519 1.253-0.333 0.332-0.784 0.519-1.254 0.519h-10.42c-0.47 0-0.921-0.187-1.253-0.519-0.333-0.332-0.519-0.783-0.519-1.253v-9.273c0-0.47 0.186-0.921 0.519-1.253 0.332-0.333 0.783-0.52 1.253-0.52h10.42c0.47 0 0.921 0.187 1.254 0.52 0.215 0.214 0.369 0.479 0.451 0.766l-1.033 1.033v-1.133h-11.763v10.605h11.763v-5.937l1.101-1.101z"/>
 </svg>

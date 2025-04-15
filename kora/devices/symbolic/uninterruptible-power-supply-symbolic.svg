@@ -1,7 +1,12 @@
-<svg style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
- <path d="m4 0s-2 0-2 2v14h12v-14c0-2-2-2-2-2h-8zm9 15v-13c0-1-1-1-1-1h-8s-1 0-1 1v13h10z" fill="#dfdfdf"/>
- <path d="m4 0s-2 0-2 2v14h12v-14c0-2-2-2-2-2h-8zm1 12c0.55 0 1 0.45 1 1s-0.45 1-1 1-1-0.45-1-1 0.45-1 1-1z" fill-opacity=".3" fill="#dfdfdf"/>
+<svg xmlns="http://www.w3.org/2000/svg" style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2" viewBox="0 0 16 16">
+ <defs>
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
+  </style>
+ </defs>
+ <path style="fill:currentColor" class="ColorScheme-Text" d="m4 0s-2 0-2 2v14h12v-14c0-2-2-2-2-2h-8zm9 15v-13c0-1-1-1-1-1h-8s-1 0-1 1v13h10z"/>
+ <path style="fill:currentColor" class="ColorScheme-Text" fill-opacity=".3" d="m4 0s-2 0-2 2v14h12v-14c0-2-2-2-2-2h-8zm1 12c0.55 0 1 0.45 1 1s-0.45 1-1 1-1-0.45-1-1 0.45-1 1-1z"/>
  <g transform="matrix(1 0 0 1.19107 0 .853598)">
-  <path d="m8 2v3h3l-3 5v-3h-3l3-5z" fill="#dfdfdf"/>
+  <path style="fill:currentColor" class="ColorScheme-Text" d="m8 2v3h3l-3 5v-3h-3l3-5z"/>
  </g>
 </svg>

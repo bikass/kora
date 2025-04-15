@@ -1,9 +1,14 @@
-<svg style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
- <path d="m9.292 14.074h1.698c0.255 0 0.5 0.101 0.68 0.282 0.181 0.18 0.282 0.425 0.282 0.68v1e-3c0 0.256-0.101 0.501-0.282 0.681-0.18 0.181-0.425 0.282-0.68 0.282h-5.98c-0.255 0-0.5-0.101-0.68-0.282-0.181-0.18-0.282-0.425-0.282-0.681v-1e-3c0-0.255 0.101-0.5 0.282-0.68 0.18-0.181 0.425-0.282 0.68-0.282h1.487v-0.929h2.795v0.929z" fill="#dfdfdf"/>
+<svg xmlns="http://www.w3.org/2000/svg" style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2" viewBox="0 0 16 16">
+ <defs>
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
+  </style>
+ </defs>
+ <path style="fill:currentColor" class="ColorScheme-Text" d="m9.292 14.074h1.698c0.255 0 0.5 0.101 0.68 0.282 0.181 0.18 0.282 0.425 0.282 0.68v1e-3c0 0.256-0.101 0.501-0.282 0.681-0.18 0.181-0.425 0.282-0.68 0.282h-5.98c-0.255 0-0.5-0.101-0.68-0.282-0.181-0.18-0.282-0.425-0.282-0.681v-1e-3c0-0.255 0.101-0.5 0.282-0.68 0.18-0.181 0.425-0.282 0.68-0.282h1.487v-0.929h2.795v0.929z"/>
  <g transform="matrix(1.11541 0 0 1.11541 -.923317 -1.65822)">
-  <path d="m8 2.308c3.142 0 5.692 2.55 5.692 5.692s-2.55 5.692-5.692 5.692-5.692-2.55-5.692-5.692 2.55-5.692 5.692-5.692zm0 1.423c2.356 0 4.269 1.913 4.269 4.269s-1.913 4.269-4.269 4.269-4.269-1.913-4.269-4.269 1.913-4.269 4.269-4.269z" fill="#dfdfdf"/>
+  <path style="fill:currentColor" class="ColorScheme-Text" d="m8 2.308c3.142 0 5.692 2.55 5.692 5.692s-2.55 5.692-5.692 5.692-5.692-2.55-5.692-5.692 2.55-5.692 5.692-5.692zm0 1.423c2.356 0 4.269 1.913 4.269 4.269s-1.913 4.269-4.269 4.269-4.269-1.913-4.269-4.269 1.913-4.269 4.269-4.269z"/>
  </g>
  <g transform="matrix(1.11541 0 0 1.11541 -.923317 -1.65822)">
-  <circle cx="8" cy="8" r="3.787" fill-opacity=".3" fill="#dfdfdf"/>
+  <circle style="fill:currentColor" class="ColorScheme-Text" fill-opacity=".3" cx="8" cy="8" r="3.787"/>
  </g>
 </svg>

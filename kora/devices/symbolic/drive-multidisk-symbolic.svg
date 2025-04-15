@@ -1,10 +1,15 @@
-<svg style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
- <path d="m15.259 9h-14.792v4.697h14.792v-4.697zm-3.708 0.754c0.548 0 1 0.452 1 1 0 0.549-0.452 1-1 1-0.549 0-1-0.451-1-1 0-0.548 0.451-1 1-1z" fill-opacity=".3" fill="#dfdfdf"/>
- <path d="m1 8.556c-0.554 0-1 0.446-1 1v3.444c0 0.554 0.446 1 1 1h14c0.554 0 1-0.446 1-1v-3.444c0-0.554-0.446-1-1-1h-14zm0 0.74h14c0.144 0 0.259 0.116 0.259 0.26v3.444c0 0.144-0.115 0.259-0.259 0.259h-14c-0.144 0-0.259-0.115-0.259-0.259v-3.444c0-0.144 0.115-0.26 0.259-0.26z" fill="#dfdfdf"/>
+<svg xmlns="http://www.w3.org/2000/svg" style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2" viewBox="0 0 16 16">
+ <defs>
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
+  </style>
+ </defs>
+ <path style="fill:currentColor" class="ColorScheme-Text" fill-opacity=".3" d="m15.259 9h-14.792v4.697h14.792v-4.697zm-3.708 0.754c0.548 0 1 0.452 1 1 0 0.549-0.452 1-1 1-0.549 0-1-0.451-1-1 0-0.548 0.451-1 1-1z"/>
+ <path style="fill:currentColor" class="ColorScheme-Text" d="m1 8.556c-0.554 0-1 0.446-1 1v3.444c0 0.554 0.446 1 1 1h14c0.554 0 1-0.446 1-1v-3.444c0-0.554-0.446-1-1-1h-14zm0 0.74h14c0.144 0 0.259 0.116 0.259 0.26v3.444c0 0.144-0.115 0.259-0.259 0.259h-14c-0.144 0-0.259-0.115-0.259-0.259v-3.444c0-0.144 0.115-0.26 0.259-0.26z"/>
  <g transform="translate(0 -6.57072)">
-  <path d="m15.259 9h-14.792v4.697h14.792v-4.697zm-3.708 0.754c0.548 0 1 0.452 1 1 0 0.549-0.452 1-1 1-0.549 0-1-0.451-1-1 0-0.548 0.451-1 1-1z" fill-opacity=".3" fill="#dfdfdf"/>
+  <path style="fill:currentColor" class="ColorScheme-Text" fill-opacity=".3" d="m15.259 9h-14.792v4.697h14.792v-4.697zm-3.708 0.754c0.548 0 1 0.452 1 1 0 0.549-0.452 1-1 1-0.549 0-1-0.451-1-1 0-0.548 0.451-1 1-1z"/>
  </g>
  <g transform="translate(0 -6.57072)">
-  <path d="m1 8.556c-0.554 0-1 0.446-1 1v3.444c0 0.554 0.446 1 1 1h14c0.554 0 1-0.446 1-1v-3.444c0-0.554-0.446-1-1-1h-14zm0 0.74h14c0.144 0 0.259 0.116 0.259 0.26v3.444c0 0.144-0.115 0.259-0.259 0.259h-14c-0.144 0-0.259-0.115-0.259-0.259v-3.444c0-0.144 0.115-0.26 0.259-0.26z" fill="#dfdfdf"/>
+  <path style="fill:currentColor" class="ColorScheme-Text" d="m1 8.556c-0.554 0-1 0.446-1 1v3.444c0 0.554 0.446 1 1 1h14c0.554 0 1-0.446 1-1v-3.444c0-0.554-0.446-1-1-1h-14zm0 0.74h14c0.144 0 0.259 0.116 0.259 0.26v3.444c0 0.144-0.115 0.259-0.259 0.259h-14c-0.144 0-0.259-0.115-0.259-0.259v-3.444c0-0.144 0.115-0.26 0.259-0.26z"/>
  </g>
 </svg>

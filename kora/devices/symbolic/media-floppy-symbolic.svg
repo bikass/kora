@@ -1,4 +1,9 @@
-<svg style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
- <path d="m14.481 1.608h-12.863v11.95h12.863v-11.95zm-4.069 7.126h-2.819v4.626h2.819v-4.626z" fill-opacity=".3" fill="#dfdfdf"/>
- <path d="m2 1c-0.55 0-1 0.45-1 1v11l2 2h11c0.55 0 1-0.45 1-1v-12c0-0.55-0.45-1-1-1h-12zm-0.132 0.849h12.264v11.151h-2.132v-5h-8v5h-2.132v-11.151zm6.132 7.151h2v4h-2v-4z" fill="#dfdfdf"/>
+<svg xmlns="http://www.w3.org/2000/svg" style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2" viewBox="0 0 16 16">
+ <defs>
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
+  </style>
+ </defs>
+ <path style="fill:currentColor" class="ColorScheme-Text" fill-opacity=".3" d="m14.481 1.608h-12.863v11.95h12.863v-11.95zm-4.069 7.126h-2.819v4.626h2.819v-4.626z"/>
+ <path style="fill:currentColor" class="ColorScheme-Text" d="m2 1c-0.55 0-1 0.45-1 1v11l2 2h11c0.55 0 1-0.45 1-1v-12c0-0.55-0.45-1-1-1h-12zm-0.132 0.849h12.264v11.151h-2.132v-5h-8v5h-2.132v-11.151zm6.132 7.151h2v4h-2v-4z"/>
 </svg>
