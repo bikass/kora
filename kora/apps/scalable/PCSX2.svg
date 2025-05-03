@@ -1,13 +1,102 @@
-<svg style="clip-rule:evenodd;fill-rule:evenodd;stroke-linecap:round;stroke-linejoin:round" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
- <path d="m31.999 3c-1.519 0-3.039 0.566-4.175 1.702l-23.122 23.125c-2.271 2.271-2.268 6.072 3e-3 8.343l23.123 23.125c2.271 2.271 6.075 2.274 8.346 3e-3l23.123-23.125c2.271-2.271 2.271-6.075 0-8.346l-23.123-23.125c-1.136-1.136-2.656-1.702-4.175-1.702z" style="fill-rule:nonzero;fill:url(#_Linear1)"/>
- <path d="m8.951 31.655l8.789-8.789 5.859 5.859-8.789 8.788 5.859 5.859" style="fill:none;stroke-width:4px;stroke:#5092ff"/>
- <path d="m31.899 8.707l-8.789 8.789 5.859 5.859 8.789-8.789 5.858 5.859-5.37 5.371" style="fill:none;stroke-width:4px;stroke:#4b70e1"/>
- <path d="m25.572 38.469l8.789-8.788 5.859 5.859-8.789 8.788 5.838 5.88 8.789-8.789" style="fill:none;stroke-width:4px;stroke:#744dec"/>
- <path d="m23.11 45.814c-1.082 1.082-0.995 2.91 0.195 4.1l6.446 6.446c1.19 1.19 3.019 1.277 4.101 0.195l2.021-2.022c-0.197-0.116-0.387-0.25-0.557-0.419l-10.253-10.253-1.953 1.953zm17.577-17.577l10.253 10.253c0.17 0.17 0.303 0.36 0.42 0.557l4.951-4.951c1.082-1.082 0.995-2.911-0.195-4.101l-6.446-6.446c-1.19-1.19-3.019-1.276-4.101-0.194l-4.882 4.882z" style="fill-rule:nonzero;fill:#283d8a"/>
- <defs>
-  <linearGradient id="_Linear1" x2="1" gradientTransform="matrix(3.49187e-15,-57.0266,57.0266,3.49187e-15,32,60.6683)" gradientUnits="userSpaceOnUse">
-   <stop style="stop-color:#ccc" offset="0"/>
-   <stop style="stop-color:#f0f0f0" offset="1"/>
-  </linearGradient>
- </defs>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="PCSX_Logo_2.0" data-name="PCSX2 Logo 2.0" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 4100 4100">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#Gradiente_sem_nome_2);
+      }
+
+      .cls-1, .cls-2 {
+        stroke: #677fcf;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6 {
+        fill-rule: evenodd;
+        stroke-width: 5px;
+      }
+
+      .cls-2 {
+        fill: url(#Gradiente_sem_nome);
+      }
+
+      .cls-3 {
+        fill: url(#Gradiente_sem_nome_3);
+        stroke: #b1c5ff;
+      }
+
+      .cls-4 {
+        fill: #142370;
+        stroke: #142370;
+      }
+
+      .cls-5 {
+        fill: url(#Gradiente_sem_nome_7);
+      }
+
+      .cls-5, .cls-6 {
+        stroke: #6e9cff;
+      }
+
+      .cls-6 {
+        fill: url(#Gradiente_sem_nome_8);
+      }
+    </style>
+    <linearGradient id="Gradiente_sem_nome" data-name="Gradiente sem nome" x1="7901.34" y1="-19025.92" x2="7589.65" y2="-20459.73" gradientTransform="translate(-1267.48 21672.99) rotate(-8.78) scale(.98 .95) skewX(-.69)" gradientUnits="userSpaceOnUse">
+      <stop offset=".19" stop-color="#93acfe"/>
+      <stop offset=".88" stop-color="#6b70d5"/>
+    </linearGradient>
+    <linearGradient id="Gradiente_sem_nome_2" data-name="Gradiente sem nome 2" x1="5672.01" y1="-17541.4" x2="5524.95" y2="-18891.5" gradientTransform="translate(-1024.91 20992.66) rotate(-12.07) scale(1.01 .92) skewX(-2.7)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#93acfe"/>
+      <stop offset=".67" stop-color="#6b70d5"/>
+      <stop offset=".99" stop-color="#6b70d5"/>
+    </linearGradient>
+    <radialGradient id="Gradiente_sem_nome_3" data-name="Gradiente sem nome 3" cx="6358.93" cy="-18438.27" fx="5981.85" fy="-18438.27" r="1355.02" gradientTransform="translate(-346.59 21217.74) rotate(-10.94) scale(.99 .94) skewX(-.14)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#d2e7ff"/>
+      <stop offset=".12" stop-color="#cce1ff"/>
+      <stop offset=".99" stop-color="#a6baff"/>
+    </radialGradient>
+    <linearGradient id="Gradiente_sem_nome_7" data-name="Gradiente sem nome 7" x1="6483.54" y1="-20236.63" x2="6593.33" y2="-21636.35" gradientTransform="translate(-1175.86 21642.25) rotate(-8.81) scale(.98 .95) skewX(-.37)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#88c9ff"/>
+      <stop offset=".21" stop-color="#77b8fa"/>
+      <stop offset=".59" stop-color="#5da0f4"/>
+      <stop offset=".99" stop-color="#4488ed"/>
+    </linearGradient>
+    <linearGradient id="Gradiente_sem_nome_8" data-name="Gradiente sem nome 8" x1="4686.33" y1="-18617.98" x2="4927.11" y2="-20965.64" gradientTransform="translate(-1069.72 20996.41) rotate(-11.13) scale(1.01 .92) skewX(-1.9)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#88c9ff"/>
+      <stop offset=".7" stop-color="#5da0f4"/>
+      <stop offset=".99" stop-color="#4488ed"/>
+    </linearGradient>
+  </defs>
+  <g id="By_Maxihplay" data-name="By Maxihplay">
+    <g id="sombras">
+      <g id="A">
+        <path id="Forma_5-2" data-name="Forma 5-2" class="cls-4" d="m2895.89,1597.67l451.02-239.47c23.87-21.7,67.48-20.9,97.62,1.76l629.76,309.41s-.11,174.66-.04,193.02c.06,14.23-3.61,25.57-13.14,35.53l-418.48,437.34c-25.31,26.45-73.09,26.23-106.36-.53l-614.71-494.48c-16.76-13.49-25.47-31.3-25.67-48.57-.18-14.42,0-194,0-194h0Z"/>
+        <path id="Forma_4-2" data-name="Forma 4-2" class="cls-4" d="m2308.45,3717.9l-155.96,161.17c-33.88,35.01-89.93,35.62-124.88,1.31l-642.59-630.98c-15.45-15.17-22.94-34.85-22.67-54.68.28-21.22,0-190.92,0-190.92l184.79-10.88c33.31-30.25,85.96-30.31,117.86-.17l666.91,471.33s.28,173.63.01,196.77c-.25,20.62-8,41.08-23.46,57.05Z"/>
+      </g>
+      <g id="_2" data-name=" 2">
+        <path id="Forma_3" data-name="Forma 3" class="cls-4" d="m1319.95,2329.65l-1.2-192.74,771.85-451.7c73.59-61.54,194.77-59.72,272.28,3.89l468.27,272.31.62,169.19c.09,25.69-10.08,58.25-27.83,79.16l-513.58,527.37,263.4,232.21,617.52-616.76,241.81,4.4-1.23,191.86-722.03,752.49c-80.16,83.54-219.77,84.56-309.58,1.94l-484.66-462.96c-18.01-18.12-28.14-42.92-28.31-67.71v-208.85l587.64-415.89-224-187.89-673.22,587.75-237.73-218.05h-.01Z"/>
+      </g>
+      <g id="S">
+        <path id="Forma_2" data-name="Forma 2" class="cls-4" d="m2153.68,388.51l196.12-44.1-1.73,190.88-623.8,467.01,205.18,166.29,618.61-482.92,551.34,292.15s-.77,147.26.05,187.62c.67,33.05-12.86,65.28-41.48,90.35l-413.54,362.28-230.39-185.93-1.22-192.08,325.66-82.2-200.53-154.41-499.08,404.23c-73.15,59.24-193.73,57.31-267.66-4.5l-349.98-292.6c-34.91-29.18-51.2-66.47-49.55-103.16,1.43-31.7-.07-186.28-.07-186.28l88,11.31,694.07-443.94h-.01Z"/>
+      </g>
+      <g id="P">
+        <path id="Forma_1_copiar" data-name="Forma 1 copiar" class="cls-4" d="m26.93,1922.66l-1.22-192.61,891.29-450.03c79.88-57.68,200.3-55.28,270.57,5.2l404,227.64s3.52,127.18,2.25,173.34c-1.34,48.62-22.75,97.65-63.02,130.11l-600.53,484.16,449.53,230.52-1.22,192.47-282.03,246.27-658.02-644.42-1.26-192.8,784.09-417.45-207.65-184.15-784.33,588.6-202.44-196.88h-.01Z"/>
+      </g>
+    </g>
+    <g id="brilhos">
+      <g id="A-2">
+        <path id="Forma_5-2-2" data-name="Forma 5-2-2" class="cls-2" d="m2912.71,1558.17l433.57-394.2c23.87-21.7,67.48-20.9,97.62,1.76l599.44,450.62c32.33,24.31,40.1,63.36,17.16,87.33l-418.48,437.34c-25.31,26.45-73.09,26.23-106.36-.53l-614.71-494.48c-30.77-24.75-34.36-64.09-8.24-87.85h0Z"/>
+        <path id="Forma_4-2-2" data-name="Forma 4-2-2" class="cls-1" d="m2307.81,3523.67l-155.96,161.17c-33.88,35.01-89.93,35.62-124.88,1.31l-642.59-630.98c-31.99-31.41-29.83-82.18,4.55-113.4l157.56-143.08c33.31-30.25,85.96-30.31,117.86-.17l639.62,604.27c34.78,32.87,36.65,86.99,3.85,120.88Z"/>
+      </g>
+      <g id="_2-2" data-name=" 2-2">
+        <path id="Forma_3-2" data-name="Forma 3-2" class="cls-3" d="m1319.32,2135.42l770.64-644.44c73.59-61.54,194.77-59.72,272.28,3.89l408.06,334.86c77.45,63.55,81.61,180.62,8.88,249.53l-489.46,463.64,263.4,232.21,617.52-616.76,240.57,196.26-722.03,752.49c-80.16,83.54-219.77,84.56-309.58,1.94l-458.38-421.67c-73.12-67.25-72.79-182.75.71-249.59l532.34-484.15-224-187.89-673.22,587.75-237.73-218.05h-.01Z"/>
+      </g>
+      <g id="S-2">
+        <path id="Forma_2-2" data-name="Forma 2-2" class="cls-5" d="m2153.06,194.29l194.38,146.78-623.8,467.01,205.18,166.29,517.34-403.86c59.75-46.65,143.37-47.38,203.93-1.8l384.38,289.3c75.59,56.89,86.42,147.89,22.89,203.55l-413.54,362.28-230.39-185.93,324.42-274.3-200.53-154.41-499.08,404.23c-73.15,59.24-193.73,57.31-267.66-4.5l-349.98-292.6c-70.05-58.56-65.18-149.77,9.43-203.3l723.01-518.77h0Z"/>
+      </g>
+      <g id="P-2">
+        <path id="Forma_1_copiar-2" data-name="Forma 1 copiar-2" class="cls-6" d="m26.31,1728.44l890.05-642.64c79.88-57.68,200.3-55.28,270.57,5.2l350.45,301.67c73.78,63.51,71.26,166.15-7.22,229.43l-600.53,484.16,448.31,422.99-282.03,246.27-658.02-644.42,782.83-610.24-207.65-184.15L228.76,1925.32l-202.44-196.88h0Z"/>
+      </g>
+    </g>
+  </g>
 </svg>
