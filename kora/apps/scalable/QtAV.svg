@@ -1,8 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" version="1.1">
- <circle style="opacity:0.2" cx="24" cy="25" r="20"/>
- <circle style="fill:#008b00" cx="24" cy="24" r="20"/>
- <circle style="opacity:0.2" cx="25.5" cy="23.5" r="15.5"/>
- <circle style="fill:#ffffff" cx="25.5" cy="22.5" r="15.5"/>
- <path style="fill:#67da25" d="M 21,13 V 32 L 37,22.499999 Z"/>
- <path style="fill:#ffffff;opacity:0.1" d="M 24 4 A 20 20 0 0 0 4 24 A 20 20 0 0 0 4.0351562 24.5 A 20 20 0 0 1 24 5 A 20 20 0 0 1 43.982422 24.25 A 20 20 0 0 0 44 24 A 20 20 0 0 0 24 4 z"/>
+<svg clip-rule="evenodd" fill-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="2" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+ <linearGradient id="a" x2="1" gradientTransform="matrix(-.400338 -45.528 45.528 -.400338 24 46.764)" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#008b00" offset="0"/>
+  <stop stop-color="#40ab40" offset="1"/>
+ </linearGradient>
+ <circle cx="24" cy="24" r="22.764" fill="url(#a)"/>
+ <circle cx="25.707" cy="22.293" r="17.642" fill="#fff"/>
+ <path d="m20.585 11.48v21.626l18.212-10.813z" fill="#67da25" fill-rule="nonzero"/>
 </svg>

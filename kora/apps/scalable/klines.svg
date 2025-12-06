@@ -1,25 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" version="1">
- <rect fill="#4e91d9" width="40" height="40" x="4" y="4" rx="2" ry="2"/>
- <path fill="#fff" opacity=".2" d="m6 4c-1.108 0-2 0.892-2 2v1c0-1.108 0.892-2 2-2h36c1.108 0 2 0.892 2 2v-1c0-1.108-0.892-2-2-2h-36z"/>
- <path opacity=".2" d="m6 45c-1.108 0-2-0.892-2-2v-1c0 1.108 0.892 2 2 2h36c1.108 0 2-0.892 2-2v1c0 1.108-0.892 2-2 2h-36z"/>
- <g opacity=".2" transform="translate(0,1)">
-  <circle cx="14" cy="-14" r="4" transform="scale(1,-1)"/>
-  <circle cx="24" cy="-14" r="4" transform="scale(1,-1)"/>
-  <circle cx="34" cy="-14" r="4" transform="scale(1,-1)"/>
-  <circle cx="14" cy="-24" r="4" transform="scale(1,-1)"/>
-  <circle cx="24" cy="-24" r="4" transform="scale(1,-1)"/>
-  <circle cx="34" cy="-24" r="4" transform="scale(1,-1)"/>
-  <circle cx="14" cy="-34" r="4" transform="scale(1,-1)"/>
-  <circle cx="24" cy="-34" r="4" transform="scale(1,-1)"/>
-  <circle cx="34" cy="-34" r="4" transform="scale(1,-1)"/>
- </g>
- <circle fill="#aff" cx="14" cy="-14" r="4" transform="scale(1,-1)"/>
- <circle fill="#aff" cx="24" cy="-14" r="4" transform="scale(1,-1)"/>
- <circle fill="#ffd060" cx="34" cy="-14" r="4" transform="scale(1,-1)"/>
- <circle fill="#aff" cx="14" cy="-24" r="4" transform="scale(1,-1)"/>
- <circle fill="#ffd060" cx="24" cy="-24" r="4" transform="scale(1,-1)"/>
- <circle fill="#aff" cx="34" cy="-24" r="4" transform="scale(1,-1)"/>
- <circle fill="#ffd060" cx="14" cy="-34" r="4" transform="scale(1,-1)"/>
- <circle fill="#aff" cx="24" cy="-34" r="4" transform="scale(1,-1)"/>
- <circle fill="#aff" cx="34" cy="-34" r="4" transform="scale(1,-1)"/>
+<svg clip-rule="evenodd" fill-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="2" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+ <linearGradient id="a" x2="1" gradientTransform="matrix(-.16285 -43.2931 43.2931 -.16285 25.011 45.6251)" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#306eb1" offset="0"/>
+  <stop stop-color="#4e91d9" offset="1"/>
+ </linearGradient>
+ <path d="m8.56 2.332h30.88c3.438 0 6.228 2.79 6.228 6.228v30.88c0 3.438-2.79 6.228-6.228 6.228h-30.88c-3.438 0-6.228-2.79-6.228-6.228v-30.88c0-3.438 2.79-6.228 6.228-6.228z" fill="url(#a)"/>
+ <path d="m13.166 17.5c-2.392 0-4.334-1.942-4.334-4.334s1.942-4.334 4.334-4.334 4.334 1.942 4.334 4.334-1.942 4.334-4.334 4.334zm10.834 0c-2.392 0-4.334-1.942-4.334-4.334s1.942-4.334 4.334-4.334 4.334 1.942 4.334 4.334-1.942 4.334-4.334 4.334zm-10.834 10.834c-2.392 0-4.334-1.942-4.334-4.334s1.942-4.334 4.334-4.334 4.334 1.942 4.334 4.334-1.942 4.334-4.334 4.334zm21.668 0c-2.392 0-4.334-1.942-4.334-4.334s1.942-4.334 4.334-4.334 4.334 1.942 4.334 4.334-1.942 4.334-4.334 4.334zm-10.834 10.834c-2.392 0-4.334-1.942-4.334-4.334s1.942-4.334 4.334-4.334 4.334 1.942 4.334 4.334-1.942 4.334-4.334 4.334zm10.834 0c-2.392 0-4.334-1.942-4.334-4.334s1.942-4.334 4.334-4.334 4.334 1.942 4.334 4.334-1.942 4.334-4.334 4.334z" fill="#aff"/>
+ <path d="m34.834 17.5c-2.392 0-4.334-1.942-4.334-4.334s1.942-4.334 4.334-4.334 4.334 1.942 4.334 4.334-1.942 4.334-4.334 4.334zm-10.834 10.834c-2.392 0-4.334-1.942-4.334-4.334s1.942-4.334 4.334-4.334 4.334 1.942 4.334 4.334-1.942 4.334-4.334 4.334zm-10.834 10.834c-2.392 0-4.334-1.942-4.334-4.334s1.942-4.334 4.334-4.334 4.334 1.942 4.334 4.334-1.942 4.334-4.334 4.334z" fill="#ffd060"/>
 </svg>
