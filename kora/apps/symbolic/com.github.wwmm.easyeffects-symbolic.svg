@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 16 16">
+    <defs id="defs3051">
+        <style type="text/css" id="current-color-scheme">.ColorScheme-Text { color: #fcfcfc; } </style>
+    </defs>
+    <g class="ColorScheme-Text" style="fill:currentColor;fill-opacity:1;stroke:none">
+        <rect x="7.5" y="2" width="1" height="12" ry=".5"/>
+        <rect x="12" y="4" width="1" height="8" ry=".5"/>
+        <rect x="3" y="4" width="1" height="8" ry=".5"/>
+        <circle cx="8" cy="5" r="1.5"/>
+        <circle cx="12.5" cy="9" r="1.5"/>
+        <circle cx="3.5" cy="7.5" r="1.5"/>
+    </g>
+</svg>
