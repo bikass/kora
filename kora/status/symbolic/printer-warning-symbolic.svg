@@ -1,8 +1,10 @@
-<svg style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
- <rect x="4" y="9" width="8" height="5" fill-opacity=".3" fill="#dfdfdf"/>
- <path d="m12.893 8h-9.893v2h-1c-0.5 0-1-0.5-1-1v-4c0-0.5 0.5-1 1-1h12c0.5 0 1 0.5 1 1v4c0 0.5-0.5 1-1 1h-1.107v-2z" fill="#dfdfdf"/>
- <rect x="4" y="1" width="8" height="2" fill-opacity=".3" fill="#dfdfdf"/>
- <g transform="matrix(.699502 0 0 .699502 6.26724 7.03318)">
-  <path d="m6.065 3.602c0.421-0.661 1.151-1.062 1.935-1.062s1.514 0.401 1.935 1.062c1.097 1.726 2.476 3.894 3.621 5.694 0.449 0.706 0.478 1.6 0.075 2.334-0.403 0.733-1.173 1.189-2.01 1.189h-7.242c-0.837 0-1.607-0.456-2.01-1.189-0.403-0.734-0.374-1.628 0.075-2.334 1.145-1.8 2.524-3.968 3.621-5.694zm1.935 5.936c0.561 0 1.017 0.455 1.017 1.016 0 0.562-0.456 1.017-1.017 1.017s-1.017-0.455-1.017-1.017c0-0.561 0.456-1.016 1.017-1.016zm-0.875-5.109h1.75v3.957h-1.75v-3.957z"  fill="#0d68c3"/>
- </g>
+<svg xmlns="http://www.w3.org/2000/svg" style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2" version="1.1" viewBox="0 0 16 16">
+ <defs>
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
+  </style>
+ </defs>
+ <path style="fill-opacity:.3;fill:currentColor;" class="ColorScheme-Text" d="m12 9v5h-8v-5h8zm0-8v2h-8v-2h8z"/>
+ <path style="fill:currentColor;" class="ColorScheme-Text" d="m12.893 8h-9.893v2h-1c-0.5 0-1-0.5-1-1v-4c0-0.5 0.5-1 1-1h12c0.5 0 1 0.5 1 1v4c0 0.5-0.5 1-1 1h-1.107v-2z"/>
+ <path style="fill:currentColor;" class="ColorScheme-Highlight" d="m10.51 9.553c0.294-0.463 0.805-0.743 1.353-0.743 0.549-0 1.059 0.28 1.354 0.743l2.533 3.983c0.314 0.494 0.334 1.119 0.052 1.632s-0.82 0.832-1.406 0.832h-5.066c-0.585 0-1.124-0.319-1.406-0.832s-0.261-1.138 0.053-1.632l2.533-3.983zm1.353 4.152c-0.392 0-0.711 0.318-0.711 0.711s0.319 0.711 0.711 0.711c0.393 0 0.712-0.318 0.712-0.711s-0.319-0.711-0.712-0.711zm-0.612-3.574v2.768h1.224v-2.768h-1.224z"/>
 </svg>
