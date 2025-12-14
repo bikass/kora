@@ -1,45 +1,8 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   viewBox="0 0 22 22"
-   version="1.1"
-   id="svg1"
-   sodipodi:docname="start-here-kde-plasma-symbolic.svg"
-   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg">
-  <sodipodi:namedview
-     id="namedview1"
-     pagecolor="#ffffff"
-     bordercolor="#000000"
-     borderopacity="0.25"
-     inkscape:showpageshadow="2"
-     inkscape:pageopacity="0.0"
-     inkscape:pagecheckerboard="0"
-     inkscape:deskcolor="#d1d1d1"
-     inkscape:zoom="52.636364"
-     inkscape:cx="11.018998"
-     inkscape:cy="11"
-     inkscape:window-width="2560"
-     inkscape:window-height="1384"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg1" />
-  <defs
-     id="defs3051">
-    <style
-       type="text/css"
-       id="current-color-scheme">
-      .ColorScheme-Text {
-        color:#232629;
-      }
-      </style>
-  </defs>
-  <path
-     style="fill:#454545;fill-opacity:1;stroke-width:1.08"
-     d="M 6.68,2.36 C 6.032,2.36 5.6,2.792 5.6,3.44 5.6,3.98 6.032,4.52 6.68,4.52 7.22,4.52 7.76,3.98 7.76,3.44 7.76,2.792 7.544,2.36 6.68,2.36 Z m 7.56,0 -2.16,2.16 3.24,3.24 -3.24,3.24 2.16,2.16 3.24,-3.24 2.16,-2.16 z M 3.98,8.84 c -0.864,0 -1.62,0.756 -1.62,1.62 0,0.864 0.756,1.62 1.62,1.62 0.864,0 1.62,-0.756 1.62,-1.62 C 5.6,9.596 4.844,8.84 3.98,8.84 Z m 4.86,6.48 c -1.188,0 -2.16,0.972 -2.16,2.16 0,1.188 0.972,2.16 2.16,2.16 1.188,0 2.16,-0.972 2.16,-2.16 0,-1.188 -0.972,-2.16 -2.16,-2.16 z"
-     class="ColorScheme-Text"
-     id="path1" />
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 16 16">
+ <defs>
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#444444; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
+  </style>
+ </defs>
+ <path d="m5.199 2c-.443 0-.799.358-.799.801s.356.799.799.799.801-.356.801-.799-.358-.801-.801-.801zm4.516 0-1.715 1.6 2.572 2.4-2.572 2.4 1.715 1.6 2.57-2.4 1.715-1.6-1.715-1.6zm-6.715 5c-.554 0-1 .446-1 1s.446 1 1 1 1-.446 1-1-.446-1-1-1zm3.5 4c-.831 0-1.5.669-1.5 1.5s.669 1.5 1.5 1.5 1.5-.669 1.5-1.5-.669-1.5-1.5-1.5z" style="fill:currentColor" class="ColorScheme-Text" />
 </svg>
