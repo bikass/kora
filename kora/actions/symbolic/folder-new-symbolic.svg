@@ -1,11 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2" viewBox="0 0 16 16">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
  <defs>
   <style id="current-color-scheme" type="text/css">
    .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
   </style>
  </defs>
- <path style="fill:currentColor" class="ColorScheme-Text" d="m7 6h2v2h2v2h-2v2h-2v-2h-2v-2h2v-2z"/>
- <g transform="matrix(.444444 0 0 .444444 9.99201e-16 1.21152)">
-  <path style="fill:currentColor" class="ColorScheme-Text" d="m9.879 1.975c0.954 0 1.41 0.494 2.121 1.436 0.712 0.942 1.037 1.538 2.342 1.589h19.537c1.175 0 2.121 0.946 2.121 2.121v21.758c0 1.175-0.946 2.121-2.121 2.121h-31.758c-1.175 0-2.121-0.946-2.121-2.121v-24.783c0-1.175 0.946-2.121 2.121-2.121h7.758zm-6.592 2c-0.713 0-1.287 0.574-1.287 1.287v22.451c0 0.713 0.574 1.287 1.287 1.287h29.426c0.713 0 1.287-0.574 1.287-1.287v-19.426c0-0.713-0.574-1.287-1.287-1.287h-18.957c-0.813 0-2.257-0.981-2.771-1.496-0.515-0.514-0.937-1.529-2.272-1.529h-5.426z"/>
- </g>
+  <path style="fill:currentColor" class="ColorScheme-Text" fill-opacity=".71" transform="matrix(1.04321 0 0 1.07286 -1.55542 -2.2586)" d="m36 11.082v16.466c0 1.906-1.59 3.452-3.55 3.452h-27.404c-1.96 0-3.55-1.546-3.55-3.452v-20.15c0-1.906 1.59-3.452 3.55-3.452h6.186c4.331 0 4.36 3.683 8.691 3.683h12.527c1.96 0 3.55 1.546 3.55 3.453zm-1.917 0c0-.878-.731-1.589-1.633-1.589h-12.527c-2.295 0-3.682-.769-4.883-1.706-1.052-.821-1.797-1.977-3.808-1.977h-6.186c-.902 0-1.633.711-1.633 1.588v20.15c0 .877.731 1.588 1.633 1.588h27.404c.902 0 1.633-.711 1.633-1.588z"/>
+  <path style="fill:currentColor" class="ColorScheme-Text" fill-opacity=".18" d="m2.005 12.471h31.995v14.825c0 .941-.763 1.704-1.704 1.704h-28.587c-.941 0-1.704-.763-1.704-1.704z"/>
+  <path style="fill:currentColor" class="ColorScheme-Text" fill-opacity=".71" transform="translate(0 .635935)" d="m16.5 13v4.5h-4.5v3h4.5v4.5h3v-4.5h4.5v-3h-4.5v-4.5z"/>
 </svg>
