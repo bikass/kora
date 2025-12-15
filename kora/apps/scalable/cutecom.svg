@@ -1,7 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" version="1">
- <path fill="#b7b7b7" d="m9 6h30v14h-30z"/>
- <rect fill="#4f4f4f" width="40" height="24" x="4" y="18" rx="2" ry="2"/>
- <path style="opacity:0.4" d="M 12 23 L 12 27 L 36 27 L 36 23 L 12 23 z M 14 29 L 14 33 L 34 33 L 34 29 L 14 29 z M 16 35 L 16 39 L 32 39 L 32 35 L 16 35 z"/>
- <path fill="#fff" opacity=".2" d="m9 6v1h30v-1h-30z"/>
- <path opacity=".2" d="m4 40v1c0 1.108 0.892 2 2 2h36c1.108 0 2-0.892 2-2v-1c0 1.108-0.892 2-2 2h-36c-1.108 0-2-0.892-2-2z"/>
+<svg clip-rule="evenodd" fill-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="2" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+ <linearGradient id="a" x2="1" gradientTransform="matrix(0 -24.8691 24.8691 0 24 42.6518)" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#3c3c3c" offset="0"/>
+  <stop stop-color="#4f4f4f" offset="1"/>
+ </linearGradient>
+ <path d="m8.457 5.348h31.086v14.507h-31.086z" fill="#b7b7b7" fill-rule="nonzero"/>
+ <path d="m44.724 19.783v20.869c0 1.104-.896 2-2 2h-37.448c-1.104 0-2-.896-2-2v-20.869c0-1.104.896-2 2-2h37.448c1.104 0 2 .896 2 2z" fill="url(#a)"/>
+ <path d="m11.565 22.964v4.145h24.87v-4.145zm2.073 6.217v4.145h20.724v-4.145zm2.072 6.217v4.145h16.58v-4.145z" fill-opacity=".75" fill-rule="nonzero"/>
 </svg>
