@@ -131,6 +131,13 @@ MinSize=8
 MaxSize=512
 Type=Scalable
 
+[panel/16]
+Context=Categories
+Size=16
+MinSize=8
+MaxSize=512
+Type=Scalable
+
 
 
 ########## Devices
@@ -150,7 +157,7 @@ MinSize=8
 MaxSize=512
 Type=Scalable
 
-[devices/symbolic]
+[panel/16]
 Context=Devices
 Size=16
 MinSize=8
@@ -221,6 +228,13 @@ MaxSize=512
 Type=Scalable
 
 [mimetypes/symbolic]
+Context=MimeTypes
+Size=16
+MinSize=8
+MaxSize=512
+Type=Scalable
+
+[panel/16]
 Context=MimeTypes
 Size=16
 MinSize=8
@@ -306,13 +320,6 @@ Type=Scalable
 Context=Status
 Size=16
 Scale=2
-MinSize=8
-MaxSize=512
-Type=Scalable
-
-[status/symbolic]
-Context=Status
-Size=16
 MinSize=8
 MaxSize=512
 Type=Scalable

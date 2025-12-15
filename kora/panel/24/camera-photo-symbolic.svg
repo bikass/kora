@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2" version="1.1" viewBox="-4 -4 24 24">
+ <defs>
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
+  </style>
+ </defs>
+ <circle style="fill:currentColor" class="ColorScheme-Text" cx="8.98" cy="8.424" r="2.792"/>
+ <path style="fill:currentColor" class="ColorScheme-Text" d="m13.571 2.747h0.913c0.836-0 1.516 0.679 1.516 1.517v1.358h-3.839c-0.777-0.881-1.914-1.438-3.181-1.438-1.266 0-2.403 0.557-3.18 1.438h-5.8v-1.358c0-0.838 0.68-1.517 1.516-1.517h7.255v-0.929h4.8v0.929z"/>
+ <path style="fill-opacity:.3;fill:currentColor" class="ColorScheme-Text" d="m16 5.622v6.114c0 0.838-0.68 1.517-1.516 1.517h-12.968c-0.836 0-1.516-0.679-1.516-1.517v-6.114h5.8c-0.659 0.747-1.059 1.728-1.059 2.802 0 2.34 1.9 4.239 4.239 4.239 2.34 0 4.24-1.899 4.24-4.239 0-1.074-0.4-2.055-1.059-2.802h3.839z"/>
+</svg>
