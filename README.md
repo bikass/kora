@@ -5,8 +5,8 @@
 To make them display properly, you may need to update the icon cache. A script is included.
 
 Different versions available:
-* ***kora***       - theme with blue folder colors
-* ***kora-pgrey*** - theme with grey folder colors (depends on Kora)
+* ***kora***		- theme with blue folder colors
+* ***kora-pgrey***	- theme with grey folder colors (depends on Kora)
 
 
 ## Installation
