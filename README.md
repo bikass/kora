@@ -32,7 +32,7 @@ and copy ***kora*** folder to one of the following folders:
 
 ## Preview
 
-![](korla_aps.jpg)
+![](kora_aps.jpg)
 ![](im1.jpg)
 ![](im2.jpg)
 
