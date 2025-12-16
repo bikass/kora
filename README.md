@@ -6,8 +6,6 @@ To make them display properly, you may need to update the icon cache. A script i
 
 Different versions available:
 * ***kora*** - for dark themes with dark panel
-* ***kora-light*** - for light themes with dark panel (depends on Kora)
-* ***kora-light-panel*** - for light themes with light panel (depends on Kora and Kora-light)
 * ***kora-pgrey*** - theme with grey folder colors (depends on Kora)
 
 
@@ -17,7 +15,7 @@ Clone this repository on your system
 
     git clone https://github.com/bikass/kora.git
 
-and copy ***kora***, ***kora-light***, ***kora-light-panel*** and ***kora-pgrey*** subfolders to one of the following folders:
+and copy ***kora*** folder to one of the following folders:
 
 * `/usr/share/icons/` - icons available system-wide
 * `$HOME/.local/share/icons/` - icons only available to local user
@@ -34,8 +32,8 @@ and copy ***kora***, ***kora-light***, ***kora-light-panel*** and ***kora-pgrey*
 
 ## Preview
 
-![](im1.png)
-![](im2.png)
+![](im1.jpg)
+![](im2.jpg)
 ![](korla_aps.jpg)
 
 
