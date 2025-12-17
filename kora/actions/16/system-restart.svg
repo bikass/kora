@@ -1,10 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 16 16">
+<svg xmlns="http://www.w3.org/2000/svg" style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2" version="1.1" viewBox="0 0 16 16">
  <defs>
- <style id="current-color-scheme" type="text/css">
- .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
- </style>
- </defs><svg style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg" xmlns:serif="http://www.serif.com/">
- <g id="Reload-Icon" transform="matrix(.333333 .333333 -.333333 .333333 927.331 -1404.66)" serif:id="Reload Icon">
-  <path d="m752 3495h-9.039l3.378-3.36c-1.636-1.63-3.895-2.64-6.392-2.64-4.601 0-8.397 3.42-8.963 7.85 0 0-0.173 1.15-1.478 1.15-0.831 0-1.505-0.67-1.505-1.5 0-0.11 0.013-0.22 0.037-0.33 0.886-5.76 5.878-10.17 11.909-10.17 3.329 0 6.342 1.34 8.523 3.51l3.53-3.51v9zm-24 6h9.039l-3.378 3.36c1.635 1.63 3.895 2.64 6.392 2.64 4.601 0 8.397-3.42 8.963-7.85 0 0 0.173-1.15 1.478-1.15 0.831 0 1.505 0.67 1.505 1.5 0 0.11-0.013 0.22-0.037 0.33-0.886 5.76-5.878 10.17-11.909 10.17-3.329 0-6.342-1.34-8.523-3.51l-3.53 3.51v-9z" style="fill:currentColor" class="ColorScheme-Text"/>
- </g>
-</svg></svg>
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
+  </style>
+ </defs>
+ <path style="fill-opacity:.5;fill:currentColor;" class="ColorScheme-Text" d="m1.841 9.54 4.207 0.895-1.301 0.832c0.839 0.836 1.999 1.352 3.28 1.352 2.362 0 4.31-1.757 4.601-4.03-0-0 0.088-0.589 0.758-0.589 0.427-0 0.773 0.345 0.773 0.77-0 0.058-8e-3 0.115-0.02 0.169-0.454 2.956-3.016 5.22-6.112 5.22-1.708 0-3.255-0.69-4.374-1.804l-0.906 1.171-0.906-3.986z"/>
+ <path style="fill:currentColor;" class="ColorScheme-Text" d="m14.159 6.46-4.084-0.96 1.178-0.767c-0.839-0.835-1.999-1.352-3.28-1.352-2.362-0-4.31 1.757-4.601 4.03 0 0-0.088 0.589-0.758 0.589-0.427 0-0.773-0.345-0.773-0.77 0-0.058 8e-3 -0.115 0.02-0.169 0.454-2.956 3.016-5.22 6.112-5.22 1.708-0 3.255 0.689 4.374 1.804l0.81-1.175 1.002 3.99z"/>
+</svg>
