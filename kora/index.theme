@@ -285,8 +285,8 @@ Type=Fixed
 
 [places/scalable]
 Context=Places
-Size=24
-MinSize=24
+Size=22
+MinSize=8
 MaxSize=512
 Type=Scalable
 
