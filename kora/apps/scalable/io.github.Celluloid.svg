@@ -1,1 +1,12 @@
-gnome-mpv.svg
+<svg clip-rule="evenodd" fill-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="2" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+ <linearGradient id="a" x2="1" gradientTransform="matrix(0 -45.468 45.468 0 24 46.734)" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#d400f6" offset="0"/>
+  <stop stop-color="#50b0db" offset="1"/>
+ </linearGradient>
+ <linearGradient id="b" x2="1" gradientTransform="matrix(-4.2e-7 -34.1017 34.1017 -4.2e-7 510.836 41.2403)" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#d6b1e1" offset="0"/>
+  <stop stop-color="#fff" offset="1"/>
+ </linearGradient>
+ <circle cx="24" cy="24" r="22.734" fill="url(#a)"/>
+ <path d="m24 7.138c9.411 0 17.051 7.64 17.051 17.051s-7.64 17.051-17.051 17.051-17.051-7.64-17.051-17.051 7.64-17.051 17.051-17.051zm-7.905 9.935v14.654c0 .784.412 1.509 1.084 1.911.673.401 1.507.42 2.196.049l13.608-7.328c.721-.388 1.17-1.14 1.17-1.959s-.449-1.571-1.17-1.959l-13.608-7.328c-.689-.371-1.523-.352-2.196.049-.672.402-1.084 1.128-1.084 1.911z" fill="url(#b)"/>
+</svg>
