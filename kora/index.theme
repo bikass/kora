@@ -59,6 +59,13 @@ MinSize=8
 MaxSize=512
 Type=Scalable
 
+[panel/16]
+Context=Actions
+Size=16
+MinSize=8
+MaxSize=512
+Type=Scalable
+
 
 
 ########## Animations
@@ -98,6 +105,13 @@ MaxSize=512
 Type=Scalable
 
 [apps/symbolic]
+Context=Applications
+Size=16
+MinSize=8
+MaxSize=512
+Type=Scalable
+
+[panel/16]
 Context=Applications
 Size=16
 MinSize=8
@@ -305,6 +319,13 @@ MinSize=8
 MaxSize=512
 Type=Scalable
 
+[panel/16]
+Context=Places
+Size=16
+MinSize=8
+MaxSize=512
+Type=Scalable
+
 
 
 ########## Status
@@ -320,6 +341,13 @@ Type=Scalable
 Context=Status
 Size=16
 Scale=2
+MinSize=8
+MaxSize=512
+Type=Scalable
+
+[panel/16]
+Context=Status
+Size=16
 MinSize=8
 MaxSize=512
 Type=Scalable
