@@ -111,13 +111,6 @@ MinSize=8
 MaxSize=512
 Type=Scalable
 
-[panel/16]
-Context=Applications
-Size=16
-MinSize=8
-MaxSize=512
-Type=Scalable
-
 
 
 ########## Categories
@@ -248,12 +241,7 @@ MinSize=8
 MaxSize=512
 Type=Scalable
 
-[panel/16]
-Context=MimeTypes
-Size=16
-MinSize=8
-MaxSize=512
-Type=Scalable
+
 
 
 
@@ -319,13 +307,6 @@ MinSize=8
 MaxSize=512
 Type=Scalable
 
-[panel/16]
-Context=Places
-Size=16
-MinSize=8
-MaxSize=512
-Type=Scalable
-
 
 
 ########## Status
@@ -341,13 +322,6 @@ Type=Scalable
 Context=Status
 Size=16
 Scale=2
-MinSize=8
-MaxSize=512
-Type=Scalable
-
-[panel/16]
-Context=Status
-Size=16
 MinSize=8
 MaxSize=512
 Type=Scalable
