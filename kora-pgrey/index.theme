@@ -294,7 +294,7 @@ Type=Scalable
 
 [places/scalable@2]
 Context=Places
-Size=16
+Size=22
 Scale=2
 MinSize=8
 MaxSize=512
