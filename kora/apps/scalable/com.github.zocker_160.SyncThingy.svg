@@ -1,0 +1,15 @@
+<svg clip-rule="evenodd" fill-rule="evenodd" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+ <linearGradient id="a" x2="1" gradientTransform="matrix(0 -35.3911 35.3911 0 968.766 41.2823)" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#006783" offset="0"/>
+  <stop stop-color="#13bee3" offset="1"/>
+ </linearGradient>
+ <circle cx="24" cy="24" r="22.764" fill="url(#a)"/>
+ <path d="m24 8.065c-8.742 0-15.935 7.193-15.935 15.935s7.193 15.935 15.935 15.935 15.935-7.193 15.935-15.935-7.193-15.935-15.935-15.935zm0 2.277c7.493 0 13.658 6.165 13.658 13.658s-6.165 13.658-13.658 13.658-13.658-6.165-13.658-13.658 6.165-13.658 13.658-13.658z" fill="#fff" fill-rule="nonzero"/>
+ <path d="m9.203 27.415 18.212-2.277 10.243-6.829" fill="none" stroke="#fff" stroke-width="2.28"/>
+ <path d="m34.244 34.244-6.829-9.106" fill="none" stroke="#fff" stroke-width="2.28"/>
+ <path d="m32.385 20.456-5.377 3.586-6.416.803c-.004.098-.006.195-.007.293 0 .666.098 1.328.289 1.965l6.025-.753 3.643 4.859h.003c.679-.35 1.294-.812 1.82-1.367l-3.319-4.426 4.602-3.068c-.312-.696-.739-1.336-1.263-1.892z" fill="#ff6458" fill-opacity=".5" fill-rule="nonzero"/>
+ <circle cx="34.244" cy="34.244" r="3.415" fill="#fff"/>
+ <circle cx="37.658" cy="18.309" r="3.415" fill="#fff"/>
+ <circle cx="27.415" cy="25.138" r="3.415" fill="#ff292a"/>
+ <circle cx="9.203" cy="27.415" r="3.415" fill="#fff"/>
+</svg>
