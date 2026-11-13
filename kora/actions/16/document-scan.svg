@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2"
+   width="16"
+   height="16"
+   viewBox="0 0 16 16"
+   xml:space="preserve"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="document-scan.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
+   id="namedview1"
+   pagecolor="#ffffff"
+   bordercolor="#000000"
+   borderopacity="0.25"
+   inkscape:showpageshadow="2"
+   inkscape:pageopacity="0.0"
+   inkscape:pagecheckerboard="0"
+   inkscape:deskcolor="#d1d1d1"
+   showguides="true"><inkscape:page
+     x="0"
+     y="0"
+     width="16"
+     height="16"
+     id="page1"
+     margin="0"
+     bleed="0"
+     inkscape:export-filename="Page 1.svg"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96" /><sodipodi:guide
+     position="-0.069171725,-0.70767612"
+     orientation="0,-1"
+     id="guide2"
+     inkscape:locked="false" /><sodipodi:guide
+     position="-0.12382508,-0.53855896"
+     orientation="0,-1"
+     id="guide3"
+     inkscape:locked="false" /><sodipodi:guide
+     position="-0.18164062,-0.2578125"
+     orientation="1,0"
+     id="guide4"
+     inkscape:locked="false" /></sodipodi:namedview>
+ <defs
+   id="defs1"><style
+     id="current-color-scheme"
+     type="text/css">
+   .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
+  </style><style
+     id="current-color-scheme-5"
+     type="text/css">.ColorScheme-Text { color: #fcfcfc; } </style><style
+     id="current-color-scheme-2"
+     type="text/css">
+   .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
+  </style></defs>
+ <g
+   id="g1"
+   transform="translate(-15.924178,19.875088)"
+   style="fill:#dfdfdf;fill-opacity:1">
+  <path
+   style="fill:#dfdfdf;fill-opacity:1"
+   class="ColorScheme-Text"
+   d="M 18.085,-12.381631 V -17.7465 c 0,-0.454 0.181,-0.89 0.502,-1.211 0.321,-0.321 0.756,-0.501 1.21,-0.501 h 6.847 l 3.457,4.089 -0.01172,2.994573 -1.081281,-0.0014 v -2.694522 l -2.82,-0.0017 v -3.294 h -7.01 v 5.984869 z m 3.239,7.123131 h -1.093 v 1.092 h 1.093 z m 2.255375,0 h -1.093 v 1.092 h 1.093 z m 2.192875,0 h -1.093 v 1.092 h 1.093 z m 2.192875,0 h -1.093 v 1.092 h 1.093 z M 19.178,-5.2555 h -1.093 v 1.093 h 1.093 z m 0,-2.183621 h -1.093 v 1.092 h 1.093 z M 30.643791,-11.4375 c 0.282,0 0.51,0.229 0.51,0.511 0,0.281 -0.228,0.51 -0.51,0.51 H 17.539958 c -0.282,0 -0.51,-0.229 -0.51,-0.51 0,-0.282 0.228,-0.511 0.51,-0.511 z M 19.178,-9.601655 h -1.093 v 1.092 h 1.093 z m 10.920765,4.330535 h -1.093 v 1.093 h 1.093 z m 0,-2.183621 h -1.093 v 1.092 h 1.093 z m 0,-2.162534 h -1.093 v 1.092 h 1.093 z"
+   id="path1"
+   sodipodi:nodetypes="csssccccccccccccccccccccccccccccccccccccccccssssssscccccccccccccccccccc" />
+ </g>
+
+ 
+ 
+</svg>
